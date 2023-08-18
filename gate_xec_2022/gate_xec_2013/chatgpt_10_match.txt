@@ -1,0 +1,7 @@
+
+
+(C) P-2, Q-1, R-5, S-3
+
+Explanation:
+
+PZT is primarily used as an actuator, so option A is incorrect. Zinc Oxide is commonly used as a varistor, which eliminates option B. Silicon Carbide is often used as a cutting tool, but Zirconia is never used in such applications. Hence, option D is incorrect. Finally, Zirconia is used as a thermal barrier coating in gas turbine engines, hence option C is the correct answer.

@@ -1,0 +1,40 @@
+We can use the Arrhenius equation to solve this problem:
+
+D = D0 * exp(-Q / RT)
+
+where D is the diffusion coefficient, D0 is the pre-exponential factor, Q is the activation energy, R is the gas constant (8.314 J/mol K), and T is the temperature in Kelvin.
+
+First, we need to convert the temperatures into Kelvin:
+
+T1 = 500 + 273.15 = 773.15 K
+T2 = 550 + 273.15 = 823.15 K
+
+Let D1 and D2 be the diffusion coefficients at T1 and T2, respectively:
+
+D1 = 1.9 * 10^(-13) m^2/s
+D2 = 5.8 * 10^(-13) m^2/s
+
+We can divide the Arrhenius equation for D2 by the Arrhenius equation for D1:
+
+D2 / D1 = exp(-Q / R * (1 / T2 - 1 / T1)) 
+
+We can now substitute the given values:
+
+5.8 / 1.9 = exp(-Q / 8.314 * (1 / 823.15 - 1 / 773.15))
+
+We need to find the activation energy Q:
+
+2.947 = exp(-Q / 8.314 * (0.001215 - 0.001293)) 
+
+Then, we can evaluate the expression in the parentheses:
+
+-0.000078 = -Q / 8.314 * (-0.000078) 
+
+Now, we can solve for Q by multiplying both sides by 8.314 and dividing by -0.000078:
+
+Q = 2.947 * 8.314 / 0.000078
+Q = 312.84 kJ/mol
+
+Therefore, the activation energy for diffusion of Mg in Al is approximately 312.84 kJ/mol.
+
+Answer: [312.84]

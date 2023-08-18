@@ -1,0 +1,37 @@
+To find the lattice parameter of the face-centered cubic crystal, we can use Bragg's Law formula:
+
+nλ = 2d * sin(θ)
+
+Where:
+n = order of reflection (in this case, 1)
+λ = wavelength of the X-ray beam (1.54 Å)
+d = interplanar distance
+θ = angle between the incident and reflected rays (2𝜃 is given to be 45°, so 𝜃 = 22.5°)
+
+For an FCC crystal, the third peak corresponds to the 220 plane. Therefore, interplanar distance d can be calculated using the following formula for the FCC lattice:
+
+d = a / sqrt(h^2 + k^2 + l^2)
+
+Where:
+a = lattice parameter
+h, k, l = indices of the plane (220 plane in this case)
+
+Substitute the indices into the formula:
+
+d = a / sqrt(2^2 + 2^2 + 0^2)
+d = a / sqrt(8)
+d = a / (2 * sqrt(2))
+
+Now, substitute d and other values into Bragg's Law formula:
+
+1 * 1.54 Å = 2 * (a / (2 * sqrt(2))) * sin(22.5°)
+
+Rearrange to solve for a:
+
+a = (1.54 Å * 2 * sqrt(2)) / (2 * sin(22.5°))
+
+Calculate the lattice parameter:
+
+a ≈ 3.98 Å
+
+So, the lattice parameter of the crystal is approximately 3.98 Å. The answer should be written inside a list as [3.98].

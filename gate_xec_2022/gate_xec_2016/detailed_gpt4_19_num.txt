@@ -1,0 +1,35 @@
+Step 1: Calculate the moles of natural rubber and sulfur
+To find the moles of a substance, we can use the formula: moles = mass/atomic or molecular weight.
+
+Moles of natural rubber:
+- mass = 50 g
+- molecular weight = 68 amu
+moles of natural rubber = 50 g / 68 g/mol = 0.735 mol
+
+Moles of sulfur:
+- mass = 10 g
+- atomic weight = 32 amu
+moles of sulfur = 10 g / 32 g/mol = 0.3125 mol
+
+Step 2: Determine the limiting reactant
+According to the information given, in the vulcanization process, there must be a 1:1 ratio between the mer (natural rubber) and sulfur atoms to form a cross-linked site. Thus, we need to check which one is present in a lesser quantity.
+
+Mole ratio of natural rubber to sulfur:
+Moles of rubber : moles of sulfur = 0.735 : 0.3125
+Dividing both sides by 0.3125, we get:
+Mole ratio = 2.35 : 1
+
+Since the ratio is greater than 1:1, sulfur is the limiting reactant in this case.
+
+Step 3: Calculate the maximum percentage of cross-linked sites
+Now that we know sulfur will be fully consumed, we can calculate the maximum percentage of cross-linked sites that could be connected.
+
+100% cross-linked sites would mean that all moles of rubber (0.735 mol) would have reacted with the same amount of moles of sulfur (0.735 mol). But we have only 0.3125 mol of sulfur available.
+
+To calculate the maximum percentage of cross-linked sites that could be connected, we can use the proportion:
+
+x% = (moles of sulfur available / moles of sulfur required) * 100%
+x% = (0.3125 mol / 0.735 mol) * 100%
+x% ≈ 42.5%
+
+Therefore, the maximum percentage of cross-linked sites that could be connected is approximately [42.5%].

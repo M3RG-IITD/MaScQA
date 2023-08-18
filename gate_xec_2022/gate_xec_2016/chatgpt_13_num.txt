@@ -1,0 +1,24 @@
+
+
+The formula to calculate the threshold value of the wavelength is given by:
+
+$$
+\lambda_{th} = \frac{hc}{E_{g} e}
+$$
+
+where $E_{g}$ is the bandgap energy.
+
+Substituting the given values:
+
+$$
+\lambda_{th} = \frac{(6.626 \times 10^{-34}\text{ J s})(3 \times 10^{8} \text{ m s}^{-1})}{(1.8 \text{ eV})(1.6 \times 10^{-19} \text{ C})}
+$$
+
+$$
+\lambda_{th} \approx 3441.67 \text{ Å}
+$$
+
+Therefore, the threshold value of the wavelength below which this material will absorb radiation is approximately 3441.67 Å.
+
+Answer: 
+- 3441.67 Å

@@ -1,0 +1,25 @@
+First, we need to find the transmittance of the glass panel for both the minimum and maximum absorption coefficients. 
+
+The transmittance, T, of a material is given by the following formula: 
+
+$T = e^{-\alpha d}$
+
+where $\alpha$ is the absorption coefficient, d is the thickness of the material, and e is the base of the natural logarithm. 
+
+For the minimum absorption coefficient of 0.3 $cm^(-1)$ and thickness of 5 mm, we have: 
+
+$T_{min} = e^{-0.3*5} \approx 0.082$
+
+For the maximum absorption coefficient of 1 $cm^(-1)$ and thickness of 5 mm, we have: 
+
+$T_{max} = e^{-1*5} \approx 0.007$
+
+Now we can find the ratio of the maximum to minimum transmittance: 
+
+$\frac{T_{max}}{T_{min}} = \frac{0.007}{0.082} \approx 0.09$
+
+Finally, we need to find the ratio of the maximum to minimum fraction of light coming out of the other side of the glass panel. Since we are dealing with a constant source of light, this ratio is equal to the ratio of the maximum to minimum transmittance: 
+
+So the answer is: 
+
+- 0.09

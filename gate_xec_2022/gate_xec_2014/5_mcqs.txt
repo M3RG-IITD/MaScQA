@@ -1,0 +1,2 @@
+The temperature of the antiferromagnetic-to-paramagnetic transition is called
+(A) Curie temperature (B) Curie-Weiss temperature (C) Neel temperature (D) Debye temperature

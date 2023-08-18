@@ -1,0 +1,25 @@
+Let's go through each material and match them with their applications:
+
+P. Titanium diboride
+- Titanium diboride is a very hard and resistant material due to the presence of strong covalent bonds. It is extremely stable and used as a high-temperature and high-strength material.
+- Therefore, it matches with option 3 (Ultra high temperature material).
+
+Q. Molybdenum disilicide
+- Molybdenum disilicide is known for its excellent resistance to oxidation and corrosion, making it an ideal material for heating elements. It is widely used as a high-temperature heating element in furnaces.
+- Therefore, it matches with option 2 (Furnace heating element).
+
+R. Hydroxyapatite
+- Hydroxyapatite is a naturally occurring mineral that is the primary compound found in teeth and bones. It has excellent biocompatibility and promotes bone regeneration, making it ideal for artificial bone implants.
+- Therefore, it matches with option 5 (Artificial bone implant).
+
+S. Nanocrystalline titanium oxide
+- Nanocrystalline titanium oxide is known for its photocatalytic properties, which are useful in a variety of applications including the breakdown of organic pollutants under UV light.
+- Therefore, it matches with option 1 (Photocatalyst).
+
+Now we can match the correct options:
+P - 3,
+Q - 2, 
+R - 5, 
+S - 1
+
+Looking at the given options, the correct choice is (D) P-3, Q-2, R-5, S-1.

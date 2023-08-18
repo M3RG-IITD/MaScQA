@@ -1,0 +1,16 @@
+The contrast obtained in scanning electron microscope (SEM) using back scattered electrons (BSE) can be affected by various factors. Let's understand each option to determine which one is correct.
+
+A) Atomic number of the specimen material
+The atomic number (Z) of the specimen material has a significant impact on the BSE contrast. Heavier elements have a higher atomic number, meaning they have more protons in their nucleus, which increases their scattering probability and the electron-nucleus interaction. Consequently, areas with higher atomic number elements appear brighter in a BSE image, while areas with lighter elements appear darker. So, the atomic number of the specimen material indeed affects the BSE contrast in SEM.
+
+B) Accelerating voltage of the microscope
+The accelerating voltage of the microscope controls the energy of the primary electrons impacting the specimen. Generally, a higher accelerating voltage yields a higher penetration depth for the primary electrons, which increases the generation volume of BSEs. As a result, the contrast achieved with BSE imaging can be influenced by the accelerating voltage, particularly for specimens with elements of different atomic numbers.
+
+C) Working distance in the microscope
+The working distance in an SEM is the distance between the objective lens and the surface of the specimen. Although the working distance does affect other aspects of SEM imaging, such as depth of field, resolution, and signal-to-noise ratio, it does not significantly influence the BSE contrast directly. Any effect on the BSE contrast would be more of an indirect consequence of changes in other imaging parameters due to the variation in working distance.
+
+D) Type of the electron emitter in the microscope
+The type of electron emitter in the microscope (such as thermionic or field-emission electron sources) affects the stability, intensity, and energy distribution of the primary electron beam, which can impact the overall performance of the microscope (resolution, signal-to-noise ratio, etc.). However, the BSE contrast itself largely depends on the atomic number and accelerating voltage, as discussed earlier. While the type of electron emitter may contribute to better overall image quality, it does not directly affect the BSE contrast.
+
+Conclusion:
+Based on the above explanations, the correct answer is [A, B]: the contrast obtained in scanning electron microscope using backscattered electrons depends on (A) the atomic number of the specimen material and (B) the accelerating voltage of the microscope.

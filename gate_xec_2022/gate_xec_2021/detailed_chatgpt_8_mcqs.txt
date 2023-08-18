@@ -1,0 +1,27 @@
+The critical size of the solid nucleus is given as 
+
+$r^* = \frac{2\sigma}{\Delta G}$
+
+where $\sigma$ is interfacial energy between solid and liquid, $\Delta G$ is the change in Gibbs free energy on solidification per unit volume.
+
+As the cooling rate is rapid, we can assume that the temperature at which solidification initiates is the same as the undercooling temperature, i.e., 
+
+$\Delta G = \Delta H_{fus}$
+
+where $\Delta H_{fus}$ is the molar enthalpy of fusion.
+
+Thus, 
+
+$r^* = \frac{2\sigma}{\Delta H_{fus}}$
+
+At 600 °C, the metal is completely liquid and there are no solid nuclei present. On cooling rapidly, the nuclei form at undercooling temperatures of 100 °C, 200 °C and 300 °C.
+
+For solidification to occur, the critical size of the solid nucleus should be exceeded. The critical size depends on the undercooling temperature and is given by the above equation.
+
+The interfacial energy between solid and liquid is a constant and does not depend on the undercooling temperature.
+
+Thus, the critical size of the solid nucleus is smaller for solidification at 400 °C as compared to solidification at 500 °C, since the molar enthalpy of fusion is smaller at 400 °C than at 500 °C. The critical size of the solid nucleus will be the smallest for solidification at 300 °C, since the molar enthalpy of fusion is the smallest at this temperature.
+
+Therefore, the correct answer is:
+
+- (B) smaller for solidification at 400 °C as compared to solidification at 500 °C

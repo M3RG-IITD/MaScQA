@@ -1,0 +1,35 @@
+To find the angle between [110] and [111] directions, we can use the dot product formula:
+
+$\textbf{a} \cdot \textbf{b} = |\textbf{a}| |\textbf{b}| \cos \theta$
+
+where $\textbf{a}$ and $\textbf{b}$ are the direction vectors, and $\theta$ is the angle between them.
+
+In the cubic system, the [110] direction can be represented as the vector $\langle 1, 1, 0 \rangle$ and the [111] direction can be represented as the vector $\langle 1, 1, 1 \rangle$ in terms of the lattice parameters.
+
+So, we can find the dot product of these two vectors:
+
+$\langle 1, 1, 0 \rangle \cdot \langle 1, 1, 1 \rangle = (1)(1) + (1)(1) + (0)(1) = 2$
+
+We also need to find the magnitudes of these vectors:
+
+$|\langle 1, 1, 0 \rangle| = \sqrt{1^2 + 1^2 + 0^2} = \sqrt{2}$
+
+$|\langle 1, 1, 1 \rangle| = \sqrt{1^2 + 1^2 + 1^2} = \sqrt{3}$
+
+Substituting into the dot product formula, we get:
+
+$2 = (\sqrt{2})(\sqrt{3}) \cos \theta$
+
+Simplifying, we solve for $\theta$:
+
+$\cos \theta = \frac{2}{\sqrt{6}} = \frac{\sqrt{3}}{3}$
+
+Taking the inverse cosine, we get:
+
+$\theta = \cos^{-1} \left( \frac{\sqrt{3}}{3} \right) \approx 54.7^\circ$
+
+Therefore, the angle between [110] and [111] directions in the cubic system is approximately 54.7 degrees.
+
+Answer: 
+
+- Approximately 54.7 degrees.

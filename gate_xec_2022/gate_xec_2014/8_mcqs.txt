@@ -1,0 +1,2 @@
+The equilibrium concentration of vacancies in a pure metal 
+(A) increases exponentially with temperature (B) decreases exponentially with temperature (C) varies linearly with temperature (D) is independent of temperature

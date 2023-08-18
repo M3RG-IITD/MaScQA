@@ -1,0 +1,27 @@
+
+
+Using the linear rule of mixtures:
+
+Density of the composite = Volume fraction of $Al_2O_3$ x Density of $Al_2O_3$ + Volume fraction of SiC x Density of SiC
+
+Let the volume fraction of $Al_2O_3$ be V and the volume fraction of SiC be (1-V).
+
+Density of the composite = V x 3.95 + (1-V) x 3.22 x 0.7 (since 30% of the volume is SiC)
+
+3.65 = 3.95V + 2.256 - 2.256V
+
+0.39 = 0.7V
+
+V = 0.39/0.7 = 0.557
+
+Volume fraction of SiC = (1-0.557) = 0.443
+
+Theoretical density of the composite = 0.557 x 3.95 + 0.443 x 3.22 = 3.59 g $cm^(-3)$
+
+Porosity = (Theoretical density - Measured density) / Theoretical density x 100%
+
+Porosity = (3.59 - 3.65) / 3.59 x 100% = -1.67%
+
+Therefore, the estimated porosity of the composite is -1.67%. 
+
+Answer: [-1.67%].

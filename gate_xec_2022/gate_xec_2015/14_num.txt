@@ -1,0 +1,1 @@
+A 1 kg sacrificial anode of Mg (atomic weight: 24.31 amu) is attached to the base of a ship. If the anode lasts for 60 days, what is the average corrosion current (in Amperes) during that period?

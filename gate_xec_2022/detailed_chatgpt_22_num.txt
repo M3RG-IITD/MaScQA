@@ -1,0 +1,35 @@
+Given: 
+- Third peak in the X-ray diffraction pattern
+- Face-centered cubic crystal
+- 2𝜃 value of 45°
+- Wavelength of monochromatic X-ray beam = 1.54 Å
+
+To find: Lattice parameter of the crystal
+
+We know that for Face-centered cubic crystal, the third peak in the X-ray diffraction pattern corresponds to (220) plane. 
+
+The formula for calculating the d-spacing of a crystal plane in a face-centered cubic structure is given by:
+
+d = a/√2  where, 
+d is the distance between two adjacent planes, 
+a is the lattice parameter of the crystal.
+
+Now, using Bragg's law, we know that:
+
+nλ = 2d sin(θ)
+where, n = order of reflection, λ = wavelength of X-ray, θ = angle of diffraction.
+
+Here, we are considering first-order reflection, therefore n = 1. 
+
+Substituting the given values in the Bragg's law equation, we get:
+
+1.54 Å = 2 × (a/√2) × sin(45°/2)
+=> a = (1.54 Å × √2)/(2 × sin(22.5°))
+
+Using a calculator, 
+
+a = 3.54 Å (rounded off to two decimal places)
+
+Therefore, the lattice parameter of the face-centered cubic crystal is 3.54 Å.
+
+Answer: [3.54 Å]

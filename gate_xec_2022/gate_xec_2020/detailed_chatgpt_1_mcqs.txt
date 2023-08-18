@@ -1,0 +1,21 @@
+The number of backscattered electrons depends on the atomic number of the elements present. Pb has a higher atomic number than Sn, therefore the α-phase will have a greater number of backscattered electrons compared to the β-phase.
+
+Since the sample is at eutectic composition, the α- and β-phases will have equal area fractions. The backscattered electrons escaping from each phase will depend on the atomic number of the elements present in that phase.
+
+Assuming that the incident electrons have enough energy to penetrate to the bottom of the sample, the backscattered electron intensity is given by the following equation:
+
+I ∝ Z^1.67 
+
+Where I is the intensity and Z is the atomic number of the elements present.
+
+Therefore, we can calculate the ratio of backscattered electrons escaping from α-phase to that from β-phase as follows:
+
+[(Pb)^1.67]/[(Sn)^1.67] = [(97)^1.67]/[(1)^1.67]/[(99)^1.67]/[(50)^1.67]
+
+= 17.48/9.43
+
+= 1.85
+
+Therefore, the ratio of number of backscattered electrons escaping from α-phase to that from β-phase would be greater than 1. 
+
+Answer: (C) Greater than 1

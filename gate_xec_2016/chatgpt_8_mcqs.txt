@@ -1,0 +1,5 @@
+
+
+Three phases can coexist in a ternary system at constant pressure.
+
+Answer: [3]

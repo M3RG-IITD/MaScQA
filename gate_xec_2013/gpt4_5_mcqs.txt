@@ -1,0 +1,7 @@
+In a face-centered cubic (FCC) crystal structure, there are 4 unique close-packed directions that are inclined at 120° to each other. On each (111) type close-packed plane, there are 3 of these directions along the edges of the triangles formed by the atom array. 
+
+Therefore, the number of slip systems in an FCC crystal structure is 4 planes x 3 directions = 12.
+
+So, the correct answer is (D) 12.
+
+[12]

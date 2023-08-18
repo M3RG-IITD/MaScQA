@@ -1,0 +1,49 @@
+Given, 
+Lattice parameter, a = 3.5 Å
+Wavelength of X-rays, λ = 1.54056 Å
+Order of reflection,n = 4
+
+We need to find out the Bragg angle (2θ).
+
+The Bragg's law is given by:
+2dsinθ = nλ
+
+where d is the distance between the crystal planes, θ is the angle of diffraction, n is the order of reflection and λ is the wavelength of X-rays.
+
+For FCC structure, the Miller indices (hkl) of the crystal planes associated with n-th reflection are given by:
+h + k + l = 2n
+
+For the 4th reflection,
+h + k + l = 2(4) = 8
+The possible Miller indices (hkl) are (222), (400), (331), etc.
+
+We need to calculate the inter-planar spacing (d) for the crystal plane associated with 4th reflection.
+
+For (hkl)=(222),
+
+The spacing between (222) planes can be calculated as:
+
+d = a/√(h²+k²+l²)
+
+Put the values of a, h, k, and l
+
+d = 3.5/√(2²+2²+2²)
+d = 1.54 Å
+
+Now, put the value of n, λ, and d in Bragg's law to obtain the angle of diffraction (2θ).
+
+2dsinθ = nλ
+
+2(1.54)sinθ = 4(1.54056)
+
+sinθ = 4(1.54056)/2(1.54)
+
+sinθ = 2.5359
+
+θ= sin⁻¹(2.5359)/2
+
+θ = 76.99°
+
+Therefore, the Bragg angle (2θ) corresponding to the fourth reflection is 76.99°.
+
+Hence, the correct option is (B) 76.99°.

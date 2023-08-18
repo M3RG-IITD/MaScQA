@@ -1,0 +1,75 @@
+
+
+Given data, 
+
+Force, $F = 20 \ kN = 20 \times 10^3 \ N$
+
+Length, $L = 1 \ m$
+
+Cross-sectional area of steel bar, $A_{steel} = 8 \ cm^2$
+
+Young's modulus of steel, $E_{steel} = 200 \ GPa = 200 \times 10^9 \ N/m^2$
+
+Young's modulus of aluminium, $E_{Al} = 70 \ GPa = 70 \times 10^9 \ N/m^2$
+
+Poisson's ratio, $\nu = 0.3$
+
+Let $\epsilon_{steel}$ and $\epsilon_{Al}$ be the elastic strain in the steel and aluminium bars respectively.
+
+We also know that strain, 
+
+$\frac{\Delta L}{L} = \frac{\epsilon L}{1} = \epsilon$
+
+Where, $\Delta L$ is change in length and $L$ is original length.
+
+Now, we can first calculate the stress in the steel bar as,
+
+$\sigma_{steel} = \frac{F}{A_{steel}}$
+
+And then calculate the elastic strain in the steel bar as,
+
+$\epsilon_{steel} = \frac{\sigma_{steel}}{E_{steel}}$
+
+Using the fact that elastic strain is same for aluminium and steel, we can calculate the force that needs to be applied for the aluminium bar as follows,
+
+$\epsilon_{Al} = \frac{\sigma_{Al}}{E_{Al}}$
+
+$\therefore \sigma_{Al} = \epsilon_{Al} \times E_{Al}$
+
+$\because \epsilon_{Al} = \epsilon_{steel}$
+
+$\therefore \sigma_{Al} = \epsilon_{steel} \times E_{Al}$
+
+$\therefore F_{Al} = \sigma_{Al} \times A_{Al}$
+
+$\because F_{Al} = F = 20 \times 10^3 N$
+
+$\therefore \sigma_{Al} \times A_{Al} = 20 \times 10^3 N$
+
+Putting the value of $\sigma_{Al}$ from above, we get
+
+$A_{Al} = \frac{20 \times 10^3 N}{\epsilon_{steel} \times E_{Al}}$
+
+Now, we need to calculate the elastic strain in the steel bar. This can be done as follows,
+
+$\sigma_{steel} = \frac{F}{A_{steel}}$
+
+$\epsilon_{steel} = \frac{\sigma_{steel}}{E_{steel}}$
+
+$\therefore \epsilon_{steel} = \frac{F}{A_{steel} \times E_{steel}}$
+
+$\therefore \epsilon_{steel} = \frac{20 \times 10^3 N}{8 \times 10^{-4} m^2 \times 200 \times 10^{9} N/m^2}$
+
+$\therefore \epsilon_{steel} = 1.25 \times 10^{-4}$
+
+Now, we can put the value of $\epsilon_{steel}$ in our equation for $A_{Al}$ that we derived earlier to get the final answer.
+
+$A_{Al} = \frac{20 \times 10^3 N}{\epsilon_{steel} \times E_{Al}}$
+
+$A_{Al} = \frac{20 \times 10^3 N}{1.25 \times 10^{-4} \times 70 \times 10^9 N/m^2}$
+
+$A_{Al} = 14.93 \ cm^2$ (approx)
+
+Therefore, the cross-sectional area of the aluminium bar is approximately 14.93 $cm^2$.
+
+Hence, the correct answer is option (B) 14.93 $cm^2$.

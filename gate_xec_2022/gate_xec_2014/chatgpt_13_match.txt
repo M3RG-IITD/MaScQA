@@ -1,0 +1,15 @@
+
+
+The correct matching is:
+
+(A) P-1, Q-4, R-3
+
+Explanation:
+
+Reaction (P): L on cooling gives α + β. This reaction involves the solid phases α and β forming from the liquid phase L on cooling. This particular reaction is called a peritectic reaction.
+
+Reaction (Q): L + β on cooling gives γ. In this reaction, the liquid phase L and the solid phase β combine to form a different solid phase γ on cooling. This is known as a eutectic reaction.
+
+Reaction (R): α on cooling gives β. This reaction involves the phase transition of solid phase α to solid phase β on cooling. This type of reaction is called a eutectoid reaction.
+
+Hence, the correct matching is (A) P-1, Q-4, R-3.

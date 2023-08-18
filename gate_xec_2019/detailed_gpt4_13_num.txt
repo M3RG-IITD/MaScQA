@@ -1,0 +1,44 @@
+To find the diffraction angle (2θ) for the first order reflection, we will use Bragg's Law:
+
+nλ = 2dsinθ
+
+Where:
+- n is the order of reflection, which in this case is 1 (first order reflection).
+- λ is the wavelength of the X-ray beam, which is given as 0.154 nm.
+- d is the interplanar spacing for the cubic crystal, which we need to calculate using lattice parameter a = 0.245 nm and the given schematic planes.
+- θ is the angle between the incident X-ray beam and the planes of the lattice, which we will find.
+
+1. Calculate interplanar spacing (d):
+
+For a cubic crystal, the interplanar spacing (d) is related to the lattice parameter (a) and the Miller indices (h, k, l) by the following equation:
+
+d = a/√(h² + k² + l²)
+
+Since we are given the schematic plane in the image, we can assume it to be one of the planes in a cubic crystal with Miller indices (h, k, l). As 1/d^2 = (h^2 + k^2 + l^2)/a^2.
+
+We cannot find the exact value of d without the given Miller indices. Let's assume they are represented by (h, k, l).
+
+2. Apply Bragg's Law to find the diffraction angle (2θ):
+
+Now that we have the equation for d, we can find the angle θ using Bragg's Law:
+
+nλ = 2dsinθ
+
+1 * 0.154 = 2*(a/√(h² + k² + l²))*sinθ
+
+0.154 = 2*(0.245/√(h² + k² + l²))*sinθ
+
+Now we solve for θ:
+
+sinθ = 0.154 / (2*(0.245/√(h² + k² + l²)))
+
+θ = arcsin(0.154 / (2*(0.245/√(h² + k² + l²))))
+
+We could easily find the angle θ if we were given the Miller indices (h, k, l). However, without these indices, we cannot specify the diffraction angle (2θ) unique to the given schematic plane. Please provide the Miller indices to find the exact value of the diffraction angle (2θ).
+
+The calculation will be as follows once the Miller indices are provided:
+
+2θ = 2 * θ
+2θ = 2 * arcsin(0.154 / (2*(0.245/√(h² + k² + l²))))
+
+Finally, answer will be: [round(2θ, 1)]

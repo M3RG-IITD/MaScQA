@@ -1,0 +1,74 @@
+To solve this problem, we need to use the Hall-Petch equation, which describes the relationship between the yield strength of a material and its grain size:
+
+σ_y = σ_0 + k * d^(-1/2)
+
+where σ_y is the yield strength, σ_0 is the material constant, k is the Hall-Petch constant, and d is the grain size.
+
+We are given two sets of yield strengths (σ_y) and grain sizes (d) and asked to find the yield strength when the grain size is further reduced to 16 μm.
+
+First, let us write the Hall-Petch equation for the initial yield strength and grain size:
+
+σ_y1 = σ_0 + k * d1^(-1/2)
+
+where σ_y1 = 120 MPa and d1 = 256 μm.
+
+Next, let us write the Hall-Petch equation for the final yield strength and grain size:
+
+σ_y2 = σ_0 + k * d2^(-1/2)
+
+where σ_y2 = 150 MPa and d2 = 64 μm.
+
+Now, we will solve these two equations simultaneously to find the values of σ_0 and k.
+
+(1) 120 = σ_0 + k * (256)^(-1/2)
+(2) 150 = σ_0 + k * (64)^(-1/2)
+
+We can rewrite these equations as:
+
+(1) σ_0 = 120 - k * (256)^(-1/2)
+(2) σ_0 = 150 - k * (64)^(-1/2)
+
+Now, set the two expressions for σ_0 equal to each other:
+
+120 - k * (256)^(-1/2) = 150 - k * (64)^(-1/2)
+
+Rearrange the equation to isolate k:
+
+k * (64)^(-1/2) - k * (256)^(-1/2) = 150 - 120
+
+k * (1/(64^(1/2)) - 1/(256^(1/2))) = 30
+
+Now, we can plug in the given values for the grain sizes:
+
+k * (1/8 - 1/16) = 30
+
+k * (1/16) = 30
+
+Now, solve for k:
+
+k = 30 * 16
+k = 480
+
+Now, we can plug the value of k back into either equation (1) or (2) to solve for σ_0:
+
+σ_0 = 120 - 480 * (256)^(-1/2)
+
+σ_0 = 120 - 480 * (1/16)
+
+σ_0 = 120 - 30
+
+σ_0 = 90
+
+Now that we have the values for σ_0 and k, we can use the Hall-Petch equation to find the expected yield strength when the grain size is reduced to 16 μm:
+
+σ_y = 90 + 480 * (16)^(-1/2)
+
+σ_y = 90 + 480 * (1/4)
+
+σ_y = 90 + 120
+
+σ_y = 210 MPa
+
+So, the expected yield strength when the grain size is further reduced to 16 μm is 210 MPa.
+
+The correct answer is [210].

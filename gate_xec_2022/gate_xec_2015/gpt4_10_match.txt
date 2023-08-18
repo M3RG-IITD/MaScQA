@@ -1,0 +1,10 @@
+The correct match for the techniques and characteristics are as follows:
+
+P. DSC (Differential Scanning Calorimetry) measures Glass transition temperature, so P-2.
+Q. XRD (X-Ray Diffraction) measures Crystal structure, so Q-4.
+R. STM (Scanning Tunneling Microscope) measures Density of states, so R-1.
+S. SEM (Scanning Electron Microscopy) can measure Cathodoluminescence, so S-3.
+
+Therefore, the correct answer is (C) P-2, Q-4, R-1, S-3. 
+
+Answer: [(C)]

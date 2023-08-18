@@ -1,0 +1,16 @@
+
+
+Composite | Application
+--- | ---
+P - Glass fibre reinforced plastic | 3 - Airplane wheel tyres
+Q - SiC particle reinforced Al alloy | 4 - Car piston rings
+R - Carbon-carbon composite | 1 - Missile cone heads
+S - Metal fibre reinforced rubber | 2 - Commercial automobile chasis
+
+Explanation:
+- Glass fiber reinforced plastic is known for its high strength-to-weight ratio and resistance to water and corrosion, making it suitable for airplane wheel tires (Option A and C eliminated).
+- SiC particle reinforced Al alloy is commonly used in high-performance pistons and piston rings because it has low thermal expansion, high thermal conductivity, and is resistant to wear and abrasion, making it suitable for car piston rings (Option C eliminated).
+- Carbon-carbon composites are known for their high strength and heat resistance, making them suitable for missile cone heads, which must withstand high temperatures and stresses during operation (Option B eliminated).
+- Metal fiber reinforced rubber is commonly used in commercial automobile chassis to improve the mechanical properties of rubber and is used to reduce noise and vibration (Option D eliminated).
+
+Therefore, the correct answer is (A) P-3, Q-5, R-1, S-2.

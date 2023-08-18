@@ -1,0 +1,2 @@
+For a diffusional transformation (i.e., growth of β precipitates in an α matrix), which of the following is/are true with increasing degree of undercooling?
+(A) Rate of transformation first increases and then decreases (B) Rate of transformation first decreases and then increases (C) Thermodynamic driving force increases monotonically (D) Mobility of atoms in α matrix remains unchanged 

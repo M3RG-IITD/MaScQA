@@ -1,0 +1,1 @@
+(Given: Constants A = 6* $10^(-20)$ J $nm^3$, B = 2.1 * $10^(-22)$ J $nm^(7)$). The potential energy, U(r), of a pair of atoms spaced at a distance r in a solid is given by U(𝑟)= −(𝐴/$𝑟^3$) + (𝐵/$𝑟^7$) . The equilibrium distance(in nm) between the atom pair is? (round off to 2 decimal places)

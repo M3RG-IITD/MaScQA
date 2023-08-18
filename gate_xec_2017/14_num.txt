@@ -1,0 +1,1 @@
+(Given $D_°$ = 2* $10^(-5)m^2/s$; activation energy, Q = 142 kJ/mol; R = 8.314J/mol.K) The value of diffusivity (D) for the diffusion of carbon (C) in γ-iron at 727 °C is x * $10^(-13)$. Find x.

@@ -1,0 +1,27 @@
+We are given that carbon (C) in iron (Fe) is 6 percent by weight. Now we need to find the atomic percent of carbon in the iron-carbon alloy.
+
+First, find the weight ratio of carbon (C) to iron (Fe):
+
+Weight percent of carbon (C) = 6%
+
+Weight percent of iron (Fe) = 100% - 6% = 94%
+
+Now, find the number of moles of carbon and iron in the sample:
+
+Moles of carbon (C) = (Weight percent of C / Atomic weight of C) = 6 / 12
+Moles of carbon (C) = 0.5 moles
+
+Moles of iron (Fe) = (Weight percent of Fe / Atomic weight of Fe) = 94 / 56
+Moles of iron (Fe) = 94 / 56 ≈ 1.6785 moles
+
+Now, find the atomic percent of carbon:
+
+Total moles = Moles of carbon + Moles of iron
+Total moles = 0.5 + 1.6785 ≈ 2.1785 moles
+
+Atomic percent of carbon (C) = (Moles of carbon / Total moles) * 100
+Atomic percent of carbon (C) = (0.5 / 2.1785) * 100 ≈ 22.94%
+
+Therefore, the atomic percent of carbon in the iron-carbon alloy is approximately 23%. So the correct answer is (B) 23.
+
+Answer: [23]

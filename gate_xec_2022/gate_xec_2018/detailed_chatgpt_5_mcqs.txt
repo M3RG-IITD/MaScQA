@@ -1,0 +1,15 @@
+A screw dislocation is a type of dislocation that occurs when a shear stress is applied to a crystal lattice. It is characterized by a dislocation line that is perpendicular to the direction of applied shear stress.
+
+The correct answer is:
+
+(B) Direction of motion of dislocation is parallel to the Burgers vector.
+
+Explanation:
+
+The Burgers vector is a measure of the magnitude and direction of the lattice distortion caused by a dislocation. In a screw dislocation, the dislocation line and Burgers vector are parallel to each other. This means that the direction of motion of the dislocation is also parallel to the Burgers vector. As the dislocation moves, it causes an edge of the crystal lattice to advance parallel to the Burgers vector. 
+
+In contrast to a screw dislocation, an edge dislocation is characterized by a dislocation line that is perpendicular to the Burgers vector. The direction of motion of an edge dislocation is therefore also perpendicular to the Burgers vector. 
+
+Atomic displacement due to the movement of the dislocation is also in the direction of the motion of the dislocation line for both screw and edge dislocations. However, this is not a unique characteristic of screw dislocations. 
+
+Finally, neither screw nor edge dislocations have a unique slip plane. The slip plane is determined by the crystal lattice structure and orientation, and can vary depending on the type of deformation and applied stress.

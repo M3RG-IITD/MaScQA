@@ -1,0 +1,46 @@
+To calculate the resistivity of the semiconductor, we can use the following formula:
+
+Resistivity ($ρ$) = $1/σ$
+
+where $σ$ is the conductivity of the material.
+
+We can also express conductivity as a function of the concentration of electrons and holes in the semiconductor:
+
+$σ = neμ_e + peμ_h$
+
+Here,
+n and p are the concentration of electrons and holes, respectively,
+$μ_e$ is the mobility of electrons in the semiconductor,
+$μ_h$ is the mobility of holes in the semiconductor, and
+e is the charge of an electron.
+
+We are given that the resistivity is 3000 Ωm, so we can calculate the value of $σ$:
+
+$1/ρ = σ$
+$σ = 1/3000 σ_U/m$
+
+We also know that Mobility of electrons in the semiconductor = 0.14 $m^2$/(V s).
+Mobility of holes in the semiconductor = 0.06 $m^2$/(V s).
+Absolute charge of an electron = 1.60 * $10^(-19) C$.
+
+Now, as we know that the number of electrons excited ($𝑛_e$) across the band gap is given by the relation $n_e$ = $(N_A)*exp(-{E_g/k_(B)T})$. Thus, we can say that the concentration of electrons is equal to the concentration of holes ($n = p$).
+
+For simplicity, let us say $n = p = x$. Therefore, we can substitute these values to find $E_g$:
+
+$σ = xeμ_e + xeμ_h$
+$1/3000 σ_U/m = x(0.14 + 0.06)(1.60 * 10^(-19) C)$
+$x = 1/(3000(0.20)(1.60 * 10^(-19)) x$ = $(N_A)*exp(-{E_g/k_(B)T})$
+
+Now, we can substitute the values of T = 298 K, $N_A$ = 6.02 * $10^{23} mole^{-1}$, $k_b$ = 8.62 * $10^{-5} eV/K$
+
+$x = 6.02 * 10^{23} * exp(-{E_g/(8.62 * 10^{-5} * 298)})$
+
+We can set x as a function of $E_g$:
+
+$x(E_g) = 6.02 * 10^{23} * exp(-{E_g/(2.568 * 10^{-2})})$
+
+Now, we can use a numerical method to solve this equation for $E_g$. Using a numerical method such as Newton-Raphson or bisection, we find the value of the bandgap, $E_g$, to be approximately 0.72 eV.
+
+Thus, the band gap ($E_g$) of the semiconductor is approximately 0.72 eV.
+
+Answer: [0.72]

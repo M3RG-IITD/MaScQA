@@ -1,0 +1,13 @@
+To solve this question, let's first understand the terms given in the options and then determine which one refers to the antiferromagnetic-to-paramagnetic transition temperature.
+
+A) Curie temperature: The Curie temperature (Tc) is the critical temperature at which a ferromagnetic material loses its ferromagnetic property and becomes paramagnetic. This is not the correct answer, as the question asks for the transition between antiferromagnetic and paramagnetic states.
+
+B) Curie-Weiss temperature: The Curie-Weiss temperature (θ) is a parameter used in the Curie-Weiss law to describe the relationship between the magnetic susceptibility and temperature of a paramagnetic material. This is not the correct answer, as this temperature specifically relates to paramagnetism and not a transition between antiferromagnetism and paramagnetism.
+
+C) Neel temperature: The Neel temperature (TN) is the critical temperature at which an antiferromagnetic material undergoes a phase transition and becomes paramagnetic. This is the correct answer, as it describes the transition temperature between the antiferromagnetic and paramagnetic states.
+
+D) Debye temperature: The Debye temperature (ΘD) is a characteristic temperature of solids used in the Debye model of solids, relating to their heat capacity and vibrational modes. This temperature is not related to magnetic transitions.
+
+So the correct answer is C) Neel temperature.
+
+The final answer is [C].

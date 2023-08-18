@@ -1,0 +1,2 @@
+In an ideal rubber, the primary factor responsible for elasticity up to small strains is
+(A) Change in both enthalpy and entropy (B) Change in enthalpy, but no change in the entropy (C) No change in enthalpy, but change in the entropy (D) Neither a change in enthalpy, nor a change in the entropy 

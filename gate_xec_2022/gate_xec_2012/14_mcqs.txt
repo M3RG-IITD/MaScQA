@@ -1,0 +1,2 @@
+Determine the mole fraction of vinyl chloride in a copolymer of vinyl chloride ($CH_2CHCl$) and vinyl acetate ($CH_2-CH-OCOCH_3$) having molecular weight of 10520 g/mol and degree of polymerization of 160.
+(A) 0.14 (B) 0.30 (C) 0.70 (D) 0.86

@@ -1,0 +1,36 @@
+To calculate the density of copper, we need to know its atomic and crystal structure. Copper is a metal with an atomic weight of 63.54 amu, which means that one mole of copper atoms has a mass of 63.54 g. The crystal structure of copper is face-centered cubic (fcc), which means that the atoms are arranged in a cube with atoms at each corner and in the center of each face. To calculate the density, we need to determine the number of atoms in a unit cell and the volume of the unit cell.
+
+1. Determining the number of atoms in a unit cell
+In an fcc structure, there are 4 atoms per unit cell. To see why, consider that each corner atom is shared between 8 neighboring unit cells, and each face-centered atom is shared between 2 neighboring unit cells along its face and 1 neighboring unit cell along each adjacent edge. Therefore, the total number of atoms in a unit cell is:
+
+number of atoms = 8 x (1/8 corner atoms) + 6 x (1/2 face-centered atoms)
+number of atoms = 4
+
+2. Determining the volume of the unit cell
+The lattice parameter of copper is given as 0.365 nm. Since the unit cell of an fcc structure is a cube with edges that are the same length as the lattice parameter, the volume of the unit cell is:
+
+volume of unit cell = (0.365 nm)^3
+volume of unit cell = 4.04 x 10^(-29) m^3
+
+3. Calculating the density of copper
+The density of copper can now be calculated using the mass of one unit cell, which is equal to the mass of 4 copper atoms, or:
+
+mass of one unit cell = 4 x atomic weight of copper
+mass of one unit cell = 4 x 63.54 g/mol
+mass of one unit cell = 254.16 g/mol
+
+The density of copper can now be calculated using the formula:
+
+density = mass/volume
+
+density = (254.16 g/mol) / (4.04 x 10^(-29) m^3)
+
+Converting to units of kg $m^(-3)$:
+
+density = (254.16/1000 kg/mol) / (4.04 x 10^(-29) m^3)
+
+density = 8.56 x 10^3 kg $m^(-3)$
+
+Therefore, the density of copper is 8.56 x 10^3 kg $m^(-3)$
+
+Answer: [8.56 x 10^3 kg $m^(-3)$]

@@ -1,0 +1,19 @@
+To determine which crystal class would exhibit both piezoelectric and ferroelectric properties, we need to understand the properties of each class and the criteria for displaying piezoelectric and ferroelectric behavior.
+
+Piezoelectric materials: These materials generate an electrical charge when subjected to mechanical stress or strain. For a material to be piezoelectric, it must not have a center of symmetry (also called a center of inversion). In other words, it should belong to a non-centrosymmetric crystal class.
+
+Ferroelectric materials: These materials possess a spontaneous electric polarization that can be reversed by an external electric field. Ferroelectric materials must also lack a center of symmetry and fall within a polar crystal class, meaning they have a unique polar axis.
+
+Now, we can evaluate each crystal class:
+
+(A) 222: This crystal class has a center of symmetry, so it cannot be either piezoelectric or ferroelectric.
+
+(B) 4mm: This crystal class does not have a center of symmetry, which means it can be piezoelectric. However, it is non-polar, meaning it cannot be ferroelectric.
+
+(C) -1: This crystal class has a center of symmetry, so it cannot be either piezoelectric or ferroelectric.
+
+(D) 2/m: This crystal class does not have a center of symmetry, which means it can be piezoelectric. Additionally, it is a polar crystal class, making it able to be ferroelectric as well.
+
+Thus, among these crystal classes, only class 2/m would be both piezoelectric and ferroelectric.
+
+The correct answer is: [D]

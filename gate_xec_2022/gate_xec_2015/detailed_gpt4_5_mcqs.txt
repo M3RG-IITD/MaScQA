@@ -1,0 +1,40 @@
+To solve this problem, we need to use the concept of the conductivity of an intrinsic semiconductor and its relationship with temperature.
+
+For an intrinsic semiconductor, the conductivity ($\sigma$) can be expressed using the intrinsic carrier concentration ($n_i$) as follows:
+
+$\sigma = n_i e  \mu_n + n_i e \mu_p$
+
+where $e$ is the elementary charge, $\mu_n$ and $\mu_p$ are the electron and hole mobilities, respectively. Here, both electron and hole concentrations are equal, so we can re-write the expression as:
+
+$\sigma = n_i e (\mu_n + \mu_p)$
+
+Now, the intrinsic carrier concentration can be given by:
+
+$n_i = AT^\frac{3}{2} e^{-E_g / 2kT}$
+
+where $A$ is the constant of proportionality, $k$ is the Boltzmann constant, and $T$ is the temperature in Kelvin. Substituting the expression of $n_i$ into the earlier equation for $\sigma$:
+
+$\sigma = AT^\frac{3}{2} e^{-E_g / 2kT} e (\mu_n + \mu_p)$
+
+Now we take the natural logarithm ($\log_e$) of both sides:
+
+$\log_e{(\sigma)} = \log_e{\left(AT^\frac{3}{2} e^{-E_g / 2kT} e (\mu_n + \mu_p) \right)}$
+
+Using the property of logarithm and simplifying the equation:
+
+$\log_e{(\sigma)} = \log_e{A} + \frac{3}{2}\log_e{T} - \frac{E_g}{2kT} +(\mu_n+\mu_p)$
+
+Now, we are given that the graph is plotted between $\log_e{(\sigma)}$ and $1/T$. Comparing this with the equation of a straight line, $y = mx + c$, we have:
+
+$y = \log_e{(\sigma)}$
+$x = 1/T$
+$m = $ slope of the graph
+$c = $ y-intercept of the graph
+
+From our equation for $\log_e{(\sigma)}$, we can see that:
+
+$m = -\frac{E_g}{2k}$
+
+Hence the correct answer is:
+
+(B) −$E_g$/2k.

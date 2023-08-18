@@ -1,0 +1,13 @@
+Zone refining is a process used to purify materials, typically metals, by using a controlled melting and solidification process. It's based on the principle that impurities in a material will be more soluble in the liquid phase and less soluble in the solid phase of a melt. To understand which condition will NOT favor the separation of impurities in the zone refining process, let's analyze each option individually:
+
+(A) Increase in the gap between solidus and liquidus lines: The solidus line represents the temperature below which the substance is completely solid, and the liquidus line represents the temperature above which the substance is completely liquid. An increase in the gap between these two lines signifies a larger temperature range over which the material is partly solid and partly liquid. This larger temperature range can facilitate the migration of impurities from the solid phase to the liquid phase, so this situation WILL favor the separation of impurities in the zone refining process.
+
+(B) Increase in the solubility of impurities in solid as compared to that in liquid phase:  This condition is contrary to the basic principle of the zone refining process. According to the process, impurities should be more soluble in the liquid phase than in the solid phase. If impurities have a higher solubility in the solid phase, they will not separate effectively during the process. Thus, this condition will NOT favor the separation of impurities in the zone refining process.
+
+(C) Agitation of melt: Agitation of the melt can help remove any trapped impurities from the solid|> liquid interface and promote their movement into the liquid phase. This can help in increasing the efficiency of the zone refining process. As a result, this situation WILL favor the separation of impurities in the zone refining process.
+
+(D) Low cooling rate of melt: A low cooling rate would keep the liquid melt in contact with the solid material for a longer time, increasing the chance for impurities to migrate from the solid to the liquid phase. This situation WILL favor the separation of impurities in the zone refining process.
+
+Based on the above analysis, the correct answer is:
+
+[B]

@@ -1,0 +1,2 @@
+(Given: Diffusion coefficients of copper in aluminium at 400 °C and 500 °C are 5*$10^(-14)m^(2)s^(-1)$ and 6*$10^(-13)m^(2)s^(-1)$, respectively). Copper is diffused into aluminium at 400 °C for 100 hours to obtain a certain concentration at a given depth. In another experiment conducted at 500 °C, to achieve the same concentration of copper at the same depth, the time required in hours is
+(A) 7.33 (B) 8.33 (C) 9.33 (D) 10.33

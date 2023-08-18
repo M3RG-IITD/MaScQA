@@ -1,0 +1,14 @@
+We can use the formula for Vickers hardness, which is:
+
+$$H = \frac{2P}{d^2}$$
+
+where:
+- H is the Vickers hardness in kg $mm^{-2}$.
+- P is the applied load in kg.
+- d is the average length of the diagonals of the square indentation in mm.
+
+Substituting the given values, we get:
+
+$$ H = \frac{2\times 10}{0.5^2} \approx \boxed{160} \ kg \ mm^{-2} $$
+
+Therefore, the Vickers hardness in kg $mm^{-2}$ is approximately 160 (rounded off to the nearest integer).

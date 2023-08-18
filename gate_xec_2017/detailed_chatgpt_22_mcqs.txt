@@ -1,0 +1,19 @@
+Magnetic susceptibility is the degree of magnetization of a material when placed in an external magnetic field. It describes how easily a material can be magnetized.
+
+(i) Magnetic susceptibility is positive for a diamagnetic material: True
+
+Diamagnetic materials have zero or very small magnetic moments. When placed in an external magnetic field, they experience a weak magnetic repulsion. The magnetic susceptibility of diamagnetic materials is positive but very small.
+
+(ii) Magnetic susceptibility is negative for a diamagnetic material: True
+
+This statement is false. Diamagnetic materials are repelled by an external magnetic field, and their magnetic susceptibility is positive but very small.
+
+(iii) Magnetic susceptibility is negative for an antiferromagnetic material: True
+
+Antiferromagnetic materials have pairs of magnetic moments that are aligned in opposite directions. When placed in an external magnetic field, the magnetic moments cancel out, and the material does not exhibit any magnetization. The magnetic susceptibility of antiferromagnetic materials is negative.
+
+(iv) Magnetic susceptibility is positive for a paramagnetic material: True
+
+Paramagnetic materials have unpaired electrons that exhibit a weak magnetic moment when placed in an external magnetic field. The magnetic susceptibility of paramagnetic materials is positive.
+
+Therefore, the correct answer is (D) (i) and (iv).

@@ -1,0 +1,12 @@
+To return to the starting point after four jumps, the atom must make two jumps to the left and two jumps to the right, in some order. The total number of possible orderings of the four jumps is $2^4=16$. There are $\binom{4}{2}=6$ ways to choose 2 out of the 4 jumps to the left. For each of these choices, there is only one corresponding way to order the jumps that results in the atom returning to its starting point, namely LRLR. Therefore, the probability of returning to the starting point is $\dfrac{6}{16}=\boxed{\textbf{(B)}\ 0.333}$. 
+
+We can illustrate the 6 different cases that work as follows: 
+
+1. LLRR
+2. LRLR
+3. LRRL
+4. RLLR
+5. RLRL
+6. RRLL
+
+In each of these cases, the first two jumps must be a variation of L and R, while the last two also must be a variation of L and R. Therefore, each of the 6 cases are equally likely, and they are the only cases that will work.

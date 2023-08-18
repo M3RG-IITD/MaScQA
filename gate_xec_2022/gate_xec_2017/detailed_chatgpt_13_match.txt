@@ -1,0 +1,13 @@
+(P) Slip casting: It is a process for forming a ceramic slip into a mold and allowing it to set. The result is a hard ceramic part in the shape of the mold cavity. Therefore, the product is ceramic parts. 
+
+(Q) Zone refining: It is a process for purifying a metal by passing a molten zone over it and selectively evaporating impurities. The result is a metal with very low impurity levels and a high degree of uniformity, suitable for single crystal growth. Therefore, the product is a single crystal. 
+
+(R) Sputtering: It is a process for depositing a thin film on a substrate by bombarding the substrate with ions and causing atoms from a target material to be ejected and deposited onto the substrate. Therefore, the product is thin films. 
+
+(S) Atomization: It is a process for producing metal powders by spraying molten metal into a gas stream or water jet and allowing it to solidify into small particles. Therefore, the product is metal powders. 
+
+Matching the processes with products, we get: 
+
+P-3 (slip casting - ceramic parts), Q-4 (zone refining - single crystal), R-2 (sputtering - thin films), S-1 (atomization - metal powders). 
+
+Therefore, the correct answer is (A) P-3; Q-4; R-2; S-1.

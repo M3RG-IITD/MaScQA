@@ -1,0 +1,2 @@
+An atom is restricted to move in one dimension by making unit jumps either to the left or right, as shown in the figure. Assuming that a jump to the left or right is equally probable, the probability of the atom returning back to the starting point after four jumps is
+(A) 0.250 (B) 0.333 (C) 0.375 (D) 0.500

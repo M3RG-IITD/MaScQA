@@ -1,0 +1,13 @@
+Scanning electron microscopy (SEM) is a useful tool for obtaining high-resolution images of various materials. The contrast in SEM images is primarily due to differences in the material's composition and the way electrons interact with it. 
+
+Among the given options, the correct answer to the question is:
+
+(A) Atomic number of the specimen material - The contrast obtained in scanning electron microscopy using backscattered electrons depends on the atomic number of the specimen material.
+
+Here's a brief explanation to support the answer:
+
+Backscattered electrons (BSEs) are electrons that are scattered backward after striking the atoms of the specimen material. These electrons are collected by a detector in the SEM and used to form an image of the specimen's surface. BSEs are highly sensitive to differences in atomic number, which is why they are used to obtain contrast in SEM images. 
+
+Materials with higher atomic numbers (i.e. more protons in the nucleus) tend to have a stronger signal in backscattered electron imaging. This is because the probability of an electron scattering back towards the detector increases as the atomic number of the specimen material increases. 
+
+Accelerating voltage, working distance, and electron emitter type can affect the resolution, magnification, and other aspects of SEM imaging, but they are not the primary factors that influence contrast with BSE imaging.

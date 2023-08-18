@@ -1,0 +1,2 @@
+GaAs has advantage over silicon when used in intergrated circuits at low power because it has
+(A) larger band gap (B) more than one element (C) higher electron mobility (D) higher hole mobility

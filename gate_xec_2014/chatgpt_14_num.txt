@@ -1,0 +1,54 @@
+
+
+We can use the rule of mixtures to solve this problem. According to this rule, the effective modulus of the composite is given by:
+
+E_composite = V_fiber * E_fiber + V_matrix * E_matrix
+
+where:
+
+V_fiber = volume fraction of fibers
+V_matrix = volume fraction of matrix
+E_fiber = Young's modulus of the fiber
+E_matrix = Young's modulus of the matrix
+
+We can rearrange this equation to solve for V_fiber:
+
+V_fiber = (E_composite - V_matrix * E_matrix) / E_fiber
+
+Substituting the given values:
+
+E_composite = 185 GPa
+E_fiber = 360 GPa
+E_matrix = 110 GPa
+
+We still need to determine V_matrix. Since we are dealing with a unidirectional fiber composite, we can assume that the fibers are aligned in one direction and the matrix fills the space between them. Therefore:
+
+V_fiber + V_matrix = 1
+
+We can rearrange this equation to solve for V_matrix:
+
+V_matrix = 1 - V_fiber
+
+Substituting this into the first equation, we get:
+
+E_composite = V_fiber * E_fiber + (1 - V_fiber) * E_matrix
+
+Simplifying:
+
+E_composite = V_fiber * (E_fiber - E_matrix) + E_matrix
+
+Solving for V_fiber:
+
+V_fiber = (E_composite - E_matrix) / (E_fiber - E_matrix)
+
+Substituting the given values:
+
+V_fiber = (185 - 110) / (360 - 110) = 0.433
+
+Therefore, the volume fraction of fibers in the composite is:
+
+- 0.433
+
+Answer: 
+
+- 0.433

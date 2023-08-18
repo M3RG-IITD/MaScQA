@@ -1,0 +1,11 @@
+Silicon is a semiconductor and has electrical conductivity that lies between that of a conductor and an insulator. The conductivity of silicon can be increased by introducing impurities into the crystal lattice, a process called doping. Among the given options, only options (i), (ii) and (iii) are relevant for increasing the electrical conductivity of silicon. 
+
+(i) Heating: Heating silicon can increase its electrical conductivity by breaking the covalent bonds between its atoms and increasing the number of free electrons available for electrical conduction.
+
+(ii) Doping with arsenic: Arsenic is a group V element, and when it is doped into silicon, it introduces an extra electron into the crystal lattice. This extra electron can participate in conduction and hence increase the conductivity of silicon.
+
+(iii) Doping with aluminium: Aluminium is a group III element, and when it is doped into silicon, it creates a hole or a vacancy in the crystal lattice. This hole can also participate in conduction, and hence the electrical conductivity of silicon increases.
+
+(iv) Exposure to light: Exposure to light does not increase the electrical conductivity of silicon. However, it can increase the number of electrons in the conduction band of silicon by promoting electrons from the valence band to the conduction band. This phenomenon is called the photoelectric effect, and it is used in solar cells to generate electricity.
+
+Therefore, the correct option is (C) Only (i), (ii) and (iii).

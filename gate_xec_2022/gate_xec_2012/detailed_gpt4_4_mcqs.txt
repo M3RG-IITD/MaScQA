@@ -1,0 +1,17 @@
+To solve this question, let's first understand each type of signal and their causes.
+
+(A) Secondary electron: Secondary electrons are low-energy electrons that are emitted from the surface of a material when it is subjected to high-energy radiation, like X-rays or electron beams. This emission occurs when the incident radiation displaces an electron from a relatively shallow level within the material. These electrons have low energy, usually less than 50 eV, and can provide information about the topography and composition of the material's surface.
+
+(B) Backscattered electron: Backscattered electrons (BSE) are high-energy incident electrons that undergo elastic collisions with atoms in a material and are scattered back out of the material. This scattering is caused by the interaction between the incident electron and the positively charged nucleus of the target atom. BSEs can provide information about the composition and topography of a sample, as the number of backscattered electrons depends on both the atomic number of the sampled elements and the angle of incidence.
+
+(C) Auger electron: Auger electrons are emitted from a material when an electron from a higher-energy level fills a vacancy in a lower-energy level (created due to ionization) and the excess energy is transferred to a third outer-shell electron, which is then ejected from the material. This phenomenon is called Auger effect, and the emitted electrons are called Auger electrons. They provide information about the chemical composition of a material.
+
+(D) Photoelectron: Photoelectrons are emitted from a material when it absorbs energy from incident radiation (usually X-rays or ultraviolet light), causing the ejection of an electron from an inner-shell orbital. This process is known as the photoelectric effect, and the emitted electrons are called photoelectrons. The kinetic energy of the photoelectrons can be used to determine the binding energy of the electrons and provide information about the elemental composition of a material.
+
+Now, let's recall the main question: Which of the above signals is produced due to the elastic scattering of electrons by a material?
+
+Recall that elastic scattering is a process in which the total kinetic energy of the interacting particles is conserved. The only option where elastic scattering takes place is 'Backscattered electrons' (option B). In this case, the interacting particles are the incident electrons and the atoms within the material, and their total kinetic energy is conserved during the scattering process.
+
+Therefore, the correct answer to the question is:
+
+[B]

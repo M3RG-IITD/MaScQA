@@ -1,0 +1,37 @@
+
+
+The Bragg's law for diffraction is given as: 
+
+nλ = 2d sinθ
+
+Where,
+n = order of diffraction (1 in this case)
+λ = wavelength of the X-rays used = 1.54 Å
+d = interplanar spacing
+θ = angle of diffraction
+
+For BCC structure, the interplanar spacing (d) for (110) plane is given by:
+
+d = a / √(h²+k²+l²)
+
+Where, 
+a = lattice parameter = 4.1Å
+h, k, l = Miller indices of the plane (here, h=k=1, l=0 for (110) plane)
+
+Substituting the values, 
+
+d = 4.1 / √(1²+1²+0²) = 2.905 Å
+
+Now, using Bragg's law, 
+
+nλ = 2d sinθ
+
+1.54 Å = 2(2.905 Å) sinθ
+
+sinθ = 0.268
+
+θ = sin⁻¹(0.268) = 15.63°
+
+Therefore, the angular position θ of the first diffraction peak is 15.63°.
+
+Answer: [15.63°]

@@ -1,0 +1,2 @@
+Arrange the following elements in order of increasing melting point: (P) gallium (Q) tungsten (R) aluminium (S) gold
+Options: (A) P < R< Q < S (B) S < P < R < Q (C) P < R < S < Q (D) R < S < Q < P

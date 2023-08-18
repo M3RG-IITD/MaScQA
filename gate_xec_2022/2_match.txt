@@ -1,0 +1,5 @@
+Match the following materials with their corresponding bonding types. 
+Material : [P: $Cu_(0.5)Al_(0.5)$, Q: ZnS, R: $Na_(2)O$, S: $Li_(4)SiO_(4)]
+Bonding: [1: Ionic, 2: Covalent, 3: Metallic, 4: Mixed ]
+
+Options: (A) P - 4; Q - 2; R - 3; S - 1 (B) P - 3; Q - 4; R - 2; S - 1 (C) P - 3; Q - 2; R - 1; S - 4 (D) P - 3; Q - 1; R - 4; S - 2 

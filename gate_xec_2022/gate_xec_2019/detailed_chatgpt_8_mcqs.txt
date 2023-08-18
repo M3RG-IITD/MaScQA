@@ -1,0 +1,11 @@
+The correct answer is (D) Differential scanning calorimetry.
+
+Explanation:
+
+Glass transition temperature (Tg) is an important property of polymers as it determines their physical and mechanical properties. Differential scanning calorimetry (DSC) is a widely used technique to determine Tg of a polymer.
+
+DSC measures the heat flow into or out of the sample as it is subjected to a controlled temperature program. At Tg, there is a change in the heat capacity of the polymer, resulting in a noticeable change in the heat flow. This can be detected by DSC and used to determine Tg.
+
+Thermo-gravimetric analysis (TGA) is a technique used to study the thermal stability of materials by measuring changes in their weight as they are heated or cooled. It can provide information on the degradation temperature of a polymer, but not its Tg.
+
+Raman spectroscopy and nuclear magnetic resonance (NMR) spectroscopy are techniques used to study the chemical structure of materials, and cannot be used to determine Tg directly. However, they can provide valuable information on the molecular dynamics and interactions in a polymer that contribute to its Tg.

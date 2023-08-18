@@ -1,0 +1,31 @@
+To find the first diffraction peak position for Chromium with bcc structure, we need to use Bragg's law:
+
+n * λ = 2 * d * sin(θ)
+
+where n is the order of diffraction (we look for the first peak, so n = 1), λ is the wavelength of the radiation (1.54 Å for Cu Kα), d is the interplanar spacing in the crystal, and θ is the angle between the incident beam and the reflecting crystal plane (2θ is the angle we want to find).
+
+For a bcc lattice, the atomic radius r can be calculated from the atomic diameter: r = atomic diameter / 2 = 2.494 Å / 2 = 1.247 Å.
+
+Now we need to find a suitable crystal plane for diffraction. In the bcc structure, the shortest distance between lattice points can be found along a body diagonal, so we consider the (110) plane. We can calculate the interplanar spacing d using the lattice parameter a and the Miller indices h, k, and l (in this case, 1, 1, and 0):
+
+d = a / √(h² + k² + l²)
+
+The lattice parameter a can be calculated from the atomic radius of Chromium: a = 4r / √3 = 4 * 1.247 Å / √3 = 2.892 Å
+
+Now we can find the interplanar spacing d for the (110) plane:
+
+d = 2.892 Å / √(1² + 1² + 0²) = 2.892 Å / √2 = 2.046 Å
+
+Now we can use Bragg's law to find the angle θ:
+
+1 * 1.54 Å = 2 * 2.046 Å * sin(θ)
+sin(θ) = (1.54 Å) / (2 * 2.046 Å) = 0.3763
+θ = arcsin(0.3763) = 22.08°
+
+Finally, we need to find the 2θ value, which is the diffraction peak position:
+
+2θ = 2 * 22.08° = 44.16°
+
+This value is closest to the given option (C) 44.43°. Thus, the correct answer is:
+
+[44.43]

@@ -1,0 +1,2 @@
+In scanning electron microscopy, the resolution of backscattered electron (BSE) image is poorer compared to that of secondary electron (SE) image, because
+(A) energy of BSE is lower (B) sampling volume of BSE is larger (C) yield of BSE is lower (D) sampling volume of SE is larger

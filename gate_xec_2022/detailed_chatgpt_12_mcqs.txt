@@ -1,0 +1,35 @@
+The crystal with the highest Schmid factor, which is given by:
+
+$$
+\frac{\sigma \cdot \cos \phi \cdot \cos \lambda}{(\sigma^2_\phi + \sigma^2_\lambda + \sigma^2_{\phi\lambda})^{1/2}} ,
+$$
+
+where $\sigma$ is the applied tensile stress, $\phi$ is the angle between the loading axis and the [0 1 1] crystallographic direction, and $\lambda$ is the angle between the slip direction and the [0 0 1] crystallographic direction.
+
+For crystal (i), $\phi$ is approximately 35$^\circ$, and $\lambda$ is approximately 45$^\circ$. Thus, the Schmid factor is approximately:
+
+$$
+\frac{\sigma \cdot \cos 35^\circ \cdot \cos 45^\circ}{(\sigma^2_{35^\circ} + \sigma^2_{45^\circ} + \sigma^2_{35^\circ,45^\circ})^{1/2}} = \frac{\sigma \cdot 0.55}{(\sigma^2_{35^\circ} + \sigma^2_{45^\circ} + \sigma^2_{35^\circ,45^\circ})^{1/2}}.
+$$
+
+For crystal (ii), $\phi$ is approximately 20$^\circ$, and $\lambda$ is approximately 50$^\circ$. Thus, the Schmid factor is approximately:
+
+$$
+\frac{\sigma \cdot \cos 20^\circ \cdot \cos 50^\circ}{(\sigma^2_{20^\circ} + \sigma^2_{50^\circ} + \sigma^2_{20^\circ,50^\circ})^{1/2}} = \frac{\sigma \cdot 0.51}{(\sigma^2_{20^\circ} + \sigma^2_{50^\circ} + \sigma^2_{20^\circ,50^\circ})^{1/2}}.
+$$
+
+For crystal (iii), $\phi$ is approximately 40$^\circ$, and $\lambda$ is approximately 35$^\circ$. Thus, the Schmid factor is approximately:
+
+$$
+\frac{\sigma \cdot \cos 40^\circ \cdot \cos 35^\circ}{(\sigma^2_{40^\circ} + \sigma^2_{35^\circ} + \sigma^2_{40^\circ,35^\circ})^{1/2}} = \frac{\sigma \cdot 0.45}{(\sigma^2_{40^\circ} + \sigma^2_{35^\circ} + \sigma^2_{40^\circ,35^\circ})^{1/2}}.
+$$
+
+For crystal (iv), $\phi$ is approximately 0$^\circ$, and $\lambda$ is approximately 40$^\circ$. Thus, the Schmid factor is approximately:
+
+$$
+\frac{\sigma \cdot \cos 0^\circ \cdot \cos 40^\circ}{(\sigma^2_{0^\circ} + \sigma^2_{40^\circ} + \sigma^2_{0^\circ,40^\circ})^{1/2}} = \frac{\sigma \cdot 0.40}{(\sigma^2_{0^\circ} + \sigma^2_{40^\circ} + \sigma^2_{0^\circ,40^\circ})^{1/2}}.
+$$
+
+Therefore, crystal (i) has the highest Schmid factor and will plastically yield at the lowest applied load under ambient conditions.
+
+Answer: (A) (i)

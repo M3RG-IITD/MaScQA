@@ -1,0 +1,1 @@
+For a two-dimensional solid, the variation of lattice specific heat as a function of temperature T (in K, at low temperatures) is given as: 𝐶𝑝 = $𝑏𝑇^𝑛$, where b is a constant. The value of n is

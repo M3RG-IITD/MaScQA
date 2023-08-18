@@ -1,0 +1,17 @@
+Let's briefly explain each technique and determine which one is NOT used to grow single crystals of semiconductors.
+
+(A) Calendering:
+Calendering is a process in which a material is passed through a series of rollers to achieve a specific thickness and uniformity. This technique is mainly used in the production of paper, plastics, textiles, and metal sheets. It is not used for the growth of single crystals of semiconductors.
+
+(B) Czochralski:
+The Czochralski method is a widely used technique for growing single crystals of semiconductors such as silicon and germanium. It involves dipping a seed crystal into molten semiconductor material and then slowly pulling the seed crystal upward, allowing the crystal to grow as the molten material solidifies.
+
+(C) Float zone:
+The float zone method is another technique used for growing single crystals of semiconductors. In this process, a rod of polycrystalline semiconductor material is heated to the melting point, and a small molten zone is produced. As the rod is slowly pulled upwards, the molten zone solidifies into a single crystal. This method allows for the production of very high purity semiconductor crystals.
+
+(D) Bridgman:
+The Bridgman method is a technique used for growing single crystals of various materials, including semiconductors. In this process, a container filled with the material is slowly cooled from one end, causing it to solidify progressively. A single crystal forms at the cooled end and grows along the length of the container as the material continues to cool.
+
+From the explanations above, we can see that the technique NOT used to grow single crystals of semiconductors is:
+
+Answer: [A] Calendering

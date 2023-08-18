@@ -1,0 +1,56 @@
+Let's break down the problem and solve it step by step.
+
+Step 1: Calculate the expansion of the brass rod at 70°C
+We have initial rod length L = 50 cm, initial temperature $T_1$ = 20°C, final temperature $T_2$ = 70°C, and the coefficient of linear thermal expansion $\alpha$ = 20 x $10^{-6}$ °$C^{-1}$.
+
+First, we need to find the change in temperature:
+$\Delta T = T_2 - T_1 = 70 - 20 = 50°C$
+
+Next, we can calculate the change in the length of the rod:
+$\Delta L = \alpha \times L \times \Delta T = 20 \times 10^{-6} \times 50 \times 50 = 0.05cm$
+
+So the expanded rod length at 70°C, $L2 = L + \Delta L = 50 + 0.05 = 50.05cm$
+
+Step 2: Calculate the height of the triangle formed by the rod, the lever, and the distance x.
+To find the height, we can use the Pythagorean theorem since we are dealing with a right-angled triangle. Let's denote the height as h.
+
+The base of the triangle will be x (which we need to find) and the hypotenuse will be $L2 = 50.05cm$.
+
+$h^2 + x^2 = 50.05^2$
+
+Step 3: Find the height in terms of x
+When the rod is initially at 20°C and not touching the lever, it is 50 cm long.
+We also have a right-angled triangle in this case with the base being x (the same distance as before) and the hypotenuse being L = 50cm.
+
+$h^2 + x^2 = 50^2$
+
+Step 4: Subtract the two equations
+subtracting the equation in step 3 from the equation in step 2:
+
+$50.05^2 - 50^2 = h^2 + x^2 - (h^2) - x^2$
+
+$(50.05^2 - 50^2) = 2x\Delta x$
+where $\Delta x$ is the change in the length x resulting from rod expansion.
+
+Step 5: Calculate x
+Now, we know the expansion of the rod: $\Delta L = 0.05cm$. Since the rod is making a right angle with x, the expansion in length x will be the same: $\Delta x = 0.05cm$.
+
+Plug in the values to above equation:
+
+$(50.05^2 - 50^2) = 2x(0.05)$
+
+Solve for x:
+
+$x = \frac{(50.05^2 - 50^2)}{2(0.05)}$
+
+$x = \frac{2500.5025 - 2500}{0.1}$
+
+$x = \frac{0.5025}{0.1}$
+
+$x = 5.025cm$
+
+Since the problem asks for x in mm:
+
+$x = 5.025 \times 10 = 50.25mm$
+
+Answer: The distance x should be set at 50.25mm for the circuit to break at 70°C.

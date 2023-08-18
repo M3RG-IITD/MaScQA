@@ -1,0 +1,9 @@
+In an FCC (Face-Centered Cubic) lattice, each corner atom is shared between eight unit cells, while each face-centered atom is contained within two unit cells. 
+
+In terms of close-packed planes, an FCC lattice has a total of 12 close-packed planes: 
+
+- Each of the six faces has one close-packed plane (since it is the only plane that can be packed with spheres touching in a hexagonal pattern).
+- Each of the eight "half-planes" (formed by cutting the cube diagonally across an octahedral plane) has one close-packed plane.
+- Each of the twelve "quarter-planes" (formed by cutting off a corner of the cube) has one close-packed plane.
+
+Therefore, the correct answer is (D) 12.

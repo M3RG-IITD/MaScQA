@@ -1,0 +1,33 @@
+We are given the following information:
+
+- Intrinsic semiconductor with conduction electron concentration n = $10^{12}$ $cm^{-3}$
+- Mobility of both electrons and holes are identical = 4 * $10^4$ $cm^2$ $V^{-1}$ $s^{-1}$
+- Applied voltage = 100 V
+- Edge length of the cube = 1 cm
+- Charge of electron = 1.6 * $10^{-19}$ C
+
+First, let's calculate the conduction current due to electrons:
+
+Conduction current density (J) = n * e * μ * E, where n is electron concentration, e is the charge of electron, μ is the mobility and E is the electric field.
+
+Electric field (E) = Voltage (V) / Distance (d) = 100 V / (1 cm) = 10^2 V/cm
+
+Now let's plug in the values:
+
+J = $10^{12}$ $cm^{-3}$ * 1.6 * $10^{-19}$ C * 4 * $10^4$ $cm^2$ $V^{-1}$ $s^{-1}$ * 10^2 V/cm
+
+J = 6.4 * $10^{-3}$ $A$ $cm^{-2}$
+
+Now, we need to calculate the total current passing through the cube.
+
+Total current (I) = J * Area = 6.4 * $10^{-3}$ $A$ $cm^{-2}$ * (1 cm * 1 cm)
+
+I = 6.4 * $10^{-3}$ A = 6.4 mA
+
+Since the semiconductor is intrinsic, the hole current should be equal to the electron current. Therefore, the total current is:
+
+Total current = 2 * electron current = 2 * 6.4 mA = 12.8 mA
+
+So the current through the cube is 12.8 mA. The correct answer is (B) 1280 inside the list.
+
+[1280]

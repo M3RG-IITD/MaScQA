@@ -1,0 +1,7 @@
+The correct matches for the invariant reactions are:
+- (P) L ⇄ α + β: This is a eutectic reaction, so it matches with (5).
+- (Q) L + α ⇄ β: This is a peritectic reaction, so it matches with (3).
+- (R) γ ⇄ α + β: This is a eutectoid reaction, so it matches with (4).
+- (S) α + β ⇄ γ: This is a peritectoid reaction, so it matches with (2).
+
+So, the correct answer is (B) P-5, Q-3, R-4, S-2.

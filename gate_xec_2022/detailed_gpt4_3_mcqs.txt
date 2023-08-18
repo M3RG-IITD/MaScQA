@@ -1,0 +1,19 @@
+To determine the primary factor responsible for elasticity in an ideal rubber up to small strains, we need to analyze the thermodynamic properties of the rubber, particularly enthalpy and entropy.
+
+Enthalpy (H) represents the total energy content of a material, while entropy (S) represents the amount of energy that is dispersed or spread out within a system. The enthalpy change (∆H) and the entropy change (∆S) are related to the Gibbs free energy change (∆G) by the following relation:
+
+∆G = ∆H - T∆S
+
+where T is the absolute temperature.
+
+The ideal rubber model is based on the assumption that polymer chains can be treated as freely jointed chains. In this model, there are a large number of ways in which an extended polymer chain can be placed and the number of ways greatly affects the entropy of the system.
+
+In rubber elasticity, the system tends to restore itself back to its original state once the deforming force is removed. This restoration is caused by the entropic force. When the rubber is stretched, its chain length is increased and as a result, the number of possible configurations/microstates (entropy) is reduced. The system will naturally try to move back to the state with higher entropy, causing it to return to its original state when the deforming force is removed.
+
+Therefore, the primary factor responsible for elasticity up to small strains in an ideal rubber is the change in entropy.
+
+As for enthalpy, the intermolecular forces such as Van der Waals forces in rubber are fairly weak, and since stretching is happening only up to small strains, we can assume that there is no significant change in enthalpy.
+
+Hence, the answer is (C) No change in enthalpy, but change in the entropy.
+
+Correct answer: [C]

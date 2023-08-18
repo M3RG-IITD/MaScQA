@@ -1,0 +1,28 @@
+To arrange the elements in order of their increasing melting points, we can refer to the periodic table and consider the following factors:
+
+1. Metallic Character: Metals generally have high melting points since they form metallic bonds which are strong. As we move across a period, the metallic character decreases and as we move down a group, the metallic character increases.
+
+2. Atomic Size: In general, as the atomic size increases, the melting point of the element decreases because larger atoms have weaker metallic bonding due to their less effective electron shielding.
+
+Now, let's analyze the given elements:
+
+P: Gallium (Ga) - Group 13, Period 4
+Q: Tungsten (W) - Group 6, Period 6
+R: Aluminium (Al) - Group 13, Period 3
+S: Gold (Au) - Group 11, Period 6
+
+Comparing P and R:
+
+Both gallium and aluminum are in the same group, but gallium is in a lower period, which means it has a larger atomic size and thus lower melting point. So, P < R.
+
+Comparing Q and S:
+
+Tungsten is in the same period as gold but in a group with higher metallic character, which indicates that tungsten has a stronger metallic bond and a higher melting point. Therefore, S < Q.
+
+Now we need to compare R (aluminium) and S (gold):
+
+Aluminium is in a higher group and a lower period than gold, which indicates that it generally has a higher metallic character and smaller atomic size. So, it should have a higher melting point than gold. Thus, S < R.
+
+Putting the orders together, we have: P < R < S < Q.
+
+Hence, the correct answer is (C) P < R < S < Q.

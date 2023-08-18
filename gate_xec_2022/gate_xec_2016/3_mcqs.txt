@@ -1,0 +1,2 @@
+Which of the following thermodynamic properties shows a discontinuity during a second-order phase transition?
+(A) Volume (B) Enthalpy (C) Entropy (D) Heat capacity

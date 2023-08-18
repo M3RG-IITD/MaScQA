@@ -1,0 +1,2 @@
+The number of vibrational degrees of freedom for a non-linear triatomic molecule are
+(A) 9 (B) 6 (C) 4 (D) 3

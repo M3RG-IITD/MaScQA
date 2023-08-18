@@ -1,0 +1,62 @@
+To find the band gap of the semiconductor, we need to follow these steps:
+
+1. Find the concentration of electrons ($n_e$) and holes ($n_h$) at 298 K using the resistivity given.
+
+2. Use the relation provided for $n_e$ and the concentration of electrons found in step 1 to solve for the band gap $E_g$.
+
+Step 1: Finding the concentration of electrons and holes.
+
+The resistivity of a semiconductor ($\rho$) can be given by:
+
+$\rho = \dfrac{1}{q(n_e\mu_e + n_h\mu_h)}$, where
+$q$: Absolute charge of an electron,
+$\mu_e$: Mobility of electrons,
+$\mu_h$: Mobility of holes,
+$n_e$: Concentration of electrons,
+$n_h$: Concentration of holes
+
+We are given the values for resistivity ($\rho$), mobility of electron ($\mu_e$) and mobility of hole ($\mu_h$), and charge of an electron (q). 
+
+Since this is an intrinsic (pure) semiconductor, we can assume $n_e = n_h = n_i$. So the formula becomes:
+
+$\rho = \dfrac{1}{q(n_i\mu_e + n_i\mu_h)}$
+
+Now we can plug in the given values:
+
+$3000 = \dfrac{1}{(1.60 * 10^{-19})(n_i(0.14 + 0.06))}$
+
+Let's solve for $n_i$:
+
+$3000(1.60 * 10^{-19})(0.2) = n_i$
+
+$n_i = 2.4 * 10^{20} m^{-3}$
+
+Now we have the concentration of electrons and holes. In this specific problem, we will only use the concentration of electrons $n_e$, which is equal to $n_i$.
+
+Step 2: Find the band gap $E_g$ using the provided relation.
+
+$n_e = (N_A)*exp(-{E_g/k_B T})$
+
+Plugging in the values for $n_e$, $N_A$, $k_B$, and $T$:
+
+$2.4 * 10^{20} = (6.02 * 10^{23})*exp(-{E_g / (8.62 * 10^{-5} * 298)})$
+
+Now we need to solve for $E_g$:
+
+$\dfrac{2.4 * 10^{20}}{6.02 * 10^{23}} = exp(-{E_g / (8.62 * 10^{-5} * 298)})$
+
+Taking the natural log of both sides:
+
+$ln(\dfrac{2.4 * 10^{20}}{6.02 * 10^{23}}) = - \dfrac{E_g}{8.62 * 10^{-5}*298}$
+
+Solving for $E_g$:
+
+$E_g = \dfrac{ln(\dfrac{2.4 * 10^{20}}{6.02 * 10^{23}}) * -1}{8.62 * 10^{-5} * 298}$
+
+Calculating the value:
+
+$E_g = 0.335 \, eV$
+
+The bandgap of the semiconductor is 0.335 eV when rounded off to two decimals.
+
+Answer: [0.335]

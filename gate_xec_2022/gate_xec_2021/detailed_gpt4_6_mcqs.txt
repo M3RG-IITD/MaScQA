@@ -1,0 +1,23 @@
+First, let's define a few terms related to scanning electron microscopy (SEM):
+
+1. Secondary Electrons (SE): Electrons that are generated from the surface of a sample when the primary electron beam interacts with the atoms of the specimen. SEs have a low-energy, typically less than 50 eV.
+
+2. Backscattered Electrons (BSE): Electrons from the primary beam that bounce back from the sample without losing much energy. BSEs have much higher energies compared to SEs, in the range of a few keV.
+
+3. Resolution: The smallest distance between two points in the image that can be distinguished as separate entities.
+
+4. Sampling volume: The region of the sample from which signal (SE or BSE) is collected.
+
+Now, let's analyze each of the choices:
+
+Option A: Energy of BSE is lower. This statement is inaccurate. BSEs have higher energy compared to SEs, as mentioned above.
+
+Option B: Sampling volume of BSE is larger. This is correct. BSEs have higher energy and higher penetration depth into the specimen, resulting in a larger sampling volume compared to SEs. This means the BSE image incorporates information from deeper parts of the sample. As the information collected covers a larger area, it tends to yield poorer resolution compared to SEs, which come mainly from surface interaction, giving a better surface detail.
+
+Option C: Yield of BSE is lower. Yield refers to the number of BSEs or SEs produced per incident primary electron. This statement is not relevant to resolution, as resolution does not solely depend on the number of electrons collected but their spatial origin and energy.
+
+Option D: Sampling volume of SE is larger. This statement is incorrect. The sampling volume for SEs is smaller due to their low-energy and surface interaction properties.
+
+Therefore, the correct answer is:
+
+[Option B]

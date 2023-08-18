@@ -1,0 +1,8 @@
+The correct match between the plumer name in Column I and the monomer type in Column II is:
+
+I-S: Styrene
+II-R: Butadiene
+III-Q: Propylene
+IV-P: Ethylene
+
+Therefore, the correct answer is (D) I-S, II-R, III-Q, IV-P.

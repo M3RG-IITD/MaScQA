@@ -1,0 +1,55 @@
+To solve this problem, we will use the Griffith's criterion for brittle fracture, which relates the fracture stress (σ) to the critical flaw size (a). The Griffith's criterion equation is given by:
+
+σ = Y * (E / a)^0.5
+
+where:
+σ = Fracture stress (in MPa)
+Y = Dimensionless constant proportionality factor (approximately 1.12 for most materials)
+E = Young's modulus (in GPa)
+a = Critical flaw size (in meters)
+
+First, let's find the value of E for the ceramic material using the given data.
+
+From the given data, we have:
+σ1 = 300 MPa
+a1 = 30 μm = 30 * 10^-6 meters
+Y = 1.12 (approximation for most materials)
+
+Plugging in these values into the Griffith's equation, we get:
+
+300 = 1.12 * (E / (30 * 10^(-6)))^0.5
+
+Next, let's solve for E. First, we need to get rid of the square root:
+
+(300)^2 = (1.12 * (E / (30 * 10^(-6)))^0.5)^2
+90000 = 1.12 * (E / (30 * 10^(-6)))
+
+Now, solving for E:
+
+E = (90000 * (30 * 10^(-6))) / 1.12
+E = (2700 * 10^(-6)) / 1.12
+E ≈ 2410.71 * 10^6 Pa = 2410.71 GPa
+
+Now we have the Young's modulus E for the ceramic material. 
+
+Next, let's use this value to find the fracture stress for the critical flaw size of 90 μm.
+
+a2 = 90 μm = 90 * 10^-6 meters
+
+Plugging the values in the Griffith's equation:
+
+σ2 = Y * (E / a2)^0.5
+σ2 = 1.12 * (2410.71 / (90 * 10^(-6)))^0.5
+
+Calculating the fracture stress:
+
+σ2 = 1.12 * (2410.71 / (90 * 10^(-6)))^0.5
+σ2 ≈ 1.12 * (2410.71 / 0.00009)^0.5
+σ2 ≈ 1.12 * (26785.56)^0.5
+σ2 ≈ 1.12 * 163.66
+σ2 ≈ 183.29 MPa
+
+So, the fracture stress for a critical flaw size of 90 μm for the same material is approximately 183.29 MPa.
+
+List:
+[183.29]

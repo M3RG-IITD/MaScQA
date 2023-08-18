@@ -1,0 +1,17 @@
+We are given that an electron makes a transition from the valence band to the conduction band in an indirect band gap semiconductor. Let's analyze each of the given options one by one.
+
+(A) Energy of the electron decreases:
+When an electron transitions from the valence band to the conduction band, it is actually jumping to a higher energy state. This is because the conduction band represents higher energy levels compared to the valence band. Therefore, the energy of the electron increases during this process, not decreases. So, option (A) is not correct.
+
+(B) A photon is emitted in the process:
+In an indirect band gap semiconductor, the minimum energy point in the conduction band is not directly above the maximum energy point in the valence band. Therefore, when an electron makes a transition from the valence band to the conduction band, a change in momentum is required in addition to the energy difference between the two bands. This momentum change is provided by a phonon, not a photon. So, option (B) is not correct.
+
+(C) A phonon is annihilated in the process:
+In an indirect band gap semiconductor, as mentioned earlier, a change in momentum is required during the electron transition from the valence band to the conduction band. This momentum change is provided by a phonon, which is a quasiparticle that represents the vibrational energy of a crystal lattice. Thus, during the transition, a phonon is involved, and it gets annihilated to conserve momentum. So, option (C) is correct.
+
+(D) A photon is created in the process:
+As discussed before, in an indirect band gap semiconductor, the energy and momentum conservation requirements for an electron transition from the valence band to the conduction band are satisfied by a phonon getting annihilated, not by the creation of a photon. So, option (D) is not correct.
+
+Based on the analysis above, the correct answer is:
+
+[C]

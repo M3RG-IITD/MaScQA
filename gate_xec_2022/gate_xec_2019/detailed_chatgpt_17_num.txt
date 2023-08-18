@@ -1,0 +1,40 @@
+We can start by finding the probability of drawing a white ball from box-T before a ball is transferred from box-S. 
+
+The probability of drawing a white ball from box-T before a transfer is:
+
+P(white) = number of white balls / total number of balls
+P(white) = 5 / (5 + 3) = 5/8
+
+Now, a ball is transferred from box-S to box-T. There are two cases: 
+
+Case 1: A white ball is transferred from box-S to box-T. 
+
+The probability of this happening is 2/6 = 1/3, since box-S has 2 white balls and 6 total balls. 
+
+After the transfer, the number of balls in box-T is 9 (5 white and 4 black). The probability of drawing a white ball from box-T now is:
+
+P(white) = number of white balls / total number of balls
+P(white) = 5 / 9
+
+Case 2: A black ball is transferred from box-S to box-T. 
+
+The probability of this happening is 4/6 = 2/3, since box-S has 4 black balls and 6 total balls. 
+
+After the transfer, the number of balls in box-T is 8 (5 white and 3 black). The probability of drawing a white ball from box-T now is:
+
+P(white) = number of white balls / total number of balls
+P(white) = 5 / 8
+
+We need to find the overall probability of drawing a white ball from box-T, taking into account both cases. This is given by:
+
+P(white) = P(white from box-T, given white transferred) * P(white transferred) + P(white from box-T, given black transferred) * P(black transferred)
+P(white) = (5/9) * (1/3) + (5/8) * (2/3)
+P(white) = 35/72
+
+Rounding to 2 decimal places, we get:
+
+P(white) = 0.49
+
+Therefore, the probability of drawing a white ball from box-T after a ball is transferred from box-S is 0.49. 
+
+Answer: [0.49]

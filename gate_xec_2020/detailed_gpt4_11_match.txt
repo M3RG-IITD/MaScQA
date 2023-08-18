@@ -1,0 +1,18 @@
+Let's understand each process and the materials/products they are used to fabricate:
+
+(I) Powder Processing: This process involves the compaction and sintering of powders to create solid materials. It is commonly used for fabricating porous materials, such as porous bronze bearings (S).
+
+(II) Spin Coating: This is a process widely used in the fabrication of thin films. A liquid material is deposited onto a rotating substrate, spreading the liquid evenly along the surface. Spin coating is frequently used for organic semiconductor thin films (P).
+
+(III) Czochralski process: The Czochralski process is a crystal growth technique used to fabricate single crystals, especially from silicon. The technique is widely used to grow single crystal silicon (Q) for the semiconductor industry.
+
+(IV) Chemical Vapor Deposition (CVD): This is a process used for depositing thin films on substrates using a gas-phase precursor material. CVD is used for the deposition of various materials, including polycrystalline silicon (R).
+
+Now, let's match each process to the corresponding materials/products.
+
+I - Powder Processing: S - Porous bronze bearings
+II - Spin Coating: P - Organic semiconductor thin films
+III - Czochralski process: Q - Single crystal silicon
+IV - Chemical Vapor Deposition: R - Poly-silicon
+
+The correct option that matches the process to the material/product is (C) I-S, II-P, III-Q, IV-R.

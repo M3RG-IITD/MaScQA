@@ -1,0 +1,26 @@
+To find the fracture stress, we can use the formula for fracture toughness in terms of stress and crack length:
+
+$K_{1C} = \sigma \times \sqrt{\pi\times a}$
+
+Where:
+- $K_{1C}$ is the fracture toughness (25 MPa√m)
+- $\sigma$ is the fracture stress (in MPa)
+- $a$ is the crack length (2 mm, or 0.002 m, as we should use meters in the formula)
+
+Rearranging the formula to solve for $\sigma$, we get:
+
+$\sigma = \frac{K_{1C}}{\sqrt{\pi\times a}}$
+
+Now, we can plug in the given values for fracture toughness and crack length:
+
+$\sigma = \frac{25}{\sqrt{\pi\times 0.002}}$
+
+Calculate the value of $\sigma$:
+
+$\sigma = \frac{25}{\sqrt{\pi\times 0.002}} \approx 1000.12$
+
+Rounding off to the nearest whole number, we get:
+
+$\sigma \approx 1000$ MPa
+
+So, the fracture stress is approximately 1000 MPa. The answer is [1000].

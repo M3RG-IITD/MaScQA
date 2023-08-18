@@ -1,0 +1,1 @@
+The third peak in the X-ray diffraction pattern of a face-centered cubic crystal is at 2𝜃 value of 45°, where 2𝜃 is the angle between the incident and reflected rays. The wavelength of the monochromatic X-ray beam is 1.54 Å. Considering first-order reflection, the lattice parameter(in Å) of the crystal is? (Round off to two decimal places)

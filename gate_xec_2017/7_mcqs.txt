@@ -1,0 +1,2 @@
+The Miller indices of the first three Bragg peaks in the X-ray diffraction pattern obtained from a polycrystalline iron sample at room temperature are
+(A) (111), (200), (220) (B) (100), (110), (111) (C) (100), (110), (200) (D) (110), (200), (220)

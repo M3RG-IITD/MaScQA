@@ -1,0 +1,32 @@
+To calculate the conductivity of the n-type semiconductor, we can use the equation:
+
+Conductivity (σ) = Electron concentration (n) × Charge of an electron (e) × Drift velocity (vd) / Electric field (E)
+
+We're given the following values:
+
+Electron concentration (n) = 5 * 10^18/m^3
+Drift velocity (vd) = 100 m/s
+Electric field (E) = 500 V/m
+
+First, we need to find the charge of an electron (e). The charge of an electron is a constant value:
+
+Charge of an electron (e) = 1.6 * 10^(-19) C (Coulombs)
+
+Now, we can plug in the given values into the equation to calculate the conductivity:
+
+σ = (5 * 10^18/m^3) × (1.6 * 10^(-19) C) × (100 m/s) / (500 V/m)
+
+Next, we'll simplify the equation step by step:
+
+1. Multiply electron concentration (n) with the charge of an electron (e):
+   5 * 10^18 * 1.6 * 10^(-19) = 8 * 10^(-1)
+
+2. Multiply the result from step 1 with drift velocity (vd):
+   8 * 10^(-1) * 100 = 8 * 10^(1)
+
+3. Divide the result from step 2 by the electric field (E):
+   (8 * 10^(1)) / 500 = 1.6 * 10^(-1)
+
+So, the conductivity (σ) of the n-type semiconductor is 1.6 * 10^(-1) S/m, which corresponds to option (B).
+
+Therefore, the correct answer is [B].

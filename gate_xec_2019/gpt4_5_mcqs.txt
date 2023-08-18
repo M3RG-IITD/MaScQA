@@ -1,0 +1,32 @@
+Given the diffusion coefficients at 400 °C and 500 °C, we can find the ratio of these two diffusion coefficients:
+
+Ratio = Diffusion coefficient at 500 °C / Diffusion coefficient at 400 °C
+Ratio= (6*10^(-13) m^2/s) / (5*10^(-14) m^2/s) = 12/1
+
+According to Fick's first law, the number of diffusing particles is proportional to the diffusion coefficient:
+
+N = D * t
+
+Since we are maintaining the same concentration of copper at the same depth, the ratio of times at the respective temperatures should be inversely proportional to the ratio of the diffusion coefficients:
+
+t1 / t2 = 1 / Ratio
+
+Given that the first experiment at 400 °C takes 100 hours:
+
+t1 = 100 hours
+t2 = unknown
+
+100 / t2 = 1 / 12
+
+Solving for t2, we get:
+
+t2 = 100 * 12 = 1200 hours
+
+Now, we compare the obtained value with the options provided:
+
+(A) 7.33 hours
+(B) 8.33 hours
+(C) 9.33 hours
+(D) 10.33 hours
+
+None of the given options match our calculated value of 1200 hours. Therefore, there must be an error in the question or the provided options.

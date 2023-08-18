@@ -1,0 +1,5 @@
+
+
+The answer is (C) 5-fold. 
+
+Explanation: In a perfectly periodic 3-dimensional lattice, all rotational symmetries allowed must correspond to the symmetry of the lattice itself, which is characterized by translational symmetry in three directions. This implies that the 1-fold (i.e., no rotational symmetry), 3-fold, 4-fold, and 6-fold rotational symmetries are allowed, while the 5-fold rotational symmetry is forbidden due to the impossibility of arranging identical unit cells in a way that is symmetric under a 5-fold rotation.

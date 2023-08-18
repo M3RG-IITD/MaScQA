@@ -1,0 +1,2 @@
+Read the two statements related to sintering and select the correct option. Statement-1: Sintering in vacuum leads to improved densification as compared to sintering under ambient (at atmospheric pressure) condition. Statement-2: Closed pores formed during sintering inhibit full densification. 
+(A)	Both Statement-1 and Statement-2 are FALSE. (B)	Both statement-1 and Statement-2 are TRUE.  (C)	Statement-1 is TRUE but Statement -2 is FALSE.  (D)	Statement-1 is FALSE but Statement-2 is TRUE. 

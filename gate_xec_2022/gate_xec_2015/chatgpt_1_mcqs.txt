@@ -1,0 +1,17 @@
+
+
+The correct order of increasing melting point is:
+
+(A) P < R < Q < S
+
+Explanation: 
+
+Out of the given options, we know that tungsten has the highest melting point and should be placed at the end. Gold has a higher melting point than aluminium, while gallium has the lowest melting point of all. Therefore, the correct order would be: 
+
+gallium < aluminium < gold < tungsten 
+
+or 
+
+P < R < S < Q 
+
+which matches option (A).

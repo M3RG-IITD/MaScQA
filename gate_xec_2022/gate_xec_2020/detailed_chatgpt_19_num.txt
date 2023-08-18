@@ -1,0 +1,59 @@
+The voltage developed across the piezoelectric ceramic material is given by the relation:
+
+$V = d_{zz} * F_z$
+
+where $d_{zz}$ is the piezoelectric coefficient (charge generated per unit force) and $F_z$ is the applied force.
+
+We are given $d_{zz} = 100 * 10^{-12}C.N^{-1}$ and $F_z = 10N$. Therefore,
+
+$V = (100 * 10^{-12}C.N^{-1}) * (10N) = 1 * 10^{-9}V$
+
+Next, we need to take into account the relative dielectric constant $ε_r$ of the material. The electric field inside the piezoelectric material is given by:
+
+$E = \frac{V}{d}$
+
+where $d$ is the thickness of the piezoelectric material.
+
+The electric flux density D is related to the electric field E by the equation:
+
+$D = ε_0 * ε_r * E$
+
+where $ε_0$ is the permittivity of free space.
+
+We are given $ε_0 = 8.85 * 10^{-12}F.m^{-1}$ and $ε_r = 1100$. Therefore,
+
+$D = (8.85 * 10^{-12}F.m^{-1}) * (1100) * \frac{1 * 10^{-9}V}{d}$
+
+$D = 9.735 * 10^{-6} * \frac{1}{d} F.m^{-2}$
+
+The electric displacement D is related to the electric flux density D by the equation:
+
+$D = ε_0 * E + P$
+
+where P is the polarization of the material.
+
+For a piezoelectric material, the polarization is proportional to the strain. Since there is no external strain applied to the material, the polarization is zero. Therefore,
+
+$D = ε_0 * E$
+
+Equating the two expressions for D, we get:
+
+$ε_0 * ε_r * E = ε_0 * E$
+
+$E = \frac{1}{ε_r} * \frac{1}{ε_0} * D$
+
+$E = \frac{1}{1100} * \frac{1}{8.85 * 10^{-12}F.m^{-1}} * (9.735 * 10^{-6} * \frac{1}{d} F.m^{-2})$
+
+$E = 1.123 * 10^5 * \frac{1}{d} V.m^{-1}$
+
+Finally, we can compute the voltage V' developed across the thickness d of the piezoelectric material by:
+
+$V' = Ed$
+
+$V' = (1.123 * 10^5 * \frac{1}{d} V.m^{-1}) * d =1.123 * 10^5V$
+
+Rounding off to two decimal places, we get the final answer:
+
+$V' = 1.12 * 10^5V$
+
+Therefore, the voltage developed along the z-direction of the sample is 1.12 * 10^5V.

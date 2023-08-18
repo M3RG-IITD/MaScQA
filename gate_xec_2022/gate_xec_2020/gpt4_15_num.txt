@@ -1,0 +1,15 @@
+For an FCC metal, the number of nearest neighbor atoms for each atom is 12. When we expose a {100} surface or a {111} surface, some of these bonds will be broken, resulting in unsaturated atoms on the surface. The unsaturated atoms on the surface contribute to the surface energy. We'll consider only the nearest neighbor broken bonds contribution to the surface energy as mentioned in the problem.
+
+For a {100} surface, each surface atom has 4 nearest neighbors. So, when we expose this surface, each surface atom loses 4 bonds (12 - 4 = 8 bonds remain). Therefore, per surface atom, the number of broken bonds is 4.
+
+For a {111} surface, each surface atom has 3 nearest neighbors. So, when we expose this surface, each surface atom loses 3 bonds (12 - 3 = 9 bonds remain). Therefore, per surface atom, the number of broken bonds is 3.
+
+Now, let's calculate the ratio of surface energy of {111} surface to {100} surface. Since surface energy is proportional to the number of broken bonds, we can use the ratio of broken bonds as a proxy for the ratio of surface energies.
+
+Ratio = (Broken bonds for {111}) / (Broken bonds for {100})
+Ratio = 3 / 4
+Ratio ≈ 0.75 (rounded off to two decimal places)
+
+So, the ratio of surface energy of {111} surface to {100} surface for an FCC metal is approximately 0.75. 
+
+Answer: [0.75]

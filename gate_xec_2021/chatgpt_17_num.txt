@@ -1,0 +1,39 @@
+The volume of a unit cell of hcp Ti can be calculated by considering it to be composed of six tetrahedrons and one octahedron. Thus,
+
+Volume of hcp unit cell = $\frac{6}{12}\times a^3\sqrt{2}$ + $\frac{1}{4}\times \frac{\pi}{3}a^3$
+
+where $a$ is the lattice parameter of hcp Ti.
+
+We know that the density of hcp Ti is 4.51 g $cm^(−3)$ . Thus, the mass of one unit cell can be calculated as:
+
+$m$ = volume of hcp unit cell $\times$ density of hcp Ti
+
+Similarly, the mass of one unit cell of bcc Ti can be calculated using its lattice parameter and atomic weight.
+
+Thus, the percent volume change can be calculated as:
+
+percent volume change = $\frac{m(bcc)-m(hcp)}{m(hcp)}\times100$
+
+Now, let's put in the values given in the problem.
+
+The lattice parameter of bcc Ti is given as 0.332 nm, which is equal to 0.0332 cm.
+
+The atomic weight of Ti is given as 47.9.
+
+The lattice parameter of hcp Ti is given as 0.332 nm.
+
+Density of hcp Ti = 4.51 g $cm^(−3)$.
+
+Using the above equations, we get:
+
+Volume of hcp unit cell = 0.259 $nm^3$ = $2.59\times10^{-23}$ $cm^3$
+
+Mass of one unit cell of hcp Ti = 1.17 $\times$ $10^{-21}$ g
+
+Mass of one unit cell of bcc Ti = 1.63 $\times$ $10^{-21}$ g
+
+percent volume change = $\frac{(1.63-1.17)\times10^{-21}}{1.17\times10^{-21}}\times100 = 39.3$
+
+Rounded off to one decimal place, the percent volume change is 39.3%.
+
+Answer: [39.3]

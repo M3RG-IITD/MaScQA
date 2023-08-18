@@ -1,0 +1,21 @@
+
+
+The modulus of elasticity for a composite in the direction of fibre alignment can be calculated using the following formula:
+
+E_composite = V_CF x E_CF + V_resin x E_resin
+
+where V_CF and V_resin are the volume fractions of CF and resin, respectively, and E_CF and E_resin are the moduli of elasticity for CF and resin, respectively.
+
+In this case, V_CF = 0.3 and V_resin = 0.7 (since the composite has 30 vol% of CF and rest resin), E_CF = 170 GPa and E_resin = 3.0 GPa.
+
+Substituting these values in the formula, we get:
+
+E_composite = 0.3 x 170 + 0.7 x 3.0
+E_composite = 51 + 2.1
+E_composite = 53.1 GPa
+
+Therefore, the modulus of elasticity for this composite in the direction of fibre alignment is 53.1 GPa.
+
+Answer: 
+
+- 53.1 GPa

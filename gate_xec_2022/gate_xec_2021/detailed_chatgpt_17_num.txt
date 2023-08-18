@@ -1,0 +1,37 @@
+To solve this problem, we need to first find the volume of one unit cell for both the hcp and bcc structures, and then calculate the percentage change in volume between the two structures.
+
+Step 1: Find the volume of one unit cell of hcp Ti
+
+To find the volume of one unit cell of hcp Ti, we first need to find the length of the unit cell edge. We can use the lattice parameter of bcc Ti to do this, since the hcp and bcc structures are related by a transformation that involves a change in lattice parameter.
+
+The transformation from hcp to bcc involves a change in the c/a ratio from 1.587 (hcp) to $\sqrt{2}$ (bcc). Using the lattice parameter $a$ of 0.332 nm, we can solve for the length of the hexagonal unit cell edge $c$:
+
+$c = a \times \frac{2}{\sqrt{3}} \times \frac{c}{a} = 0.332 \,\text{nm} \times \frac{2}{\sqrt{3}} \times 1.587 \approx 0.576 \,\text{nm}$
+
+Now we can calculate the volume of the hexagonal unit cell:
+
+$V_\text{hex} = \frac{\sqrt{3}}{2}(0.332 \,\text{nm})^2(0.576 \,\text{nm}) \approx 0.0523 \,\text{nm}^3$
+
+Step 2: Find the volume of one unit cell of bcc Ti
+
+The volume of one unit cell of bcc Ti is simply:
+
+$V_\text{bcc} = (0.332 \,\text{nm})^3 \approx 0.0372 \,\text{nm}^3$
+
+Step 3: Calculate the percentage change in volume
+
+The percentage change in volume between hcp and bcc Ti can be calculated as follows:
+
+$\Delta V = |V_\text{hex} - V_\text{bcc}| = 0.0523 \,\text{nm}^3 - 0.0372 \,\text{nm}^3 \approx 0.015 \,\text{nm}^3$
+
+The original volume of the hcp structure can be estimated by dividing the density of hcp Ti (4.51 g $cm^(−3)$) by the atomic weight of Ti (47.9 g/mol) and multiplying by Avogadro's number (6.023 × $10^(23)$):
+
+$V_\text{init} = \frac{4.51 \,\text{g}\,\text{cm}^{−3}}{47.9 \,\text{g}\,\text{mol}^{−1}} \times 6.023 \times 10^{23} \frac{\text{cm}^3}{\text{mol}} \approx 7.18 \,\text{cm}^3$
+
+The percentage change in volume is therefore:
+
+$\frac{\Delta V}{V_\text{init}} \times 100\% = \frac{0.015 \,\text{nm}^3}{7.18 \,\text{cm}^3} \times 100\% \approx 0.0021\%$
+
+Rounding off the final answer to 1 decimal place, we get:
+
+The percent volume change accompanying the hcp to bcc transformation in Ti is 0.0%.

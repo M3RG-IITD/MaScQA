@@ -1,0 +1,31 @@
+
+
+We know that the molecular weight ($M_n$) of polymerized isotactic polybutadiene is 3 x $10^5$ g/mol.
+
+The molecular weight ($M_n$) of a polymer can be related to the degree of polymerization ($DP$) with the following equation:
+
+$M_n = DP \times M_u$
+
+Where $M_u$ is the molecular weight of the repeating unit.
+
+Since the only unknown in this equation is $DP$, we can rearrange it to solve for $DP$:
+
+$DP = \frac{M_n}{M_u}$
+
+To find $DP$, we need to know the molecular weight of the repeating unit for isotactic polybutadiene. The repeating unit for polybutadiene is:
+
+CH$_2$ - CH = CH - CH$_2$
+
+The molecular weight of this repeating unit is:
+
+(2 x 12.01 g/mol) + (4 x 1.01 g/mol) = 54.06 g/mol
+
+Now we can substitute the known values into the equation for $DP$:
+
+$DP = \frac{3 \times 10^5 \text{ g/mol}}{54.06 \text{ g/mol}} = 5556$
+
+Therefore, the degree of polymerization of isotactic polybutadiene is 5556.
+
+Answer: 
+
+- 5556

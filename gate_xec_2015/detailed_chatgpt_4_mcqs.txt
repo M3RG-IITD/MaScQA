@@ -1,0 +1,11 @@
+The glass transition temperature (Tg) is the temperature at which an amorphous material transitions from a hard, glassy state to a rubbery, viscous state. 
+
+(A) This statement is FALSE. In a perfectly crystalline material, there is no glass transition temperature because the material is already in a crystalline solid form.
+
+(B) This statement is also FALSE. Upon heating through Tg, heat capacity actually increases as the material becomes more fluid and easier to move around. The thermal expansion coefficient may change or remain constant depending on the specific material.
+
+(C) This statement is again FALSE. Heat capacity actually changes upon heating through Tg, while the thermal expansion coefficient may remain constant or change depending on the material.
+
+(D) This statement is also FALSE. Both heat capacity and thermal expansion coefficient may change upon heating through Tg, but this is not always the case.
+
+Therefore, the correct statement is that none of the statements are true about the glass transition temperature.

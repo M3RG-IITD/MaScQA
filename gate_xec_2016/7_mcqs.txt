@@ -1,0 +1,2 @@
+Which one of the following effects is the working principle of a thermocouple?
+(A) Thomson (B) Seebeck (C) Peltier (D) Meissner

@@ -1,0 +1,71 @@
+
+
+To solve this problem, we need to use the principle of conservation of energy, which states that the total energy in a closed system is conserved. In this case, the closed system is the copper cup containing water.
+
+Step 1: Calculate the heat absorbed by the copper cup when it is filled with the initial quantity of water.
+
+The heat absorbed by the copper cup can be calculated using the formula:
+
+Q = mcΔT
+
+where Q is the heat absorbed, m is the mass of the copper cup, c is the specific heat of copper, and ΔT is the change in temperature.
+
+We know that the copper cup weighing 140 g has a specific heat of 0.385 J/g °C. Since the cup does not undergo a change in temperature, we can assume that ΔT = 0. Therefore, the heat absorbed by the copper cup is:
+
+Qc = mcΔT = 140 g × 0.385 J/g °C × 0 °C = 0 J
+
+Step 2: Calculate the heat absorbed by the water when it is poured into the copper cup.
+
+The heat absorbed by the water can be calculated using the formula:
+
+Q = mcΔT
+
+where Q is the heat absorbed, m is the mass of the water, and c is the specific heat of water.
+
+We know that the initial quantity of water is 80 g and its initial temperature is 4 °C. Therefore, the heat absorbed by the water is:
+
+Qw1 = mw1cΔT = 80 g × 4.18 J/g °C × (Tf - 4 °C)
+
+where Tf is the final temperature of the water.
+
+Step 3: Calculate the heat absorbed by the copper cup when the water is poured into it.
+
+The heat absorbed by the copper cup can be calculated using the same formula as in step 1:
+
+Qc = mcΔT
+
+where Qc is the heat absorbed, m is the mass of the copper cup, and c is the specific heat of copper.
+
+We know that the initial temperature of the copper cup is room temperature, which is 25 °C. Therefore, the heat absorbed by the copper cup when the water is poured into it is:
+
+Qc1 = mcΔT = 140 g × 0.385 J/g °C × (Tf - 25 °C)
+
+Step 4: Calculate the heat absorbed by the water when 100 g of water at 90 °C is added to the cup.
+
+The heat absorbed by the water can be calculated using the same formula as in step 2:
+
+Qw2 = mw2cΔT = 100 g × 4.18 J/g °C × (Tf - 90 °C)
+
+where mw2 is the mass of the second quantity of water, which is 100 g at a temperature of 90 °C.
+
+Step 5: Equate the total heat absorbed to the total heat lost.
+
+Since the system is closed, the total heat absorbed must be equal to the total heat lost. Therefore, we can write:
+
+Qw1 + Qc1 + Qw2 = 0
+
+Substituting the formulas from steps 2, 3, and 4, we get:
+
+80 g × 4.18 J/g °C × (Tf - 4 °C) + 140 g × 0.385 J/g °C × (Tf - 25 °C) + 100 g × 4.18 J/g °C × (Tf - 90 °C) = 0
+
+Simplifying this equation gives:
+
+334.4 Tf - 1337.6 + 54.25 Tf - 963.5 + 418 Tf - 37620 = 0
+
+808.65 Tf = 39820.1
+
+Tf = 49.21 °C
+
+Therefore, the final temperature of the water in the copper cup is 49.21 °C.
+
+Answer: [49.21]

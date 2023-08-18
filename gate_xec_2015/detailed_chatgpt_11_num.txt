@@ -1,0 +1,25 @@
+To solve this problem, we can use the formula for relativistic mass:
+
+m = m0 / sqrt(1 - v^2/c^2)
+
+Where: 
+
+- m is the relativistic mass of the electron
+- m0 is the rest mass of the electron
+- v is the velocity of the electron
+- c is the speed of light
+
+We are given that the electron is traveling at 96% of the speed of light, so we can substitute:
+
+v = 0.96c
+
+Now we can solve for m:
+
+m = m0 / sqrt(1 - (0.96c)^2/c^2)
+m = m0 / sqrt(1 - 0.96^2)
+m = m0 / sqrt(0.08)
+m = m0 / 0.2828
+
+So, the relativistic mass of the electron is 3.535 times its rest mass. Therefore, the mass of the electron would increase 3.535 times its original mass if it travels at 96% of the speed of light.
+
+Answer: [3.535]

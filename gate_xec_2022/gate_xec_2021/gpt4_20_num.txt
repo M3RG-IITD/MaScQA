@@ -1,0 +1,32 @@
+To find the percentage increase in volume, we first need to find the volumetric thermal expansion coefficient. The volumetric thermal expansion coefficient (β) is the sum of the linear thermal expansion coefficients in all three directions.
+
+Since graphite has different linear thermal expansion coefficients parallel (α_parallel) and perpendicular (α_perpendicular) to the layers:
+
+β = α_parallel + 2 * α_perpendicular
+
+Now we substitute the given values:
+
+β = (0.8 * 10^(-6) K^(-1)) + 2 * (29 * 10^(-6) K^(-1))
+β = 0.8 * 10^(-6) K^(-1) + 58 * 10^(-6) K^(-1)
+β = 58.8 * 10^(-6) K^(-1)
+
+Now we can calculate the percentage increase in volume ΔV/V using the equation:
+
+ΔV/V = β * ΔT
+
+Where ΔT is the change in temperature. In this case:
+
+ΔT = 1100 K - 900 K = 200 K
+
+We plug in the values:
+
+ΔV/V = (58.8 * 10^(-6) K^(-1)) * (200 K)
+ΔV/V = 0.01176
+
+To get the percentage, we multiply by 100:
+
+Percent increase in volume = 0.01176 * 100 = 1.176 %
+
+Rounding off to 2 decimal places, the percentage increase in the volume of graphite is:
+
+[1.18]

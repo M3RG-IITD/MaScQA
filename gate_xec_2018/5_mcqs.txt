@@ -1,0 +1,2 @@
+Which one of the following is the characteristic of a screw dislocation?
+(A) Dislocation line and Burgers vector are parallel. (B) Direction of motion of dislocation is parallel to the Burgers vector. (C) Atomic displacement due to the movement of the dislocation is in the direction of the motion of the dislocation line. (D) It has a unique slip plane.

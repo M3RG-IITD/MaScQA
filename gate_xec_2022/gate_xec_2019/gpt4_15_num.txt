@@ -1,0 +1,34 @@
+To find the equilibrium distance between the atom pair, we need to find the value of r where the potential energy, U(r), is at a minimum. To do that, we will differentiate U(r) with respect to r and set the derivative equal to zero.
+
+U(r) = -(A/r^3) + (B/r^7)
+
+Take the derivative of U(r) with respect to r:
+dU(r)/dr = (3A/r^4) - (7B/r^8)
+
+Now, set the derivative equal to zero:
+(3A/r^4) - (7B/r^8) = 0
+
+Rearrange the equation to solve for r:
+(3A/r^4) = (7B/r^8)
+
+Now multiply both sides by r^8:
+3Ar^4 = 7B
+
+Now divide both sides by 3A:
+r^4 = 7B/3A
+
+Now take the 4th root of both sides:
+r = (7B/3A)^(1/4)
+
+Now we can plug in the given values for A and B:
+r = [7(2.1 × 10^(-22))/3(6 × 10^(-20))]^(1/4)
+
+r = [14.7 × 10^(-22)/18 × 10^(-20)]^(1/4)
+
+r = [0.817 × 10^(-2)]^(1/4)
+
+r ≈ 1.04
+
+The equilibrium distance between the atom pair is approximately 1.04 nm.
+
+Answer: [1.04]

@@ -1,0 +1,17 @@
+
+
+The correct answer is:
+
+(C) P-2, Q-4, R-1, S-3
+
+Explanation:
+
+- DSC (differential scanning calorimetry) is used to measure the glass transition temperature, represented in Column II by 2.
+- XRD (X-ray diffraction) is used to determine the crystal structure of a material, which corresponds to 4 in Column II.
+- STM (scanning tunneling microscopy) is used to image surfaces at the atomic scale and measure properties like density of states, which is represented by 1 in Column II.
+- SEM (scanning electron microscopy) can be used to measure cathodoluminescence, or the emission of light from a material when it is excited by electrons. This is represented by 3 in Column II.
+- Thermal expansion coefficient, or the change in size of a material with temperature, can be measured using techniques like dilatometry or interferometry. It is represented by 5 in Column II.
+
+Therefore, the correct matching of techniques to material characteristics is:
+
+P-2, Q-4, R-1, S-3.

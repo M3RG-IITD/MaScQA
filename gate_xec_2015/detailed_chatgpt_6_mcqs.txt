@@ -1,0 +1,14 @@
+The answer is (C) forging. 
+
+Explanation:
+Ceramic forming processes include various techniques to create ceramic products in desired shapes and dimensions. The commonly used ceramic forming processes are as follows:
+
+A) Extrusion: It is a process for creating objects of a fixed cross-sectional profile. In ceramic forming, this process is used to create long and strait columns such as pipes and tiles.
+
+B) Slip casting: It is a process that involves pouring a slurry of ceramic particles and liquid into a porous mold. The liquid is then absorbed by the mold leaving the solidified ceramic shape. Slip casting is commonly used in the production of pottery and figurines.
+
+C) Forging: Forging is a process of shaping metals by hammering or pressing at high temperatures. It is not a ceramic forming process. 
+
+D) Tape casting: It is a process that involves forming a thin layer of ceramic slurry onto a flexible substrate using a doctor blade. The ceramic material is dried, and the substrate can be peeled off to create flexible ceramic sheets. This process is commonly used in the production of electronic components.
+
+Therefore, option (C) forging is not a ceramic forming process.

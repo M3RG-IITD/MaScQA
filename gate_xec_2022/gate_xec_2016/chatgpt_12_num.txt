@@ -1,0 +1,44 @@
+
+
+We can use the Hall-Petch equation to solve the problem:
+
+σy = σ0 + kyd^(-1/2)
+
+where:
+σy is the yield strength
+σ0 is the friction stress
+ky is the strengthening coefficient
+d is the grain size
+
+Using the given data, we can find k:
+
+σy1 = σ0 + kyd1^(-1/2)
+σy2 = σ0 + kyd2^(-1/2)
+
+Subtracting the first equation from the second:
+
+σy2 - σy1 = ky(d2^(-1/2) - d1^(-1/2))
+
+Substituting the values:
+
+150 - 120 = k(256^(-1/2) - 64^(-1/2))
+k = 116.98 MPa μm^(1/2)
+
+
+Now we can use k to find σ0:
+
+σy1 = σ0 + kyd1^(-1/2)
+
+120 = σ0 + 116.98(256^(-1/2))
+σ0 = 85.66 MPa
+
+
+Finally, we can use σ0 and k to find the expected yield strength:
+
+σy3 = σ0 + kyd3^(-1/2)
+
+σy3 = 85.66 + 116.98(16^(-1/2))
+σy3 ≈ 214 MPa
+
+
+Answer: [214]

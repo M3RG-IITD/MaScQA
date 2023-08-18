@@ -1,0 +1,1 @@
+The diffusion coefficient of copper atoms in aluminium is found to be 1.28 x $10^(-22)$ $m^2s^(-1)$ at T=400K and 5.75 x $10^(-19)$ $m^2s^(-1)$ at T=500K. Find the temperature (in Kelvin) at which the value of the diffusion coefficient is $10^(-16)$ $m^2s^(-1)$

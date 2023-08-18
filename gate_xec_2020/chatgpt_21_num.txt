@@ -1,0 +1,23 @@
+The rate law for isothermal weight gain per unit area during oxidation of a metal at 600°C follows a parabolic rate law, which is given by the equation:
+
+ΔW/A = k t^0.5
+
+Where ΔW/A is the weight gain per unit area, k is the rate constant, t is the time, and 0.5 is the reaction order with respect to time.
+
+Given that ΔW/A = 1.0 mg.A$cm^(-2)$ after 100 min of oxidation, we can calculate the rate constant as follows:
+
+1.0 = k × 100^0.5
+k = 0.1
+
+Therefore, the rate equation becomes:
+
+ΔW/A = 0.1 t^0.5
+
+To find the weight gain per unit area after 500 min of oxidation, we can substitute t = 500 in the rate equation:
+
+ΔW/A = 0.1 × (500)^0.5
+ΔW/A = 2.24 mg.A$cm^(-2)$
+
+Therefore, the weight gain per unit area after 500 min of oxidation at 600°C is 2.24 mg.A$cm^(-2)$.
+
+Answer: [2.24]

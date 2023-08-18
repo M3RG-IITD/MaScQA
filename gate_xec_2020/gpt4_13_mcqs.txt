@@ -1,0 +1,25 @@
+To calculate the number of Schottky defects per mole of KCl, we can use the following equation derived from the Arrhenius equation:
+
+Number of Schottky defects = $N_A * e^{(-E_a/RT)}$
+
+where:
+
+$N_A$ is the Avogadro number (6.023 × $10^{23} mol^{-1}$)
+
+$E_a$ is the activation energy for the formation of Schottky defects (250 kJ $mol^{-1}$, which is equal to 250,000 J $mol^{-1}$)
+
+$R$ is the universal gas constant (8.314 J K$^{-1}$ $mol^{-1}$)
+
+$T$ is the absolute temperature (in Kelvin, which is equal to 300 °C + 273.15 = 573.15 K)
+
+Now, plug in the values and solve for the number of Schottky defects:
+
+Number of Schottky defects = (6.023 × $10^{23} mol^{-1}$) * $e^{(-250,000 J.mol^{-1}/(8.314 J.K^{-1}.mol^{-1}(573.15 K))}$
+
+Number of Schottky defects = (6.023 × $10^{23} mol^{-1}$) * $e^{(-250,000/ (8.314 × 573.15))}$
+
+Number of Schottky defects ≈ (6.023 × $10^{23} mol^{-1}$) * $e^{-56.27}$
+
+Number of Schottky defects ≈ 1.21 * $10^{18}$ $mol^{-1}$
+
+Therefore, the correct answer is (A) 1.21 * $10^{18}$.

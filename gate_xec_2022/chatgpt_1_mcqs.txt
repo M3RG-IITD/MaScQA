@@ -1,0 +1,32 @@
+The (110) plane of a body centered cubic (BCC) crystal looks like the following:
+
+```
+ ___________         
+|     /     |
+|   /       |
+| /_________|
+|     B     |
+|___________|
+     (110)
+```
+It has a lattice parameter of `a` and contains atoms at the corners and the center of the unit cell. To determine the number of atoms per unit area of this plane, we need to find the area occupied by one unit cell in this plane.
+
+To do this, we can first imagine a sphere centered at the BCC origin and tangent to the (110) plane. The diameter of this sphere is equal to the length of the diagonal of the (110) face of the unit cell, which can be calculated using Pythagoras' theorem:
+
+diagonal = √(a² + a²) = √2a
+
+The area of the base of the sphere is then:
+
+base area = π(diameter/2)² = π(a²)
+
+This area is occupied by one unit cell in the (110) plane. Now, we need to divide this area by the area of the unit cell itself. The area of a BCC unit cell is:
+
+unit cell area = a²(2 + 2√2)
+
+Dividing the base area by the unit cell area gives us the number of occupied sites per unit area:
+
+number of sites per unit area = π(a²) / [a²(2 + 2√2)]
+                                  = π / (2 + 2√2)
+                                  = 1 / (a²(2/π + √2/π))
+
+Therefore, the correct answer is (E) 1 / (a²(2/π + √2/π)).

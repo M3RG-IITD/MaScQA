@@ -1,0 +1,62 @@
+The surface energy per unit area for the {100} surface of FCC metal can be calculated as follows:
+
+Surface energy of the {100} surface = (number of broken bonds / total number of bonds in the surface plane) * energy per bond
+
+Since this is an FCC metal, there are 4 atoms per unit cell and each atom has 12 nearest neighbors. Therefore, the total number of bonds in the {100} surface plane is:
+
+Total number of bonds in {100} plane = number of atoms in the plane * bonds per atom/2
+= 4 * (12/2) 
+= 24
+
+For the {111} surface, we need to consider the area of the triangular surface formed by the {111} plane. This area can be calculated using the formula: 
+
+Area of triangle = (1/2) * base * height
+
+Here, the base length is equal to the interatomic distance along the {110} direction, since the {111} plane intersects the {110} planes. The height is equal to half the interatomic distance along the [111] direction, since the {111} plane passes through a single layer of atoms along the [111] direction. Therefore, we can write:
+
+Area of {111} surface = (1/2) * (sqrt(2)*a) * (a/2)
+= (sqrt(2)/4) * a^2
+
+where a is the lattice constant.
+
+The surface energy per unit area for the {111} surface can be calculated as follows:
+
+Surface energy of the {111} surface = (number of broken bonds / total number of bonds in the surface plane) * energy per bond * area of surface
+
+Since there are 3 atoms per unit cell in the {111} plane, each with 12 nearest neighbors, the total number of bonds in the {111} surface plane is:
+
+Total number of bonds in {111} plane = number of atoms in the plane * bonds per atom/2
+= 3 * (12/2)
+= 18
+
+We can assume that only the nearest neighbor broken bonds contribute to the surface energy. For the {100} plane, each atom has 4 nearest neighbors in the plane, so the number of broken bonds per atom is:
+
+Broken bonds per atom in {100} plane = number of nearest neighbors not in the plane/2
+= (12-4)/2
+= 4
+
+Therefore, the total number of broken bonds in the {100} plane is:
+
+Total broken bonds in {100} plane = number of atoms in the plane * broken bonds per atom
+= 4 * 4
+= 16
+
+For the {111} plane, each atom has 6 nearest neighbors not in the plane, so the number of broken bonds per atom is:
+
+Broken bonds per atom in {111} plane = number of nearest neighbors not in the plane/2
+= 6/2
+= 3
+
+Therefore, the total number of broken bonds in the {111} plane is:
+
+Total broken bonds in {111} plane = number of atoms in the plane * broken bonds per atom
+= 3 * 3
+= 9
+
+The energy per bond can be assumed to be the same for both surfaces. Therefore, the ratio of surface energy of {111} surface to {100} surface is given by:
+
+(9/[(sqrt(2)/4)*a^2]) / (16/(24*a^2)) 
+= (27/(sqrt(2)*16))
+= 0.95 (rounded off to two decimal places)
+
+Therefore, the answer is: [0.95]

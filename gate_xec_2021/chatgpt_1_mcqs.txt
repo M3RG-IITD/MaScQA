@@ -1,0 +1,1 @@
+Answer: (C) Gibbs energy of the system should be minimum and $(𝜇_𝐴)^𝛼$ = $(𝜇_A)^𝛽$ , $(𝜇_B)^𝛼$ = $(𝜇_B)^𝛽$

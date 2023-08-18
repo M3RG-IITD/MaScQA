@@ -1,0 +1,51 @@
+The mole fraction of A in the resultant two-phase mixture is 0.609.
+
+Explanation:
+
+Let's assume that we have 100 g of the mixture.
+
+From property (iii), we know that 50 g of the mixture is in phase alpha and 50 g of the mixture is in phase beta.
+
+From property (i), we know that the weight percentage of A in phase alpha is 50%.
+
+Let's assume that there are "x" moles of A and "y" moles of B in the mixture.
+
+From property (ii), we know that:
+
+moles of A in beta = 2*(moles of B in beta)
+
+x/(x+y) = 2*y/(x+y)
+
+x = 2*y
+
+From property (iv), we know that:
+
+atomic mass of A = 2*(atomic mass of B)
+
+So, the ratio of the masses of A and B in the mixture is:
+
+2*(moles of A)*(atomic mass of A) : (moles of B)*(atomic mass of B)
+
+2x(2A) : y(B)
+
+4x : y
+
+Since we have equal amounts of alpha and beta, we can set up the following equation:
+
+50*(4x)/(4x+y) = 50*(y)/(2x+y)
+
+After solving this equation, we get:
+
+x/y = 1.414
+
+Using x = 2*y, we get:
+
+x = 0.8496
+
+y = 0.6006
+
+Therefore, the mole fraction of A in the mixture is:
+
+x/(x+y) = 0.609 (rounded off to one decimal)
+
+Answer: [0.609]

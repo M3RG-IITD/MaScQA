@@ -1,0 +1,41 @@
+To find the time required for diffusion, we can use the formula:
+
+$C(x, t) = C_0 \cdot \dfrac{1}{2} \cdot \left[1 - erf\left(\dfrac{x}{2\sqrt{Dt}}\right)\right]$
+
+Where $C_0$ is the surface concentration, $C(x, t)$ is the concentration at depth $x$ and time $t$, and $erf()$ is the error function. We are given that the concentration at depth $10^{-3} cm$ should be half the surface concentration. Thus,
+
+$C(x, t) = \dfrac{1}{2}C_0$
+
+Substituting the given values:
+
+$\dfrac{1}{2}C_0 = C_0 \cdot \dfrac{1}{2} \cdot \left[1 - erf\left(\dfrac{10^{-3}}{2\sqrt{6\cdot10^{-11}\cdot t}}\right)\right]$
+
+Both sides have $C_0/2$, so we can cancel that:
+
+$1 = 1 - erf\left(\dfrac{10^{-3}}{2\sqrt{6\cdot10^{-11}\cdot t}}\right)$
+
+Now, we can rearrange the equation:
+
+$erf\left(\dfrac{10^{-3}}{2\sqrt{6\cdot10^{-11}\cdot t}}\right) = 0$
+
+We are given that $erf(0.5) ≅ 0.5$. Therefore, we can write:
+
+$0.5 = \dfrac{10^{-3}}{2\sqrt{6\cdot10^{-11}\cdot t}}$
+
+Now, we can solve for $t$:
+
+$t = \dfrac{(10^{-3})^2}{16\cdot(0.5^2)\cdot6\cdot10^{-11}}$
+
+$t = \dfrac{10^{-6}}{16\cdot0.25\cdot6\cdot10^{-11}}$
+
+$t = \dfrac{1}{4\cdot6\cdot 10^{-5}}$
+
+$t = \dfrac{1}{2.4\cdot 10^{-4}}$
+
+$t ≈ \dfrac{1}{0.00024}$
+
+$t ≈ 4166.67$ seconds
+
+So, the silicon wafer should be heated in contact with gallium vapor at 1355 °C for about 4166.67 seconds. 
+
+The correct answer is [4166.67].

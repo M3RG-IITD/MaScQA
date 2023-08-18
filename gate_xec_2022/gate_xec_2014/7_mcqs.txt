@@ -1,0 +1,2 @@
+Which of the following mechanical properties of a material depend on the mobile dislocation density in it. (P) Young’s modulus (Q) yield strength (R) ductility (S) fracture toughness
+Options: (A) P, Q, R (B) Q, R, S (C) P, R, S (D) S, P, Q

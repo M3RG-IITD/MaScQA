@@ -1,0 +1,1 @@
+A capacitor has a 0.075 cm thick $BaTiO_3$ dielectric with a dielectric constant of 2000 and an electrode area of 0.2 $cm^2$. What is the capacitance of this capacitor in nF?

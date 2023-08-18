@@ -1,0 +1,27 @@
+In a second-order phase transition, there is a discontinuity in the second derivative of the Gibbs free energy (G) with respect to temperature (T) or pressure (P). The second-order phase transition is associated with a discontinuity in the response functions, which are the second derivatives of the thermodynamic potential.
+
+Recall that the Gibbs free energy (G) is related to the enthalpy (H), the temperature (T), and the entropy (S) as follows:
+
+G = H - TS
+
+Differentiating G with respect to T, while keeping the pressure (P) constant, we get:
+
+(∂G/∂T)_P = (∂H/∂T)_P - T(∂S/∂T)_P - S
+
+Recall that the heat capacity at constant pressure (C_P) is defined as:
+
+C_P = T(∂S/∂T)_P
+
+Therefore, the equation can be rewritten as:
+
+ ( ∂G/∂T)_P = (∂H/∂T)_P - C_P - S
+
+Now differentiate this equation once more with respect to T:
+
+(∂^2G/∂T^2)_P = (∂^2H/∂T^2)_P - (∂C_P/∂T)_P - (∂S/∂T)_P
+
+During a second-order phase transition, the second derivative of G with respect to T has a discontinuity. That means at least one term in the equation above must also have a discontinuity. The volume (Option A) and enthalpy (Option B) are first-order derivatives, while entropy (Option C) is a first-order state function which does not show any discontinuity during a second-order phase transition. Therefore, they can all be ruled out.
+
+However, the heat capacity (Option D) is directly related to the second derivative of G with respect to T, as it is involved in the derivatives in the equation above, and thus will show a discontinuity during a second-order phase transition. 
+
+Answer: [D] Heat capacity

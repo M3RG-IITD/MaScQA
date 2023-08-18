@@ -1,0 +1,30 @@
+Let's first find the formula for the austenite. Since there are no Fe vacancies and it has 10 atom % C, that means 90 atom % is Fe. So, the formula for austenite is Fe9C. 
+
+Now let's find the molecular weight of the austenite: 
+Molecular weight of Fe9C = (9 × atomic weight of Fe) + (1 × atomic weight of C) 
+Molecular weight of Fe9C = (9 × 55.8) + (1 × 12.0) 
+Molecular weight of Fe9C = 502.2 g/mol 
+
+Next, let's find the volume of the unit cell: 
+Volume of fcc unit cell = a³ 
+Volume of fcc unit cell = (4 Å)³ = 64 Å³ 
+1 Å = 1 × $10^(-8)$ cm 
+So, Volume of fcc unit cell = 64 × $(10^(-8))^3$ = 64 × $10^(-24)$ $cm^3$ 
+
+Now let's find the number of Fe9C formula units in the fcc unit cell. In fcc, there are 4 formula units per unit cell: 
+Number of Fe9C formula units = 4 
+
+Now, let's find the mass of the 4 Fe9C units in the unit cell: 
+Mass of 4 Fe9C units = 4 × Molecular weight of Fe9C/Avogadro's number
+Mass of 4 Fe9C units = 4 × 502.2 / (6.023 × $10^(23)$) 
+Mass of 4 Fe9C units =  2008.8 / (6.023 × $10^(23)$) 
+Mass of 4 Fe9C units = $3.33610×10^(-22)$ g 
+
+Now, we can find the density of the austenite:
+Density = Mass/Volume
+Density = $3.33610×10^(-22)$/ (64 × $10^(-24)$) 
+Density = 5.21 g $cm^(-3)$ (rounded to two decimal places) 
+
+So, the density of the austenite is approximately 5.21 g/cm³.
+
+The correct answer is: [5.21]

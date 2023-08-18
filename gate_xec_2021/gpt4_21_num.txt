@@ -1,0 +1,24 @@
+Let the side of the cubic green compact be x cm. We know that the volume of the green compact and the sintered compact are equal, minus the volume of the porosity in the green compact.
+
+The volume of the green compact = x³ cm³
+The volume of the porosity in the green compact = 18% of x³ = 0.18x³ cm³
+The volume of the solid material in the green compact (minus porosity) = x³ - 0.18x³ = 0.82x³ cm³
+
+The volume of the sintered compact = 2³ = 8 cm³
+The density of the sintered ceramic = mass/volume
+The mass of the sintered compact = 6.60 g/cm³ * 8 cm³ = 52.8 g
+
+The density of the theoretical ceramic = mass/volume
+The mass of the theoretical ceramic in the green compact = 6.76g/cm³ * 0.82x³ cm³ 
+
+Since the mass of the theoretical ceramic and the mass of the sintered compact should be the same, we equate the two masses:
+
+6.76 g/cm³ * 0.82x³ cm³ = 52.8 g
+5.54x³ = 52.8
+x³ = 9.53
+x = 9.53^(1/3)
+x ≈ 2.12 cm
+
+So, the required side of the cubic green compact is approximately 2.12 cm.
+
+Answer: [2.12]

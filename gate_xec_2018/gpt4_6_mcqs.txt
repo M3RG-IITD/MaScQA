@@ -1,0 +1,9 @@
+For a nonlinear triatomic molecule, the number of vibrational degrees of freedom is given by:
+
+Vibrational degrees of freedom = 3N - 6
+
+where N is the number of atoms in the molecule. In this case, N = 3 (since it's a triatomic molecule).
+
+Vibrational degrees of freedom = 3(3) - 6 = 9 - 6 = 3
+
+Answer: (D) 3

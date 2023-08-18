@@ -1,0 +1,2 @@
+Number of atoms per unit area of the (110) plane of a body centered cubic crystal, with lattice parameter ‘𝑎’, is
+(A) 1/$a^2$ (B) √2/$a^2$ (C) 1/√3$a^2$ (D) 1/√2$a^2$

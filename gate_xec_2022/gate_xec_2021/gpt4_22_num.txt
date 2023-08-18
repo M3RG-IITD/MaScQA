@@ -1,0 +1,17 @@
+We can use the Tafel equation to calculate the current density for the anodic reaction:
+
+i_a = i_0 * 10^(β_a * η_a)
+
+where i_a is the anodic current density, i_0 is the exchange current density, β_a is the Tafel slope, and η_a is the overpotential.
+
+Given the overpotential (η_a) = 0.4 V, exchange current density (i_0) = 10^(-5) A m^(-2), and Tafel slope (β_a) = 0.1 V/decade, we can solve for the anodic current density (i_a):
+
+i_a = 10^(-5) A m^(-2) * 10^(0.1 V/decade * 0.4 V)
+i_a = 10^(-5) A m^(-2) * 10^(0.04)
+i_a ≈ 1.1 * 10^(-5) A m^(-2)
+
+The rate of metal dissolution is the same as the anodic current density.
+
+Therefore, the rate of metal dissolution in A m^(-2) is approximately 1.1 * 10^(-5) A m^(-2) or 0.000011 A m^(-2) (rounded off to 1 decimal place).
+
+The answer is [0.000011].

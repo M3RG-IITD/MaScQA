@@ -1,0 +1,15 @@
+The correct answer is:
+
+(D) (i) and (iv)
+
+Explanation: 
+
+(i) Magnetic susceptibility is positive for a diamagnetic material.
+
+(iv) Magnetic susceptibility is positive for a paramagnetic material.
+
+Diamagnetic materials have all paired electrons, so when an external magnetic field is applied, the orbital motion of the electrons changes and a small magnetic field is induced opposite to the applied field. This results in a positive magnetic susceptibility.
+
+Paramagnetic materials have unpaired electrons, so they align their magnetic moments with the applied field, resulting in a positive magnetic susceptibility. 
+
+Antiferromagnetic materials have paired spins, and although their magnetic moments are not zero, they do not respond to an external magnetic field. Therefore, their magnetic susceptibility is zero.

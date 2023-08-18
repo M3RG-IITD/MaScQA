@@ -1,0 +1,22 @@
+
+
+A Bravais lattice is a mathematical concept that describes the repeating pattern of atoms in a crystal. There are exactly 14 different types of Bravais lattices, each of which has a distinct symmetry. 
+
+In order to determine which of the given options is NOT a Bravais lattice, we need to check each option against the 14 Bravais lattices and see if it matches any of them. Let's examine each option in turn:
+
+(A) Simple tetragonal: This is a valid Bravais lattice, as it has four-fold rotational symmetry and is described by a lattice with a four-sided base and perpendicular line segments that connect the vertices of the base.
+
+(B) Body centred tetragonal: This is also a valid Bravais lattice, as it has four-fold rotational symmetry and an additional atom at the body centre of each unit cell.
+
+(D) Face centred tetragonal: This is also a valid Bravais lattice, as it has four-fold rotational symmetry and an additional atom at the centre of each face of the unit cell.
+
+Now let's examine option (C), which is base centred orthorhombic. An orthorhombic lattice has three different lattice parameters, a, b, and c, that define the length of each unit cell edge. Additionally, it has three mutually perpendicular axes of two-fold symmetry, but it does not have any four-fold rotational symmetry. 
+
+A base-centred lattice is one in which an additional lattice point is added to the centre of one of the faces of the unit cell. This does not change the symmetry of the lattice, but it does modify the shape of the unit cell. 
+
+Putting both concepts together, a base centred orthorhombic lattice would have an orthorhombic unit cell with an additional lattice point at the centre of the base. However, since an orthorhombic lattice lacks four-fold rotational symmetry, it cannot be a Bravais lattice.
+
+Therefore, the correct answer is (C) base centred orthorhombic. 
+
+Answer: 
+- (C) Base centred orthorhombic

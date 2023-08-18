@@ -1,0 +1,48 @@
+Using Ohm's Law, we need to find the current (I) passing through the semiconductor cube. We are given the following parameters:
+
+Conduction electron concentration (n) = $10^{12}$ $cm^{-3}$
+Mobility of electrons and holes (μ) = 4 * $10^4$ $cm^2$ $V^{-1}$ $s^{-1}$
+Voltage applied (V) = 100 V
+Edge length of the cube (L) = 1 cm
+Charge of electron (q) = 1.6 * $10^{-19}$ C
+
+We can find the conductivity (σ) of the semiconductor using the given properties: 
+σ = q * n * μ
+
+Substitute the known values in the above equation:
+σ = 1.6 * $10^{-19}$ C * $10^{12}$ $cm^{-3}$ * 4 * $10^4$ $cm^2$ $V^{-1}$ $s^{-1}$
+
+σ = 6.4 * $10^{-3}$ $S/cm$
+
+Now we can use Ohm's Law to find the current passing through the cube:
+
+I = V / R
+
+Where R is the resistance of the semiconductor. The resistance can be related to the conductivity using the relation R = L / (σ * A), where A is the cross-sectional area of the cube.
+
+Since the edge length of the cube is 1 cm, the cross-sectional area will be:
+A = 1 $cm^2$
+
+Substitute and find the resistance:
+
+R = 1 / (6.4 * $10^{-3}$ $S/cm$ * 1 $cm^2$)
+
+R = 1 / 6.4 * $10^{-3}$ $S$
+
+R = 156.25 Ohm
+
+Now substitute the resistance in Ohm's Law:
+
+I = 100 V / 156.25 Ohm
+
+I = 0.64 A
+
+To convert the current in mA, multiply by 1000:
+
+I = 0.64 * 1000 mA
+
+I = 640 mA
+
+So the current through the cube would be 640 mA. Thus, the correct answer is:
+
+[A] 640.

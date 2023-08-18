@@ -1,0 +1,21 @@
+To answer this question, let's first briefly discuss each option and understand the associated concepts:
+
+(A) Dislocations are thermodynamically unstable defects.
+
+Dislocations are crystal defects that reduce the perfect regularity of a crystal structure. They result from the misalignment of lattice planes in the crystal during the solidification process. Due to the reduced symmetry and deviance from a perfect lattice, dislocations are indeed thermodynamically unstable, and their presence tends to increase the overall energy of the solid, which is unfavorable. So, this statement is correct.
+
+(B) Dislocations can move inside a crystal under the action of an applied stress.
+
+Dislocations are responsible for the plastic deformation of materials under an applied stress. When a stress is applied, the dislocation can move through the lattice, resulting in the movement of one crystal plane relative to another. This phenomenon, called 'slip,' causes permanent deformation. So, this statement is correct as well.
+
+(C) Screw dislocations can change the slip plane without climb.
+
+There are two types of dislocations: edge dislocations and screw dislocations. Slip occurs when dislocations move along a specific plane called the slip plane. Screw dislocations can change their slip plane during motion by sideways movement or "cross-slip." This statement doesn't involve climb and focuses on the fact that screw dislocations can change their slip plane during motion. Hence, this statement is also correct.
+
+(D) Burger’s vector of an edge dislocation is parallel to the dislocation line.
+
+Burger's vector is a vector that denotes the magnitude and direction of the lattice distortion resulting from a dislocation. For an edge dislocation, the Burger's vector is perpendicular to the dislocation line (i.e., the line direction of the dislocation), and it points from the extra half-plane of atoms towards the atoms that would complete the plane if the dislocation did not exist. Therefore, this statement is not correct.
+
+In conclusion, the correct answer is:
+
+[D]

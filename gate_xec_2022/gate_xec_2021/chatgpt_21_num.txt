@@ -1,0 +1,33 @@
+First, we need to calculate the volume of the sintered cube:
+
+V = (2 cm)^3 = 8 cm^3
+
+Next, we can calculate the mass of the sintered cube using its density:
+
+m = ρV = 6.60 g cm^(−3) * 8 cm^3 = 52.8 g
+
+Since the green compact has 18% porosity, its volume is 18% greater than that of the sintered cube:
+
+Vgc = V * (1 + 0.18) = 8 cm^3 * 1.18 = 9.44 cm^3
+
+The theoretical density of the ceramic gives us a clue that the sintering process should result in a decrease in volume.
+
+The ratio of the sintered density to the theoretical density tells us the degree of sintering that occurred:
+
+Degree of sintering = ρsintered / ρtheoretical = 6.60 g $cm^(−3)$/6.76 $gcm^(−3)$ ≈ 0.976
+
+This means that the sintering process resulted in a volume reduction by a factor of 0.976.
+
+Therefore, the volume of the green compact before sintering is:
+
+Vgc,before = Vgc / 0.976 ≈ 9.66 cm^3
+
+Finally, we can calculate the side length of the green compact cube:
+
+(side length of green compact)^3 = Vgc,before = 9.66 cm^3
+
+(side length of green compact) ≈ 2.271 cm
+
+Rounding off to two decimal places, the required side length of the cubic green compact is 2.27 cm.
+
+Answer: [2.27 cm]

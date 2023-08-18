@@ -1,0 +1,6 @@
+The correct option is (C) Statement-1 is TRUE but Statement-2 is FALSE.
+
+Explanation:
+Sintering in vacuum or in a controlled atmosphere can lead to improved densification as it reduces the amount of residual porosity in the sintered material. This is because in vacuum or controlled atmosphere, the gases that are evolved during sintering can escape easily, thus reducing the formation of closed or residual pores. Therefore, Statement-1 is True.
+
+On the other hand, closed pores formed during sintering can actually help in improving the densification of the sintered material by acting as nucleation sites for further densification. The presence of these closed pores does not necessarily inhibit full densification. Therefore, Statement-2 is False.

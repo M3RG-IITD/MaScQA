@@ -1,0 +1,43 @@
+To solve this problem, we first need to understand some key concepts:
+
+Miller Indices (hkl): Miller indices are a notation system used in crystallography to describe the orientation of crystallographic planes. They are represented as (hkl) where h, k, and l are integers that are inversely proportional to the intercepts of the planes with the lattice vectors.
+
+Bragg's Law: Bragg's law describes the relationship between the angle of incident X-rays, the crystal lattice spacing (d), and the order of reflection (n) in X-ray diffraction. It is given by
+
+nλ = 2d sinθ
+
+where λ is the wavelength of X-rays, and θ is the angle between the incident X-ray and the crystal plane.
+
+For Bragg reflections, the interplanar spacing d depends on the crystal structure and Miller indices. In the case of Iron (Fe), the crystal structure is Body-Centered Cubic (BCC).
+
+For BCC structure, the general formula for calculating d in terms of the lattice parameter 'a' and Miller indices is:
+
+1/d² = (h² + k² + l²) / a²
+
+For a given unit cell, the planes that have the lowest Miller indices and the highest d-spacing will diffract X-rays first (lowest angle, n=1). So, we need to find the first three Bragg peaks for Fe, which means identifying the three lowest Miller indices sets.
+
+By systematically listing all possible combinations of h, k, and l, and identifying those that satisfy the BCC selection rule (h + k + l = even), we get the following allowable Miller indices as:
+
+(100), (110), and (200)
+
+Now, we can rank these by their d-spacing. Based on the formula for d in BCC structure:
+
+1/d² = (h² + k² + l²) / a² 
+
+The magnitudes of the squared Miller indices (h² + k² + l²) for these combinations are:
+
+(100) → 1² + 0² + 0² = 1
+(110) → 1² + 1² + 0² = 2
+(200) → 2² + 0² + 0² = 4
+
+Now, we can order these combinations by their magnitudes:
+
+(100) < (110) < (200)
+
+Since lower indices correspond to higher d-spacing and occur first in the diffraction pattern, the first three Bragg peaks will have Miller indices:
+
+(100), (110), and (200)
+
+Thus, the correct answer is:
+
+(C) (100), (110), (200)

@@ -1,0 +1,8 @@
+Dielectric constant is the measure of how easily electric charge can be stored in a material. At ultraviolet frequencies, the polarization of the material is mainly due to the electronic polarizability of the material.
+
+Explanation:
+When an electric field is applied to a material, the electrons in the material move around due to the applied field, and this causes a shift in the distribution of charges within the material. This shift in the charge distribution is known as polarization.
+
+Electronic polarizability is the ability of the electrons in a material to polarize in response to an applied electric field. At ultraviolet frequencies, the energy of the electric field is high enough to cause electrons to move within their orbitals, which leads to electronic polarization.
+
+Therefore, the correct answer is (C) electronic polarizability.

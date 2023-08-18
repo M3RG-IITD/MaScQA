@@ -1,0 +1,101 @@
+
+
+We can use the Arrhenius equation to solve this problem:
+
+D = $D_0$ exp$(-Q/RT)$
+
+where:
+
+D is the diffusion coefficient
+$D_0$ is a constant related to the frequency of atomic jumps
+Q is the activation energy for diffusion
+R is the gas constant
+T is the temperature
+
+Taking the natural logarithm of both sides, we get:
+
+ln(D/$D_0$) = $(-Q/RT)$
+
+We can rearrange this equation to solve for T:
+
+T = $(-Q/R)$ * (ln(D/$D_0$))^(-1)
+
+We can use the given values of the diffusion coefficient to find $D_0$. At T=400K:
+
+D = $D_0$ exp$(-Q/RT)$
+
+1.28 x $10^(-22)$ $m^2s^(-1)$ = $D_0$ exp$(-Q/(R*400K))$
+
+At T=500K:
+
+5.75 x $10^(-19)$ $m^2s^(-1)$ = $D_0$ exp$(-Q/(R*500K))$
+
+We can divide these equations to eliminate $D_0$:
+
+(5.75 x $10^(-19)$ $m^2s^(-1)$)/(1.28 x $10^(-22)$ $m^2s^(-1)$) = exp$((-Q/R)*(1/500K - 1/400K))$
+
+Simplifying:
+
+exp$((-Q/R)*(1/500K - 1/400K))$ = 449.22
+
+Taking the natural logarithm of both sides:
+
+$((-Q/R)*(1/500K - 1/400K))$ = ln(449.22)
+
+Simplifying:
+
+$((-Q/R)*(1/500K - 1/400K))$ = 6.109
+
+Multiplying both sides by (-R):
+
+$Q*(1/500K - 1/400K)$ = -6.109*$R$
+
+Simplifying:
+
+$Q$ = (1/400K - 1/500K)*(-6.109*$R$)
+
+Substituting the given value for $D$ and $D_0$ at T=400K:
+
+1.28 x $10^(-22)$ $m^2s^(-1)$ = $D_0$ exp$((-Q/R)*(1/400K))$
+
+$D_0$ = 1.28 x $10^(-22)$ $m^2s^(-1)$ * exp$((Q/R)*(1/400K))$
+
+Substituting the expressions for $Q$ and $D_0$ into the Arrhenius equation:
+
+$10^(-16)$ $m^2s^(-1)$ = (1.28 x $10^(-22)$ $m^2s^(-1)$ * exp$((Q/R)*(1/T))$) * exp$((Q/R)*(1/400K - 1/T))$
+
+Simplifying:
+
+$10^(-16)$ = 1.28 x $10^(-22)$ * exp$((Q/R)*(1/400K - 1/T))$
+
+Taking the natural logarithm of both sides:
+
+ln($10^(-16)$) = ln(1.28 x $10^(-22)$) + $((Q/R)*(1/400K - 1/T))$
+
+Simplifying:
+
+$((Q/R)*(1/400K - 1/T))$ = ln($10^(-16)$/$1.28 x 10^(-22)$)
+
+$((Q/R)*(1/400K - 1/T))$ = -57.08
+
+Multiplying both sides by (-R):
+
+$Q*(1/400K - 1/T)$ = -57.08*$R$
+
+Substituting the value of $Q$ previously calculated:
+
+(1/400K - 1/T)*(-6.109*$R$) = -57.08*$R$
+
+Simplifying:
+
+1/400K - 1/T = 9.322 x $10^(-9)$
+
+Solving for T:
+
+T = 1/(1/400K - 9.322 x $10^(-9)$)
+
+T = 497.7K (rounded to 3 significant figures)
+
+Therefore, the temperature at which the diffusion coefficient of copper in aluminium is $10^(-16)$ $m^2s^(-1)$ is approximately 498K. 
+
+Answer: [497.7K]

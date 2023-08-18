@@ -1,0 +1,10 @@
+
+
+The correct answer is: (A) P-1, Q-2, R-3, S-4. 
+
+Explanation: 
+
+- (P) Pb(Zr,Ti)O3 is a shape memory ceramic because it returns to its original shape after being deformed. 
+- (Q) Ni50Ti50 is a piezoelectric alloy because it can convert electrical energy into mechanical energy and vice versa. 
+- (R) GaAs is an optoelectronic semiconductor because it can emit and detect light. 
+- (S) YBa2Cu3O7 is a high temperature superconductor because it loses all electrical resistance at temperatures above -180°C.

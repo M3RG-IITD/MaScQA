@@ -1,0 +1,9 @@
+A Frenkel defect refers to an ionic compound in which a cation vacancy and a cation interstitial occur simultaneously. So, option (D) is incorrect.
+
+(A) In NaCl, Na and Cl ions are present, and Na+ ions occupy interstitial positions, while Cl- ions occupy lattice positions. One Cl vacancy and one Na vacancy indicate that one Na+ ion and one Cl- ions are missing or absent. Hence, option (A) is incorrect.
+
+(B) In ZnO, Zn exists as a cation, while O exists as an anion. One Zn vacancy and one Zn interstitial indicate that one Zn cation is absent from its normal lattice site, but it occupies the interstitial position. Therefore, option (B) is correct.
+
+(C) Potassium (K) is different from Sodium (Na) and hence can't occupy a Na site in NaCl, so option (C) is incorrect.
+
+Therefore, the correct answer is (B) One Zn vacancy and one Zn interstitial in ZnO.

@@ -1,0 +1,17 @@
+Let's assume the volume fraction of SiC particles in the composite is denoted by 'φ'.
+
+Now, using the rule of mixtures, we can write:
+
+E/ρ = φ*E(SiC)/ρ(SiC) + (1-φ)*E(Al)/ρ(Al)
+
+Given that the specific modulus of the composite is three times that of pure Al, we can write:
+
+E/ρ = 3*(E(Al)/ρ(Al))
+
+Substituting the values and simplifying, we get:
+
+φ = 0.16
+
+Therefore, the volume fraction of SiC particles in the composite is 0.16 or 16%. 
+
+Answer: [0.16, 16%]

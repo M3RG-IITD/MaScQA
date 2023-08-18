@@ -1,0 +1,13 @@
+
+
+To obtain an isomorphous phase diagram in a binary alloy system, the following rules need to be satisfied:
+
+P) The atomic size difference should be less than 15%. This is because if the size difference is too much, it can lead to lattice distortion, making it difficult for the atoms to occupy each other's sites and form a solid solution. 
+
+Q) Both the end components should have the same crystal structure. If the crystal structures are different, it can lead to lattice distortion, making it difficult for the atoms to occupy each other's sites and form a solid solution.
+
+R) The valency of the end components should be the same. This is because the valency of the components determines the number of electrons that are available for bonding. If the valencies are different, it can lead to the formation of intermetallic compounds that can't form a solid solution.
+
+S) The end components should have dissimilar electronegativities. This is because if the electronegativities are similar, the atoms will tend to form compounds instead of a solid solution.
+
+Therefore, the correct option is (A) P, Q, R.

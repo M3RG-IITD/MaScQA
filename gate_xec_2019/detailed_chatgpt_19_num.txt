@@ -1,0 +1,70 @@
+The de Broglie wavelength is given by the equation:
+
+$\lambda = \frac{h}{p}$
+
+where h is Planck's constant and p is the momentum of the particle.
+
+To find the momentum of the electron, we use the classical formula for the kinetic energy:
+
+$K = \frac{1}{2}mv^2$
+
+where m is the mass of the electron and v is its velocity.
+
+The potential energy of the electron is given by:
+
+$U = qV$
+
+where q is the electron charge and V is the accelerating voltage.
+
+The total energy of the electron is the sum of its kinetic and potential energies:
+
+$E = K + U$
+
+Since the electron is accelerated from rest, its initial kinetic energy is zero. Therefore, we have:
+
+$E = U = qV$
+
+Substituting in the values given in the question, we get:
+
+$E = (1.6 * 10^{-19})(300 * 10^3) = 4.8 * 10^{-14}$ J
+
+The momentum of the electron can be found by equating its energy to the relativistic expression for kinetic energy:
+
+$E^2 = (pc)^2 + (mc^2)^2$
+
+where c is the speed of light and m is the rest mass of the electron.
+
+Since we are instructed to ignore relativistic effects, we can use the non-relativistic formula:
+
+$K = \frac{1}{2}mv^2$
+
+Setting this equal to the electron's kinetic energy, we get:
+
+$\frac{1}{2}mv^2 = qV$
+
+Solving for v, we get:
+
+$v = \sqrt{\frac{2qV}{m}}$
+
+Substituting in the values given in the question, we get:
+
+$v = \sqrt{\frac{2(1.6 * 10^{-19})(300 * 10^3)}{9.11 * 10^{-31}}} = 1.35 * 10^7$ m/s
+
+The momentum of the electron is:
+
+$p = mv = (9.11 * 10^{-31})(1.35 * 10^7) = 1.23 * 10^{-23}$ kg m/s
+
+Finally, we can find the de Broglie wavelength using the equation:
+
+$\lambda = \frac{h}{p}$
+
+Substituting in the values we have calculated, we get:
+
+$\lambda = \frac{6.63 * 10^{-34}}{1.23 * 10^{-23}} = 0.054$ nm
+
+Rounding off to 2 decimal places, the answer is:
+
+x = 0.05
+
+Therefore, the correct answer is:
+- 0.05

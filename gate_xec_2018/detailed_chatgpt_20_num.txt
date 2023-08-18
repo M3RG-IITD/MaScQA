@@ -1,0 +1,57 @@
+We can use Bragg's law to determine what angles will produce peaks in the diffraction pattern:
+
+nλ = 2d sinθ
+
+where n is the order of the peak, λ is the wavelength of the incident radiation, d is the spacing between planes of atoms in the crystal lattice, and θ is the angle between the incident beam and the diffracted beam.
+
+For a face-centered cubic (FCC) lattice, the (hkl) planes have a spacing of:
+
+d = a/√(h^2 + k^2 + l^2)
+
+where a is the lattice parameter and h, k, and l are integers that denote the Miller indices of the plane.
+
+In this case, we have:
+
+a = 0.405 nm
+λ = 0.229 nm
+For the (hkl) planes with the largest interplanar spacing, we want to find the smallest angle that will produce a peak in the diffraction pattern. This corresponds to the smallest value of sinθ for each (hkl) plane.
+
+For (111):
+
+d = a/√(1^2 + 1^2 + 1^2) = 0.288 nm
+sinθ = nλ/2d = 0.396, 0.792, 1.188, ...
+The first two values of sinθ correspond to n = 1 and 2, respectively, and will produce distinct peaks in the diffraction pattern.
+
+For (200):
+
+d = a/√(2^2 + 0^2 + 0^2) = 0.405 nm
+sinθ = nλ/2d = 0.283, 0.566, 0.849, ...
+The first value of sinθ corresponds to n = 1 and will produce a peak in the diffraction pattern.
+
+For (220):
+
+d = a/√(2^2 + 2^2 + 0^2) = 0.288 nm
+sinθ = nλ/2d = 0.396, 0.792, 1.188, ...
+The first two values of sinθ correspond to n = 1 and 2, respectively, and will produce distinct peaks in the diffraction pattern.
+
+For (311):
+
+d = a/√(3^2 + 1^2 + 1^2) = 0.230 nm
+sinθ = nλ/2d = 0.496, 0.992, 1.488, ...
+The first two values of sinθ correspond to n = 1 and 2, respectively, and will produce distinct peaks in the diffraction pattern.
+
+For (222):
+
+d = a/√(2^2 + 2^2 + 2^2) = 0.203 nm
+sinθ = nλ/2d = 0.566, 1.132, 1.698, ...
+The first two values of sinθ correspond to n = 1 and 2, respectively, and will produce distinct peaks in the diffraction pattern.
+
+For (400):
+
+d = a/√(4^2 + 0^2 + 0^2) = 0.303 nm
+sinθ = nλ/2d = 0.377, 0.754, 1.131, ...
+The first two values of sinθ correspond to n = 1 and 2, respectively, and will produce distinct peaks in the diffraction pattern.
+
+So, the maximum number of peaks that can be observed in the X-ray diffraction pattern is 11. 
+
+The peaks correspond to the following (hkl) planes: (111), (200), (220), (311), (222), and (400) with the first two peaks for each of the (111), (220), and (311) planes, and only one peak for each of the (200), (222), and (400) planes.

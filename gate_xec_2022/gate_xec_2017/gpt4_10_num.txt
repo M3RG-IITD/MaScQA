@@ -1,0 +1,32 @@
+To calculate the density of totally crystalline PE, we need to find the mass within the unit cell and divide it by the unit cell volume.
+
+Step 1: Find the molecular weight of one ethylene repeat unit:
+
+Molecular weight of C2H4 (1 Ethylene repeat unit) = 2 * 12.01 (Carbon) + 4 * 1.008 (Hydrogen)
+= 24.02 + 4.032
+= 28.052 g/mol
+
+Step 2: Find the molecular weight of two ethylene repeat units in each unit cell:
+
+Weight in one unit cell = 28.052 * 2 g/mol
+= 56.104 g/mol
+
+Step 3: Calculate the mass inside the unit cell by dividing the weight by Avogadro's number: 
+
+Mass inside one unit cell = 56.104 g/mol / (6.023 * 10^23 molecules/mol)
+= 9.315 * 10^(-23) g
+
+Step 4: Convert the unit cell volume from $nm^3$ to $cm^3$:
+
+Unit cell volume = 0.0933 * (10^(-7) cm)^3
+= 9.33 * 10^(-23) cm^3
+
+Step 5: Calculate the density of totally crystalline PE:
+
+Density = Mass / Volume
+= (9.315 * 10^(-23) g) / (9.33 * 10^(-23) cm^3)
+= 0.99823 g/cm^3
+
+The density of totally crystalline PE can be approximated as 0.998 g/cm³.
+
+The answer is [0.998].

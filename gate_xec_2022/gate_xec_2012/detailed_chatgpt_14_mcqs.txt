@@ -1,0 +1,65 @@
+
+
+To solve this problem, we need to know the molecular weight of vinyl chloride and vinyl acetate, which are 62.50 g/mol and 86.09 g/mol, respectively. 
+
+First, let's find the total number of moles of vinyl chloride and vinyl acetate in the copolymer. We know the molecular weight of the copolymer and its degree of polymerization, so we can use the following equation: 
+
+$M_n = nM_w$
+
+where $M_n$ is the number-average molecular weight, $n$ is the degree of polymerization, and $M_w$ is the weight-average molecular weight. 
+
+We can rearrange this equation to solve for $n$: 
+
+$n = \frac{M_n}{M_w}$
+
+Plugging in the values given in the problem, we get: 
+
+$n = \frac{10520\text{ g/mol}}{M_w}$
+
+We need to find $M_w$, which we can do by using the following equation: 
+
+$M_w = w_1M_1 + w_2M_2$
+
+where $w_1$ and $w_2$ are the weight fractions of vinyl chloride and vinyl acetate, respectively, and $M_1$ and $M_2$ are their respective molecular weights. 
+
+We can rearrange this equation to solve for $w_1$: 
+
+$w_1 = \frac{M_w - w_2M_2}{M_1}$
+
+To make things easier, we can assume that the copolymer contains equal weight fractions of vinyl chloride and vinyl acetate. This assumption is reasonable because the question does not provide any information about the composition of the copolymer. 
+
+Therefore, we have: 
+
+$w_1 = w_2 = 0.5$
+
+Plugging in the values for $M_1$, $M_2$, $w_1$, and $w_2$, we get: 
+
+$M_w = 0.5\times 62.50\text{ g/mol} + 0.5\times 86.09\text{ g/mol} = 74.30\text{ g/mol}$
+
+Now we can solve for $n$: 
+
+$n = \frac{10520\text{ g/mol}}{74.30\text{ g/mol}} \approx 141.57$
+
+This means that the copolymer contains approximately 141.57 repeat units. 
+
+Next, let's find the number of moles of vinyl chloride and vinyl acetate in the copolymer: 
+
+$n_{VC} = 141.57\times 0.5 = 70.79$
+
+$n_{VA} = 141.57\times 0.5 = 70.79$
+
+Finally, we can find the mole fraction of vinyl chloride: 
+
+$x_{VC} = \frac{n_{VC}}{n_{VC} + n_{VA}} = \frac{70.79}{70.79 + 70.79} \approx 0.50$
+
+Therefore, the correct answer is:
+
+(A) 0.14 
+
+(B) 0.30 
+
+(C) 0.70 
+
+(D) 0.86 
+
+None of the above. The mole fraction of vinyl chloride is approximately 0.50.

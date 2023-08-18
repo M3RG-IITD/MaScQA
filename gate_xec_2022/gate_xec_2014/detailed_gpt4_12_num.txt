@@ -1,0 +1,39 @@
+Let's first understand the given data:
+
+- Copper cup mass: mc = 140 g
+- Copper cup initial temperature: Tc_initial = 4 °C
+- Water's mass inside the copper cup: mw1 = 80 g
+- Water's initial temperature inside the copper cup: Tw1_initial = 4 °C
+- Water's mass added to the cup: mw2 = 100 g
+- Water's initial temperature added to the cup: Tw2_initial = 90 °C
+- Specific heat capacity of water: Sw = 4.18 J/g°C
+- Specific heat capacity of copper: Sc = 0.385 J/g°C
+
+We want to find the final temperature of the whole system (water and copper cup) when both bodies reach thermal equilibrium. Let's call this final temperature T_final.
+
+When water is added to the cup, heat energy transfer will occur until they reach an equilibrium. We can set up an equation based on the conservation of energy: heat gained by the cold bodies (copper cup and water inside the cup) equals heat lost by the hot body (added water).
+
+(mc * Sc * (T_final - Tc_initial)) + (mw1 * Sw * (T_final - Tw1_initial)) = (mw2 * Sw * (Tw2_initial - T_final))
+
+Now, substitute the given data into the equation:
+
+(140 * 0.385 * (T_final - 4)) + (80 * 4.18 * (T_final - 4)) = (100 * 4.18 * (90 - T_final))
+
+Simplify the equation:
+
+53.9 * (T_final - 4) + 334.4 * (T_final - 4) = 418 * (90 - T_final)
+
+Combine terms:
+
+53.9T_final - 215.6 + 334.4T_final - 1337.6 = 37620 - 418T_final
+
+Add all T_final terms on one side:
+
+806.3T_final = 37620 + 1553.2
+
+Solve for T_final:
+
+T_final = (37620 + 1553.2) / 806.3
+T_final ≈ 44.5 °C
+
+So, the final temperature of water in the copper cup when thermal equilibrium is reached is approximately 44.5 °C. The correct answer can be written as [44.5].

@@ -1,0 +1,27 @@
+The diffusivity can be calculated using the Arrhenius equation:
+
+$$D = D_°*exp\left(\frac{-Q}{R*T}\right)$$
+
+where $T$ is the temperature in Kelvin. 
+
+We are given $D_°$, $Q$, $R$, and the temperature in Celsius. We can convert the temperature to Kelvin by adding 273.15:
+
+$$T = 727 + 273.15 = 1000.15K$$
+
+Plugging in the values:
+
+$$D = (2*10^{-5} m^2/s) * exp\left(\frac{-(142*10^3 J/mol)}{(8.314 J/mol.K * 1000.15K)}\right)$$
+
+Simplifying:
+
+$$D = (2*10^{-5}) * exp\left(-17.093\right)$$
+
+Calculating:
+
+$$D = 0.438 * 10^{-13} m^2/s$$
+
+Therefore, x = 0.438. The answer in scientific notation is: 
+
+$$D = 4.38 * 10^{-14} m^2/s$$
+
+Answer: [4.38]*10^(-14)

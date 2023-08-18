@@ -1,0 +1,14 @@
+
+
+The correct answer is:
+
+(B) P-5, Q-3, R-4, S-2
+
+Explanation:
+
+- (P) represents a eutectic reaction where a liquid phase (L) transforms into two solid phases (α and β).
+- (Q) represents a monotectic reaction where a liquid phase (L) and one solid phase (α) transform into another solid phase (β).
+- (R) represents a peritectoid reaction where one solid phase (γ) decomposes into another solid phase (α) and another solid phase (β).
+- (S) represents a peritectic reaction where one solid phase (α) and another solid phase (β) combine to form a third solid phase (γ).
+
+Therefore, the matching of invariant reactions in Column I with their names in Column II is P-5, Q-3, R-4, S-2.

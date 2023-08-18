@@ -1,0 +1,4 @@
+The process of amino acids reacting to form peptides and proteins is known as condensation polymerization.
+
+Explanation:
+In condensation polymerization, two or more monomers combine with the elimination of a small molecule, such as water, to form a larger molecule. Amino acids have a carboxyl group (-COOH) and an amino group (-NH2), which can react with each other through a condensation reaction to form a peptide bond (-CO-NH-) and release a water molecule. This process is repeated as more amino acids are added to the chain, ultimately forming a peptide or protein. Therefore, the correct answer is (C) condensation polymerization.

@@ -1,0 +1,43 @@
+First, we need to determine the entropy change during the transformation. We can do this using the enthalpy change and the temperature at which the transformation occurs. 
+
+ΔH = ΔS × T
+
+Where ΔH is the enthalpy change, ΔS is the entropy change, and T is the temperature.
+
+Rearranging for ΔS, we get:
+
+ΔS = ΔH / T
+
+Plugging in the given values for enthalpy change (912 J/mol) and temperature (773 K), we get:
+
+ΔS = 912 J/mol / 773 K = 1.18 J/mol K
+
+Now, we'll use the Clausius-Clapeyron equation to find the pressure required for the transformation to occur at 723 K:
+
+ΔP / ΔT = ΔH / TΔV
+
+Where ΔP is the change in pressure, ΔT is the change in temperature (723 K - 773 K = -50 K), and ΔV is the change in molar volume (7.317 cm³ - 7.377 cm³ = -0.06 cm³).
+
+First, let's convert the change in molar volume to m³/mol:
+
+ΔV = -0.06 cm³/mol × (1 m³ / 10⁶ cm³) = -6 × 10^(-8) m³/mol
+
+Now, plugging in the known values into the Clausius-Clapeyron equation, we get:
+
+ΔP / (-50 K) = (912 J/mol) / (723 K × -6 × 10^(-8) m³/mol)
+
+Solving for ΔP:
+
+ΔP = 50 K × (912 J/mol) / (723 K × 6 × 10^(-8) m³/mol) = 10537.2948 Pa
+
+Now, we need to convert this change in pressure to atm:
+
+ΔP = 10537.2948 Pa × (1 atm / 1.01325 × 10^5 Pa) = 0.104 atm
+
+Since the transformation occurs at 1 atm, the required pressure for the transformation to occur at 723 K is:
+
+P = 1 atm + 0.104 atm = 1.104 atm
+
+Rounding off to the nearest integer, the required pressure is approximately 1 atm. 
+
+So the answer is [1].

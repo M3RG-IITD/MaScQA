@@ -1,0 +1,47 @@
+Given: 
+
+$E_{ani}= 0.4$ V (Anodic polarization)
+
+$i_o = 10^{-5}$ A $m^{-2}$ (Exchange current density)
+
+$β_{ani} = 0.1$ V/decade (Tafel slope)
+
+Using Tafel’s equation: 
+
+$ \log i = \log i_o + \frac{\beta}{2.303} E $ 
+
+where, 
+
+$i =$ corrosion current density (A $ m^{−2}$)
+
+$E = E_{corr}-E_{ani}$ 
+
+$E_{corr}=0$ V (Since the problem states de-aerated electrolyte)
+
+$E_{ani} = 0.4$ V 
+
+$E=E_{corr}-E_{ani}=-0.4$ V 
+
+$\beta = β_{ani}$ (From the problem statement)
+
+Substituting, we get: 
+
+$ \log i = \log 10^{-5} + \frac{0.1}{2.303} (-0.4) $
+
+$i = 3.2 × 10^{-6}$ A $m^{−2}$
+
+Therefore, the rate of metal dissolution = $i/F$
+
+where, 
+
+$F =$ Faraday’s constant = $96500$ C $mol^{−1}$
+
+$M = $ Atomic weight of metal 
+
+$n = $ Number of electrons exchanged 
+
+From the problem statement, $n=1$ 
+
+Atomic weight of the metal is not given. Therefore, we cannot calculate the rate of metal dissolution. 
+
+Answer: Cannot be determined.

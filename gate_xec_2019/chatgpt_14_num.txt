@@ -1,0 +1,39 @@
+The corrosion reaction of nickel can be represented as:
+Ni(s) → Ni$^(2+)$ + 2e$^-$
+At the anode, water gets oxidized into oxygen gas and hydrogen ions:
+2H$_2$O(l) → O$_2$(g) + 4H$^+$(aq) + 4e$^-$
+To stop the corrosion of nickel, we need to reduce the concentration of hydrogen ions, which can be achieved by supplying hydrogen gas to the solution. The hydrogen gas will be reduced at the cathode:
+2H$^+$(aq) + 2e$^-$ → H$_2$(g)
+The standard reduction potential of hydrogen is 0 V. So, the overall cell potential for the reaction will be:
+E$^\circ_{cell}$ = E$^\circ_{Ni^{2+}/Ni}$ - E$^\circ_{H^+/H_2}$ 
+= (-0.25) - (0)
+= -0.25 V
+At 298 K, the value of the equilibrium constant for the reaction can be calculated using the Nernst equation:
+E$^\circ_{cell}$ = (RT/nF) lnK$_{eq}$
+where R is the universal gas constant, T is the temperature in Kelvin, n is the number of electrons transferred in the reaction, F is the Faraday constant, and ln is the natural logarithm.
+R = 8.314 J $K^{−1}mol^{−1}$
+T = 298 K
+n = 2
+F = 96500 C $mol^{−1}$
+E$^\circ_{cell}$ = -0.25 V
+Substituting these values in the equation, we get:
+lnK$_{eq}$ = (-2)(-0.25)(96500)/(8.314)(298)
+lnK$_{eq}$ = -27.51
+K$_{eq}$ = e$^{-27.51}$
+K$_{eq}$ = 4.38 × 10$^{-12}$
+The equilibrium constant can be expressed as:
+K$_{eq}$ = [Ni$^{2+}$][H$^+$]$^2$ / P$_{H_2}$ 
+where [Ni$^{2+}$] = 0.06 M (given)
+[H$^+$] = 10$^{-4}$ M (pH 4)
+To stop the corrosion of nickel, we need to make the value of K$_{eq}$ less than or equal to 1. So, by rearranging the equation, we get:
+P$_{H_2}$ = [Ni$^{2+}$][H$^+$]$^2$ / K$_{eq}$ 
+P$_{H_2}$ = (0.06)(10$^{-4}$)$^2$ / (4.38 × 10$^{-12}$)
+P$_{H_2}$ = 1.38 × 10$^6$ atm
+The partial pressure of hydrogen required to stop the corrosion of nickel is 1.38 × 10$^6$ atm.
+
+Answer: 
+- 1.4 × 10^6 atm
+- 1400000 atm
+- 140000 atm
+- 1.4 atm
+- 14 atm

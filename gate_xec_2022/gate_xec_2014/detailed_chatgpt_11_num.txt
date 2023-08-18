@@ -1,0 +1,67 @@
+Given data:
+
+Young's modulus, $E$ = 110 GPa = $110 \times 10^9$ Pa
+
+Yield strength, $\sigma_Y$ = 880 MPa = $880 \times 10^6$ Pa
+
+Total strain at failure, $\epsilon$ = 0.108
+
+We are supposed to find the mechanical energy necessary to break the material in MJ/$m^3$. 
+
+First, let's find the stress at which the material fails. 
+
+We know that the yield strength of the material is 880 MPa. Since the material does not exhibit any strain hardening, we can assume that the material fails at this yield strength. 
+
+At yield strength, we have:
+
+$\sigma_Y = \dfrac{F}{A}$
+
+where $F$ is the force applied and $A$ is the cross-sectional area of the bar.
+
+We can rearrange this equation to get:
+
+$F = \sigma_Y \times A$
+
+We can also use the definition of Young's modulus to write:
+
+$\sigma = \dfrac{F}{A} = E \epsilon$
+
+where $\sigma$ is the stress and $\epsilon$ is the strain.
+
+Rearranging this equation, we get:
+
+$F = AE\epsilon$
+
+Substituting the expression for $F$ from the equation for yield strength, we get:
+
+$AE\epsilon = \sigma_Y A$
+
+Simplifying this equation, we get:
+
+$\sigma_Y = E\epsilon$
+
+Substituting the given values, we get:
+
+$880 \times 10^6$ Pa = $110 \times 10^9$ Pa $\times$ 0.108
+
+Solving for the stress at failure, we get:
+
+$\sigma_f$ = 881.28 MPa = 881280 Pa
+
+Now, let's find the strain energy density, which is the mechanical energy required to break the material per unit volume. 
+
+The strain energy density can be expressed as:
+
+$u = \dfrac{1}{2}\sigma_f\epsilon$
+
+Substituting the values, we get:
+
+$u = \dfrac{1}{2} \times 881280 \times 0.108$
+
+$u = 51.11$ MJ/$m^3$
+
+Therefore, the mechanical energy necessary to break the material in MJ/$m^3$ is 51.11. 
+
+Answer: 
+
+- 51.11 MJ/$m^3$

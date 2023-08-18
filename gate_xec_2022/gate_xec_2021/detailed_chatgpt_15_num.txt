@@ -1,0 +1,35 @@
+We can use the Clausius-Clapeyron equation to relate the pressure and temperature dependence of a phase transition to the enthalpy of transformation:
+
+$$\frac{d}{dT}(\ln P) = \frac{\Delta_{trs}H}{RT^2}$$
+
+where $P$ is the pressure, $T$ is the temperature, $\Delta_{trs}H$ is the enthalpy of transformation per mole of substance, $R$ is the gas constant, and the derivative is taken at constant pressure.
+
+Assuming that the difference in molar volumes of α and β is independent of pressure, we can use the ideal gas law to relate the molar volume to the pressure and temperature:
+
+$$V = \frac{RT}{P}$$
+
+Taking the derivative with respect to temperature at constant pressure, we get:
+
+$$\frac{dV}{dT} = \frac{R}{P}$$
+
+Using these relationships, we can write the differential equation in terms of pressure and volume as:
+
+$$\frac{d}{dT}(\ln \frac{P}{V}) = \frac{\Delta_{trs}H}{R}\frac{dV}{dT}$$
+
+Substituting the molar volumes of α and β, we get:
+
+$$\frac{d}{dT}(\ln \frac{P}{7.377}) = \frac{912}{R}\frac{1}{7.377-7.317}(\frac{R}{P})$$
+
+Integrating this equation between 773 K and 723 K, we get:
+
+$$\ln \frac{P}{7.377} - \ln \frac{P_0}{7.377} = \frac{912}{R}\frac{1}{7.377-7.317}\ln\frac{T}{T_0}$$
+
+where $P_0$ and $T_0$ are the initial pressure and temperature, respectively. Solving for $P$, we get:
+
+$$P = \frac{7.377}{7.317}\cdot P_0\cdot \exp[\frac{912}{R}\cdot\frac{1}{7.377-7.317}\cdot (\frac{1}{723}-\frac{1}{773})]$$
+
+Using the given value of the gas constant and the conversion factor between atm and Pa, we get:
+
+$$P = \frac{7.377}{7.317}\cdot 1.01325\times 10^5\cdot \exp[\frac{912}{8.314}\cdot\frac{1}{7.377-7.317}\cdot (\frac{1}{723}-\frac{1}{773})] \approx \boxed{1}\text{ atm}$$
+
+Therefore, the pressure required for α to β transformation to occur at 723 K is approximately 1 atm (rounded off to the nearest integer).

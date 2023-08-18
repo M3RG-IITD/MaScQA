@@ -1,0 +1,43 @@
+Let's use the formula for exponential decay: 
+
+y = a * (1 - r)^t
+
+Where y is the stress after time t, a is the initial stress, r is the decay rate, and t is the time in hours. 
+
+We know the initial stress is 17 MPa. After 100 hours, the stress is 16.6 MPa. Let's solve for the decay rate r:
+
+16.6 = 17 * (1 - r)^100
+
+Divide both sides by 17:
+
+0.9765 = (1 - r)^100
+
+Take the 100th root of both sides:
+
+(0.9765)^(1/100) = 1 - r
+
+Solve for r:
+
+r = 1 - (0.9765)^(1/100)
+r ≈ 0.000234
+
+Now we can use this decay rate to find how long it takes for the stress to drop to 14.5 MPa. 
+
+14.5 = 17 * (1 - 0.000234)^t
+
+Divide both sides by 17:
+
+0.8529 = (1 - 0.000234)^t
+
+Take the natural logarithm of both sides:
+
+ln(0.8529) = t * ln(1 - 0.000234)
+
+Now, divide by ln(1 - 0.000234) to solve for t:
+
+t = ln(0.8529) / ln(1 - 0.000234)
+t ≈ 1187.35
+
+Since we need to round off to the nearest integer, the expected life of the assembly is approximately 1187 hours.
+
+Answer: [1187].

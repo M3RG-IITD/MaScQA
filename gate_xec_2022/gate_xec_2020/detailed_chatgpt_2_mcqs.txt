@@ -1,0 +1,6 @@
+The smallest of minimum feature size that can be theoretically resolved in an optical microscope does NOT depend on the (B) Intensity of radiation. 
+
+Explanation:
+The minimum feature size that can be resolved in an optical microscope is given by the Rayleigh criterion:
+d = 0.61λ/NA
+where d is the minimum resolvable feature size, λ is the wavelength of radiation, and NA is the numerical aperture of the objective lens. This means that the minimum feature size is directly proportional to the wavelength and inversely proportional to the numerical aperture. The refractive index of the medium between the lens and the focal point can affect the resolution, but only to a small extent. The intensity of radiation has no direct effect on resolution, although it can affect image contrast.

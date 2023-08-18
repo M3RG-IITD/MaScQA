@@ -1,0 +1,20 @@
+To find the value of x, we'll use the Arrhenius equation for diffusivity:
+
+D = $D_° e^{(-Q / (RT))}$
+
+where D is the diffusivity at temperature T, $D_°$ is the pre-exponential constant, Q is the activation energy, R is the gas constant, and T is the temperature in Kelvin.
+
+First, let's find the temperature in Kelvin:
+T = 727°C + 273.15 = 1000.15K
+
+Now, we can plug in the values into the equation:
+
+D = $(2*10^{-5}m^2/s)e^{(-142000 J/mol / (8.314 J/mol.K * 1000.15K))}$
+
+D = $(2*10^{-5}m^2/s)e^{-\frac{142000}{8314.245}}$
+
+D = $(2*10^{-5}m^2/s)e^{-17.073}$
+
+Using a calculator, we find D ≈ $2.177*10^{-13} m^2/s$
+
+Therefore, x ≈ 2.177. The correct answer is [2.177].

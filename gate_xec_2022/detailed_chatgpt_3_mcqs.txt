@@ -1,0 +1,9 @@
+Rubber is a polymer material that exhibits elasticity due to the nature of its polymer chains. At small strains, the elasticity of rubber is primarily due to the stretching of these polymer chains. This stretching causes a change in the entropy of the material but not a significant change in enthalpy. 
+
+Option (C) No change in enthalpy, but change in the entropy is correct. 
+
+To explain in detail, the entropy of a system is a measure of the disorder or randomness of its molecules. When a rubber band is stretched, the polymer chains become more disordered, and the entropy of the system increases. This increase in entropy is the primary factor responsible for the elasticity of rubber at small strains.
+
+Enthalpy, on the other hand, is a measure of the heat energy stored in a system. When a rubber band is stretched, there is a small increase in enthalpy due to the work done in stretching the polymer chains. However, this change in enthalpy is not significant compared to the change in entropy, and hence it is not the primary factor responsible for the elasticity of rubber at small strains.
+
+Therefore, the correct option is (C) No change in enthalpy, but change in the entropy.

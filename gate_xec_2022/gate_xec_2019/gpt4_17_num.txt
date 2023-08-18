@@ -1,0 +1,23 @@
+First, we have to consider the two possible outcomes when transferring a ball from box-S to box-T: either a white ball or a black ball is transferred.
+
+Probability of transferring a white ball from box-S to box-T:
+There are 2 white balls and 6 total balls in box-S, so the probability of picking a white ball from box-S is 2/6 or 1/3.
+
+If a white ball is transferred, box-T will have 6 white balls and 3 black balls, so the probability of subsequently picking a white ball from box-T is 6/9, or 2/3.
+
+Thus, the probability if a white ball is transferred is (1/3)*(2/3) = 2/9.
+
+Probability of transferring a black ball from box-S to box-T:
+There are 4 black balls and 6 total balls in box-S, so the probability of picking a black ball from box-S is 4/6, or 2/3.
+
+If a black ball is transferred, box-T will have 5 white balls and 4 black balls, so the probability of subsequently picking a white ball from box-T is 5/9.
+
+Thus, the probability if a black ball is transferred is (2/3)*(5/9) = 10/27.
+
+To find the overall probability of drawing a white ball from box-T, we add up these probabilities:
+
+(2/9) + (10/27) = 6/27 + 10/27 = 16/27
+
+Rounded to 2 decimal places, the probability is approximately 0.59.
+
+So, the probability of drawing a white ball from box-T is [0.59].

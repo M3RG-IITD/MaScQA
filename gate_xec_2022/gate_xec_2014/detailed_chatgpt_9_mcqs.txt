@@ -1,0 +1,20 @@
+
+
+In order to determine which crystal class exhibits both piezoelectric and ferroelectric behavior, we need to consult the symmetry requirements for these properties. 
+
+Piezoelectricity requires a crystal to lack a center of symmetry. This means that if you invert the molecule, it won't have the same structure. This usually happens when the point group of the molecule has no inversion center. 
+
+Ferroelectricity, however, requires a crystal to have a polar axis. This can only happen if the crystal has the proper symmetry axes and lack a centre of symmetry. 
+
+Now let's examine each of the options:
+
+A) 222 - This point group has a 2-fold axis along each of the three axes. It also has a center of symmetry. Therefore, it cannot be piezoelectric or ferroelectric.
+
+B) 4mm - This point group has a 4-fold axis along the z axis and a mirror plane perpendicular to it. There is no center of inversion, which suggests that it could be piezoelectric, but it lacks a polar axis, hence it is not ferroelectric. 
+
+C) -1 - This point group has no symmetry element except the identity. Since it lacks an inversion center, it should be piezoelectric. However, it also has no symmetry axis, hence it cannot exhibit ferroelectricity.
+
+D) 2/m - This point group contains a two-fold axis along the y-axis, a mirror plane perpendicular to the y-axis and no center of symmetry along the x-axis. Therefore, it is not centrosymmetric and can be both piezoelectric and ferroelectric.
+
+Thus, the correct answer is:
+(D) 2/m

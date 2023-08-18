@@ -1,0 +1,30 @@
+The modulus of elasticity for a composite material in the direction of fibre alignment can be calculated using the rule of mixtures, which assumes that the composite behaves as a homogeneous material and that the stress is evenly distributed between the fibre and the matrix.
+
+The formula for the modulus of elasticity in the direction of fibre alignment is:
+
+E_cf = V_cf * E_cf + V_mat * E_mat
+
+where:
+
+V_cf = volume fraction of carbon fibre
+V_mat = volume fraction of matrix material
+E_cf = modulus of elasticity of carbon fibre
+E_mat = modulus of elasticity of matrix material
+
+Substituting the given values:
+
+V_cf = 0.30 (since the composite has 30 vol% of CF)
+V_mat = 0.70 (since the rest is resin)
+E_cf = 170 GPa
+E_mat = 3.0 GPa
+
+E_cf = 0.30 * 170 GPa + 0.70 * 3.0 GPa
+
+E_cf = 51 GPa + 2.1 GPa
+
+E_cf = 53.1 GPa
+
+Therefore, the modulus of elasticity for this composite in the direction of fibre alignment is 53.1 GPa.
+
+Answer:
+- 53.1 GPa

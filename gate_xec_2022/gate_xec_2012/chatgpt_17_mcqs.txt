@@ -1,0 +1,37 @@
+
+
+The given steel is a 0.45 wt.% carbon steel. We are cooling the steel slowly from 900°C to just below 723°C such that proeutectoid α forms from γ. 
+
+Given, γ (0.8 wt.% C) ↔ α (0.02 wt.% C) + $Fe_3C$ (6.67 wt.% C)
+
+Let us calculate the weight fraction of proeutectoid α formed during cooling. 
+
+According to lever rule, 
+
+$$\frac{C_{\alpha}-C_{\text{avg}}}{C_{\gamma}-C_{\alpha}}=\frac{V_{\gamma}}{V_{\alpha}}$$
+
+where $C_{\alpha}$ and $C_{\gamma}$ are the carbon contents of α and γ, respectively, $C_{\text{avg}}$ is the average carbon content of the steel, and $V_{\alpha}$ and $V_{\gamma}$ are the volume fractions of α and γ, respectively. 
+
+For the given steel, 
+
+$C_{\gamma}$ = 0.8 wt.% 
+
+$C_{\alpha}$ = 0.02 wt.% 
+
+$C_{\text{avg}}$ = 0.45 wt.% 
+
+$V_{\gamma}+V_{\alpha}=1$ 
+
+To find $V_{\alpha}$ just below 723°C, let us assume that all the proeutectoid α has formed and $V_{\gamma}=1-V_{\alpha}$. 
+
+Substituting these values in the lever rule equation, we get 
+
+$$\frac{0.02-0.45}{0.8-0.02}=\frac{1-V_{\alpha}}{V_{\alpha}}$$
+
+Solving this equation, we get 
+
+$V_{\alpha}$ = 0.4491 = 44.91% 
+
+Therefore, the volume % of proeutectoid α just below 723°C for the given steel is 44.9%. 
+
+Answer: (A) 44.9%

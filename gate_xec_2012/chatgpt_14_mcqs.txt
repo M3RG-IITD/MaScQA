@@ -1,0 +1,25 @@
+
+
+First, we need to determine the number of moles of each monomer in the copolymer:
+
+- For vinyl chloride:
+    - Molecular weight = 62.5 g/mol
+    - Number of monomers in copolymer = degree of polymerization = 160
+    - Mass of vinyl chloride in copolymer = 62.5 g/mol x 160 = 10000 g
+    - Number of moles of vinyl chloride = mass/molecular weight = 10000 g/62.5 g/mol = 160 mol
+
+- For vinyl acetate:
+    - Molecular weight = 86.1 g/mol
+    - Number of monomers in copolymer = degree of polymerization = 160
+    - Mass of vinyl acetate in copolymer = 86.1 g/mol x 160 = 13776 g
+    - Number of moles of vinyl acetate = mass/molecular weight = 13776 g/86.1 g/mol = 160 mol
+
+The total number of moles in the copolymer is the sum of the moles of each monomer:
+
+total moles = moles of vinyl chloride + moles of vinyl acetate = 160 mol + 160 mol = 320 mol
+
+The mole fraction of vinyl chloride is the ratio of the moles of vinyl chloride to the total moles:
+
+mole fraction of vinyl chloride = moles of vinyl chloride/total moles = 160 mol/320 mol = 0.50
+
+Therefore, the correct answer is not given in the options.

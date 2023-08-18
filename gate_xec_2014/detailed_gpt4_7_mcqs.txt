@@ -1,0 +1,15 @@
+To answer this question, we need to understand the relationship between mobile dislocation density and the mechanical properties of a material: Young's modulus, yield strength, ductility, and fracture toughness.
+
+Mobile Dislocation Density refers to the concentration of dislocation lines within a crystalline material that can move under stress. The higher the mobile dislocation density, the easier it is for the material to deform.
+
+(P) Young's modulus: It is also known as the modulus of elasticity, and it's a measure of a material's ability to resist deformation (stiffness). Young's modulus depends mainly on the bond strength between atoms in the material, and it is generally not influenced by the mobile dislocation density.
+
+(Q) Yield strength: Yield strength is the stress at which a material begins to deform plastically (permanent deformation). Yield strength depends on the material's ability to impede the motion of dislocations. An increase in mobile dislocation density causes the movement of dislocations to be difficult and thus increases the yield strength.
+
+(R) Ductility: Ductility represents a material's ability to undergo plastic deformation before fracture. Higher mobile dislocation density increases the material's ability to deform plastically under stress, leading to increased ductility.
+
+(S) Fracture toughness: Fracture toughness is a material's ability to resist crack growth and failure under stress. The resistance to crack growth depends on the way dislocations move around the crack tips. An increase in mobile dislocation density can improve the fracture toughness of the material by increasing the material's ability to deform plastically and hence absorb more energy before failure.
+
+Based on the relationships discussed above, it is clear that yield strength (Q), ductility (R), and fracture toughness (S) depend on the mobile dislocation density in a material, while Young's modulus (P) does not.
+
+Hence, the correct answer is: [B] Q, R, S.

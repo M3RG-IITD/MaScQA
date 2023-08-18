@@ -1,0 +1,17 @@
+We know that the magnetic field inside a solenoid is given by:
+
+$B = \mu_0 n I$
+
+where $\mu_0$ is the permeability of free space, $n$ is the number of turns per unit length and $I$ is the current passing through the solenoid.
+
+To demagnetize the bar magnet, we need to apply a magnetic field in the opposite direction to cancel out the magnetization of the bar. The coercivity of the bar magnet is 7000 A/m, which means we need to apply a magnetic field of at least 7000 A/m in the opposite direction to demagnetize it.
+
+The solenoid has a length of 0.25 m and 150 turns of wire, so the number of turns per unit length is:
+
+$n = \frac{150}{0.25} = 600\text{ turns/m}$
+
+Using $\mu_0 = 4\pi \times 10^{-7} \text{ T}\cdot\text{m}/\text{A}$, we can solve for the current:
+
+$I = \frac{B}{\mu_0 n} = \frac{7000}{4\pi \times 10^{-7} \times 600} \approx \boxed{3.7\text{ A}}$
+
+Answer: 3.7 A

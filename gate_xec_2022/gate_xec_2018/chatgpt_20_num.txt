@@ -1,0 +1,103 @@
+
+
+The Bragg's law for X-ray diffraction is given by: 
+
+nλ = 2d sinθ
+
+where n is an integer representing the order of reflection, λ is the wavelength of x-ray, d is the interplanar spacing and θ is the angle of incidence. 
+
+For the FCC crystal structure, the Miller Indices for the (hkl) planes are given by (hkl) = (100), (110), (111), (200), (210), (211), (220), (221), (222), ...  
+
+The interplanar spacing d for the (hkl) planes in FCC crystal lattice is given by:
+
+d = a / sqrt(h^2 + k^2 + l^2)
+
+where a is the lattice parameter and h, k and l are the Miller indices. 
+
+For (100) plane, 
+
+d = a / sqrt(1^2 + 0^2 + 0^2) = a/1 = a
+
+For (110) plane, 
+
+d = a / sqrt(1^2 + 1^2 + 0^2) = a / sqrt(2)
+
+For (111) plane, 
+
+d = a / sqrt(1^2 + 1^2 + 1^2) = a / sqrt(3)
+
+For (200) plane, 
+
+d = a / sqrt(2^2 + 0^2 + 0^2) = a/ 2
+
+For (210) plane, 
+
+d = a / sqrt(2^2 + 1^2 + 0^2) = a / (2√2)
+
+For (211) plane, 
+
+d = a / sqrt(2^2 + 1^2 + 1^2) = a / {2 [ (1/2)^2 + 1 ]^1/2 } = a / (3√2)
+
+For (220) plane, 
+
+d = a / sqrt(2^2 + 2^2 + 0^2) = a / (2√2)
+
+For (221) plane, 
+
+d = a / sqrt(2^2 + 2^2 + 1^2) = a / {3 [  (1/2)^2 + 1 ]^1/2 } = a / (4√2)
+
+For (222) plane, 
+
+d = a / sqrt(2^2 + 2^2 + 2^2) = a / 2√3
+
+To find the angles of diffraction, we need to rearrange the Bragg's law as:
+
+θ = sin^-1 (nλ / 2d)
+
+For n = 1, 
+
+θ100 = sin^-1 (λ/2a)
+
+θ110 = sin^-1 (λ / 2√2 a)
+
+θ111 = sin^-1 (λ / 2√3 a)
+
+θ200 = sin^-1 (λ / 4a)
+
+θ210 = sin^-1 (λ / 4√2 a)
+
+θ211 = sin^-1 (λ / 6√2 a)
+
+θ220 = sin^-1 (λ / 4√2 a)
+
+θ221 = sin^-1 (λ / 8√2 a)
+
+θ222 = sin^-1 (λ / 6a)
+
+Substituting the given values, we get:
+
+θ100 = sin^-1 (0.229 / (2 × 0.405)) = 20.46°
+
+θ110 = sin^-1 (0.229 / (2 × 0.286)) = 30.38°
+
+θ111 = sin^-1 (0.229 / (2 × 0.249)) = 34.52°
+
+θ200 = sin^-1 (0.229 / (4 × 0.405)) = 44.90°
+
+θ210 = sin^-1 (0.229 / (4 × 0.286)) = 58.02°
+
+θ211 = sin^-1 (0.229 / (6 × 0.286)) = 70.46°
+
+θ220 = sin^-1 (0.229 / (4 × 0.286)) = 78.48°
+
+θ221 = sin^-1 (0.229 / (8 × 0.286)) = 89.25°
+
+θ222 = sin^-1 (0.229 / (6 × 0.405)) = 103.13°
+
+The maximum number of peaks that can be observed in the pattern is equal to the number of unique angles (up to a certain tolerance), since each angle corresponds to a unique set of (hkl) planes. 
+
+Therefore, the maximum number of peaks that can be observed in the pattern is 
+
+9 
+
+Answer: 9.

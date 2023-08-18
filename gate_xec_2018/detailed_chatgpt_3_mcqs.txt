@@ -1,0 +1,5 @@
+When a material is repelled in an external magnetic field, it indicates that the material is diamagnetic. Diamagnetic materials are those that have no unpaired electrons in their outermost shell, resulting in no net magnetic field. When exposed to an external magnetic field, diamagnetic materials create a magnetic field opposite to the external magnetic field, leading to repulsion. 
+
+Therefore, the answer is:
+
+(B) Diamagnetic

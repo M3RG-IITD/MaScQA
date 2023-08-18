@@ -1,0 +1,22 @@
+To match the characterization techniques in Column I with the options in Column II, let's first define each technique and their associated features:
+
+P. Scanning tunneling microscopy (STM): This technique uses an atomically sharp tip to scan the surface of a conductive material. The tip is brought very close to the sample's surface, and a voltage is applied between the tip and the sample. Electrons tunnel through the vacuum between the tip and the sample. The tunneling current depends on the distance and the local density of states on the sample's surface. This technique can achieve sub-Angstrom resolution.
+
+Q. Scanning electron microscopy (SEM): This technique scans a focused beam of electrons on the surface of a sample. The electrons interact with atoms in the sample, producing various signals, including backscattered electrons, secondary electrons, and X-rays. SEM requires a vacuum and does not offer sub-Angstrom resolution.
+
+R. Transmission electron microscopy (TEM): In this technique, a thin sample is illuminated by a high-energy electron beam. Electrons passing through the sample form an image on a detector/screen on the other side. This technique can give sub-Angstrom resolution but requires a high vacuum.
+
+S. Atomic force microscopy (AFM): This technique uses an atomically sharp tip to probe the sample's surface. The tip is mounted on a flexible cantilever that bends in response to the forces between the tip and sample. AFM operates in air, liquid, or vacuum conditions and does not require a vacuum.
+
+Now, let's match the techniques with the options:
+
+P. Scanning tunneling microscopy: 5. Sub-Angstrom resolution.
+
+Q. Scanning electron microscopy: 2. Backscattered electrons.
+
+R. Transmission electron microscopy: 5. Sub-Angstrom resolution.
+
+S. Atomic force microscopy: 1. No vacuum required and 4. Atomically sharp tip.
+
+Therefore, the correct answer is: 
+[D] P-5, Q-2, R-5, S-1, and S-4.

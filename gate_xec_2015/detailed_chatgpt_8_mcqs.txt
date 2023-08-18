@@ -1,0 +1,13 @@
+The eutectic reaction involves two or more solid phases that melt and solidify at a fixed temperature to form a liquid phase. The correct option should represent the reaction between solid phases that undergo a eutectic transformation.
+
+Here, option (A) represents the transformation of one solid phase into two solid phases, which is not a eutectic reaction.
+
+Option (B) represents the transformation of a single liquid phase into two solid phases, which is not a eutectic reaction either.
+
+Option (C) represents the formation of two different liquid phases upon melting of a solid and a liquid phase. This is not a eutectic reaction.
+
+Option (D) represents the transformation of a solid and a liquid phase into two different solid phases upon cooling. This is a eutectic reaction.
+
+Therefore, the correct answer is:
+
+- (D) L1 + S1 ⇔ S2 + S3

@@ -1,0 +1,35 @@
+To solve this problem, we'll use the Wulff construction with the Young's equation for contact angles at the triple junction between α, β, and δ phases.
+
+Young's equation: 
+cos(θ) = (σ_αδ - σ_βδ)/σ_αβ
+
+where θ is the contact angle, and σ represents the respective interfacial energies.
+
+Given values:
+σ_αβ = 0.4 J/m²
+σ_αδ = 0.3 J/m²
+σ_βδ = 0.02 J/m²
+
+First, we need to find the value of cos(θ):
+
+cos(θ) = (0.3 - 0.02) / 0.4
+cos(θ) = 0.28 / 0.4
+cos(θ) = 0.7
+
+Now, we will use the equation for the ratio of heterogeneous nucleation to homogeneous nucleation:
+
+ΔG_(het) / ΔG_(hom) = (2σ_αβ * (1 - cos(θ))) / σ_αβ
+
+Plug in the values:
+
+ΔG_(het) / ΔG_(hom) = (2 * 0.4 * (1 - 0.7)) / 0.4
+
+Simplify:
+
+ΔG_(het) / ΔG_(hom) = (0.8 * 0.3) / 0.4
+ΔG_(het) / ΔG_(hom) = 0.24 / 0.4
+ΔG_(het) / ΔG_(hom) = 0.6
+
+Hence, the ratio of ΔG_(het) / ΔG_(hom) is approximately 0.6. Rounded off to three decimal places:
+
+[0.600]

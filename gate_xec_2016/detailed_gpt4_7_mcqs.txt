@@ -1,0 +1,17 @@
+A thermocouple is a device used for temperature measurement that works on the principle of the Seebeck effect. Let's understand what each effect mentioned in the options is and why the Seebeck effect is the correct answer.
+
+(A) Thomson effect: This effect occurs when a temperature gradient is maintained within a single conductor. The temperature difference in the conductor causes a diffusion of electrons from the hot end to the cold end, generating a small voltage.
+
+(B) Seebeck effect: This effect occurs when two different conductors or semiconductors are joined together, forming a closed loop with the two contact junctions being maintained at different temperatures. The temperature difference in the junctions causes a voltage to develop across the conductors that is proportional to the temperature difference. This voltage, called the Seebeck voltage, can be used to measure the temperature difference between the junctions.
+
+(C) Peltier effect: This effect occurs when an electric current is passed through a junction between two different conductors or semiconductors, causing heat to be either absorbed or released at the junction. This can be used to create cooling or heating effects depending on the direction of the current flow.
+
+(D) Meissner effect: This effect is observed in superconducting materials when they transition from their normal state to the superconducting state. In the Meissner effect, a superconductor expels all magnetic fields from its interior, effectively canceling out any external magnetic fields.
+
+To summarize:
+- The Thomson effect is related to a temperature gradient in a single conductor.
+- The Seebeck effect is the principle behind the working of a thermocouple.
+- The Peltier effect is related to heating or cooling effects caused by passing an electric current through a junction.
+- The Meissner effect is observed in superconductors.
+
+Hence, the correct answer is: [B] Seebeck effect

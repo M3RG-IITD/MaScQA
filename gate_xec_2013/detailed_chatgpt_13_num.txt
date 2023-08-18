@@ -1,0 +1,29 @@
+
+
+The Bragg equation relates the wavelength of the incident X-ray, the interplanar spacing (d) and the angle of incidence (θ) as follows:
+
+2d sinθ = nλ
+
+where n is the order of diffraction (1 for the first peak, 2 for the second peak, etc.)
+
+For the {200} peak, n = 1 and d can be calculated using the formula for the interplanar spacing in a cubic crystal:
+
+d = a / √(h^2 + k^2 + l^2)
+
+where a is the lattice parameter and h, k, and l are the Miller indices of the plane of interest.
+
+For the {200} plane, h = 2, k = 0, and l = 0, so
+
+d = 0.352nm / √(2^2 + 0^2 + 0^2) = 0.176 nm
+
+Substituting these values into the Bragg equation gives:
+
+2d sinθ = nλ
+
+2(0.176 nm) sin(61.08°) = (1)λ
+
+λ = 0.154 nm
+
+Therefore, the wavelength of the incident X-ray is 0.154 nm.
+
+Answer: [0.154]

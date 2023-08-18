@@ -1,0 +1,11 @@
+Soft magnetic materials are those materials that are easily magnetized and demagnetized. The main characteristics of soft magnetic materials include low coercivity, high permeability, and low residual magnetization. 
+
+(A) Iron-silicon steel: It is a soft magnetic material due to low carbon content, and the presence of silicon improves its magnetic properties. It is used in electrical transformers, motors, and generators.
+
+(B) Nickel zinc ferrite: It is a soft magnetic material with high resistivity, which makes it useful for high-frequency applications. It is used in inductors, transformers, and microwave devices.
+
+(C) Nickel iron alloy: It is also known as permalloy, and it is a soft magnetic material with a high magnetic permeability. It is widely used in electronic and magnetic devices.
+
+(D) Alnico: It is a permanent magnet alloy containing aluminum, nickel, and cobalt. Although it has high magnetic properties, it is not a soft magnetic material because of its high coercivity.
+
+Therefore, the correct answer is (D) Alnico.

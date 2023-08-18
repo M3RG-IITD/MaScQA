@@ -1,0 +1,19 @@
+The probability of an accident not occurring in a given month is given by (1 - 1/100) = 99/100. 
+
+Since the events of individual months are independent of each other, the probability of no accident occurring over a period of ‘n’ months is (99/100)^n. 
+
+To find the smallest integer value of ‘n’ such that P(n) ≤ ½, we need to solve the inequality (99/100)^n ≤ 1/2. 
+
+Taking logarithm on both sides, 
+
+nlog(99/100) ≤ log(1/2) 
+
+n ≥ log(1/2) / log(99/100) 
+
+n ≥ 69.66 
+
+Rounding off to the nearest integer, the smallest value of ‘n’ is 70. 
+
+Therefore, the answer is: 
+
+- 70

@@ -1,0 +1,21 @@
+First, we need to find the number of moles of electrons produced during the anodic reaction:
+
+moles of electrons = Coulomb Charge / Faraday Constant
+moles of electrons = 48250 C / 96500 C/mole of electrons
+moles of electrons = 0.5 mole
+
+In the anodic reaction, each mole of Mg produces 2 moles of electrons:
+
+moles of Mg = moles of electrons / 2
+moles of Mg = 0.5 mole / 2
+moles of Mg = 0.25 mole
+
+Now we can find the amount of Mg dissolved into the solution:
+
+Amount of Mg = moles of Mg * Atomic weight of Mg
+Amount of Mg = 0.25 mole * 24 g/mole
+Amount of Mg = 6 g
+
+So, the amount of Mg dissolved into the solution is 6 grams.
+
+Answer: [6]

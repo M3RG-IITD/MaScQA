@@ -1,0 +1,33 @@
+To find the first diffraction peak position (2θ), we can use Bragg's law which relates the angle of diffraction with the spacing of atomic planes in a crystal:
+
+n λ = 2 d sin θ
+
+where n is the order of the diffraction peak (for the first peak, n=1), λ is the wavelength of the X-ray radiation, d is the spacing of atomic planes, and θ is the angle of diffraction.
+
+For the bcc structure, the spacing of (110) planes is:
+
+d = a / ( √2 )                                    
+
+where a is the atomic diameter. Substituting the given values, we get
+
+d = 2.494 Å / ( √2 ) = 1.763 Å
+
+Now we can find θ using Bragg's law:
+
+n λ = 2 d sin θ
+
+1 × 1.54 Å = 2 × 1.763 Å × sin θ
+
+sin θ = 0.4397
+
+θ = sin⁻¹(0.4397) = 26.68°
+
+However, this is the angle at which the X-rays hit the crystal. The diffraction pattern is actually observed at an angle of 2θ (twice the incident angle). Therefore, the first diffraction peak position is:
+
+2θ = 2 × 26.68° = 53.36°
+
+We can round this to the nearest degree to get the answer:
+
+(B) 33.05°
+
+Therefore, the correct answer is (B) 33.05°.

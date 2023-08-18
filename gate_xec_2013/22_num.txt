@@ -1,0 +1,1 @@
+A stress of 10 MPa is applied to an elastomer to generate a strain of 50%. The strain is held constant at this value. After 40 days at 20°C, the stress decreases to 5 MPa. What will be the stress after 60 days at 20°C?

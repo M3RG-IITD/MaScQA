@@ -1,0 +1,22 @@
+To match the microscopes with their principle of operation, let's first understand each microscope and its working principle.
+
+P. Scanning Electron Microscope (SEM):
+SEMs use a focused beam of high-energy electrons to generate a variety of signals at the surface of a sample. The signals that derive from electron-sample interactions reveal information about the sample, such as external morphology (texture), chemical composition, and crystalline structure. The main principle of operation is the detection of secondary electrons generated from the sample.
+
+Q. Transmission Electron Microscope (TEM):
+A TEM works on the same basic principles as an optical microscope but uses electrons instead of light to create an image. Electrons are passed through a very thin specimen, and their diffraction pattern is used to create an image. The main principle of operation is the diffraction of electrons.
+
+R. Scanning Tunnelling Microscope (STM):
+The STM is a type of electron microscope that shows a constant current between the sample and the tip of the microscope. The quantum mechanical phenomenon of electron tunnelling enables electrons to jump across a potential barrier, forming a current between the tip and the sample. The main principle of operation is electrons jumping across a potential barrier.
+
+S. Atomic Force Microscope (AFM):
+The AFM uses a small cantilever with a sharp tip that scans the surface of a sample. When the tip approaches the surface, it experiences a van der Waals force between its atoms and the sample atoms. This force causes a slight deflection in the cantilever, which is measured by a laser beam reflected off the cantilever into a position-sensitive detector. The main principle of operation is van der Waals forces between atoms.
+
+Now that we know the principles behind each microscope, we can match them accordingly:
+
+P. Scanning Electron Microscope (SEM) - 4. detection of secondary electrons
+Q. Transmission Electron Microscope(TEM) - 3. diffraction of electrons
+R. Scanning Tunnelling Microscope (STM) - 2. electrons jump across a potential barrier
+S. Atomic Force Microscope (AFM) - 1. van der Waals forces between atoms
+
+The correct answer is (C) P-4, Q-3, R-2, S-1.

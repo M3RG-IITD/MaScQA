@@ -1,0 +1,67 @@
+To solve this question, we need to use the Arrhenius equation for diffusion:
+
+D = D0 * exp(-Q/RT)
+
+Where:
+D = diffusion coefficient at a given temperature
+D0 = the pre-exponential factor (a constant)
+Q = activation energy for diffusion (in J/mol)
+R = the gas constant, which is approximately 8.314 J/mol·K
+T = the absolute temperature (in Kelvin)
+
+We are given two diffusion coefficients (D1 and D2) and their corresponding temperatures (T1 and T2). As D0 is a constant, we can equate the Arrhenius equations for both temperatures:
+
+D1 = D0 * exp(-Q/RT1)
+D2 = D0 * exp(-Q/RT2)
+
+We are asked to find the activation energy (Q). So, we need to eliminate D0 from the equations above. To do this, divide the first equation D1 by the second equation D2:
+
+D1 / D2 = (D0 * exp(-Q/RT1)) / (D0 * exp(-Q/RT2))
+
+The D0's cancel out:
+
+D1 / D2 = exp(-Q/RT1) / exp(-Q/RT2)
+
+Now, we can simplify further:
+
+D1 / D2 = exp((-Q/RT1) - (-Q/RT2))
+
+D1 / D2 = exp(Q/RT2 - Q/RT1)
+
+We are given the following information:
+D1 = 1.9 * 10^(-13) m^2/s
+D2 = 5.8 * 10^(-13) m^2/s
+T1 = 500 °C = 500 + 273.15 = 773.15 K
+T2 = 550 °C = 550 + 273.15 = 823.15 K
+
+Plugging these values into the equation above gives:
+
+(1.9 * 10^(-13)) / (5.8 * 10^(-13)) = exp(Q/8.314 * (1/823.15 - 1/773.15))
+
+Simplifying:
+
+0.3276 = exp(Q/8.314 * (1/823.15 - 1/773.15))
+
+Now we need to solve for Q. First, let's isolate the exponential term:
+
+0.3276 = exp(Q * (0.001217))
+  
+Take the natural logarithm of both sides:
+
+ln(0.3276) = Q * (0.001217)
+
+-1.11579 = Q * (0.001217)
+
+Now, solve for Q:
+
+Q = -1.11579 / 0.001217
+
+Q = 915.89 J/mol
+
+Since we are asked to find the activation energy in kJ/mol, we need to convert: 
+
+915.89 J/mol * (1 kJ / 1000 J) = 0.916 kJ/mol
+
+So, the activation energy for diffusion of Mg in Al is around 0.916 kJ/mol. The answer should be written inside a list:
+
+[0.916]

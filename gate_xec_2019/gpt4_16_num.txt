@@ -1,0 +1,43 @@
+First, we need to find the value of n.
+
+Given true stress 𝜎 = 600 * 𝜀^n and we know that for true strain 𝜀 = 0.05, the true stress 𝜎 = 350 MPa. So, we can set up the following equation:
+
+350 = 600 * 0.05^n
+
+To find the value of n, we can rearrange the equation as follows:
+
+n = log(350/600) / log(0.05)
+
+n ≈ 0.255
+
+Next, we can find the relationship between true strain (𝜀) and engineering strain (e) using the equation:
+
+𝜀 = ln(1 + e)
+
+Now, we are given the engineering strain e = 0.12. So, plug it in the equation:
+
+𝜀 = ln(1 + 0.12)
+
+𝜀 ≈ 0.1135
+
+Now that we have the true strain, we can find the true stress using the given relationship:
+
+𝜎 (MPa) = 600 * 𝜀^n
+
+𝜎 = 600 * (0.1135)^0.255
+
+𝜎 ≈ 456.18 MPa
+
+Now, we need to find the engineering stress using the relation between true stress and engineering stress:
+
+𝜎 = (1 + e) * 𝜎0
+
+Where 𝜎0 is the engineering stress. Rearranging the equation to find 𝜎0:
+
+𝜎0 = 𝜎 / (1 + e)
+
+𝜎0 = 456.18 / (1 + 0.12)
+
+𝜎0 ≈ 407.48 MPa
+
+So, the engineering stress is approximately 407 MPa. To the nearest integer, the answer is [407].

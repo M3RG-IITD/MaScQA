@@ -1,0 +1,8 @@
+Ceramic materials fail at stresses much lower than their theoretical strength due to the presence of defects in their microstructure. The correct answer is:
+
+(A) Presence of dislocations 
+
+Explanation:
+
+Ceramic materials are made up of ionic or covalent bonds and have a crystalline structure. Any deviation from perfect crystalline structure or introduction of defects leads to the reduction in the theoretical strength of the ceramic material. Dislocations are line defects in the crystal structure that cause mismatch in the bonding between adjacent atoms. These dislocations can result in crack initiation and propagation through the material leading to failure. Therefore, the presence of dislocations is one of the primary reasons that ceramic materials fail at stresses much lower than their theoretical strength. 
+High elastic modulus, presence of voids, or anisotropy in crystal structure may also contribute to reduced strength but not as significantly as the presence of dislocations.

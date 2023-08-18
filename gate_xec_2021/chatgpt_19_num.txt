@@ -1,0 +1,21 @@
+The formula for electrical conductivity is given by:
+
+$$
+\sigma = ne\mu
+$$
+
+where $n$ is the electron density, $e$ is the charge of an electron, and $\mu$ is the drift mobility.
+
+Given that the crystal is doped with $10^{16}cm^{-3}$ phosphorous atoms, which is an n-type dopant, we can assume that the electron density is also $10^{16}cm^{-3}$. Therefore:
+
+$$
+\sigma = (10^{16}cm^{-3})(1.6\times 10^{-19}C)(1350\frac{cm^2}{V s}) \approx 2.2\times 10^{-4} \ Omega^{-1}m^{-1}
+$$
+
+Rounding off to the nearest integer, the electrical conductivity is:
+
+$$
+\sigma \approx 0 \ Omega^{-1}m^{-1} \quad \text{(rounded off)}
+$$
+
+Answer: [0]

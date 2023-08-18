@@ -1,0 +1,2 @@
+(Given: atomic weight of H = 1, C = 12, F = 19 and Cl = 35.5). An alternating copolymer has number-averaged molecular weight of $10^(5)gmol^(-1)$ and degree of polymerization of 2210. If one of the repeat units is ethylene, the other one is
+(A) $−CH_2−CH(CH_3)−$ (B) $−CH_2−CHCl−$ (C) $−CF_2−CF_2−$ (D) $−CH_2−CH(C_6H_5)−$

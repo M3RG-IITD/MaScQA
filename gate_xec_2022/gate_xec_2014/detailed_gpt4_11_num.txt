@@ -1,0 +1,25 @@
+To find the mechanical energy required to break the material, we can use the following formula:
+
+Mechanical Energy = (Stress × Strain) / 2
+
+Step 1: Convert the given data into the same units
+Young's modulus (E) = 110 GPa = 110 * 10^9 Pa
+Yield strength (σ) = 880 MPa = 880 * 10^6 Pa
+Strain (ε) = 0.108 (dimensionless)
+
+Step 2: Find stress
+Since the alloy does not exhibit any strain hardening, the stress at which it fails remains constant and equal to the yield strength.
+So, stress = 880 * 10^6 Pa 
+
+Step 3: Calculate the mechanical energy
+Mechanical energy = (Stress × Strain) / 2
+= (880 * 10^6 Pa × 0.108) / 2
+= 47,520,000,000 J/m³
+
+Step 4: Convert the mechanical energy into MJ/m³
+Mechanical energy = 47,520,000,000 J/m³ * (1 MJ / 10^6 J)
+= 47.52 MJ/m³
+
+The mechanical energy that is necessary to break the material is 47.52 MJ/m³.
+
+Answer: [47.52]

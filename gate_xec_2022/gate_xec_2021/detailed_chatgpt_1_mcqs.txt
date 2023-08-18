@@ -1,0 +1,19 @@
+At constant temperature and pressure, the condition for two phases (α and β) to be in equilibrium is that their Gibbs free energies are equal. This can be expressed mathematically as:
+
+$G_{\alpha} = G_{\beta}$
+
+where G is the Gibbs free energy.
+
+The Gibbs free energy is given by:
+
+$G = H - TS$
+
+where H is the enthalpy, T is the temperature, and S is the entropy.
+
+At constant temperature and pressure, the enthalpy does not change for two phases in equilibrium, so the condition reduces to:
+
+$S_{\alpha} = S_{\beta}$
+
+In other words, the entropy of the two phases must be equal for them to be in equilibrium.
+
+Therefore, the correct option is (A) entropy of the system should be maximum.

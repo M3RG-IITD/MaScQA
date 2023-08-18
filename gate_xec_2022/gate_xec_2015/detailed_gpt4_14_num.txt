@@ -1,0 +1,33 @@
+In order to solve this problem, we'll need to find the number of moles of magnesium in the anode, determine the number of electrons involved in the corrosion process, and then use these values to find the average corrosion current.
+
+1. Find the moles of magnesium:
+We're given a 1 kg (1000 g) anode of Mg. Since the atomic weight of Mg is 24.31 amu (also grams per mole), we can find the number of moles in the anode by dividing the total mass by the atomic weight.
+
+moles of Mg = (mass of Mg) / (atomic weight of Mg)
+moles of Mg = (1000 g) / (24.31 g/mol)
+moles of Mg = 41.15 mol
+
+2. Find the number of electrons involved in the corrosion process:
+Mg (magnesium) undergoes a redox reaction that results in the loss of 2 electrons per Mg atom as it converts into Mg²⁺ ions. So, we need to multiply the number of Mg moles by the number of electrons released during the corrosion process and Avogadro's number (6.022 x 10²³ molecules/mol) to find the total number of electrons.
+
+Total electrons = moles of Mg * electrons per Mg atom * Avogadro's number
+Total electrons = 41.15 mol * 2 * (6.022 x 10²³ molecules/mol)
+Total electrons = 4.957 x 10²⁶ electrons
+
+3. Find the average corrosion current:
+We're given that the anode lasts for 60 days, which is equivalent to 60 * 24 * 60 * 60 seconds = 5,184,000 seconds. Current (I) is defined as the flow of charge (Q) per unit time (t), which means I = Q/t.
+
+Since the total number of electrons represents the total charge (in terms of elementary charge units), we can find the total charge in Coulombs by multiplying the total number of electrons by the charge per electron (1.602 x 10⁻¹⁹ C).
+
+Total charge (Q) = 4.957 x 10²⁶ electrons * 1.602 x 10⁻¹⁹ C/electron
+Q = 7.936 x 10⁷ Coulombs
+
+Now we can find the average corrosion current:
+
+Average corrosion current (I) = Q/t
+I = (7.936 x 10⁷ C) / (5,184,000 s)
+I = 0.0153 Amperes
+
+The average corrosion current during the 60-day period is approximately 0.0153 A.
+
+Answer: [0.0153]

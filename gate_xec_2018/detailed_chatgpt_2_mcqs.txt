@@ -1,0 +1,5 @@
+A cubic crystal belongs to the crystal system called the "cubic system" or "isometric system." This system has a high degree of symmetry and is characterized by having three mutually perpendicular axes of equal length. Therefore, the correct answer to the question is:
+
+(D) Centre of symmetry.
+
+In the cubic system, all faces, edges, and vertices are equivalent and have the same symmetry elements. This includes the presence of a center of symmetry, which means that for every point in the crystal, there is an identical point located directly opposite it, with respect to the center of the crystal. This characteristic symmetry element is the minimum requirement for a crystal to belong to the cubic system. The other options listed in the question correspond to higher symmetries that may be present in crystals of the cubic system, but they are not necessary conditions for a crystal to be cubic.

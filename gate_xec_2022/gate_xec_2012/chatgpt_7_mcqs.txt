@@ -1,0 +1,9 @@
+
+
+(B) Mercury. 
+
+Answer: 
+- (A) Water: Specific heat capacity of water is 4.18 J/(g*K) 
+- (B) Mercury: Specific heat capacity of mercury is 0.14 J/(g*K) 
+- (C) Copper: Specific heat capacity of copper is 0.39 J/(g*K) 
+- (D) Silver: Specific heat capacity of silver is 0.24 J/(g*K)

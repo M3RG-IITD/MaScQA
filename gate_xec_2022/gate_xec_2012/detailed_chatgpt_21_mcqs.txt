@@ -1,0 +1,41 @@
+
+
+The atomic diameter (d) of chromium is given as 2.494 Å. 
+
+The body-centered cubic (bcc) crystal structure can be visualized as a cube with atoms located at each corner and one atom at the center. 
+
+Let's assume that the atoms are tightly packed in the bcc structure, which means that the atoms touch along the diagonal of the cube face. 
+
+The diagonal of a cube face can be calculated using the Pythagorean theorem: 
+
+diagonal² = side² + side² 
+
+Since there are two sides in a cube face, we can rewrite this as: 
+
+diagonal² = 2(side²) 
+
+The atomic diameter (d) of chromium can be related to the side of the cube (a) by: 
+
+diagonal = 4d/√3 
+
+Using these equations, we can solve for the lattice parameter (a): 
+
+2(side²) = (4d/√3)² 
+
+2(a²) = (4d/√3)² 
+
+a = √[(4d/√3)² / 2] 
+
+a = (2d/√3) 
+
+Plugging in the value for d, we get: 
+
+a = (2 x 2.494 Å) / √3 
+
+a = 2.880 Å 
+
+Therefore, the lattice parameter of chromium assuming tight atomic bonding is 2.880 Å, which corresponds to answer choice (B). 
+
+The correct answer is:
+
+(B) 2.880 Å

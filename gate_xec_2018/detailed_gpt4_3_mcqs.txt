@@ -1,0 +1,13 @@
+First, let's understand each of these terms related to materials and their behavior in an external magnetic field:
+
+(A) Ferromagnetic materials: These are materials in which the magnetic moments of their atoms tend to align themselves in parallel fashion, resulting in a strong net attractive force to an external magnetic field. Examples of ferromagnetic materials include iron, nickel, and cobalt.
+
+(B) Diamagnetic materials: These materials are characterized by the fact that they are repelled by an external magnetic field. This is because the magnetic moments of the atoms in these materials tend to align themselves in a way that opposes the external magnetic field. The repulsion force in diamagnetic materials is relatively weak. Examples of diamagnetic materials include bismuth, copper, and gold.
+
+(C) Paramagnetic materials: In these materials, the magnetic moments of the atoms do not line up regularly or parallel to each other as in ferromagnetic materials. However, in the presence of an external magnetic field, the magnetic moments tend to align with the field, resulting in a net attractive force. Examples of paramagnetic materials include aluminum, magnesium, and lithium.
+
+(D) Antiferromagnetic materials: These materials also have their magnetic moments aligned, but they are arranged in such a way that the net magnetization is zero. This is because the magnetic moments are aligned in opposite directions and, thus, cancel each other out. In an external magnetic field, the net magnetization is not zero, but the response is generally weak. Examples of antiferromagnetic materials include manganese oxide and iron oxide.
+
+Now, the question states that "a material is repelled in an external magnetic field." Based on the explanations above, we can see that the material that displays a repulsive force in response to an external magnetic field is a diamagnetic material. So, the answer is (B) Diamagnetic.
+
+Answer: [(B) Diamagnetic]

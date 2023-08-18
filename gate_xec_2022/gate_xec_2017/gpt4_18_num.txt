@@ -1,0 +1,34 @@
+To solve this problem, we will use the Griffith's equation for the stress required to propagate a crack in a brittle material:
+
+σ = (2 * E * γ) / (π * a)
+
+Where:
+σ is the fracture stress,
+E is the Young's modulus,
+γ is the surface energy, and
+a is the half-length of the crack (critical flaw size).
+
+We are not given the value of E and γ, but since they are the same for the same material, we can set up a ratio of the given fracture stresses and solve for the unknown fracture stress for a critical flaw size of 90 μm. 
+
+Let σ1 and a1 be the fracture stress and the critical flaw size for the first example, and σ2 and a2 for the second example.
+
+So, σ1 = 300 MPa and a1 = 30 μm.
+We need to find σ2 for a2 = 90 μm.
+
+Using the Griffith's equation, we can set up a ratio:
+
+σ1/σ2 = (a2/a1)
+
+Plug in the values:
+
+300/σ2 = (90/30)
+
+Now, solve for σ2:
+
+σ2 = 300 * (30/90)
+σ2 = 300 * (1/3)
+σ2 = 100 MPa
+
+So the fracture stress for a critical flaw size of 90 μm for the same material will be 100 MPa.
+
+Answer: [100]

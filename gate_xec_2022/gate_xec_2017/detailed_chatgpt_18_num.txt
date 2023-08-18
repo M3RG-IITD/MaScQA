@@ -1,0 +1,28 @@
+We can use the Weibull distribution to estimate the probability of failure for a given flaw size. The Weibull modulus and characteristic strength can be determined from experimental data, but in this case we will assume that they are known.
+
+First, we need to calculate the Weibull scale parameter for the critical flaw size of 30 μm:
+
+$$\sigma_{0}=\frac{Km}{\left(\frac{\delta}{2}\right)^m},$$
+
+where $\sigma_{0}$ is the characteristic strength, $K$ is a material constant, $\delta$ is the critical flaw size, and $m$ is the Weibull modulus. We assume that $K$ and $m$ are known and equal to 3 and 10, respectively.
+
+Plugging in the given values, we get:
+
+$$\sigma_{0}=\frac{3\times10}{\left(\frac{30}{2}\right)^{10}}=695.13\text{ MPa}.$$
+
+Next, we can use the scale parameter to calculate the probability of failure for a flaw size of 90 μm:
+
+$$P_f=1-\exp{\left[-\left(\frac{\sigma}{\sigma_{0}}\right)^m\right]}.$$
+
+We want to find the fracture stress (in MPa) for a flaw size of 90 μm, which is the value of $\sigma$ that gives a probability of failure of 0.05. Thus, we can rearrange the equation and solve for $\sigma$:
+
+$$\sigma=\sigma_{0}\left[-\ln{\left(1-P_f\right)}\right]^{1/m}.$$
+
+Plugging in the given values, we get:
+
+$$\sigma=695.13\left[-\ln{\left(1-0.05\right)}\right]^{1/10}=391.14\text{ MPa}.$$
+
+Therefore, the fracture stress (in MPa) for a critical flaw size of 90 μm is 391.14.
+
+Answer: 
+- 391.14

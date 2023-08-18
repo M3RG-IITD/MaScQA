@@ -1,0 +1,16 @@
+
+
+We can use the formula to calculate conductivity: 
+
+conductivity = (electron charge) * (electron concentration) * (electron drift velocity) 
+
+First, we need to determine the electron charge, which is commonly denoted as "e". The value of e is 1.602 * 10^-19 C. 
+
+Now we can substitute the given values: 
+
+conductivity = (1.602 * 10^-19 C) * (5 * 10^18 /m^3) * (100 m/s) 
+conductivity = 8.01 * 10^-1 S/m 
+
+Therefore, the conductivity of the semiconductor is 0.801 S/m. 
+
+Answer: (none of the given options match the result calculated)

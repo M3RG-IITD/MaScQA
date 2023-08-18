@@ -1,0 +1,27 @@
+The coordination number of a cation in an ionic solid is determined by the size of the cation, the size of the anion, and the ratio of their sizes. A cation will be coordinated by anions such that the distance between the cation and the anions is minimized while still maintaining electrostatic neutrality.
+
+To determine the maximum coordination number of the cation, we need to consider the ratio of the radii of the cation and the anion. This ratio is known as the radius ratio and it determines the coordination number of the cation.
+
+The radius ratio is given by:
+
+radius ratio = (radius of cation) / (radius of anion)
+
+In our case, the radius ratio is:
+
+radius ratio = 0.8 Å / 1.6 Å
+radius ratio = 0.5
+
+To determine the coordination number, we need to use a table or a graph that shows the coordination number as a function of the radius ratio. One common such table is shown below:
+
+| Radius ratio | Coordination number |
+|--------------|---------------------|
+| 0.155 - 0.225 | 12                  |
+| 0.225 - 0.414 | 8                   |
+| 0.414 - 0.732 | 6                   |
+| 0.732 - 1.000 | 4                   |
+
+Our radius ratio of 0.5 falls in the range of 0.414 to 0.732, which corresponds to a coordination number of 6. Therefore, the maximum coordination number of the cation in the structure is 6.
+
+Answer: 
+
+(C) 6

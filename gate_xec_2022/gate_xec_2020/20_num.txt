@@ -1,0 +1,1 @@
+Silicon carbide (SiC) particles are added to Aluminium(Al) matrix to fabricate particle reinforced Al-SiC composite. The resulting composite is required to possess specific modulus (E/ρ; E: elastic modulus, ρ: density) three times that of pure Al. Assuming iso-strain condition, the volume fraction of SiC particles in the composite will be? (round-off to two decimal places). 

@@ -1,0 +1,2 @@
+At room temperature, the typical barrier potential for silicon p-n junction in Volt (V) is
+(A) 0.7 * $10^(-23)$ (B) 0.07 (C) 0.70 (D) 7.0

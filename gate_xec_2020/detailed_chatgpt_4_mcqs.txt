@@ -1,0 +1,37 @@
+The number of states in a three dimensional solid with energy between E and E + dE is given by
+
+$$
+dN = D(E) g(E) dE
+$$
+
+where $g(E) dE$ is the number of states between E and E + dE per unit volume. The density of states D(E) is related to the number of states per unit volume by
+
+$$
+D(E) = \frac{1}{V} \frac{dN}{dE}
+$$
+
+where V is the volume of the solid.
+
+If the density of states varies with energy as $E^\alpha$, then we have
+
+$$
+D(E) = \frac{1}{V} \frac{dN}{dE} = \frac{1}{V} g(E) \frac{dN}{d\epsilon} \frac{d\epsilon}{dE} = g(E) \frac{1}{V} \left(\frac{dN}{d\epsilon}\right)_{\epsilon = E} \left(\frac{d\epsilon}{dE}\right) = g(E) \rho(\epsilon) \frac{1}{V} \left(\frac{d\epsilon}{dE}\right),
+$$
+
+where $\epsilon = E/E_0$, and $\rho(\epsilon)$ is a dimensionless function of energy.
+
+For a free electron gas, $g(E) dE$ is given by
+
+$$
+g(E) dE = \frac{V}{\pi^2} \left(\frac{2m}{\hbar^2}\right)^{3/2} \sqrt{E} dE,
+$$
+
+and we have
+
+$$
+D(E) = \frac{1}{V} \frac{dN}{dE} = \frac{1}{V} g(E) \frac{dN}{d\epsilon} \frac{d\epsilon}{dE} = \frac{1}{\pi^2} \left(\frac{2m}{\hbar^2}\right)^{3/2} \sqrt{E}.
+$$
+
+Comparing this to $D(E) = g(E) \rho(\epsilon) \frac{1}{V} \left(\frac{d\epsilon}{dE}\right)$, we can see that $\rho(\epsilon) = \frac{1}{\pi^2} \left(\frac{2m}{\hbar^2}\right)^{3/2}$, and $\alpha = \frac{1}{2}$.
+
+Therefore, the correct answer is (A) $E^{1/2}$.

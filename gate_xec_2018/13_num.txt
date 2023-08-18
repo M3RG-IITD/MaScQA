@@ -1,0 +1,1 @@
+An infinite plate with a through-thickness crack of length 2 mm is subjected to a tensile stress (as shown in the figure). Assuming the plate to be linear elastic, the fracture stress in MPa (round off to the nearest whole number). (Given: Fracture toughness, $K_(1C)$ = 25 MPa √𝑚)

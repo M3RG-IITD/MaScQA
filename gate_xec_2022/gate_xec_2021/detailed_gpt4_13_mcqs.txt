@@ -1,0 +1,19 @@
+X-ray diffraction (XRD) is a tool used for determining the atomic and molecular structure of a crystal. When an incident X-ray beam interacts with a crystalline material, it gets diffracted in various directions, producing a diffraction pattern.
+
+The peaks in the X-ray diffraction pattern provide crucial information about the investigated material. One important characteristic of these peaks is their broadening, which is affected by factors like the size of the crystallites and microstrain in the material. 
+
+Let's discuss the given options in detail:
+
+A) Crystallite size of the material:
+The Scherrer equation relates the size of a crystallite in a polycrystalline material to the broadening of its X-ray diffraction peak. When the crystallite size decreases, the diffraction peaks broaden. Thus, peak broadening can be used for estimating the crystallite size of the material. So, option A is correct.
+
+B) Microstrain in the material:
+Microstrain refers to the small deformations or displacements in the crystal lattice due to defects or imperfections. It also influences the broadening of the X-ray diffraction peaks. A material with higher microstrain will exhibit broader peaks. Therefore, peak broadening can be used to estimate the level of microstrain in the material. So, option B is also correct.
+
+C) Precise lattice parameter:
+While X-ray diffraction can be used to determine the crystal structure and lattice parameters of a material, peak broadening by itself doesn't help in estimating the precise lattice parameters. The positions of the diffraction peaks are primarily used for this purpose, not their broadening. So, option C is not correct.
+
+D) Residual macrostress acting on the material:
+The residual macrostress in a material mainly affects the position of the X-ray diffraction peaks, not their broadening. To estimate the residual macrostress, one needs to analyze peak shifts in the diffraction pattern. Broadening alone is not sufficient or relevant to determine the residual macrostress acting on the material. So, option D is not correct.
+
+Based on the above explanations, the correct answer is [A, B].

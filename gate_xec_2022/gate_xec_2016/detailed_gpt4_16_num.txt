@@ -1,0 +1,44 @@
+To solve this problem, we'll use the concept of diffusion (Fick's 2nd Law) in one dimension, in the form:
+
+$$C(x, t) = \frac{C_s}{\sqrt{4 \pi D t}} e^{-x^2 / (4 D t)}$$
+
+Where:
+- $C(x, t)$ is the concentration of gallium at depth $x$ and time $t$
+- $C_s$ is the surface concentration of gallium
+- $D$ is the diffusion coefficient of gallium in silicon
+- $x$ is the depth, and $t$ is the time
+
+We're given that the concentration at a depth of $10^{-3}$ cm should be one-half of the surface concentration ($C_s / 2$), and we're given the diffusion coefficient ($D = 6 \times 10^{-11} cm^2 s^{-1}$). So our equation to solve is:
+
+$$\frac{C_s}{2} = \frac{C_s}{\sqrt{4 \pi D t}} e^{-(10^{-3})^2 / (4 D t)}$$
+
+First, let's simplify the equation by dividing both sides by $C_s$:
+
+$$\frac{1}{2} = \frac{1}{\sqrt{4 \pi D t}} e^{-(10^{-3})^2 / (4 D t)}$$
+
+Now we can rearrange the equation to solve for time $t$:
+
+$$t = \frac{(10^{-3})^2}{4 D \cdot \text{erf}^{-1}(1/(\sqrt{4 \pi D t}))^2}$$
+
+where $\text{erf}^{-1}$ is the inverse error function (given erf(0.5) ≅ 0.5).
+
+Notice that the equation for $t$ includes itself as $t$ is also present in the $\text{erf}^{-1}$ term, which makes it a bit difficult to solve directly. However, we can use the given erf(0.5) ≅ 0.5 to make an approximation that will allow us to simplify the equation.
+
+Given that erf(0.5) ≅ 0.5, we can say that:
+
+$$\text{erf}^{-1}(1/(\sqrt{4 \pi D t})) ≅ \frac{(10^{-3})^2}{4 D \cdot 0.5^2}$$
+
+Substitute the value of D and simplify to find the approximate value of $t$:
+
+$$t \approx \frac{(10^{-3})^2}{4 (6 \times 10^{-11}) \cdot 0.5^2}$$
+$$t \approx \frac{(10^{-6})}{12 \times 10^{-11}}$$
+
+Now calculate the value of $t$:
+
+$$t \approx \frac{10^{5}}{12}$$
+$$t \approx \frac{100000}{12}$$
+$$t \approx 8333.33 \, \text{s}$$
+
+Therefore, the silicon wafer should be heated in contact with gallium vapor at 1355 °C for approximately 8333.33 seconds.
+
+The correct answer is [8333.33].

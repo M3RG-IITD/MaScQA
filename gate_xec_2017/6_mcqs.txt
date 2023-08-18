@@ -1,0 +1,2 @@
+Ceramic materials fail at stresses much lower than their theoretical strength due to
+(A) Presence of dislocations (B) High elastic modulus (C) Presence of voids (D) Anisotropy in crystal structure

@@ -1,0 +1,20 @@
+In order to determine the most favored slip system in a face-centered cubic (FCC) metal, we need to consider both the slip plane and the slip direction. The most favored slip system corresponds to the one with the lowest linear density and plane density.
+
+A slip plane is generally the plane with the highest plane density, and the slip direction is the direction with the highest linear density within that plane.
+
+Let's analyze each option:
+
+A) (111) [110]
+This option suggests that the slip plane is (111) and the slip direction is [110]. In FCC metal, (111) planes have the highest plane density. The [110] direction within the (111) plane does not have the highest linear density, but rather, the [101]^[^], [^]0[^]11[], and [110] directions have the highest linear density. Therefore, option A is not the most favored slip system.
+
+B) (110) [1 -1 1]
+This option suggests that the slip plane is (110) and the slip direction is [1 -1 1]. In FCC metal, (110) planes have a lower plane density than (111) planes. Therefore, option B is not the most favored slip system as it has a lower plane density.
+
+C) (1 1 -1) [112]
+This option suggests that the slip plane is (1 1 -1) and the slip direction is [112]. In FCC metal, (1 1 -1) plane is equivalent to the (111) plane, which has the highest plane density. However, the [112] direction does not have the highest linear density within this plane. Option C is therefore not the most favored slip system.
+
+D) (111) [1 -1 0]
+This option suggests that the slip plane is (111) and the slip direction is [1 -1 0]. In the FCC metal, the (111) plane has the highest plane density, which is a good start for this option. The [1 -1 0] direction is one of the highest linear density directions within the (111) plane. Therefore, option D is the most favored slip system in FCC metal because it combines the highest plane density with the highest linear density.
+
+So, the correct answer is:
+[D]

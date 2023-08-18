@@ -1,0 +1,10 @@
+Let the conductivity of the intrinsic semiconductor be given by
+$$\sigma=\sigma_0\exp\left(\frac{-E_g}{kT}\right)$$
+where $\sigma_0$ is the intrinsic conductivity, $E_g$ is the energy gap and $k$ is the Boltzmann constant.
+
+Taking the natural logarithm of both sides, we have
+$$\log_e \sigma = \log_e \sigma_0 -\frac{E_g}{kT}$$
+Rearranging, we get
+$$\log_e \sigma_0 = \log_e \sigma +\frac{E_g}{kT}$$
+Comparing with the equation $y=mx+c$, we can see that $\log_e \sigma_0$ is the $y$-intercept, $m$ is $-\frac{E_g}{k}$ and $x$ is $\frac{1}{T}$. Therefore, the slope of the graph is $-\frac{E_g}{k}$.
+Hence, the correct option is $\boxed{\mathrm{(D)}}$ $-\frac{E_g}{k}$.

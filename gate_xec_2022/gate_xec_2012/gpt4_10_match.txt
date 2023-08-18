@@ -1,0 +1,10 @@
+The correct matches for the properties and their units are:
+
+P. Thermal diffusivity - 2. m2s–1
+Q. Fracture toughness - 4. Nm–3/2
+R. Surface energy - 5. Jm–2
+S. Magnetic permeability - 1. Hm–1
+
+So, the correct answer is: (B) P-2, Q-4, R-5, S-1
+
+The final answer in the list is: [B]

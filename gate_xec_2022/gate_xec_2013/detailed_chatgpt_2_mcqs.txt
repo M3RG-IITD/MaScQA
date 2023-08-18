@@ -1,0 +1,13 @@
+
+
+(A) Dislocations are thermodynamically unstable defects is a correct statement. Dislocations are linear defects that occur in crystalline structures because of a misaligned packing of atoms. They are thermodynamically unstable because they tend to lower the energy stored within a crystal by increasing the packing efficiency. 
+
+(B) Dislocations can move inside a crystal under the action of an applied stress is also a correct statement. The movement of dislocations is considered as one of the main mechanisms for plastic deformation of crystals. When a stress is applied, it causes the dislocation to move, which leads to the movement of individual crystal planes across each other, resulting in plastic deformation. 
+
+(C) Screw dislocations can change the slip plane without climb is also true. Screw dislocations move parallel to their dislocation line, and they do not require any atomic shuffling or additional lattice planes to move. They can change the slip plane by changing their orientation, making it easier for dislocations to move in different directions, leading to plastic deformation. 
+
+(D) Burger’s vector of an edge dislocation is parallel to the dislocation line is true. Burger's vector represents the magnitude and direction of the lattice distortion caused by a dislocation. For an edge dislocation, the Burger's vector is perpendicular to the dislocation line, and it describes the slip direction, which is perpendicular to the slip plane. 
+
+Therefore, the incorrect statement is: 
+
+- (D) Burger’s vector of an edge dislocation is parallel to the dislocation line.

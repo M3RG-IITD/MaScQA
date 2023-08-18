@@ -1,0 +1,1 @@
+Given: Boltzmann's constant is 8.62* $10^(-5)$eV/K. If the energy of formation of vacancies in pure copper is 0.9 ev, the fraction of vacancies pure copper at 27 ° C will be x * $10^(-16)$. Find x. 

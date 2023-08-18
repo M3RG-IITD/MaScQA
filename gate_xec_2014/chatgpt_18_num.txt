@@ -1,0 +1,21 @@
+
+
+To find the weight in kg of gallium, we need to first calculate the molar mass of gallium arsenide (GaAs):
+
+Molar mass of GaAs = (1 x M(Ga)) + (1 x M(As))
+
+Molar mass of GaAs = (1 x 69.72 g/mol) + (1 x 74.92 g/mol)
+
+Molar mass of GaAs = 144.64 g/mol
+
+Now we can find the amount of gallium needed to make 1 kg of GaAs:
+
+Amount of Ga = (M(Ga) / M(GaAs)) x 1 kg
+
+Amount of Ga = (69.72 g/mol / 144.64 g/mol) x 1 kg
+
+Amount of Ga = 0.481 kg or 481 g
+
+Therefore, the weight in kg of gallium needed to make 1 kg of gallium arsenide is:
+
+- 0.481 kg

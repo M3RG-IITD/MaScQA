@@ -1,0 +1,2 @@
+Which of the following statements is TRUE about the glass transition temperature (Tg)?
+(A) Tg appears below the melting temperature in a perfectly crystalline material (B) Upon heating through Tg, heat capacity remains constant but the thermal expansion coefficient changes (C) Upon heating through Tg, heat capacity changes but the thermal expansion coefficient remains the same (D) Upon heating through Tg, both the heat capacity and thermal expansion coefficient change

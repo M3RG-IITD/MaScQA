@@ -1,0 +1,1 @@
+(Given: Planck’s constant h = 6.63 * $10^(-34)$ J s, electron charge = 1.6*$10^(-19)$ C, electron rest mass = 9.11×$10^(-31)$ kg ). The de Broglie wavelength of an electron accelerated across a 300 kV potential in an electron microscope is x * $10^(-12)$ m. Find x. Ignore relativistic effects. (round off to 2 decimal places)

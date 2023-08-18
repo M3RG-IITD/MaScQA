@@ -1,0 +1,31 @@
+
+
+As the material exhibits linear work hardening, we can assume that the stress-strain curve is a straight line from the origin to the yield point. From the given stress-strain curve, we can find the slope of the line as follows:
+
+Slope = (Stress at yield point - Stress at origin) / (Strain at yield point - Strain at origin)
+
+Slope = (500 - 0) / (0.005 - 0) = 100,000 N/mm²
+
+We know that the yield point corresponds to a stress of 500 N/mm². Therefore, we can find the strain at yield point as follows:
+
+Strain at yield point = Stress at yield point / Modulus of elasticity
+
+Modulus of elasticity is the slope of the stress-strain curve in the elastic region, i.e., before the yield point. From the graph, we can see that the slope in the linear elastic region is approximately 200,000 N/mm².
+
+Modulus of elasticity = 200,000 N/mm²
+
+Strain at yield point = 500 N/mm² / 200,000 N/mm² = 0.0025
+
+Now, we can find the change in length at yield point as follows:
+
+Change in length at yield point = Original length * Strain at yield point
+
+Change in length at yield point = 50 mm * 0.0025 = 0.125 mm
+
+Therefore, the length of the specimen at yield point is:
+
+Length at yield point = Original length + Change in length at yield point
+
+Length at yield point = 50 mm + 0.125 mm = 50.125 mm
+
+Answer: [50.125 mm]

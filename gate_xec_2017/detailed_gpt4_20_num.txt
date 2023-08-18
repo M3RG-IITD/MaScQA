@@ -1,0 +1,64 @@
+We are given the following information:
+
+1. Charge of an electron (e): 1.6 * 10^(-19) C
+2. Copper is an FCC metal with a lattice parameter (a): 3.62 Å
+3. Electron mobility (µ): 3.2 * 10^(-3) m²/Vs
+4. Electrical resistivity of copper (ρ): 1.7 * 10^(-8) Ωm
+
+We are asked to find the average number of free electrons per atom in copper.
+
+First, we need to find the number of atoms per unit cell in FCC.
+
+For FCC, there are 4 atoms per unit cell. This is because each corner atom is shared by 8 adjacent cells (1/8 per cell contribution), and each face-centered atom is shared by 2 cells (1/2 per cell contribution).
+
+So, there are 8*(1/8) corner atoms + 6*(1/2) face-centered atoms = 1 + 3 = 4 atoms per unit cell.
+
+Now, we convert the lattice parameter to meters:
+
+a = 3.62 Å * 10^(-10) m/Å = 3.62 * 10^(-10) m
+
+Now we find the volume of the unit cell:
+
+V = a³ = (3.62 * 10^(-10) m)³ ≈ 4.74 * 10^(-29) m³
+
+Now we can calculate the electronic conductivity (σ) of copper using the relation:
+
+σ = µ * e * n (where n is the number of free electrons per unit volume)
+
+We can also relate the conductivity (σ) with the resistivity (ρ) as:
+
+ρ = 1/σ
+
+Let's find the conductivity first:
+
+σ = 1/ρ = 1/(1.7 * 10^(-8) Ωm) ≈ 5.88 * 10^7 S/m
+
+Now we substitute the conductivity and other values into the first equation:
+
+σ = µ * e * n
+5.88 * 10^7 S/m = (3.2 * 10^(-3) m²/Vs) * (1.6 * 10^(-19) C) * n
+
+Now we solve for n:
+
+n ≈ 5.88 * 10^7 S/m / [(3.2 * 10^(-3) m²/Vs) * (1.6 * 10^(-19) C)]
+n ≈ 1.16 * 10^29 m^(-3)
+
+We have found the number of free electrons per unit volume. Now we need to find the number of free electrons per atom.
+
+As we found earlier, there are 4 atoms per unit cell. Let's find the number of unit cells per unit volume:
+
+Number of unit cells per unit volume = 1/V = 1/(4.74 * 10^(-29) m³) ≈ 2.11 * 10^28 m^(-3)
+
+Now, we can find the number of atoms per unit volume:
+
+Number of atoms per unit volume = 4 atoms/unit cell * 2.11 * 10^28 unit cells/m³ ≈ 8.44 * 10^28 atoms/m³
+
+Finally, we find the average number of free electrons per atom:
+
+Number of free electrons per atom = n / (Number of atoms per unit volume)
+
+Number of free electrons per atom ≈ (1.16 * 10^29 m^(-3)) / (8.44 * 10^28 atoms/m³) ≈ 1.37
+
+The average number of free electrons per atom in copper is approximately 1.37.
+
+Answer: [1.37]

@@ -1,0 +1,14 @@
+
+
+The correct matching is:
+
+(A) P-2, Q-3, R-4, S-1
+
+Explanation: 
+
+- Quenching (P) produces martensite (2).
+- Normalizing (Q) produces a fine-grained pearlite (3).
+- Tempering (R) produces iron carbide precipitates (4).
+- Austempering (S) produces bainite (1). 
+
+Therefore, the correct option is (A) P-2, Q-3, R-4, S-1.

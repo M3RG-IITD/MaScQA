@@ -1,0 +1,35 @@
+For diffusion problems, we can use the formula:
+
+$x = \sqrt{2Dt}$
+
+where: 
+- $x$ is the depth of diffusion 
+- $D$ is the diffusion coefficient 
+- $t$ is the time of diffusion 
+
+At the depth of $10^{−3}$ cm, the concentration of gallium will be half the surface concentration. Let the surface concentration be denoted by $C_s$. Then, the concentration at a depth of $10^{−3}$ cm will be $\frac{1}{2}C_s$.
+
+We can use the error function (erf) to calculate the surface concentration:
+
+$C_s = \frac{N_g}{2} \left(1 + erf\left(\frac{x}{\sqrt{4Dt}}\right)\right)$
+
+where:
+- $N_g$ is the total number of gallium atoms available for diffusion
+- $erf$ is the error function
+
+Since erf(0.5) ≅ 0.5, we can approximate this equation as:
+
+$C_s ≅ \frac{N_g}{2}(1+0.5) = \frac{3N_g}{4}$
+
+At a depth of $10^{−3}$ cm, the concentration will be:
+
+$\frac{1}{2}C_s = \frac{3N_g}{8}$
+
+Using the formula for diffusion, we can solve for $t$:
+
+$t = \frac{x^2}{2D} = \frac{(10^{−3})^2}{2 \times 6 \times 10^{−11}} = 8.33 \times 10^4$ s
+
+Therefore, the silicon wafer should be heated in contact with gallium vapour at 1355 °C for approximately 8.33 × $10^4$ seconds.
+
+Answer: 
+- 8.33 × $10^4$ s

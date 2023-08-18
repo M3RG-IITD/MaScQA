@@ -1,0 +1,36 @@
+To estimate the porosity of the composite, we first need to find the theoretical density of the composite using the linear rule of mixtures.
+
+Step 1: Find the theoretical density of the composite
+The linear rule of mixtures states that the theoretical density of a composite can be obtained by taking the weighted average of the densities of its components. In this case, we have 30 volume % SiC whiskers and 70 volume % $Al_2O_3$ matrix. 
+
+Theoretical density of composite ($\rho_c$) = (Volume fraction of SiC) * (Density of SiC) + (Volume fraction of $Al_2O_3$) * (Density of $Al_2O_3$)
+
+Let the volume fractions of SiC and $Al_2O_3$ be represented by V1 and V2, respectively.
+
+V1 = 0.30 (30%)
+V2 = 0.70 (70%)
+
+Now, we can find the theoretical density of the composite:
+
+$\rho_c$ = V1 * $\rho_{SiC}$ + V2 * $\rho_{Al_2O_3}$
+$\rho_c$ = 0.30 * 3.22 g $cm^{-3}$ + 0.70 * 3.95 g $cm^{-3}$
+
+Calculate $\rho_c$:
+$\rho_c$ = 0.30 * 3.22 + 0.70 * 3.95
+$\rho_c$ = 0.966 + 2.765
+$\rho_c$ = 3.731 g $cm^{-3}$
+
+Step 2: Estimate the porosity of the composite
+Porosity is the percentage of void space or pores in the material. We can determine the porosity by comparing the measured bulk density of the composite with its theoretical density.
+
+Porosity (%) = $\frac{(\text{Theoretical density} - \text{Measured bulk density})}{\text{Theoretical density}}$ * 100
+
+Porosity (%) = $\frac{(3.731 - 3.65)}{3.731}$ * 100
+
+Calculate the porosity:
+Porosity (%) = $\frac{(0.081)}{3.731}$ * 100
+Porosity (%) ≈ 2.17 %
+
+Therefore, the estimated porosity of the hot pressed ceramic composite material is approximately 2.17%.
+
+Answer: [2.17]

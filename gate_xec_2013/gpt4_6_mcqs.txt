@@ -1,0 +1,7 @@
+Upon recrystallization of a cold worked metal, the correct answer is:
+
+(B) strength decreases but ductility increases
+
+Recrystallization occurs when a cold-worked metal is heated to a specific temperature, allowing its crystal structure to reform and recover its initial properties. During this process, the metal's strength decreases, but its ductility increases.
+
+So, the correct answer is inside a list: [B]

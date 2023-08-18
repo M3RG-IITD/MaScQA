@@ -1,0 +1,7 @@
+The diffusivity of an atom in a solid material increases as temperature increases. 
+
+Explanation: 
+
+Diffusivity is the measure of how quickly atoms in a material can move from one position to another due to thermal energy. At higher temperatures, the atoms in a solid have more thermal energy, and this increases their ability to jump from one position to another. Therefore, as temperature increases, the diffusivity of atoms in a solid material also increases. 
+
+Answer: (A) increases

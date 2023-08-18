@@ -1,0 +1,32 @@
+In order to match the techniques in Column I with the characteristics in Column II, it is essential to understand what each technique does and then relate it to the corresponding characteristic.
+
+Column I - Techniques
+
+P. DSC (Differential Scanning Calorimetry): A technique used to measure the heat capacity and temperature-dependent properties of a material as it undergoes a controlled temperature program.
+
+Q. XRD (X-ray Diffraction): A technique used to determine the crystal structure of a material by analyzing the diffraction patterns produced when X-rays interact with the crystal lattice.
+
+R. STM (Scanning Tunneling Microscopy): A technique that provides atomic-resolution images of material surfaces by measuring the tunneling current between a sharp metal tip and the surface.
+
+S. SEM (Scanning Electron Microscopy): A technique used to generate high-resolution images of material surfaces by scanning a focused electron beam across the sample and collecting the emitted electrons or X-rays.
+
+Column II - Characteristics
+
+1. Density of states: The distribution of electronic states of a material as a function of energy.
+
+2. Glass transition temperature: The temperature at which a glassy material transitions from a hard, brittle state to a more fluid, viscous state.
+
+3. Cathodoluminescence: The emission of light when a material is struck by energetic electrons.
+
+4. Crystal structure: The arrangement of atoms in a crystalline solid.
+
+5. Thermal expansion coefficient: The change in volume or dimension of a material per unit change in temperature.
+
+Now let's match the techniques with the characteristics:
+
+P. DSC: Measures heat capacity and temperature-dependent properties - Glass transition temperature (2)
+Q. XRD: Determines crystal structure - Crystal structure (4)
+R. STM: Provides atomic-resolution images - Density of states (1)
+S. SEM: Generates high-resolution images - Cathodoluminescence (3)
+
+So, the correct matching is (C) P-2, Q-4, R-1, S-3.

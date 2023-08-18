@@ -1,0 +1,29 @@
+The Gibbs phase rule states that the number of degrees of freedom (f) in a system at equilibrium is given by:
+
+f = c - p + 2
+
+where c is the number of components and p is the number of phases.
+
+For a binary system, c = 2, so the equation becomes:
+
+f = 2 - p + 2
+
+or
+
+f = 4 - p
+
+For an invariant reaction to occur, the system must be at a point where the degrees of freedom are zero (f = 0). This means that p must be equal to 4.
+
+For the first type of invariant reaction (α ↔ β + γ), there are two phases (α and β + γ), so we can set p = 2 and solve for f:
+
+f = 4 - p = 4 - 2 = 2
+
+Since f is not equal to zero, this reaction cannot be invariant under variable temperature and pressure.
+
+For the second type of invariant reaction (α + β ↔ γ), there are three phases (α, β, and γ), so we can set p = 3 and solve for f:
+
+f = 4 - p = 4 - 3 = 1
+
+Since f is equal to zero, this reaction can be invariant under variable temperature and pressure.
+
+Therefore, the answer is (A) 1.

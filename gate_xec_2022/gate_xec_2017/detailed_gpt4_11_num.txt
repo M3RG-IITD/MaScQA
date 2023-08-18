@@ -1,0 +1,23 @@
+To solve this question, we can use the Rule of Mixtures for the modulus of elasticity for a continuous, aligned carbon fibre reinforced polymer composite. The formula is as follows:
+
+Ec = E1V1 + E2V2
+
+where Ec is the modulus of elasticity of the composite, E1 and E2 are the modulus of elasticity of CF and resin, respectively, and V1 and V2 are their respective volume fractions.
+
+Given, volume fraction of CF (V1) = 30 vol% = 0.3
+Volume fraction of Resin (V2) = 100 - 30 = 70 vol% = 0.7
+
+Modulus of elasticity of CF (E1) = 170 GPa
+Modulus of elasticity of Resin (E2) = 3.0 GPa
+
+Now let's plug these values into the equation:
+
+Ec = (170 GPa)(0.3) + (3.0 GPa)(0.7)
+
+Ec = 51 GPa + 2.1 GPa
+
+Ec = 53.1 GPa
+
+So the modulus of elasticity of the composite in GPa in the direction of fibre alignment is 53.1 GPa.
+
+The correct answer is [53.1].

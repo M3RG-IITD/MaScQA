@@ -1,0 +1,5 @@
+The correct answer is (A) $UO_2$. 
+
+Uranium dioxide (UO₂) has a cubic crystal structure that is similar to fluorite (CaF₂). The fluorite structure is characterized by two interpenetrating FCC lattices (face-centered cubic) where the smaller ions (uranium, in the case of UO₂) occupy one lattice, and the larger ions (oxygen, in the case of UO₂) occupy the other lattice.
+
+So, the correct answer is: ['$UO_2$']

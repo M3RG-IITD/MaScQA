@@ -1,0 +1,14 @@
+In an indirect bandgap semiconductor, the minimum energy level of the conduction band is higher than the maximum energy level of the valence band at the k-point in the Brillouin zone. Therefore, when an electron in the valence band absorbs sufficient energy from a photon or a phonon, it can overcome the energy difference and move to the conduction band.
+
+Now, let's consider each option:
+
+A) Energy of the electron decreases: This statement is false. As mentioned earlier, the electron needs to absorb sufficient energy to overcome the energy difference between the valence and conduction bands, so the energy of the electron actually increases.
+
+B) A photon is emitted in the process: This statement is false. If the electron is moving from the valence band to the conduction band, it needs to absorb a photon or phonon to gain energy. Therefore, a photon is not emitted in the process.
+
+C) A phonon is annihilated in the process: This statement is true. In an indirect bandgap semiconductor, a phonon is involved in the process of an electron transitioning from the valence band to the conduction band. When an electron in the valence band absorbs a phonon, it gains energy and can transition to the conduction band.
+
+D) A photon is created in the process: This statement is false. As mentioned earlier, a photon is not created in the process of an electron transitioning from the valence band to the conduction band.
+
+Therefore, the correct option is:
+- (C) A phonon is annihilated in the process.

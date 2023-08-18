@@ -1,0 +1,21 @@
+As per Bragg's law,
+
+nλ = 2dsinθ
+
+where n is the order of reflection, λ is the wavelength of incident radiation, d is the spacing between planes, and θ is the angle of incidence or diffraction.
+
+Here, the incident beam is monochromatic X-ray with wavelength λ = 0.154 nm, and the crystal has a cubic structure with lattice parameter a = 0.245 nm. The schematic diagram shows that the set of planes is represented by the vector (1,1,0), which has a distance of d = a/√2 between adjacent planes.
+
+So,
+
+d = a/√2 = 0.245 nm/√2 ≈ 0.173 nm
+
+Plugging in the given values in the Bragg's equation, we get
+
+λ/2d = sinθ
+
+θ = sin⁻¹(λ/2d) = sin⁻¹(0.154/2*0.173) ≈ 20.2°
+
+Therefore, the diffraction angle for the first order reflection is 2θ ≈ 40.4°.
+
+Answer: [40.4]

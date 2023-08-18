@@ -1,0 +1,7 @@
+The ageing of an Al-Cu alloy below the GP zone solvus involves the precipitation of Cu-rich particles within the aluminum matrix. This leads to the strengthening of the alloy by hindering the movement of dislocations through the material. However, as the particles grow larger, they can start to exert a detrimental effect on the material's properties, leading to a softening of the alloy. 
+
+Based on this, we can predict that the hardness of the alloy should first increase and then decrease as a function of ageing time. Initially, the small precipitates should lead to a strengthening effect, resulting in an increase in hardness. As the particles grow larger, they will start to lead to a softening effect, leading to a decrease in hardness. 
+
+Therefore, the correct answer is:
+
+C) first increases and then decreases

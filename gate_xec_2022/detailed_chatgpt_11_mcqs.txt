@@ -1,0 +1,16 @@
+The glass transition temperature (Tg) is the temperature at which an amorphous solid (such as glass) transitions from a hard and brittle state to a soft and rubbery state upon heating. It is defined as the temperature where the viscosity of the glass is equal to 10^12 Pa·s. Marginally below its Tg, the glass is relatively stable; however, its properties, including its enthalpy and entropy, are affected.
+
+(A) Glass has higher enthalpy than both the corresponding crystalline and liquid phases:
+Enthalpy is the heat energy stored in a system at constant pressure. For a material, the enthalpy of the liquid phase is usually higher than that of the crystalline phase. However, because glass does not have a well-defined crystalline structure, its enthalpy cannot be directly compared to that of the crystalline phase. At temperatures below its Tg, the enthalpy of the glass is typically lower than that of the corresponding liquid phase, as the glass is in a more ordered state. Therefore, statement (A) is false.
+
+(B) Glass has lower enthalpy than both the corresponding crystalline and liquid phases:
+As explained above, the enthalpy of the glass is typically lower than that of the corresponding liquid phase. Additionally, the enthalpy of the crystalline phase may be lower or higher than that of the glass, depending on the specific material and its properties. Therefore, statement (B) is partially true, but not necessarily always true.
+
+(C) Glass has higher entropy than the corresponding crystalline phase and lower entropy than the corresponding liquid phase:
+Entropy is a measure of the disorder or randomness of a system, and it tends to increase as a material transitions from the solid to the liquid state. The entropy of the crystalline phase is typically lower than that of the corresponding liquid phase due to its greater degree of order. As for the glass, it is less ordered than the crystalline phase, but more ordered than the liquid phase. Therefore, statement (C) is true.
+
+(D) Glass has lower entropy than the corresponding crystalline phase and higher entropy than the corresponding liquid phase:
+As explained above, the entropy of the crystalline phase is typically lower than that of the corresponding liquid phase. Therefore, statement (D) is false.
+
+Answer:
+(C) Glass has higher entropy than the corresponding crystalline phase and lower entropy than the corresponding liquid phase.

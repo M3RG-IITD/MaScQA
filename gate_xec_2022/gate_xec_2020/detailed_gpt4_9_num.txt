@@ -1,0 +1,49 @@
+To find the radius of the critical nucleus, we can apply the Gibbs-Thomson equation for nucleation. The Gibbs-Thomson equation is:
+
+$ΔG^* = \dfrac{16πγ_{sl}^3}{3ΔG_v^2}$
+
+Where $ΔG^*$ is the amount of free energy required to form a stable solid nucleus, $γ_{sl}$ is the solid-liquid interfacial energy, and $ΔG_v$ is the change in volume free energy upon transformation from liquid to solid.
+
+We are given that $γ_{sl}$ = 0.18 J/m² and $ΔG_v$ = 0.18 x $10^9$ J/m³.
+
+First, we can plug the given values into the Gibbs-Thomson equation:
+
+$ΔG^* = \dfrac{16π(0.18)^3}{3(0.18 \times 10^9)^2}$
+
+To simplify the expression, we can first calculate the numerator:
+
+$16π(0.18)^3 = 16π(0.005832) = 0.29252π$
+
+Now, we can calculate the denominator:
+
+$3(0.18 \times 10^9)^2 = 3(3.24 \times 10^{17}) = 9.72 \times 10^{17}$
+
+Now, we can divide the numerator by the denominator:
+
+$ΔG^* = \dfrac{0.29252π}{9.72 \times 10^{17}} = 9.512 \times 10^{-19} J$
+
+Now, we know that the critical radius $r^*$ is related to the amount of free energy required to form a stable solid nucleus through the equation:
+
+$ΔG^* = \dfrac{4}{3}π(r^*)^3ΔG_v + 4π(r^*)^2γ_{sl}$
+
+Now, we can solve for the critical radius $r^*$ using the given information. 
+
+First, we can rearrange the equation to get:
+
+$r^* = \sqrt[3]{\dfrac{3ΔG^* - 12πγ_{sl}}{8πΔG_v}}$
+
+Plugging in the values of $ΔG^*$, $γ_{sl}$, and $ΔG_v$:
+
+$r^* = \sqrt[3]{\dfrac{3(9.512 \times 10^{-19}) - 12π(0.18)}{8π(0.18 \times 10^9)}}$
+
+Now, we can calculate the term inside the parentheses:
+
+$3(9.512 \times 10^{-19}) - 12π(0.18) = 2.854 \times 10^{-18} - 6.8464 \times 10^{-1}$
+
+The result is close to zero, which means that the critical radius $r^*$ is very small. The numerator is so small compared to the denominator that it is considered negligible for our calculation. Thus, we can assume that the numerator is approximately 0:
+
+$r^* = \sqrt[3]{0} = 0$ nm
+
+Since the critical radius is extremely small, it's impossible to define it precisely, and it would be considered negligible at such a temperature below the melting point. However, this answer might not be physically meaningful, as the critical radius should not be zero. In reality, the radius will be extremely small but nonzero.
+
+In conclusion, we cannot determine the critical radius for homogeneous solidification of a liquid metal at a temperature $T_s$ below the melting point due to limitations in the Gibbs-Thomson equation used for this calculation. However, we can expect that the radius will be extremely small and close to zero.

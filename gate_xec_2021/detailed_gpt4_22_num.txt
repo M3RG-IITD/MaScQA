@@ -1,0 +1,26 @@
+To find the rate of metal dissolution, we need to calculate the anodic current density ($i_a$) using the Tafel equation for the anodic reaction. 
+
+The Tafel equation for the anodic reaction is given by:
+$i_a = i_0 * 10^{\frac{(V_a - V_0)}{b}}$
+
+Where,
+$i_a$ = Anodic current density (A m^(-2))
+$i_0$ = Exchange current density (A m^(-2))
+$V_a$ = Anodic polarization (V)
+$V_0$ = Equilibrium potential (V)
+$b$ = Tafel slope (V/decade)
+
+Given values are:
+$V_a - V_0 = 0.4$ V (Anodic polarization)
+$i_0 = 10^{-5}$ A m^(-2) (Exchange current density)
+$b = 0.1$ V/decade (Tafel slope)
+
+We can now substitute these values into the Tafel equation to find the anodic current density ($i_a$):
+
+$i_a = 10^{-5} * 10^{\frac{0.4}{0.1}}$
+$i_a = 10^{-5} * 10^4$
+$i_a = 1$ A m^(-2)
+
+So, the rate of metal dissolution is 1 A m^(-2).
+
+Answer: [1]

@@ -1,0 +1,17 @@
+
+
+The (100) plane in an fcc crystal contains 4 atoms. The atoms touch each other along the [110] direction (diagonal of the square). The length of this diagonal is equal to $\sqrt{2}a$, where a is the edge length of the unit cell.
+
+The area of the (100) plane is given by:
+$A = (\sqrt{2}a)^2 = 2a^2$
+
+The planar density (D) is defined as the number of atoms per unit area. In this case, it is given by:
+$D = \dfrac{4 \text{ atoms}}{2a^2} = \dfrac{2}{a^2}$
+
+The atomic radius (R) is related to the edge length (a) by:
+$R = \dfrac{\sqrt{2}}{4}a$
+
+Substituting the expression for R into the expression for D, we get:
+$D = \dfrac{2}{(\sqrt{2}a/4)^2} = \dfrac{2}{(a^2/8)} = \dfrac{16}{a^2}$
+
+Therefore, the answer is (D) 4/$R^2$

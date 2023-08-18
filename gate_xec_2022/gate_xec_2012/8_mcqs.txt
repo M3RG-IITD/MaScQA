@@ -1,0 +1,2 @@
+Microstrain can be measured by X-ray diffraction using peak
+(A) Area and intensity (B) Position and area (C) Broadening and intensity (D) Position and broadening 

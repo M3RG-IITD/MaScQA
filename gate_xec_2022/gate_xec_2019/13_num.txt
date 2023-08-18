@@ -1,0 +1,1 @@
+A monochromatic X-ray beam of wavelength 0.154 nm is incident on a cubic crystal having lattice parameter a = 0.245 nm. The diffraction angle (2θ) (in degrees) for the first order reflection from a set of planes represented by the schematic plane in the image is? (round off to 1 decimal place)

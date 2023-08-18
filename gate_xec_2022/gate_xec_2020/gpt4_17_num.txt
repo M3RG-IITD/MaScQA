@@ -1,0 +1,37 @@
+To find the transmittance, we first need to calculate the intensity of the transmitted light, I. From the information provided, we have the following values:
+
+- α = 10^3 m^(-1) (absorption coefficient)
+- R = 0.05 (reflectance)
+- the thickness of the material x
+
+From the diagram, we can write the equations for the intensities of the transmitted light after each reflection:
+
+1. After passing through the first surface, the intensity is reduced by a factor of (1 - R) since R is reflected
+
+   I1 = I_0 * (1 - R)
+
+2. When the light reaches the other side of the material, a portion of the light is absorbed. The amount absorbed depends on the thickness x and the absorption coefficient α
+
+   I2 = I1 * exp(-αx)
+
+3. The transmitted light I2 is then partially reflected when it reaches the second surface. We consider the reduction in intensity due to reflection as (1-R)
+
+   I = I2 * (1 - R)
+
+Now, we can substitute the equations 1 and 2 into equation 3:
+
+I = I_0 * (1 - R) * exp(-αx) * (1 - R)
+
+Transmittance, T, is the ratio of the intensity of transmitted light, I, over the initial intensity, I_0:
+
+T = I / I_0
+
+We can now substitute the equation derived in the previous step:
+
+T = (1 - R) * exp(-αx) * (1 - R)
+
+Given the values α = 10^3 m^(-1) and R = 0.05, the transmittance T can be estimated:
+
+T = (1 - 0.05) * exp(-10^3x) * (1 - 0.05)
+
+As the thickness, x, is missing from the question statement, please provide the thickness value for me to calculate the transmittance value.

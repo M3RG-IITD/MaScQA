@@ -1,0 +1,33 @@
+The Bragg's law for diffraction states:
+
+nλ = 2d * sin(θ)
+
+where n is the order of the diffracted beam, λ is the wavelength of the X-rays, d is the interplanar lattice distance, and θ is the diffraction angle. 
+
+For a BCC (body-centered cubic) structure, the first diffraction peak occurs at the (110) plane. The Miller indices (h, k, l) are (1, 1, 0) for the (110) plane.
+
+The BCC lattice parameter a relates to the interplanar distance d by:
+
+d = a / √(h^2 + k^2 + l^2)
+
+The given lattice parameter a is 4.1 Å and the Miller indices (h, k, l) for the (110) plane are (1, 1, 0). So, the interplanar distance d can be calculated as follows:
+
+d = (4.1 Å) / √(1^2 + 1^2 + 0^2)
+d = (4.1 Å) / √2
+d ≈ 2.899 Å
+
+Now we can use Bragg's law to find the angular position θ. We are looking for the first diffraction peak, so the order n is 1. Given the wavelength λ is 1.54 Å:
+
+1 * (1.54 Å) = 2 * (2.899 Å) * sin(θ)
+
+Now we can solve for θ:
+
+sin(θ) = (1.54 Å) / (2 * 2.899 Å)
+sin(θ) ≈ 0.26589
+
+θ = arcsin(0.26589)
+θ ≈ 15.44°
+
+The angular position θ of the first diffraction peak is approximately 15.44°.
+
+So the answer is [15.44].

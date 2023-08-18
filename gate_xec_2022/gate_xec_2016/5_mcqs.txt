@@ -1,0 +1,2 @@
+For a typical metal at room temperature and atmospheric pressure, the Fermi energy is defined as the energy level for which the probability of occupancy is:
+(A) 0 (B) 0.25 (C) 0.5 (D) 1

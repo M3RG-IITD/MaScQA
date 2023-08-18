@@ -1,0 +1,30 @@
+To find the electrical conductivity of the n-type Si crystal, we can use the formula:
+
+σ = q * n * μ
+
+where σ is the electrical conductivity, q is the charge of an electron, n is the concentration of free electrons, and μ is the drift mobility of electrons.
+
+Given:
+Intrinsic charge concentration of Si, n_i = 1.45 × 10^10 cm^(-3)
+Charge of an electron, e = 1.6 × 10^(-19) C
+Drift mobility of electrons, μ = 1350 cm^2V^(-1)s^(-1)
+Phosphorus doping concentration, N_D = 10^16 cm^(-3)
+
+For an n-type Si crystal doped with phosphorus atoms, the concentration of free electrons, n, is approximately equal to the doping concentration, N_D.
+
+n = N_D = 10^16 cm^(-3)
+
+Now we can calculate the electrical conductivity σ:
+
+σ = q * n * μ
+σ = (1.6 × 10^(-19) C) * (10^16 cm^(-3)) * (1350 cm^2V^(-1)s^(-1))
+
+To convert the conductivity from cm^(-1) to m^(-1), we need to multiply by 100:
+
+σ = (1.6 × 10^(-19) C) * (10^16 cm^(-3)) * (1350 cm^2V^(-1)s^(-1)) * 100
+σ = (1.6 × 10^(-3) C) * (10^14 m^(-3)) * (13.5 m^2V^(-1)s^(-1))
+σ ≈ 2.16 × 10^11 Ω^(-1)m^(-1)
+
+Rounding off to the nearest integer, the electrical conductivity is:
+
+σ ≈ 2.16 × 10^11 Ω^(-1)m^(-1) ≈ [216000000000] Ω^(-1)m^(-1)

@@ -1,0 +1,5 @@
+Match the materials in Column I with the applications in Column II:
+Column I : [P. Titanium diboride, Q. Molybdenum disilicide, R. Hydroxyapatite, S. Nanocrystalline titanium oxide]
+Column II : [1. Photocatalyst, 2. Furnace heating element, 3. Ultra high temperature material, 4. Tough ceramic, 5. Artificial bone implant]
+
+Options: (A) P-3, Q-4, R-5, S-1 (B) P-5, Q-3, R-2, S-1 (C) P-4, Q-3, R-1, S-5 (D) P-3, Q-2, R-5, S-1 

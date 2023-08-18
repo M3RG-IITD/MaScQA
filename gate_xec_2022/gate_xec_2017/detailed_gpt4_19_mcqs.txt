@@ -1,0 +1,17 @@
+We will analyze each statement individually to determine if they are true, and then select the correct answer based on this analysis.
+
+(i) The electronic energy levels of the host materials change significantly by doping.
+
+Doping with transition metal ions can introduce additional energy levels within the bandgap of the host material or modify the existing energy levels. These additional or modified energy levels allow electrons to participate in electronic transitions that are otherwise not possible, which can lead to the absorption of specific wavelengths of light, giving the material a coloured appearance. Therefore, statement (i) is true.
+
+(ii) The doped element selectively absorbs certain wavelengths of light other than the perceived colour.
+
+When a material appears coloured, it is generally because it selectively absorbs certain wavelengths of light, while allowing others to be transmitted or reflected. The colour we perceive is the complementary colour of the absorbed light. For example, if a material absorbs green light and reflects/transmits the remaining colours, it will appear red. So, statement (ii) is true.
+
+(iii) The doped element emits radiation of a specific wavelength.
+
+Although doping can introduce new electronic states and change the energy levels of a material, this alone does not necessarily cause the material to emit radiation. Colour due to emission generally requires an external source of energy (e.g., UV light or an electric current) to excite the electrons in the material. In the question, we are given that the material is transparent under solar light, implying that it absorbs and then re-emits certain wavelengths of incident light. Therefore, without a more specific context or information, it is not accurate to say that the doped element emits radiation of specific wavelength, and we consider statement (iii) to be false.
+
+Based on the analysis above, statements (i) and (ii) are true. Therefore, the correct answer is:
+
+(B) Both (i) and (ii)

@@ -1,0 +1,19 @@
+There is no figure provided. The formula for the overall Young's modulus of a unidirectional fiber-reinforced composite is given by:
+
+E_c = V_f * E_f + V_m * E_m
+
+Where:
+E_c = Young's modulus of the composite
+V_f = Volume fraction of the fiber
+E_f = Young's modulus of the fiber
+V_m = Volume fraction of the matrix
+E_m = Young's modulus of the matrix
+
+Plugging in the values given:
+
+E_c = (0.6 * 200 GPa) + (0.4 * 10 GPa) = 124 GPa
+
+Therefore, the Young's modulus of the composite is 124 GPa. 
+
+Answer: 
+- 124 GPa

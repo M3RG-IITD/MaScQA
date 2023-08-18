@@ -1,0 +1,2 @@
+The stress ratio for a completely reversed cyclic loading during a fatigue test is
+(A) 0 (B) 1 (C) -1 (D) -1/2

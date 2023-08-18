@@ -1,0 +1,23 @@
+
+
+Let us understand each of the terminologies given in Column I and their relations in Column II:
+
+P. Domain wall: Domain walls are boundaries between the different magnetic domains in a ferromagnetic material. Hence, it is related to ferromagnetic materials. 
+
+Q. Fick’s law: Fick's laws of diffusion describe how substances diffuse from regions of high concentration to regions of low concentration. Hence, it is related to diffusion.
+
+R. Matthiessen’s rule: Matthiessen’s rule states that the total electrical resistivity of a substance can be expressed as the sum of its resistivities due to impurities, grain boundaries, and phonon scattering. Hence, it is related to the resistivity of impure metals.
+
+S. Hall-Petch relation: The Hall-Petch relation describes how the strength (or hardness) of a material changes as the grain size is reduced. Hence, it is related to mechanical properties.
+
+T. Meissner effect: The Meissner effect is the expulsion of a magnetic field from a superconductor during its transition to the superconducting state. Hence, it is related to superconductors.
+
+Based on the above discussion, we can match the terminologies given in Column I with their corresponding relations listed in Column II as follows:
+
+P - 3 (ferromagnetic materials)
+Q - 5 (diffusion)
+R - 4 (resistivity of impure metals)
+S - 2 (mechanical properties)
+T - 1 (superconductors)
+
+Therefore, the correct option is (C) P-3, Q-5, R-4, S-2, T-1.

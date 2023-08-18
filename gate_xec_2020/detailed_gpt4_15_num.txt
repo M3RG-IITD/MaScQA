@@ -1,0 +1,41 @@
+To find the ratio of surface energy of {111} surface to {100} surface for an FCC metal, we first need to determine the number of broken bonds per unit area for both types of surfaces.
+
+1. FCC lattice structure:
+An FCC lattice has 12 nearest neighbors for each atom, and each of these bonds is shared between two atoms. Since only nearest neighbor broken bonds contribute to the surface energy, we will focus on these 12 nearest neighbors.
+
+2. {100} surface:
+For the {100} surface, each atom on the surface has four nearest neighbors on the same plane and four nearest neighbors below (or above) the surface. Thus, there are four broken nearest neighbor bonds for each surface atom. 
+
+To calculate the number of broken bonds per unit area, we need to determine the area of the unit cell in contact with the surface. For the {100} surface, the area is (a * a), where a is the lattice constant. There is one surface atom per unit cell, so the number of broken bonds per unit area for the {100} surface is:
+
+Bonds per unit area (100) = 4 broken bonds per atom / (a * a)
+
+3. {111} surface:
+For the {111} surface, each atom has six nearest neighbors in the same plane and three nearest neighbors below (or above) the surface which are not in contact anymore. This leads to three broken nearest neighbor bonds for each surface atom.
+
+To determine the area of the unit cell in contact with the {111} surface, we need to find the distance between atoms along the {111} surface. This distance can be found by projecting the {111} plane on the original FCC lattice. The diagonal of the FCC cube is √2 * a, and since there are 2 atoms along this diagonal, the distance between atoms on the {111} plane is (√2 * a) / 2 = a / √2.
+
+Next, we find the area of the triangle formed by three atoms on the {111} plane. This is an equilateral triangle with side length a / √2, so its area is (3√3 / 4) * (a / √2)^2.
+
+Finally, we consider that there is one surface atom per unit area, so the number of broken bonds per unit area of the {111} surface is:
+
+Bonds per unit area (111) = 3 broken bonds per atom / ( (3√3 / 4) * (a / √2)^2)
+
+4. Ratio of surface energies:
+The ratio of surface energy of {111} surface to {100} surface is equal to the ratio of broken bonds per unit area for the two surfaces:
+
+Surface energy ratio = Bonds per unit area (111) / Bonds per unit area (100)
+
+Surface energy ratio = (3 broken bonds / ( (3√3 / 4) * (a / √2)^2)) / (4 broken bonds / (a * a))
+
+5. Simplifying and rounding off to two decimal places:
+
+Surface energy ratio = (3 / ( (3√3 / 4) * (1 / √2)^2)) / (4 /1)
+
+Surface energy ratio = (3 / (3√3 / 8)) / 4 
+
+Surface energy ratio ≈ 0.61
+
+So, the ratio of surface energy of {111} surface to {100} surface for an FCC metal is approximately 0.61. The answer should be written inside a list as:
+
+[0.61]

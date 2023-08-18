@@ -1,0 +1,8 @@
+The correct match for the heat treatment process and microstructural features of steels are:
+
+P: Quenching - 2: Martensite
+Q: Normalizing - 3: Pearlite
+R: Tempering - 4: Iron carbide precipitates
+S: Austempering - 1: Bainite
+
+So, the correct answer is (A) P-2, Q-3, R-4, S-1.

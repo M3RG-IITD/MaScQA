@@ -1,0 +1,7 @@
+P-2; Q-1; R-3 
+
+- Eutectoid reaction involves the transformation of one solid phase into two solid phases, hence it matches with (2).
+- Martensitic transformation does not involve diffusion and is a diffusionless transformation, hence it matches with (1).
+- Precipitation reaction occurs in supersaturated solutions, where a solute precipitates out of a solution, hence it matches with (3).
+
+Therefore, the correct answer is option (C) P-2; Q-1; R-3.

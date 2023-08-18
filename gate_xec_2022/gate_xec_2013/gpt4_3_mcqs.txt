@@ -1,0 +1,5 @@
+The correct relation between the number of phases, P, the number of components, C, and the degree of freedom, F, is given by Gibbs' phase rule. The equation for Gibbs' phase rule is:
+
+P + F = C + 2
+
+Therefore, the correct answer is (B) P+F=C+2.

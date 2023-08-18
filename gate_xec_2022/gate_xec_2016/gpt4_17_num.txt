@@ -1,0 +1,30 @@
+To find the diameter of the spherical titania nanoparticles, we need to use the specific surface area formula:
+
+Specific Surface Area (SSA) = 6 / (density x diameter)
+
+Given:
+SSA = 125 m²/g
+Density = 4.23 g/cm³ (in g/m³, multiply by 1e6 so, 4.23×10⁶ g/m³)
+
+Let's find the diameter.
+
+1. Rearrange the equation to solve for diameter:
+Diameter = 6 / (density x SSA)
+
+2. Plug in the values:
+Diameter = 6 / (4.23×10⁶ g/m³ x 125 m²/g)
+
+3. Simplify the equation:
+Diameter = 6 / (5.2875×10⁸)
+
+4. Calculate the Diameter in meters:
+Diameter = 1.135×10⁻⁹ m
+
+5. Convert Diameter to nanometers (1 m = 1e9 nm):
+Diameter = 1.135×10⁻⁹×10⁹ nm
+
+6. Diameter = 1.135nm
+
+The diameter of the spherical titania nanoparticles is approximately 1.135 nm.
+
+Answer: [1.135].

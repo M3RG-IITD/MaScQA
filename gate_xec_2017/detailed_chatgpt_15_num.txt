@@ -1,0 +1,27 @@
+The lever rule can be used to solve this problem.
+
+The lever rule states that:
+
+(weight fraction of phase A) / (weight fraction of phase B) = (distance from point to phase A) / (distance from point to phase B)
+
+In this case, we can use the lever rule to find the weight percentage of liquid present in the alloy at 1300 °C.
+
+Let's call the weight percentage of liquid "L". We know that the alloy contains 47 wt.% of A and 53 wt.% of B at 1300 °C. Using the lever rule, we can set up the following equation:
+
+(0 - L) / (100 - L) = (47 - 0) / (0 - 53)
+
+Simplifying this equation, we get:
+
+-L / (100 - L) = 47 / (-53)
+
+Cross-multiplying and simplifying again, we get:
+
+53L = -4700 + 47L
+
+6L = -4700
+
+L = -783.33
+
+This answer doesn't make physical sense because the weight percentage of liquid can't be negative. This means that our initial assumption that the alloy contains 100% of either A or B at 1300 °C is incorrect.
+
+Therefore, we need more information in order to solve this problem.

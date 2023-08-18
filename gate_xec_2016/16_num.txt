@@ -1,0 +1,1 @@
+(Given: erf(0.5) ≅ 0.5). Gallium is to be diffused into pure silicon wafer such that its concentration at a depth of $10^(−3)$ cm will be one half the surface concentration. Given that the diffusion coefficient (D) of gallium in silicon at 1355 °C is 6×$10^(−11)$ $cm^2$ $s^(−1)$, the time(in seconds) the silicon wafer should be heated in contact with gallium vapour at 1355 °C is

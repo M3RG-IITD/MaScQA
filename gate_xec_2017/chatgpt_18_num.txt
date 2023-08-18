@@ -1,0 +1,37 @@
+We can use the Weibull theory to solve this problem. The Weibull modulus for ceramics is typically in the range of 5-20. For simplicity, let's assume it is 10 for this material.
+
+The Weibull distribution is expressed as:
+
+F(x) = 1 - exp[-(x/α)^m]
+
+where F(x) is the probability of failure, x is the flaw size, α is the scale parameter, and m is the shape parameter.
+
+For a given probability of failure (P), we can find the corresponding flaw size (x) by rearranging the equation as follows:
+
+x = α * (-ln[1 - P])^(1/m)
+
+Assuming a probability of failure of 0.1%, we can find the critical flaw size for the given material as follows:
+
+x1 = α * (-ln[1 - 0.001])^(1/10) = 30 μm
+
+To find the fracture stress for a critical flaw size of 90 μm, we can use the same equation with a new value of x:
+
+90 μm = α * (-ln[1 - 0.001])^(1/10)
+
+Solving for α:
+
+α = 90 μm / (-ln[1 - 0.001])^(1/10) = 129.8 μm
+
+Now we can use the fracture stress and the Weibull modulus to find the fracture stress for the new critical flaw size:
+
+σ2 = σ1 * (x2/x1)^(-1/m)
+
+where σ1 is the fracture stress for the initial flaw size, x1 is the initial flaw size, x2 is the new flaw size, and m is the Weibull modulus.
+
+Plugging in the values:
+
+σ2 = 300 MPa * (90/30)^(-1/10) = 104 MPa
+
+Therefore, the fracture stress for a critical flaw size of 90 μm is 104 MPa.
+
+Answer: [104 MPa]

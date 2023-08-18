@@ -1,0 +1,43 @@
+
+
+We can use Fick's second law of diffusion to solve this problem. The equation is:
+
+ΔC/Δt = D * (Δ^2C/Δx^2)
+
+where ΔC/Δt is the rate of change of concentration with respect to time, D is the diffusion coefficient, and Δ^2C/Δx^2 is the rate of change of concentration with respect to distance.
+
+At steady state, the rate of change of concentration is zero, so we can set ΔC/Δt = 0. We also know that the concentration at a depth of $10^(−3)$ cm is half the surface concentration. Let's call the surface concentration Cs, then the concentration at a depth of $10^(−3)$ cm is Cs/2. We can assume that the wafer is initially at a uniform Cs concentration, so the initial condition is:
+
+C(x,0) = Cs          where x = 0 to x = ∞
+
+The boundary condition is:
+
+C(0,t) = Cs         at the surface of the wafer, where x = 0
+
+C($10^(−3)$,t) = Cs/2   at a depth of $10^(−3)$ cm, where x = $10^(−3)$ cm
+
+We can solve this problem using the complementary error function:
+
+C(x,t) = (Cs/2) + (Cs/2) * erf(x/(2*sqrt(D*t)))
+
+At the boundary condition, x = 0:
+
+Cs = (Cs/2) + (Cs/2) * erf(0)
+
+erf(0) = 0, so Cs/2 = Cs/2, which is true
+
+At the other boundary condition, x = $10^(−3)$ cm:
+
+Cs/2 = (Cs/2) + (Cs/2) * erf($10^(−3)$/(2*sqrt(D*t)))
+
+erf($10^(−3)$/(2*sqrt(D*t))) = 1/2
+
+$10^(−3)$/sqrt(D*t) = sqrt(2)
+
+t = (($10^(−3)^(2))/(2*D)) = 8.3 seconds (rounded to two significant figures)
+
+Therefore, the time the silicon wafer should be heated in contact with gallium vapor at 1355°C is 8.3 seconds.
+
+Answer: 
+
+- 8.3 seconds
