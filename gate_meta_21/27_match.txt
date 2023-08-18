@@ -1,0 +1,5 @@
+Match the forming process (in Column I) with its name (in Column II):
+Column I: [(P), (Q) , (R), (S)] (see P, Q, R, S from the image)
+Column II: [1. Extrusion, 2. Rolling, 3. Deep Drawing, 4. Open Die Forging]
+
+Options: (A) P-1, Q-2, R-3, S-4 (B) P-3, Q-1, R-4, S-2 (C) P-3, Q-4, R-1, S-2 (D) P-1, Q-4, R-3, S-2

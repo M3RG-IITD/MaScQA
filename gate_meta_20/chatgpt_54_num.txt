@@ -1,0 +1,23 @@
+First, we need to find the equilibrium constant (K) for the reaction using the formula: $$ΔG° = -RT~lnK$$
+where ΔG° is given as -19840 -40.65T J, and R = 8.314 J/mol.K, and T = 1800 K. Thus, substituting these values, we get:
+
+$$-19840 - 40.65 \times 1800 = -129680~J/mol$$
+$$-129680 = -8.314 \times 1800~lnK$$
+$$K = e^{(-129680/(-8.314 \times 1800))} = 1.73 \times 10^7$$
+
+Now, we can use Henry's law to find the concentrations of dissolved oxygen and carbon in the steel. We know that: 
+$$[O]_{1 wt.\% Henrian Std. State} = 0.03 \text{ wt.%} \times \frac{1 \text{ kg O}}{100 \text{ kg steel}} = 0.0003 \text{ kg O/kg steel}$$ 
+$$[C]_{1 wt.\% Henrian Std. State} = x \text{ wt.%} \times \frac{1 \text{ kg C}}{100 \text{ kg steel}} = 0.01x \text{ kg C/kg steel}$$
+where x is the unknown carbon content we want to find. 
+
+Using Henry's law, we have:
+$$P_{CO} = K [C]_{1 wt.\% Henrian Std. State} [O]_{1 wt.\% Henrian Std. State}$$
+where Pco is the partial pressure of CO in atm. At equilibrium, we have:
+$$P_{CO} = 1~atm$$
+
+Substituting the values, we get:
+$$1 = (1.73 \times 10^7) (0.0003) (0.01x)$$
+Solving for x, we get: 
+$$x = \frac{1}{1.73 \times 10^7 \times 0.0003 \times 0.01} = 193.35 \text{ wt.%}$$
+
+Therefore, the carbon content in the steel is 193.35 wt.%, which is not a physically realistic value. This indicates that there is an error in the calculation or assumption made in the problem.

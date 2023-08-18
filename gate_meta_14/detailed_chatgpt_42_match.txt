@@ -1,0 +1,24 @@
+P: Grain size strengthening is the method of increasing the number of grain boundaries in a material, making it difficult for dislocations to move through the material. 
+
+Q: Work hardening is the process of straining a material beyond its elastic limit, causing permanent dislocation of the crystal lattice. 
+
+R: Dispersion strengthening is the method of adding tiny particles of a harder material to a softer material, creating a composite material that is stronger than the original. 
+
+S: Solid solution hardening is the method of adding atoms of a dissimilar element to a metal lattice, creating a lattice with fewer dislocation sites. 
+
+1. Orowan looping occurs when a dislocation encounters a hard particle or second-phase precipitate, and must bypass it through a series of looping movements. 
+
+2. Suzuki interaction occurs when a dislocation interacts with a solute atom, causing it to become more difficult for the dislocation to move past that atom. 
+
+3. Lomer-Cottrell barrier occurs when dislocations pile up along grain boundaries and become immobile, obstructing their movement through the material. 
+
+4. Dislocation pileup at grain boundaries is the process where dislocations become pinned at grain boundaries, resulting in an increase in material strength. 
+
+From the above descriptions, it is clear that: 
+
+P - 3 (Lomer-Cottrell barrier)
+Q - 4 (Dislocation pileup at grain boundaries)
+R - 2 (Suzuki interaction)
+S - 1 (Orowan looping)
+
+Therefore, the correct option is (A) P-3, Q-4, R-2, S-1.

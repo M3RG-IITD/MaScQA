@@ -1,0 +1,1 @@
+Given: (Lattice paramter of iron at room temperature = 0.287 nm). If saturation magnetization of iron at room temperature is 1700 $kAm^(-1)$, then magnetic moment (in $Am^(2)$) per iron atom in the crystal is x * $10^(-23)$(round off to 1 decimal place).

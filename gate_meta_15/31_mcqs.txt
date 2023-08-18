@@ -1,0 +1,2 @@
+C (s) + $CO_2$ (g) ⇋ 2CO (g) is an important reaction in iron making. Given $∆𝐻°_(298)$ = 172000 joules per mole of $CO_2$, which of the following conditions will favour the forward reaction?
+(A) Increasing both temperature and pressure. (B) Decreasing temperature and increasing pressure. (C) Decreasing both temperature and pressure. (D) Increasing temperature and decreasing pressure.

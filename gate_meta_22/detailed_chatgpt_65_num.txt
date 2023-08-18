@@ -1,0 +1,38 @@
+Given, 
+- Alloy A-B has equilibrium microstructure of two phases α and β
+- The molar proportion of α:β = 2:1
+- Overall composition of the alloy = 70 mol% B
+- The composition of β is 90 mol% B
+
+Let's assume that the total number of moles in the alloy is 100. Therefore,
+- The total number of moles of A = 30
+- The total number of moles of B = 70
+
+Since the molar proportion of α:β is 2:1, we can assume that the total number of moles of α and β are in the ratio of 2:1. Therefore,
+- The total number of moles of α = 2x
+- The total number of moles of β = x
+
+Also, the composition of β is given to be 90 mol% B. Therefore, 
+- The number of moles of B in β = 0.9x
+- The number of moles of A in β = 0.1x
+
+Now, we can use the overall composition of the alloy to determine the composition of α. We know that the total number of moles of A and B in the alloy are 30 and 70 respectively. Hence,
+- The total number of moles of A in α = 30 - 0.1x
+- The total number of moles of B in α = 70 - 0.9x
+
+Since the molar proportion of α:β is 2:1, we can equate the moles of A and B in α and β to get the following equation:
+2(30 - 0.1x) = x(0.1) + 2x(0.1) + 0.9x
+Simplifying the above equation, we get:
+58 = 3.1x
+x = 18.71
+
+Therefore, 
+- The number of moles of α = 2x = 37.42
+- The number of moles of B in α = 70 - 0.9x = 52.10
+
+Hence, the composition of α in terms of mol% B is:
+(52.10/37.42) * 100 = 139.44 ≈ 139 mol% B
+
+Therefore, the composition (in mol% B) of α is 139 (rounded off to the nearest integer). 
+
+Answer: [139]

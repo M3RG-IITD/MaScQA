@@ -1,0 +1,6 @@
+P - Flotation - Hydrophobicity 
+Q - Jigging - Difference in initial acceleration 
+R - Tabling - Difference in speed of lateral movements 
+S - Comminution - Difference in size reduction 
+
+Answer: (D) P - 1, Q - 4, R - 2, S - 3

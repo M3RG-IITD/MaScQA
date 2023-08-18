@@ -1,0 +1,35 @@
+To determine the critical radius of the nickel nucleus during solidification at 1673 K, we can use the following equation:
+
+$ΔG = \frac{4}{3} πr^3 (G_v - G_s) + 4πr^2γ$
+
+where $ΔG$ is the change in Gibbs free energy, $r$ is the radius of the nucleus, $G_v$ and $G_s$ are the Gibbs free energies of the liquid and solid phases, respectively, and $γ$ is the interfacial energy between the liquid and solid phases.
+
+At equilibrium, $G_v = G_s$ and $ΔG$ is equal to the enthalpy of fusion, $ΔH_f$. Therefore, we can rewrite the equation as:
+
+$ΔH_f = \frac{4}{3} πr^3 (G_v - G_s) + 4πr^2γ$
+
+Solving for $r$, we get:
+
+$r = \frac{2γ}{ΔH_f} + \left(\frac{3}{4π} \frac{ΔH_f}{G_v-G_s}\right)^{1/3}$
+
+We are given that the enthalpy of fusion of nickel is 2.65 × $10^9$ 𝐽.$𝑚^(−3)$, and the liquid-solid interfacial energy is 0.5 𝐽.$𝑚^(−2)$. We can also find the difference in Gibbs free energy between the liquid and solid phases by using the enthalpy of fusion and the equilibrium melting temperature of nickel:
+
+$ΔG = ΔH_f - TΔS_f$
+
+where $ΔS_f$ is the entropy of fusion. The entropy of fusion can be approximated as:
+
+$ΔS_f = \frac{ΔH_f}{T_m}$
+
+where $T_m$ is the equilibrium melting temperature. Substituting the given values, we get:
+
+$ΔS_f \approx \frac{2.65 \times 10^9}{1728} = 1.53 \times 10^6$ 𝐽.$𝐾^(−1)$.$𝑚^(−3)$
+
+$ΔG = 2.65 \times 10^9 - 1673 \times 1.53 \times 10^6 = -667.9 \times 10^6$ 𝐽.$𝑚^(−3)$
+
+Since $G_s > G_v$ (the system is supercooled), the term inside the cube root is negative. However, we can still approximate it by taking the absolute value of $ΔG$. Substituting all the given values, we get:
+
+$r = \frac{2 \times 0.5}{2.65 \times 10^9} + \left(\frac{3}{4π} \frac{|-667.9 \times 10^6|}{2.65 \times 10^9}\right)^{1/3} \approx 10.1$ nm
+
+Therefore, the critical radius of the nickel nucleus during solidification at 1673 K is approximately 10.1 nm. 
+
+Answer: [10.1] nm

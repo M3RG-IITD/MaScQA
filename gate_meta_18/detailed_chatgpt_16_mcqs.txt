@@ -1,0 +1,11 @@
+Brazing is a material joining process that uses a filler material to join two or more base materials. The filler material, also known as a braze metal, must have a lower melting temperature than the base materials being joined. When the braze metal is heated to a temperature above its melting point and then cooled, it solidifies and forms a strong, permanent bond between the base materials. 
+
+Out of the given options, the most suitable filler material for brazing of steel sheets is (B) Near-eutectic alloys. These alloys have a composition that is very close to the eutectic point, which is where the liquid phase of the alloy transforms completely into the solid phase upon cooling. This property of near-eutectic alloys results in a low melting temperature, making them suitable for joining steel sheets using brazing. 
+
+(A) Epoxy resins are not suitable for brazing of steel sheets because they are organic materials that do not have the necessary melting and bonding properties to join metals. 
+
+(C) Refractory alloys are high-melting-point materials that are used in applications requiring high strength and corrosion resistance at elevated temperatures. They are not suitable for brazing of steel sheets because they would require very high temperatures that could damage the base materials being joined. 
+
+(D) Large freezing range alloys have a wide temperature range between their liquidus and solidus points, which can make them difficult to control during brazing. They may also require higher temperatures than near-eutectic alloys, making them less suitable for brazing of steel sheets.
+
+Therefore, the correct answer is (B) Near-eutectic alloys.

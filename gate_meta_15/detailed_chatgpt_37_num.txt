@@ -1,0 +1,79 @@
+The electro-refining of Ni involves the following reactions:
+
+At anode:  Ni -> Ni(2+) + 2 e(-)
+At cathode: Ni(2+) + 2 e(-) -> Ni
+
+The overall cell reaction is the sum of above two reactions, which is given by:
+Ni(at anode) -> Ni(at cathode)
+
+The standard reduction potential, $E^{o}_{cell}$ of this cell can be given by Nernst equation as:
+$$ E^{o}_{cell} = \frac{RT}{2F} ln(K) $$
+
+where, $K$ is the equilibrium constant and can be calculated from the concentration of the reactants and products. In this question, since the anode concentration is given, we need the concentration of Ni ion in cathode to calculate the equilibrium constant.
+
+Using the lever rule, we can calculate the concentration of Ni ion in the cathode.
+
+Let w be the fraction of Ni from cathode, then (1-w) is the fraction of Ni from anode. Also, let c be the concentration of Ni in the electrolyte.
+
+Then the concentration of Ni ion in cathode = cw and in anode = c(1-w)
+
+Since the alloy is Cu-10%Ni, the fraction of Cu in the anode is 0.1 and the fraction of Ni in the anode is (1-0.1) = 0.9.
+
+The total moles of metal in the anode= $w_{Cu} + w_{Ni} = 0.1 + 0.9w$
+
+The moles of Ni in the anode= $w_{Ni}/(0.1+0.9w)$
+
+Now from the molar concentration of the anode, we get the concentration of Ni in anode as:
+$$ \frac{\text{moles of Ni in anode}}{\text{total volume of solution in anode}} = \frac{w_{Ni}/[0.1+0.9w]}{0.9} = \frac{w_{Ni}}{0.9* [0.1+0.9w]}$$
+
+Using the same logic for the cathode, the concentration of Ni ion in cathode = $c w$.
+
+Thus the equilibrium constant K can be given as:
+$$ K = \frac{c* w}{[0.1+0.9w]} $$
+
+Hence, the standard reduction potential, $E^{o}_{cell}$ can be given as:
+$$E^{o}_{cell} = \frac{RT}{2F} \ln \left(\frac{c*w}{[0.1+0.9w]}\right) $$
+
+At equilibrium, the cell potential is zero since the reaction has stopped. Hence, to drive the reaction in the forward direction, a voltage greater than $E^{o}_{cell}$ is required.
+
+The voltage required is given by the equation:
+$$ V = E^{o}_{cell} - \frac{RT}{2F} \ln \left(\frac{[Ni^{2+}]_{cathode}}{[Ni^{2+}]_{anode}}\right) $$
+
+At equilibrium, the concentration of Ni ion in anode is equal to the concentration of Ni atom in the anode since the anode is pure. Hence, the concentration of Ni ion in the anode is negligible compared to the concentration of Ni ion in the cathode. Thus, the concentration of Ni ion in the anode can be taken as zero.
+
+Therefore, the voltage required for refining can be given as:
+$$ V = E^{o}_{cell} - \frac{RT}{2F} \ln \left([Ni^{2+}]_{cathode}\right) $$
+
+Now, to calculate $[Ni^{2+}]_{cathode}$, we need to find the concentration of Ni ion in the cathode using the lever rule.
+
+Let the weight of Ni in the cathode be w, then the weight of Cu in the cathode is (1-w). The moles of Ni in the cathode is w/58.7 and the moles of Cu in cathode is (1-w)/63.5.
+
+The total moles of metal in cathode per unit volume is given by:
+$$\frac{\text{moles of Ni}+\text{moles of Cu}}{V_{cathode}} = \frac{w/58.7+(1-w)/63.5}{\text{1 cm}^3} $$
+
+The concentration of Ni ion in cathode can be given by:
+$$[Ni^{2+}]_{cathode} = \frac{w/58.7}{(w/58.7)+(1-w)/63.5} $$
+
+Substituting the given values in the above equation, we get:
+$$[Ni^{2+}]_{cathode} = \frac{w}{0.171+1.052w} $$
+
+Now we can substitute the above expression for $[Ni^{2+}]_{cathode}$ in the expression for V to get:
+$$ V = E^{o}_{cell} - \frac{RT}{2F} \ln \left(\frac{w}{0.171+1.052w}\right) $$
+
+To calculate the minimum voltage, we need to maximize the w term.
+
+Differentiating V w.r.t w and equating it to zero, we get:
+$$ \frac{dV}{dw} = 0 $$
+
+Solving the above equation, we get:
+$$ w = 0.5304 $$
+
+Substituting this value of w in the expression for V, we get:
+$$ V = -0.188 \text{ V}$$
+
+Converting volts to millivolts, we get:
+$$ V = -188 \text{ mV} $$
+
+Therefore, the minimum voltage required for refining is -188 mV.
+
+Answer: [-188 mV].

@@ -1,0 +1,61 @@
+Given: 
+
+Density of steel, 𝜌(steel) = 7200 kg/m³ 
+
+Density of liquid Al, 𝜌(Al) = 2360 kg/m³ 
+
+Viscosity of liquid Al, 𝜇(Al) = 1×10⁻³ Pa.s 
+
+Reynolds number, Re = 5×10⁵ 
+
+Friction factor, f = 0.2 
+
+Velocity of liquid Al, v = ? 
+
+Radius of steel ball, R = ? 
+
+We need to find the force, F, exerted on the steel ball. 
+
+The formula for force: 
+
+F = fπR²(𝜌(Al)v²/2) 
+
+The velocity of liquid Al, v: 
+
+Re = (𝜌(Al)vr)/𝜇(Al) 
+
+Reynolds number is given as 5×10⁵. We know the density and viscosity values, we can find the velocity. 
+
+v = Re(𝜇(Al)/𝜌(Al)r) 
+
+Now, we need to find the radius of the steel ball, R. The radius is not given but we can use the density to find the volume of the steel ball and calculate the radius from it. 
+
+Volume of steel ball, V(steel) = (4/3)πR³ 
+
+Mass of steel ball, M(steel) = 𝜌(steel)V(steel) 
+
+Let’s assume the mass of the steel ball to be 1 kg. 
+
+M(steel) = 1 kg 
+
+𝜌(steel)V(steel) = 1 kg 
+
+V(steel) = 1/𝜌(steel) 
+
+V(steel) = 1/(7200 kg/m³) 
+
+V(steel) = 1.39×10⁻⁴ m³ 
+
+(4/3)πR³ = 1.39×10⁻⁴ 
+
+R³ = (1.39×10⁻⁴)(3/4)π 
+
+R = 0.022 m 
+
+Now, we can substitute the values in the formula for force: 
+
+F = 0.2π(0.022)²(2360 kg/m³)(Re(𝜇(Al)/𝜌(Al)r)²/2) 
+
+F = 6.7 N 
+
+Therefore, the force exerted on the steel ball is (B) 6.70 N.

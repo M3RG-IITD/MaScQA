@@ -1,0 +1,8 @@
+The Ellingham diagram for oxides is a graph that plots the standard free energy change of oxide formation ($\Delta G^0_f$) for various metal oxides as a function of temperature. The C-CO line on the Ellingham diagram represents the standard free energy change of carbon oxidation to carbon monoxide, while the M-MO line and the M′-M′O line represent the standard free energy change of metal oxidation to metal oxide for two different metals M and M′.
+
+When the C-CO line cuts the M-MO line, it indicates that carbon can reduce the metal oxide MO to its metal M at temperature $T_1$. When the C-CO line cuts the M′-M′O line at a higher temperature $T_2$, it indicates that carbon can reduce the metal oxide M′O to its metal M′ at that higher temperature.
+
+Therefore, at a temperature greater than $T_1$ and less than $T_2$, carbon can reduce both MO and M′O, so the correct answer is (B) both MO and M′O. 
+
+Answer: 
+(B) both MO and M′O.

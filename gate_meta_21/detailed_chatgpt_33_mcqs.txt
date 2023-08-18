@@ -1,0 +1,31 @@
+Let us denote the left refractory block as block 1 and the right one as block 2. The temperature distribution is given as:
+
+$T(x) = T_1 + \frac{(T_2 - T_1)}{L_{total}}x$, for $0 \leq x \leq L_1$
+
+$T(x) = T_2 - \frac{(T_2 - T_1)}{L_{total}}(x-L_1)$, for $L_1 \leq x \leq L_{total}$
+
+where $L_{total} = L_1 + L_2$.
+
+From Fourier's Law of heat conduction, we know that $\frac{dQ}{dt} = -kA\frac{dT}{dx}$, where $k$ is the thermal conductivity, $A$ is the cross-sectional area and $\frac{dQ}{dt}$ is the rate of heat transfer. 
+
+At the interface of the two blocks, the rate of heat transfer will be:
+
+$\frac{dQ}{dt} = \frac{T_2 - T_1}{R_{contact}} = k_1 A \frac{dT}{dx}\biggr\rvert_{x=L_1} = k_2 A \frac{dT}{dx}\biggr\rvert_{x=L_1}$
+
+where $R_{contact}$ is the thermal contact resistance at the interface.
+
+Substituting the expressions for temperature gradient in block 1 and block 2, we get:
+
+$\frac{T_2 - T_1}{R_{contact}} = k_1 \frac{(T_2 - T_1)}{L_{total}} = k_2\frac{(T_2 - T_1)}{L_{total}}$
+
+Simplifying the above equation, we get:
+
+$R_{contact} = \frac{L_{total}}{k_1 + k_2}$
+
+Substituting the values, we get:
+
+$R_{contact} = \frac{L_1 + L_2}{k_1 + k_2} = \frac{50 + 150}{2 + 3} = 40$ $K$ $W^{-1}$
+
+Therefore, the correct answer is:
+
+(C) 200K, 0.25 K $W^(-1)$

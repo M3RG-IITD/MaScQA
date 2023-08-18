@@ -1,0 +1,17 @@
+The signal from a specimen that is used in a scanning electron microscope to get quantitative elemental analysis is X-rays. 
+
+Explanation:
+
+A scanning electron microscope (SEM) is a type of electron microscope that produces images of a sample by scanning the surface with a focused beam of electrons. In addition to imaging, SEM can also be used for elemental analysis of a specimen.
+
+When the focused beam of electrons interacts with the atoms in the specimen, various signals are generated. These signals include secondary electrons, backscattered electrons, X-rays, and transmitted electrons.
+
+Secondary electrons are low-energy electrons that are emitted from the surface of the specimen due to the interaction with the high-energy beam of electrons. These electrons are used for imaging the surface topography of the sample, but not for elemental analysis. 
+
+Backscattered electrons are high-energy electrons that are reflected back from the specimen due to interactions with the atomic nuclei. These electrons are used to image the surface composition and crystal structure of the sample, but not for elemental analysis.
+
+Transmitted electrons are electrons that pass through the thin sections of a sample. They are used for imaging the internal structure of the sample, but not for elemental analysis.
+
+X-rays are generated when the high-energy electrons in the beam knock out inner-shell electrons from the atoms in the specimen. As the atoms regain stability, they emit X-rays that are characteristic of the element. The energy and intensity of these X-rays can be measured to determine the elemental composition of the sample.
+
+Therefore, the correct answer is (C) X-rays.

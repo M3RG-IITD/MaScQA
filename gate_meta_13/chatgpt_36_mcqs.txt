@@ -1,0 +1,37 @@
+We can use the formula for maximum possible reduction in thickness during rolling:
+
+$$
+\Delta t = \frac{\mu R}{1-\mu^2}\ln{\left(\frac{t_i}{t_f}\right)}
+$$
+
+where:
+- $\Delta t$ is the maximum reduction in thickness
+- $\mu$ is the coefficient of friction
+- $R$ is the roll radius
+- $t_i$ is the initial thickness
+- $t_f$ is the final thickness
+
+Plugging in the given values, we get:
+
+$$
+\Delta t = \frac{0.5 \times 720 \text{ mm}}{1-0.5^2}\ln{\left(\frac{480 \text{ mm}}{t_f}\right)}
+$$
+
+To maximize the reduction, we need to make the final thickness as small as possible. In other words, $t_f$ should be the minimum thickness that can be rolled.
+
+According to industry standards, the minimum thickness that can be rolled is usually 0.02 times the initial thickness. In this case, that would be:
+
+$$
+t_f = 0.02 \times 480 \text{ mm} = 9.6 \text{ mm}
+$$
+
+Substituting this value and evaluating the equation, we get:
+
+$$
+\Delta t \approx 240 \text{ mm}
+$$
+
+Therefore, the correct answer is (C) 240. 
+
+Answer: 
+- (C) 240.

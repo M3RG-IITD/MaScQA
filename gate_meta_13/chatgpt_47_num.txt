@@ -1,0 +1,33 @@
+Given: 
+
+Density of steel (ρ1) = 7000 kg/m³
+Density of alumina (ρ2) = 3650 kg/m³
+Viscosity of steel (μ) = 6 × 10⁻³ kg/(m s)
+Particle diameter (d) = 50 µm = 50 × 10⁻⁶ m
+Depth of liquid steel (h) = 2 m 
+
+Using Stokes' law, the terminal velocity (Vt) of the particle can be calculated as: 
+
+Vt = (2/9) * (ρ1 - ρ2) * g * d² / μ 
+
+where g is the acceleration due to gravity. 
+
+Plugging in the given values, 
+
+Vt = (2/9) * (7000 - 3650) * 9.81 * (50 × 10⁻⁶)² / (6 × 10⁻³) 
+
+Vt = 4.15 × 10⁻⁴ m/s 
+
+The time taken (t) for the particle to float to the surface can be calculated as: 
+
+t = h / Vt 
+
+t = 2 / (4.15 × 10⁻⁴) 
+
+t = 4828.24 s 
+
+Therefore, the time required for alumina particles of 50 µm diameter to float to the surface from a depth of 2m would be approximately 4828 s or 80.47 minutes.
+
+Answer: 
+- 4828 s
+- 80.47 minutes

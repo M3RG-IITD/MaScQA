@@ -1,0 +1,24 @@
+To find the equilibrium ratio for the given reaction at 1873 K, we can use the equation:
+
+$$Δ_{r}G° = -RT \ln\left(\frac{p_{CO}}{p_{CO_2}}\right)$$
+
+We are given:
+- $Δ_rG° = -120860 J$
+- Temperature, $T = 1873 K$
+- Gas constant, $R = 8.314 J.K^{-1}.mol^{-1}$
+
+We can rearrange the equation to find the ratio ($p_{CO}/p_{CO_2}$):
+
+$$\frac{p_{CO}}{p_{CO_2}} = e^{(Δ_{r}G°)/(RT)}$$
+
+Now plug the values:
+
+$$\frac{p_{CO}}{p_{CO_2}} = e^{(-120860)/(8.314 \times 1873)}$$
+
+$$\frac{p_{CO}}{p_{CO_2}} = e^{-7.73}$$
+
+$$\frac{p_{CO}}{p_{CO_2}} = 0.000439$$
+
+Rounded off to 2 decimal places, the equilibrium ratio $𝑝_{CO}/𝑝_{CO_2}$ at 1873 K is 0.00.
+
+Therefore, the answer is [0.00].

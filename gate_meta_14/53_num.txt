@@ -1,0 +1,1 @@
+The specific heat ($C_p$) of pure iron expressed in J/(mol.K) as a function of temperature T (in K) is given as: $C_p$ = 17.49 + 24.77 * $10^(-3)*T$. What is the change in the enthalpy of pure iron (in J/mol) when it is heated from 25°C to 700°C?

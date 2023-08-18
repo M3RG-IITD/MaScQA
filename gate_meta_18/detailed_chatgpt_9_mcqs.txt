@@ -1,0 +1,11 @@
+Passivation is a process that helps to protect the metal surfaces by forming a thin and adherent film on their surface. This film acts as a barrier and prevents the metal from reacting with the environment.
+
+Of the given options, mild steel and stainless steel are the materials that are protected by passivation from corrosion. 
+
+Mild steel is protected by passivation when a thin film of Fe3O4 or magnetite is formed on its surface due to the reaction with an oxidizing agent, such as oxygen or moisture. This film is stable and prevents further corrosion.
+
+Stainless steel, on the other hand, is alloyed with chromium, which reacts with oxygen in the air to form a thin and self-healing chromium oxide layer on its surface. This layer is very resistant to corrosion and makes stainless steel a highly corrosion-resistant material.
+
+Therefore, the correct answer is: 
+
+(B) Q & R (i.e., Mild steel and Stainless steel)

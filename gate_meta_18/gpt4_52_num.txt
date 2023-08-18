@@ -1,0 +1,19 @@
+To determine the wavelength of X-rays, we can use Bragg's Law: 
+
+nλ = 2d * sin(𝜃)
+
+In this case, 𝜃 = 2𝜃 / 2 = 68.7 / 2 = 34.35 degrees. Also, we know that the first diffraction peak corresponds to n = 1. To find the interplanar spacing d, we can use the following relation for BCC lattice:
+
+d = a / √(h^2 + k^2 + l^2),
+
+where a is the lattice parameter (0.287 nm) and (h, k, l) are the Miller indices. Since the first diffraction peak occurs when the summation h^2 + k^2 + l^2 is minimum, we should consider the (110) plane (minimum summation) for BCC.
+
+So, d = 0.287 / √(1^2 + 1^2 + 0^2) = 0.287 / √2 = 0.202915 nm.
+
+Now, we can use Bragg's Law to find the wavelength:
+
+1 * λ = 2 * 0.202915 * sin(34.35)
+λ = 2 * 0.202915 * sin(34.35)
+λ ≈ 0.233 nm
+
+The wavelength of X-rays is approximately 0.233 nm. Therefore, the answer is [0.233].

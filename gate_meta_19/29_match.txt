@@ -1,0 +1,5 @@
+[Note: α, β,γ  are solid phases; L, L1, L2 are liquid phases.] Match the phase transformation in Column I with the corresponding reaction in Column II.
+Column I: [(P) Peritectic, (Q) Monotectic, (R) Eutectoid, (S) Syntectic]
+Column II: [ 1. γ → α + β, 2. L1 + L2 → α, 3. L1 → L2 + α, 4. L + α →β]
+
+Options: (A) P-4, Q-3, R-1, S-2 (B) P-3, Q-4, R-2, S-1 (C) P-1, Q-3, R-4, S-2 (D) P-4, Q-2, R-3, S-1

@@ -1,0 +1,44 @@
+This question requires the use of Sieverts’ law to calculate the equilibrium concentration of dissolved nitrogen in pure liquid iron.
+
+The equation for Sieverts’ law is:
+
+$C = K_H × p$
+
+Where:
+- C is the concentration of the dissolved gas in the liquid metal (in wt.%)
+- $K_H$ is Sieverts’ law constant (in atm^(−1/2))
+- p is the partial pressure of the gas (in atm)
+
+In this case, we are given the Sieverts’ law constant as a function of temperature:
+
+$log_{10}K_n = [-518/T - 1.063]$
+
+We are also told that the activity of nitrogen is given in terms of wt.%N, and that the equilibrium concentration of dissolved nitrogen is to be calculated in pure liquid iron exposed to atmospheric air at 1873 K.
+
+The partial pressure of nitrogen in atmospheric air is approximately 0.78 atm, and the activity of nitrogen in atmospheric air is equal to its partial pressure. Therefore, we can calculate the activity of nitrogen in atmospheric air as:
+
+$[h_N]_{air} = 0.78$
+
+To calculate the equilibrium concentration of dissolved nitrogen in pure liquid iron, we need to solve for $C$ in the Sieverts’ law equation. First, we need to convert the Sieverts’ law constant to the appropriate units:
+
+$K_n = 10^{log_{10}K_n}$
+
+$K_n = 10^{-518/T - 1.063}$ (in atm^(−1/2))
+
+We also need to calculate the activity of nitrogen in the pure liquid iron. Since the activity of nitrogen is given in terms of wt.%N, we can convert this to an activity by dividing by the molecular weight of nitrogen (14.00674 g/mol) and multiplying by the weight fraction of nitrogen:
+
+$[h_N] = [\frac{N}{Fe}] \times \frac{14.00674}{100} = 6.94 \times 10^{-4} [\frac{wt.\%N}{at.%}]$
+
+(Note: $[\frac{N}{Fe}]$ is the weight fraction of nitrogen in the liquid iron, which is assumed to be very small)
+
+Using the activity of nitrogen in the pure liquid iron and the Sieverts’ law constant, we can solve for the equilibrium concentration of dissolved nitrogen in the liquid iron:
+
+$C = K_n \times p \times [\frac{h_N}{h_N}]= K_n \times p \sqrt{\frac{h_N}{h_N}}$
+
+$C = 10^{-518/1873 - 1.063} \times 0.78 \times \sqrt{\frac{6.94 \times 10^{-4}}{0.78}}$
+
+$C = 0.042$ wt.%
+
+Therefore, the equilibrium concentration of dissolved nitrogen in pure liquid iron, exposed to atmospheric air at 1873 K, is 0.042 wt.% (rounded off to three decimal places).
+
+Answer: [0.042]

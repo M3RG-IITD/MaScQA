@@ -1,0 +1,22 @@
+The maximum allowed tensile stress can be found by using the fracture mechanics approach where the applied stress is related to the critical stress that can cause the crack to grow. The maximum allowed stress for a given crack size can be expressed as
+
+$$
+\sigma_{\text{max}} = \frac{K_{1c}}{\sqrt{\pi a}} 
+$$
+where $a$ is the crack size and $K_{1c}$ is the fracture toughness.
+
+In this problem, the NDT can detect only cracks that are larger than 1mm, so we need to use a crack size that is at least 1.1mm to add a 10% margin of safety. Thus, we get
+
+$$
+a = 1.1 \text{ mm} = 0.0011 \text{ m}
+$$
+
+Plugging in the values, we get
+
+$$
+\sigma_{\text{max}} = \frac{30 \text{ MPa}\cdot m^{1/2}}{\sqrt{\pi\cdot 0.0011 \text{ m}}} = 892.63 \text{ MPa}
+$$
+
+Therefore, the maximum allowed tensile stress with a 10% margin of safety is approximately 892 MPa, rounded off to the nearest integer. 
+
+Answer: [892] MPa

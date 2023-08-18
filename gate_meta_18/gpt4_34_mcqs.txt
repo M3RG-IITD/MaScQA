@@ -1,0 +1,40 @@
+To find the voltage required, we can use the Nernst equation:
+
+$𝐸 = 𝐸_0 − (𝑅𝑇)/(𝑛𝐹) × ln(𝑎)$
+
+Where:
+$𝐸$ is the cell voltage,
+$𝐸_0$ is the standard electrode potential,
+$𝑅$ is the gas constant,
+$𝑇$ is the temperature,
+$𝑛$ is the number of electrons transferred in the reaction,
+$𝐹$ is Faraday's constant, and
+$𝑎$ is the activity of the copper.
+
+For the electrolytic refining of impure copper to pure copper, the standard electrode potential is $𝐸_𝑜 = 0$ V, since we are looking for the potential required and not any given potential difference.
+
+The temperature, $𝑇$, is given as 300 K. The number of electrons, $𝑛$, transferred in the reaction is 2, since the copper ion has a +2 charge:
+
+$𝐶𝑢^+⟶ 𝐶𝑢 + 2𝑒^-$
+
+The gas constant, $𝑅$, is given as 8.314 J $mol^(-1)K^(-1)$. The Faraday constant, $𝐹$, is given as 96500 C $mol^(-1)$. The copper activity, $𝑎$, is given as 0.9.
+
+Now, we can plug in the known values:
+
+$𝐸 = 0 - (8.314 × 300)/(2 × 96500) × ln(0.9)$
+
+$𝐸 = -(8.314 × 300)/(193000) × ln(0.9)$
+
+$𝐸 ≈ -0.012822 × ln(0.9)$
+
+$𝐸 ≈ -0.012822 × (-0.10536)$
+
+$𝐸 ≈ 0.001352$ V
+
+As we need the answer in mV (millivolts), multiply the result by 1000:
+
+$𝐸 ≈ 1.352$ mV
+
+The closest option to the calculated result is (A) 1.36 mV, so this is the correct answer.
+
+Answer: [1.36]

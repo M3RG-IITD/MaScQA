@@ -1,0 +1,13 @@
+To determine the correctness of the given Assertion(a) and Reason(r), let's analyze them individually as well as in conjunction.
+
+Assertion (a): Deoxidation and decarburisation of liquid steel are done by vacuum treatment process.
+- This statement is true. Vacuum treatment processes like Vacuum Degassing (VD) and Vacuum Oxygen Decarburization (VOD) are commonly used in steelmaking to reduce the unwanted levels of oxygen and carbon in liquid steel, thus driving deoxidation and decarburization reactions.
+
+Reason (r): Decreased partial pressure of CO(g) promotes deoxidation and decarburisation.
+- This statement is also true. During the vacuum treatment process, the partial pressure of CO(g) is decreased by lowering the total pressure in the treatment chamber, which shifts the equilibrium of the deoxidation and decarburization reactions to the right (according to Le Chatelier's Principle). Consequently, more CO(g) is formed, which helps in the removal of oxygen and carbon from liquid steel.
+
+Now, let's analyze if Reason (r) can be identified as the correct explanation for Assertion (a).
+- Decreasing the partial pressure of CO(g) drives the deoxidation and decarburization reactions, as explained earlier. This is the fundamental principle behind vacuum treatment processes, and hence, Reason (r) is indeed the appropriate explanation for Assertion (a).
+
+Thus, we can conclude that both Assertion(a) and Reason(r) are true, and Reason(r) is the correct explanation for Assertion(a). Therefore, the correct answer is:
+- (D) a is true and r is also true, and r is the reason for a.

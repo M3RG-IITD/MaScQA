@@ -1,0 +1,2 @@
+Match the heat treatments for an eutectoid steel shown in the TTT diagram below (as P, Q, R and S) with the resulting microstructures listed: 1. Fine pearlite 2. Martensite 3. Bainite 4. Coarse pearlite
+(A) P-1, Q-2, R-4, S-3 (B) P-4, Q-1, R-3, S-2 (C) P-2, Q-1, R-3, S-4 (D) P-1, Q-4, R-3, S-2

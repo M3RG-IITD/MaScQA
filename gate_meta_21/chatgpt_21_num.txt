@@ -1,0 +1,23 @@
+The first reflection in the X-ray diffraction pattern of a FCC crystal occurs when the X-ray beam scatters at an angle, θ, given by:
+
+sin θ = λ/(2a)
+
+where λ is the wavelength of the X-rays and 'a' is the lattice parameter. For the first reflection:
+
+sin 30° = λ/(2a)
+
+For a FCC crystal, the first reflection occurs at the (1 1 1) plane, which is the plane that reflects the most intense peak in the X-ray diffraction pattern. Therefore, the second reflection will occur at the next most intense peak, which corresponds to the (2 0 0) plane. The Bragg angle (θ) for this reflection is given by:
+
+sin θ = λ/(2a)
+
+For the same wavelength of X-rays, the lattice parameter 'a' is the same for all reflections. Therefore, we can use the same value of 'a' as in the first reflection and solve for the second reflection:
+
+sin θ = λ/(2a) = sin θ₁ * (2/1) = sin 30° * (2/1)
+
+sin θ = sin 60° = 0.8660
+
+Therefore, the Bragg angle (θ) for the second reflection is:
+
+θ = sin⁻¹(0.8660) = 60° (rounded off to 1 decimal place)
+
+Answer: [60]

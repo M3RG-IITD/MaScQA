@@ -1,0 +1,21 @@
+To find the mean and median, we must first add up all the grain sizes and divide by the total number of measurements. 
+
+Mean = (16 + 14 + 18 + 15 + 13)/5 = 76/5 = 15.2 µm 
+
+To find the median, we must first put the grain sizes in order from smallest to largest: 
+
+13, 14, 15, 16, 18 
+
+The median is the middle value, which is 15 in this case. 
+
+To find the standard deviation, we must first find the variance (s²). 
+
+s² = ((16-15.2)² + (14-15.2)² + (18-15.2)² + (15-15.2)² + (13-15.2)²)/4 
+
+s² = (0.64 + 1.44 + 6.76 + 0.04 + 4.84)/4 = 13.68/4 = 3.42 
+
+The standard deviation (s) is the square root of the variance: 
+
+s = √3.42 ≈ 1.85 µm 
+
+Therefore, the answer is (B) 15.2, 15 and 1.9.

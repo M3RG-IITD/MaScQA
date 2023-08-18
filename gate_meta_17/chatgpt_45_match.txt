@@ -1,0 +1,15 @@
+Group-I: [(P) Tetragonal, (Q) Cubic, (R) Monoclinic,(S) Rhombohedral] 
+
+Group-II: [(1) 1 two-fold rotation, (2) 1 three-fold rotation, (3) 4 three-fold rotation, (4) 1 four-fold rotation]
+
+The minimum symmetry elements for each crystal system are:
+P - 4-fold rotation
+Q - 3-fold rotation
+R - 2-fold rotation
+S - 3-fold rotation
+
+Match the correct options:
+
+P-4; Q-3; R-2; S-3 - Option (A) 
+
+Therefore, the correct answer is option (A).

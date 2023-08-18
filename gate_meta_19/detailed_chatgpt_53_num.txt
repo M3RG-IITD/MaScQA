@@ -1,0 +1,22 @@
+The dihedral angle during sintering can be calculated using the Young-Dupre Equation:
+
+$𝛾_(𝑆𝐿)−𝛾_(𝑆𝑆)=𝛾_(𝐿𝑆)cos𝜙$
+
+where $𝛾_(𝐿𝑆)$ is the liquid-solid interfacial energy. As the material is sintering, we can assume that the volume of liquid is negligible compared to the solid, and therefore the liquid can be assumed to spread over the solid in a flat sheet. In this case, the angle between the solid-liquid interface and the solid-solid interface (i.e. the dihedral angle) is equal to 0 degrees.
+
+$𝛾_(𝑆𝐿)−𝛾_(𝑆𝑆)=𝛾_(𝐿𝑆)cos0°$
+
+$𝛾_(𝑆𝐿)−𝛾_(𝑆𝑆)=𝛾_(𝐿𝑆)$
+
+$cos⁡0°=1$
+
+$𝜙=cos^{−1}(\frac{𝛾_(𝑆𝐿)−𝛾_(𝑆𝑆)}{𝛾_(𝐿𝑆)})$
+
+$𝜙=cos^{−1}(\frac{0.5−0.87}{0.5})$
+
+$𝜙=cos^{−1}(-0.74)$
+
+Since the value of $-0.74$ is outside the range of $[-1, 1]$, the dihedral angle cannot be calculated. Therefore, the answer is that the dihedral angle cannot be determined with the given information. 
+
+Answer: 
+- The dihedral angle during sintering cannot be determined with the given information.

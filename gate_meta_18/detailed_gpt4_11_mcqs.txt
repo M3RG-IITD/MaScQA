@@ -1,0 +1,30 @@
+To determine the maximum number of phases in a three-component system at constant pressure, we can use the Gibbs Phase Rule.
+
+The Gibbs Phase Rule states that:
+
+P + F = C + 2
+
+where P is the number of phases, F is the degrees of freedom, and C is the number of components.
+
+In this problem, we are given a three-component system (C = 3) and at constant pressure. Let's first find the degrees of freedom, F.
+
+Since we are at constant pressure, we have one less variable to consider, so we can amend the rule to:
+
+P + F = C + 1
+
+Now, substitute the value of C into the equation:
+
+P + F = 3 + 1
+
+P + F = 4
+
+To find the maximum number of phases, we need to minimize the degrees of freedom. The minimum value of F is 0 because we cannot have negative degrees of freedom. So, when F = 0, we have:
+
+P + 0 = 4
+P = 4
+
+The maximum number of phases in a three-component system at constant pressure is 4.
+
+The correct answer is (D) 4. 
+
+Answer: [4]

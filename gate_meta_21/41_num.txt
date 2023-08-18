@@ -1,0 +1,1 @@
+Liquid iron is cast into a spherical sand mold (6cm radius) and a cubical sand mold (12cm edge length). If solidification time is 60 minutes in the spherical casting, the time(in minutes) required to solidify in the cubical casting is?(round off to nearest integer)

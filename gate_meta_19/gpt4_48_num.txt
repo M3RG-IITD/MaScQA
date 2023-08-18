@@ -1,0 +1,20 @@
+Using the nucleation theory equation, we can find the critical radius (r*) of nickel nucleus during solidification:
+
+r* = (2 * σ) / (ΔH * (1 - T/Tm))
+
+Where:
+σ = Liquid-solid interfacial energy = 0.5 𝐽.$𝑚^(−2)$
+ΔH = Enthalpy of fusion of nickel = 2.65 × 10^9 𝐽.$𝑚^(−3)$
+T = Temperature during solidification = 1673 K
+Tm = Equilibrium melting temperature of nickel = 1728 K
+
+r* = (2 * 0.5) / (2.65 × 10^9 * (1 - 1673/1728))
+r* = 1 / (2.65 × 10^9 * 0.0318)
+r* = 1 / 8.417 × 10^7 𝑚
+
+To convert the radius to nanometers, we multiply by 10^9:
+
+r* = (1 / 8.417 × 10^7) * 10^9
+r* ≈ 118.8 nm
+
+The critical radius of the nickel nucleus during solidification at 1673 K is approximately [118.8] nm (rounded to one decimal place).

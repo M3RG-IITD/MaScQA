@@ -1,0 +1,43 @@
+To find the radius of the largest sphere that can fit in the tetrahedral void, we can follow these steps:
+
+Step 1: Determine the body diagonal length in FCC unit cell:
+In a face-centered cubic (FCC) unit cell, the body diagonal connects two opposite corners of the cube through the central atom. Let's denote the body diagonal length as `d_body`.
+
+Step 2: Calculate the edge length of the unit cell:
+Knowing the lattice parameter `a`, which is the edge length of the unit cell, we can directly use its value given as 0.401 nm.
+
+Step 3: Calculate the relation between the face diagonal, body diagonal and edge length:
+In an FCC structure, the body diagonal can be expressed in terms of the face diagonal, which lies in the plane of one face of the cube and connects two opposite corners of that face, and the edge length. Using basic Pythagorean theorem in a right triangle formed by an edge, face diagonal and body diagonal, we get:
+
+`d_body^2 = d_face^2 + a^2`
+
+Step 4: Express the face diagonal in terms of edge length:
+Now, let's get the face diagonal in terms of edge length. We can use the Pythagorean theorem again in a right triangle formed by an edge, face diagonal, and the adjacent edge on the same face, which can be written as:
+
+`d_face^2 = a^2 + a^2`
+`d_face^2 = 2a^2`
+
+Step 5: Substitute face diagonal in terms of edge length in the body diagonal formula:
+Replace the `d_face^2` term in the body diagonal formula:
+
+`d_body^2 = 2a^2 + a^2`
+`d_body^2 = 3a^2`
+`d_body = sqrt(3)a`
+
+Step 6: Calculate the body diagonal length:
+Now, we can calculate the body diagonal length using the given lattice parameter:
+
+`d_body = sqrt(3)a`
+`d_body = sqrt(3) * 0.401`
+`d_body ≈ 0.694 nm`
+
+Step 7: Calculate the radius of the sphere in the tetrahedral void:
+Since the body diagonal passes through the center of two opposite spheres and the center of the sphere in the tetrahedral void, the radius of the largest sphere that can fit into the tetrahedral void is 1/4 of the body diagonal length:
+
+`r_sphere = d_body / 4`
+`r_sphere = 0.694 / 4`
+`r_sphere ≈ 0.174 nm`
+
+So, the radius of the largest sphere that can fit in the tetrahedral void is approximately 0.174 nm.
+
+Answer: [0.174]

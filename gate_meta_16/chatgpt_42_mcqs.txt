@@ -1,0 +1,15 @@
+The balanced equation for the overall reaction is:
+ZnO(s) + C(s) = Zn(g) + CO(g) + CO(g)
+ZnO(s) + C(s) = Zn(g) + 2CO(g)
+The balanced equation for the second reaction is:
+2CO(g) = CO2(g) + C(s)
+Using these reactions, we can write the overall reaction as:
+ZnO(s) + 2CO(g) = Zn(g) + CO2(g) + C(s)
+At equilibrium, the mole balance for each species is given by the equilibrium constant expression as follows:
+Kp = (p_Zn * p_CO2 * p_C) / (p_CO)^2
+Where Kp is the equilibrium constant for the reaction, and p is the partial pressure of each species.
+Rearranging the equation, we get:
+(p_Zn) = (p_CO)^2 / (Kp * p_CO2 * p_C)
+Substituting the values for Kp and the partial pressures of CO and CO2, we get:
+(p_Zn) = (p_CO)^2 / (2.52*$10^{-2}$ * p_CO2 * p_C)
+Therefore, the correct answer is (A) p_Zn = p_CO + 2p_CO2.

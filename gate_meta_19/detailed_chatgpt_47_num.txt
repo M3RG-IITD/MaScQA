@@ -1,0 +1,21 @@
+The stored energy associated with cold working can be calculated using the following formula:
+
+$U = \frac{\mu b^2 \rho^2}{2}$
+
+where $\mu$ is the shear modulus, $b$ is the Burgers vector, and $\rho$ is the dislocation density.
+
+First, let's calculate the magnitude of the Burgers vector:
+
+$b = \frac{a}{2}[1\ 1\ 1] = \frac{0.2856}{2}[\sqrt{3}, \sqrt{3}, \sqrt{3}] = [0.139, 0.139, 0.139]\ nm$
+
+Next, we can calculate the stored energy by plugging in the given values:
+
+$U = \frac{(82\ GPa)(0.139\ nm)^2(10^{15}\ m^{-2})^2}{2} = 1.19\times10^{-11}\ MJ\ m^{-3}$
+
+Finally, we round off the answer to one decimal place, giving:
+
+$U = 1.2\times10^{-11}\ MJ\ m^{-3}$
+
+Therefore, the correct answer is:
+
+- $1.2\times10^{-11}\ MJ\ m^{-3}$

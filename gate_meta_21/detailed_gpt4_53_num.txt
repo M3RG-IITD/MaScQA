@@ -1,0 +1,46 @@
+To find the radius of the interstitial atom that fits inside an octahedral void without distorting the structure, we first need to understand the geometry of the octahedral void in a bcc (body-centered cubic) lattice.
+
+In a bcc lattice, the atoms are present at the corners and the center of the cube. The octahedral voids are formed by half of the face diagonal length of the cube.
+
+Let's consider a cube with side length 'a'. The body diagonal can be found using the Pythagorean theorem in 3D:
+
+body_diagonal = sqrt(a^2 + a^2 + a^2) = sqrt(3a^2)
+
+As mentioned earlier, the octahedral void is formed by half of the face diagonal length. The face diagonal of the cube is given by:
+
+face_diagonal = sqrt(a^2 + a^2) = sqrt(2a^2)
+
+Therefore, half_face_diagonal = 1/2 * sqrt(2a^2) = sqrt(a^2 / 2)
+
+On the other hand, the Fe atoms lie at the corners and the center of the cube touching each other along the body diagonal. So the body diagonal is equal to four radii of the Fe atoms:
+
+body_diagonal = 4 * radius_Fe
+
+We know that the radius of the Fe atom is given as 0.124 nm.
+
+Now we can find the side length 'a' of the cube using the body diagonal:
+
+4 * 0.124 nm = sqrt(3a^2)
+a^2 = (4 * 0.124 nm)^2 / 3
+a = sqrt((4 * 0.124 nm)^2 / 3)
+
+Now we can find the half-face diagonal length:
+
+half_face_diagonal = sqrt(a^2 / 2) = sqrt((4 * 0.124 nm)^2 / (3 * 2))
+
+The half-face diagonal length is also equal to the sum of the radii of the octahedral void interstitial atom and the body-centered Fe atom:
+
+half_face_diagonal = radius_interstitial + radius_Fe
+
+Now we can find the radius of the interstitial atom:
+
+radius_interstitial = half_face_diagonal - radius_Fe
+radius_interstitial = sqrt((4 * 0.124 nm)^2 / (3 * 2)) - 0.124 nm
+
+Calculating the value, we get:
+
+radius_interstitial ≈ 0.090 nm (rounded off to 3 decimal places)
+
+So, the radius of the interstitial atom which just fits inside an octahedral void of a bcc-iron crystal (in nm) is approximately 0.090 nm.
+
+Answer: [0.090].

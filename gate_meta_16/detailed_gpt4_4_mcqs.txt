@@ -1,0 +1,19 @@
+The first law of thermodynamics can be expressed mathematically as follows: 
+
+ΔE = Q - W
+
+In other words, the change in internal energy (ΔE) of a system is equal to the heat (Q) added to the system minus the work (W) done by the system on its surroundings.
+
+If we express this equation in differential form (using infinitesimal changes), we can write it as:
+
+dE = δQ - δW
+
+Here, dE represents the infinitesimal change in internal energy, while δQ and δW represent the infinitesimal amounts of heat and work, respectively.
+
+From the given options, we can see that this corresponds to option (A):
+
+(A) dE = δQ - δW
+
+Thus, the correct answer is:
+
+[A]

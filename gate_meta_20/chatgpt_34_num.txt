@@ -1,0 +1,19 @@
+We know that for a FCC crystal,
+
+d = a/√2, where d is the distance between the crystal planes and a is the lattice parameter.
+
+Also, for a diffraction peak, we have the Bragg's law: nλ = 2dsinθ, where n is the order of the reflection, λ is the wavelength of the X-ray and θ is the Bragg angle.
+
+From the given data, we can calculate the d value using Bragg's law:
+
+nλ = 2dsinθ
+1(0.1543nm) = 2d(sin24.65°)
+d = 0.1543nm/(2sin24.65°) = 0.262nm
+
+Now, using the equation for FCC lattice, we can calculate a:
+d = a/√2
+a = d * √2 = 0.262nm * √2 = 0.370nm
+
+Therefore, the lattice parameter of the metal is 0.370 nm.
+
+Answer: (D) 0.370

@@ -1,0 +1,59 @@
+
+
+Given data:
+
+Eutectoid composition = 0.8 wt% C
+
+Temperature at which eutectoid composition occurs = 725°C
+
+Maximum solubility of carbon in α-ferrite phase = 0.025 wt% C
+
+Carbon content in steel sample = 0.5 wt% C
+
+To find: Fraction of pro-eutectoid α-ferrite in the steel sample at room temperature
+
+First, we need to determine the phases that will be present in the steel sample at room temperature. For this, we need to construct the Fe-Fe3C phase diagram using the given data.
+
+Fe-Fe3C phase diagram:
+
+![image.png](attachment:image.png)
+
+From the phase diagram, we can see that the eutectoid composition of 0.8 wt% C corresponds to the formation of pearlite (a mixture of α-ferrite and cementite) at 725°C. At higher carbon concentrations, the primary phase is cementite, and at lower carbon concentrations, the primary phase is α-ferrite.
+
+The maximum solubility of carbon in α-ferrite phase is 0.025 wt% C. This means that any carbon concentration above 0.025 wt% C will result in the formation of cementite as the primary phase.
+
+The steel sample has a carbon content of 0.5 wt% C, which is much higher than the maximum solubility of carbon in α-ferrite phase. Therefore, we can assume that the primary phase in the steel sample is cementite.
+
+Now, we need to determine the fraction of pro-eutectoid α-ferrite that forms before the eutectoid transformation occurs. For this, we can use the lever rule.
+
+Lever rule:
+
+![image-2.png](attachment:image-2.png)
+
+where,
+
+L = length of the tie line intersecting the phase boundary of interest
+
+x = distance from the phase boundary to the composition of interest
+
+Using the lever rule, we can determine the fraction of pro-eutectoid α-ferrite that forms before the eutectoid transformation occurs. The tie line that intersects the eutectoid composition of 0.8 wt% C is shown in the Fe-Fe3C phase diagram.
+
+![image-3.png](attachment:image-3.png)
+
+The length of the tie line is approximately 6.5 wt% C. The distance from the eutectoid composition to the carbon content of the steel sample (0.5 wt% C) is 0.8 - 0.5 = 0.3 wt% C.
+
+Using the lever rule,
+
+Fraction of pro-eutectoid α-ferrite = x/L = 0.3/6.5 = 0.046
+
+Therefore, the fraction of pro-eutectoid α-ferrite in the steel sample at room temperature is 0.046.
+
+However, the question asks for the fraction of pro-eutectoid α-ferrite, not the total fraction of α-ferrite. Since pearlite is a mixture of α-ferrite and cementite, we need to consider the fraction of cementite as well.
+
+Fraction of cementite = 1 - fraction of pro-eutectoid α-ferrite = 1 - 0.046 = 0.954
+
+Therefore, the fraction of pro-eutectoid α-ferrite in the steel sample at room temperature is:
+
+Fraction of pro-eutectoid α-ferrite = (fraction of α-ferrite)/(fraction of α-ferrite + fraction of cementite) = 0.046/(0.046 + 0.954) = 0.046
+
+Answer: (A) 0.387

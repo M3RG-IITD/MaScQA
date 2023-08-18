@@ -1,0 +1,1 @@
+Given: R = 8.314 J.$K^(-1).mol^(-1)$. The partial molar enthalpy of Au in Ag-Au melt containing 25 mol% Au at 1400 K is -8300 $J.mol^(-1)$ . Assuming regular solution behavior, the activity of Au in the melt is? (round off to 3 decimal places). 

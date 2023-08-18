@@ -1,0 +1,21 @@
+In an FCC (face-centered cubic) crystal, the coordination number is 12 and there are tetrahedral voids between the close-packed planes. 
+
+To determine the radius of the largest sphere that can fit in a tetrahedral void, we can use the formula:
+
+Radius of sphere = (Radius of tetrahedron/2) * (sqrt(2)-1)
+
+where the radius of the tetrahedron is given by:
+
+Radius of tetrahedron = sqrt(3) * lattice parameter/4
+
+Substituting the given lattice parameter of 0.401 nm, we get:
+
+Radius of tetrahedron = sqrt(3) * 0.401 nm/4 = 0.104 nm
+
+Substituting this value in the formula for the radius of the sphere, we get:
+
+Radius of sphere = (0.104/2) * (sqrt(2)-1) = 0.039 nm
+
+Therefore, the radius of the largest sphere that can fit in the tetrahedral void of an FCC metal with lattice parameter 0.401 nm is 0.039 nm (up to three decimal places).
+
+Answer: [0.039]

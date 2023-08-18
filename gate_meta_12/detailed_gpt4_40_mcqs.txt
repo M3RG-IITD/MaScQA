@@ -1,0 +1,20 @@
+To arrange the given quenching methods in terms of increasing severity, we must first understand the different quenching methods and their respective cooling rates. 
+
+P. Oil Quenching: Oil quenching involves immersing the heated metal in oil, which has a slower cooling rate compared to water due to its lower thermal conductivity and higher boiling point. This results in less severe quenching compared to water or brine.
+
+Q. Water Quenching: Water quenching consists of immersing the heated metal in water. Water has a higher thermal conductivity and a lower boiling point than oil, which allows it to cool the metal more quickly than oil quenching. 
+
+R. Water Quenching with Agitation: Agitation increases the cooling rate by continuously moving the heated metal within the quenching media, avoiding the formation of a stagnant steam layer around the metal surface. It accelerates heat transfer, making the quenching more severe than water quenching without agitation.
+
+S. Brine Quenching: Brine is a mixture of water and salt. Salt added to water increases its boiling point and decreases its specific heat capacity, both factors combining to enhance the cooling rate during quenching. Hence, brine quenching offers a more severe quench compared to pure water quenching.
+
+Now let's arrange these methods in terms of increasing severity of quench:
+
+1. Oil quenching (P) - least severe due to its lower cooling rate
+2. Water quenching (Q) - faster cooling rate than oil, but less severe than agitation or brine
+3. Brine quenching (S) - more severe than water quenching due to salt addition
+4. Water quenching with agitation (R) - most severe due to enhanced cooling rate and disruption of steam layer
+
+So, the correct arrangement is P<Q<S<R, which corresponds to option (C).
+
+Answer: [C]

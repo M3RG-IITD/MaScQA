@@ -1,0 +1,67 @@
+To find the maximum possible reduction Δh in a single pass, we first need to calculate the maximum rolling force (F_max). We can do this by using the formula:
+
+F_max = σ * A
+
+where σ is the flow stress and A is the contact area between the roll and the plate.
+
+The flow stress (σ) can be found using the formula:
+
+σ = K * (Δh/h)^n
+
+where K and n are constants. K is the strength coefficient, and n is the strain hardening exponent. For cold rolling, typical values for K and n are 60 MPa and 0.5, respectively.
+
+Next, we need to calculate the contact area (A) between the roll and the plate. This can be done using the formula:
+
+A = L * h
+
+where L is the contact length.
+
+The contact length (L) can be determined using the following formula:
+
+L = √(2 * R * Δh)
+
+where R is the radius of the roll.
+
+Now we can proceed in the following steps:
+
+1. Determine the radius of the roll:
+
+R = D / 2 = 200 mm / 2 = 100 mm
+
+2. Calculate the maximum possible reduction Δh using the formula:
+
+L = √(2 * R * Δh)
+
+3. Compute the contact area between the roll and the plate:
+
+A = L * h
+
+4. Calculate the flow stress (σ):
+
+σ = K * (Δh/h)^n = 60 MPa * (Δh/120 mm)^0.5
+
+5. Determine the maximum rolling force (F_max):
+
+F_max = σ * A
+
+Now, we need to find the maximum possible reduction Δh such that the given friction coefficient is the limiting factor. This can be calculated using the following formula:
+
+Δh = (F_f / F_max) * h
+
+where F_f is the friction force and is given by the formula:
+
+F_f = μ * N
+
+where N is the normal force, which for simplicity purposes, we consider equal to the weight of the plate.
+
+We can substitute the values for F_f, F_max, and h in the equation:
+
+Δh = (0.1 * N / (60 MPa * (Δh/120 mm)^0.5 * L)) * 120 mm
+
+However, it is essential to recognize that the requirement for a solution to this equation depends on experimental values for K, n, and L. Moreover, without an actual weight of the plate or experimental trials, it is impossible to derive an exact numerical solution to this equation.
+
+In conclusion, while the formula outlined above can help in providing an understanding and approach to calculating the maximum possible reduction (Δh) in a single pass, exact numerical values for the missing parameters are necessary for a complete solution. Regardless, keep in mind that the thickness reduction mainly depends on the friction coefficient, flow stress of the material, and the contact area between the roll and the plate.
+
+The correct answer would be:
+
+[We cannot accurately determine Δh without knowing the weight of the plate and the experimental values for K, n, and L]

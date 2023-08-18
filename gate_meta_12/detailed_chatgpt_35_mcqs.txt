@@ -1,0 +1,69 @@
+The reaction given is:
+
+FeO (s) + CO (g) → Fe (s) + $CO_2$ (g)
+
+To find the ratio of $p_(CO)/p_(CO_2)$ at 1173K, we need to use the equilibrium constant expression:
+
+$K_p = \frac{P_{Fe}(S)}{P_{FeO}(S)P_{CO}(g)}$
+
+We can rewrite this expression in terms of the given reaction:
+
+$K_p = \frac{P_{Fe}(S)}{P_{FeO}(S)P_{CO}(g)} = \frac{1}{P_{CO}(g)/P_{FeO}(S)}$
+
+To solve this problem, we need to calculate the equilibrium constant Kp at 1173K using the standard Gibbs free energy change ($\Delta G^\circ$) for the reaction:
+
+$\Delta G^\circ = -RT ln(K_p)$
+
+where R is the gas constant (8.314 J/molK) and T is the temperature in kelvin. Rearranging this equation, we get:
+
+$K_p = e^{-\Delta G^\circ/RT}$
+
+Plugging in the values given in the problem, we get:
+
+$K_p = e^{-8120/8.314 \times 1173} = 247.71$
+
+Now we can use this value of Kp to find the ratio of $p_(CO)/p_(CO_2)$:
+
+$K_p = \frac{1}{P_{CO}(g)/P_{FeO}(S)}$
+
+$247.71 = \frac{1}{P_{CO}(g)/P_{FeO}(S)}$
+
+$P_{CO}(g)/P_{FeO}(S) = 0.0040$
+
+$\frac{P_{CO}(g)}{P_{CO_2}(g)} \times \frac{P_{CO_2}(g)}{P_{FeO}(S)} = 0.0040$
+
+Since we know that $P_{CO}(g) + P_{CO_2}(g) = P_{total}$, we can rewrite the equation above as:
+
+$\frac{P_{CO}(g)}{P_{CO_2}(g)} \times \frac{P_{total} - P_{CO}(g) - P_{FeO}(S)}{P_{FeO}(S)} = 0.0040$
+
+Multiplying both sides by $P_{FeO}(S)$, we get:
+
+$\frac{P_{CO}(g)}{P_{CO_2}(g)} \times (P_{total} - P_{CO}(g) - P_{FeO}(S)) = 0.0040 \times P_{FeO}(S)$
+
+Expanding and rearranging, we get a quadratic equation in terms of $P_{CO}(g)$:
+
+$P_{CO}(g)^2 - (P_{total} + P_{FeO}(S)) P_{CO}(g) + P_{CO_2}(g) (P_{total} - 0.0040 \times P_{FeO}(S)) = 0$
+
+Plugging in the given values, we get:
+
+$P_{CO}(g)^2 - (P_{total} + P_{FeO}(S)) P_{CO}(g) + 0.996 \times P_{CO_2}(g) \times P_{total} = 0$
+
+Now we can use the quadratic formula to solve for $P_{CO}(g)$:
+
+$P_{CO}(g) = \frac{(P_{total} + P_{FeO}(S)) \pm \sqrt{(P_{total} + P_{FeO}(S))^2 - 4 \times 0.996 \times P_{CO_2}(g) \times P_{total}}}{2}$
+
+Using the given temperature of 1173K, we can assume that FeO is a pure solid at this temperature and its partial pressure is negligible compared to that of CO and $CO_2$. Therefore, we can set $P_{FeO}(S) = 0$.
+
+Plugging in $P_{total} = 1$ atm and $P_{CO_2}(g) = P_{total} - P_{CO}(g)$, we get:
+
+$P_{CO}(g) = \frac{1 + \sqrt{1 + 3.984 \times P_{CO}(g)}}{2}$
+
+Solving for $P_{CO}(g)$, we get:
+
+$P_{CO}(g) = 0.225$ atm
+
+Therefore, the ratio of $p_(CO)/p_(CO_2)$ for this reaction at 1173K is:
+
+$\frac{P_{CO}(g)}{P_{CO_2}(g)} = \frac{0.225}{0.775} \approx 0.29$
+
+The closest answer option is (B) 0.25. Therefore, the correct answer is (B) 0.25.

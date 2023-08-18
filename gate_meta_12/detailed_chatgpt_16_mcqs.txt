@@ -1,0 +1,35 @@
+The inter-planar spacing of a plane is given by the formula:
+
+$$d = \frac{a}{\sqrt{h^2+k^2+l^2}}$$
+
+where $a$ is the lattice constant, and $h,k,l$ are the Miller indices of the plane.
+
+For the planes {nh nk nl}, we have:
+
+$$d' = \frac{a}{\sqrt{(nh)^2+(nk)^2+(nl)^2}}$$
+
+Dividing the second equation by the first, we get:
+
+$$\frac{d'}{d} = \frac{\frac{a}{\sqrt{(nh)^2+(nk)^2+(nl)^2}}}{\frac{a}{\sqrt{h^2+k^2+l^2}}}$$
+
+Simplifying the expression, we get:
+
+$$\frac{d'}{d} = \frac{\sqrt{h^2+k^2+l^2}}{\sqrt{(nh)^2+(nk)^2+(nl)^2}}$$
+
+Using the identity $(ab)^2 = a^2 b^2$, we can write:
+
+$$(nh)^2 = n^2 h^2$$
+
+$$(nk)^2 = n^2 k^2$$
+
+$$(nl)^2 = n^2 l^2$$
+
+Substituting these values in the denominator, we get:
+
+$$\frac{d'}{d} = \frac{\sqrt{h^2+k^2+l^2}}{n\sqrt{h^2+k^2+l^2}} = \frac{1}{n}$$
+
+Therefore, the inter-planar spacing of the planes {nh nk nl} is:
+
+$$d' = \frac{d}{n}$$
+
+Hence, the answer is option (B) $d/n$.

@@ -1,0 +1,7 @@
+The velocity at the interface of the fluid and plate is the relative velocity between them. Therefore, the relative velocity can be found by subtracting the velocity of the plate from the velocity of the fluid:
+
+Relative velocity = Velocity of fluid - Velocity of plate
+Relative velocity = 0.5 m/s - 0.01 m/s
+Relative velocity = 0.49 m/s
+
+However, none of the given options matches with 0.49 m/s. Therefore, the question seems to have incorrect or missing options.

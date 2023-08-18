@@ -1,0 +1,23 @@
+We need to find the probability that the first gearwheel selected is below the tolerance and the second one selected is above the tolerance. 
+
+Let's first find the probability of selecting a gearwheel below the tolerance. 
+
+There are 21 gearwheels below the tolerance out of a total of 150 gearwheels. So, the probability of selecting a gearwheel below the tolerance on the first draw is:
+
+P(Below) = 21/150
+
+After the first gearwheel is selected, there will be 149 gearwheels left in the box, out of which 112 are within the required tolerance (so above and below will be the remaining gears). Therefore, the probability of selecting a gearwheel above the tolerance on the second draw is:
+
+P(Above) = 29/149
+
+Note that we use 29/149 here since there are 149 gearwheels remaining out of which 29 are above the tolerance (which is the total number of gears above the tolerance minus the one we already selected below the tolerance).
+
+Now we need to find the combined probability by multiplying the two probabilities:
+
+P(Below and Above) = P(Below) x P(Above) 
+
+P(Below and Above) = (21/150) x (29/149)
+
+P(Below and Above) = 0.016
+
+Therefore, the answer is option (A) 0.016.

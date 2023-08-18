@@ -1,0 +1,1 @@
+Given, melting temperature and enthalpy of melting of copper are 1356K and 13 $KJ.mol^(-1)$ respectively. If liquid copper is cooled to 1353 K, magnitude of the driving force($J.mol^(-1)$) for liquid to transform to solid is?(round off to one decimal places)

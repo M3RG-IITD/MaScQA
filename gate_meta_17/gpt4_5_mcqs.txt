@@ -1,0 +1,7 @@
+To find the standard cell potential, subtract the more negative reduction potential from the more positive reduction potential:
+
+ΔE° = E°(Cu²⁺/Cu) - E°(Zn²⁺/Zn) = 0.337V - (-0.763V) = 0.337V + 0.763V = 1.1V
+
+So the correct answer is (D) 1.1V.
+
+[1.1]

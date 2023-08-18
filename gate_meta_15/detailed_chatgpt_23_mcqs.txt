@@ -1,0 +1,32 @@
+To determine which Mohr's circle corresponds to equi-biaxial tension, we need to recall that equi-biaxial tension is a state of stress in which the two principal stresses are equal and have opposite signs. 
+
+Looking at the given Mohr's circles in the figure, we can see that Mohr's circle P corresponds to a uniaxial tension (the largest principal stress is much greater than the smaller one, and they have the same sign), while Mohr's circle S corresponds to a uniaxial compression (the largest principal stress is much less than the smaller one, and they have opposite signs). 
+
+So, neither P nor S corresponds to equi-biaxial tension. 
+
+Moving on to Mohr's circles Q and R, we can see that they have similar shapes, with similar radii, but in opposite quadrants. This suggests that they correspond to the same state of stress, just with a different orientation. 
+
+To verify this, we can find the principal stresses from the centers and radii of Q and R. Using the formulas for principal stresses for a plane stress condition, we can calculate:
+
+For Mohr's circle Q:
+Center = (60, 0)
+Radius = 40
+
+sigma1 = 60 + 40 = 100
+sigma2 = 60 - 40 = 20
+
+For Mohr's circle R:
+Center = (-60, 0)
+Radius = 40
+
+sigma1' = -60 + 40 = -20
+sigma2' = -60 - 40 = -100
+
+We can see that the two circles indeed correspond to the same state of stress, but with the principal stresses switched in sign and orientation (as represented by the negative sigma1' value for R). 
+
+Therefore, we can conclude that Mohr's circles Q and R both correspond to equi-biaxial tension, since they have equal and opposite principal stresses. 
+
+The correct answer is: 
+
+- (B) Q
+- (C) R

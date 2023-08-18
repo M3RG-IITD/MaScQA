@@ -1,0 +1,47 @@
+To solve this problem, we need to understand the concept of activity and activity coefficients first. The activity (a) of a solute in a solution is the effective concentration, which is the product of molar concentration (c) and activity coefficient γ:
+
+a =  c * γ
+
+For ideal solutions, the activity coefficients are equal to one, but for real solutions, they generally deviate from one (which represents ideal behavior) due to interactions between solute and solvent molecules.
+
+In this problem, we are given the activity coefficient (γ) of Si in liquid Fe at infinite dilution as $10^{-3}$. We know that the relationship between Gibbs free energy change (∆G), the temperature (T), and the activity of the solute (a) at equilibrium is given by the following equation:
+
+∆G = -RT ln(a)
+
+Where R is the gas constant (8.314 J/molK), T is the temperature (in K), and ln is the natural logarithm function.
+
+We are also given the weight percent (wt.%) of Si in liquid Fe, which is 1%. This means that for every 100 g of the solution, there is 1 g of Si. We need to convert the weight percent into molar concentration. The molar mass of Si is approximately 28 g/mol.
+
+So, if there is 1 g of Si in 100 g of solution, the number of moles of Si (n) can be calculated as follows:
+
+n = (mass of Si) / (molar mass of Si) = 1 g / 28 g/mol = 1/28 mol
+
+Now, we need to calculate the molar concentration (c) of Si in the solution:
+
+c = (n) / (total mass of the solution in kg)
+
+Given that the density of liquid Fe is 6.98 g/cm³, we can calculate the volume of Fe in the solution:
+
+volume of Fe = ((100 g - 1 g) / (6.98 g/cm³)) = 14.184 cm³
+
+Since 1 g Fe is 0.014 kg Fe and we have 100 g solution, the total mass of the solution is 100/1000 = 0.1 kg. Now, we can calculate the molar concentration of Si in the solution:
+
+c =  (1/28 mol) / (0.1 kg) = 1/(28*0.1) mol/kg = 1/2.8 mol/kg
+
+Now, we can calculate the activity of Si in the solution using the relationship:
+
+a = c * γ = (1/2.8 mol/kg) * (10^(-3)) = 1/(2.8*10^3)
+
+Now, we can calculate the standard Gibbs free energy change (∆G) using the equation:
+
+∆G = -RT ln(a) = - (8.314 J/molK) * (1873 K) * ln(1/(2.8*10^3))
+
+∆G ≈ - (8.314 J/molK) * (1873 K) * 8 = -116101 J/mol
+
+To convert ∆G from J/mol to kJ/mol, we divide by 1000:
+
+∆G ≈ -116.1 kJ/mol
+
+Hence, the standard Gibbs free energy change for this equilibrium is approximately -116.1 kJ/mol.
+
+The correct answer is [-116.1].

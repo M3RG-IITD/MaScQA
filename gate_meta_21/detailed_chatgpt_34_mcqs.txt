@@ -1,0 +1,21 @@
+The formula for the velocity of a fully developed 1-D flow of Newtonian fluid through a horizontal pipe of radius R is given by:
+
+$v_z = \frac{\Delta P}{L} \frac{R^2 - r^2}{4\mu}$
+
+where ΔP is the pressure difference (P1- P2), µ is the viscosity, r is the radial distance from the axis and L is the length of the tube.
+
+The shear stress exerted by the fluid on the tube wall is given by:
+
+$\tau = \mu \frac{\partial v_z}{\partial r}$
+
+We can find $\frac{\partial v_z}{\partial r}$ by taking the partial derivative of $v_z$ with respect to r:
+
+$\frac{\partial v_z}{\partial r} = \frac{\Delta P}{L} \frac{-2r}{4\mu}$
+
+Plugging this into the formula for shear stress, we get:
+
+$\tau = \mu \frac{\Delta P}{L} \frac{-2r}{4\mu} = -\frac{\Delta P r}{2L}$
+
+The negative sign indicates that the direction of the shear stress is opposite to the direction of the flow.
+
+Therefore, the answer is (A) ΔPR/(2L).

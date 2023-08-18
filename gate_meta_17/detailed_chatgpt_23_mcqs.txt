@@ -1,0 +1,3 @@
+Since the slab is rolling, the direction of motion is from P towards Q. At point P, the bottom of the slab is in contact with the ground, and the direction of frictional force is opposite to the direction of motion. Therefore, the frictional force is opposite to the rolling direction at point P. At point Q, the top of the slab is in contact with the ground, and again, the direction of frictional force is opposite to the direction of motion. Hence, the frictional force is also opposite to the rolling direction at point Q. Therefore the correct option is:
+
+(B) Frictional force is opposite to rolling direction at both P and Q.

@@ -1,0 +1,8 @@
+The correct matches are:
+
+(P) Engine block - 3. Casting
+(Q) Brake pad - 4. Powder metallurgy
+(R) Connecting rod - 1. Forging
+(S) Door panel - 2. Sheet metal forming
+
+So, the correct answer is (B) P-3, Q-4, R-1, S-2.

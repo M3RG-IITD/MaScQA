@@ -1,0 +1,31 @@
+Given that weight gain is proportional to the square root of time, we can write a proportionality equation as:
+
+Weight gain ∝ √(time)
+
+Let's denote weight gain as "W" and time as "t". Then, we can introduce a constant of proportionality, "k," to form an equation:
+
+W = k * √(t)
+
+We're given that when nickel undergoes isothermal oxidation at 800 K for a duration of 400 s, it results in a weight gain of 2 mg per square centimeter. Using this information, we can solve for the constant of proportionality, k:
+
+2 mg cm^(-2) = k * √(400 s)
+
+Since √(400 s) = 20 s^(1/2), we can now solve for k:
+
+k = (2 mg cm^(-2)) / (20 s^(1/2))
+
+k = 0.1 mg cm^(-2) s^(-1/2)
+
+Now we're asked to find the weight gain after a duration of 1600 s. To do this, we can plug t = 1600 s into our equation for weight gain:
+
+W = (0.1 mg cm^(-2) s^(-1/2)) * √(1600 s)
+
+Since √(1600 s) = 40 s^(1/2), we can now calculate W:
+
+W = (0.1 mg cm^(-2) s^(-1/2)) * (40 s^(1/2))
+
+W = 4 mg cm^(-2)
+
+Rounding off to the nearest integer, the weight gain after a duration of 1600s is approximately 4 mg cm^(-2).
+
+So the correct answer is [4].

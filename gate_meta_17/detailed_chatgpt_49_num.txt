@@ -1,0 +1,21 @@
+We can use the Avrami equation here: 
+
+$$X = 1 - e^{-(kt^n)}$$
+
+where X is the fraction transformed, t is time, k is the rate constant and n is the Avrami exponent.
+
+We are given that n = 2 and X = 0.2 when t = 100s. We are asked to find X when t = 400s.
+
+First, let's solve for k using the data given:
+
+$$0.2 = 1 - e^{-(k\times 100^2)}$$
+
+$$e^{-(k\times 100^2)} = 0.8$$
+
+$$k = \frac{\ln 0.8}{-100^2} \approx 1.151\times 10^{-6}$$
+
+Now we can use this value of k to solve for X when t = 400s:
+
+$$X = 1 - e^{-(1.151\times 10^{-6}\times 400^2)} \approx \boxed{63.48\%}$$
+
+Therefore, the transformation in % in 400s is approximately 63.48%.

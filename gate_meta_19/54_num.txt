@@ -1,0 +1,1 @@
+Given: The coefficient of friction between roll and the slab is 0.2, and the roll diameter is 200 mm. The maximum possible reduction (in 𝑚𝑚, rounded off to one decimal place) of a 100 mm thick slab during rolling is

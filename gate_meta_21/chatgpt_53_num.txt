@@ -1,0 +1,19 @@
+The radius of the octahedral void in a BCC iron crystal can be found using the formula:
+
+radius of octahedral void = sqrt(3) / 4 * edge length
+
+For a BCC crystal, the edge length can be related to the atomic radius using the formula:
+
+edge length = 4 * atomic radius / sqrt(3)
+
+Substituting the value of atomic radius of Fe (0.124 nm), we get:
+
+edge length = 4 * 0.124 nm / sqrt(3) = 0.227 nm (rounded to 3 decimal places)
+
+Now, the interstitial atom has to fit inside this octahedral void. Since it is an octahedral void, the diameter of the void is equal to the edge length. So, the maximum possible radius of the interstitial atom would be half of the edge length:
+
+radius of interstitial atom ≤ 0.5 * edge length = 0.1135 nm (rounded to 3 decimal places)
+
+Therefore, the radius of an interstitial atom which just fits (without distorting the structure) inside an octahedral void of a BCC iron crystal is 0.114 nm (rounded off to 3 decimal places).
+
+Answer: [0.114]

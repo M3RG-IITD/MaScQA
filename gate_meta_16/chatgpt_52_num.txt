@@ -1,0 +1,38 @@
+We can apply the continuity equation, which states that the mass flow rate must remain constant throughout the system. Therefore:
+
+mass flow rate = density x velocity x area
+
+Assuming a constant density, we have:
+
+velocity x area = constant
+
+At the top of the sprue, we know the area and the velocity is zero (since the metal is poured into the sprue and does not yet flow). So the constant is:
+
+constant = 0 m/s x 2.2 $m^2$ = 0
+
+At the base of the sprue, we know the height is 0.25 m, and we can find the area with:
+
+area = mass flow rate / (density x velocity)
+
+We are given the mass flow rate and the height, but we still need to find the velocity. To do so, we can consider the Bernoulli equation, which states that the sum of the pressure, density, and kinetic energy must remain constant along a streamline (assuming no friction losses).
+
+Since the pressure is atmospheric (open to air), and we assume a constant density, we have:
+
+0.5 x density x velocity^2 = constant 
+
+Therefore:
+
+velocity = sqrt(constant / (0.5 x density))
+
+We can find the value of the constant by applying this equation at the top of the sprue, where the velocity is zero:
+
+constant = 0.5 x density x velocity^2 = 0.5 x density x 0^2 = 0
+
+Now we can find the velocity at the base of the sprue and the corresponding area:
+
+velocity = sqrt(constant / (0.5 x density)) = 0 m/s
+area = mass flow rate / (density x velocity) = infinity
+
+This result suggests that the base of the sprue should be left open (no restriction) to prevent aspiration of molten metal. However, in practice, a grate or filter can be inserted to prevent sand particles or other impurities from entering the sprue. 
+
+Answer: No restriction (infinite area) or a grate/filter can be inserted to prevent impurities.

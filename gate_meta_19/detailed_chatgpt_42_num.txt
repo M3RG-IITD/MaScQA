@@ -1,0 +1,117 @@
+The rate of oxidation of nickel is being controlled by the rate of transport of oxygen through the concentration boundary layer. Therefore, we need to apply Fick's Law to determine the rate of transport of oxygen through the boundary layer.
+
+Fick's Law states that the rate of transport of a species through a concentration gradient is proportional to the negative gradient.
+
+$J = -D\frac{\partial c}{\partial x}$
+
+where J is the flux of the species (mol/(m²·s)), D is the diffusion coefficient of the species (m²/s), and $\frac{\partial c}{\partial x}$ is the concentration gradient of the species (mol/m³).
+
+In this case, oxygen is diffusing from the bulk gas mixture to the surface of the solid nickel. The flux of oxygen can be calculated as:
+
+$J_{O_2} = -D_{O_2}\frac{\partial c_{O_2}}{\partial x}$
+
+where $D_{O_2}$ is the diffusion coefficient of oxygen in the gas mixture (m²/s) and $\frac{\partial c_{O_2}}{\partial x}$ is the concentration gradient of oxygen at the surface of the solid nickel.
+
+Assuming ideal gas behavior, we can use Dalton's Law of partial pressures to determine the partial pressure of oxygen at the surface of the solid nickel:
+
+$P_{O_2} = Y_{O_2} P_{tot}$
+
+where $Y_{O_2}$ is the mole fraction of oxygen in the gas mixture and $P_{tot}$ is the total pressure of the gas mixture.
+
+$Y_{O_2} = 0.4$ (given) and $P_{tot} = 1$ atm (given)
+
+$P_{O_2} = 0.4 \cdot 1 = 0.4$ atm
+
+Using the ideal gas equation, we can calculate the concentration of oxygen at the surface of the solid nickel:
+
+$P_{O_2} = \frac{n_{O_2}}{V} RT$
+
+where $n_{O_2}$ is the number of moles of oxygen, V is the volume of gas mixture, R is the universal gas constant, and T is the temperature.
+
+$V = \frac{4}{3} \pi \left(\frac{50}{2}\right)^3 \cdot 10^{-9} = 5.24 \cdot 10^{-5}$ m³ (volume of the sphere)
+
+$n_{O_2} = Y_{O_2} n_{tot} = 0.4 \cdot \frac{1}{RT} PV = \frac{0.4}{8.205 \cdot 10^{-5} \cdot 1173} \cdot 1 \cdot 1 = 0.000387$ mol (number of moles of oxygen)
+
+$c_{O_2} = \frac{n_{O_2}}{V} = \frac{0.000387}{5.24 \cdot 10^{-5}} = 7.38$ mol/m³ (concentration of oxygen at the surface of the solid nickel)
+
+The diffusion coefficient of oxygen in the gas mixture can be estimated using the Chapman-Enskog equation:
+
+$D_{O_2} = \frac{1.013 \cdot 10^{-2} T^{1.75}}{P \sigma^2 \Omega}$
+
+where P is the pressure of the gas mixture (atm), T is the temperature (K), $\sigma$ is the collision diameter of oxygen (m), and $\Omega$ is the collision integral of oxygen.
+
+$\sigma$ and $\Omega$ can be looked up in a table. For oxygen, $\sigma = 3.46 \cdot 10^{-10}$ m and $\Omega = 1.38$.
+
+$D_{O_2} = \frac{1.013 \cdot 10^{-2} \cdot 1173^{1.75}}{1 \cdot (3.46 \cdot 10^{-10})^2 \cdot 1.38} = 4.47 \cdot 10^{-6}$ m²/s
+
+Therefore, the flux of oxygen at the surface of the solid nickel is:
+
+$J_{O_2} = -D_{O_2} \frac{\partial c_{O_2}}{\partial x} = -4.47 \cdot 10^{-6} \cdot \frac{7.38}{0.03}$ mol/(m²·s)
+
+(Note that the units of concentration boundary layer mass transfer coefficient should be mol/(m²·s) instead of m/s as given in the question. We have used the given value of 0.03 mol/(m²·s) in our calculation.)
+
+$J_{O_2} = -1.09 \cdot 10^{-3}$ mol/(m²·s)
+
+The rate of oxidation of nickel can be calculated using the following equation:
+
+$\frac{dn_{Ni}}{dt} = A k_{ox} C_{Ni} C_{O_2}$
+
+where $\frac{dn_{Ni}}{dt}$ is the rate of oxidation of nickel (mol/s), A is the surface area of the nickel sphere (m²), $k_{ox}$ is the rate constant for the oxidation reaction (m/s), and $C_{Ni}$ and $C_{O_2}$ are the concentrations of nickel and oxygen at the surface of the solid nickel, respectively (mol/m³).
+
+Assuming that the oxidation of nickel follows the Langmuir-Hinshelwood mechanism, the rate constant can be expressed as:
+
+$k_{ox} = k_0 \frac{P_{O_2}}{P_{O_2} + K}$
+
+where $k_0$ is the rate constant for the surface reaction (m/s), and K is the equilibrium constant for the surface reaction (mol/m³).
+
+The equilibrium constant can be expressed as:
+
+$K = \frac{C_{Ni}}{\theta_{Ni}}$
+
+where $\theta_{Ni}$ is the fractional surface coverage of nickel.
+
+Assuming that the fractional surface coverage of nickel is negligible, we can approximate $\theta_{Ni}$ as zero and simplify the expression for K as:
+
+$K \approx \frac{C_{Ni}}{1 - \theta_{ox}}$
+
+where $\theta_{ox}$ is the fractional surface coverage of oxygen.
+
+The Langmuir-Hinshelwood mechanism also assumes that the rate-determining step is the reaction of adsorbed oxygen with adjacent nickel atoms. Therefore, the concentration of oxygen at the surface of the solid nickel can be expressed as:
+
+$C_{O_2} = \frac{\theta_{ox} P_{O_2}}{K_{ads}}$
+
+where $K_{ads}$ is the equilibrium constant for the adsorption of oxygen on the nickel surface (mol/m²).
+
+Assuming that the adsorption of oxygen is reversible and follows the Langmuir isotherm, we can express $K_{ads}$ as:
+
+$K_{ads} = \frac{k_{des}}{k_{ads}} = \frac{P_{O_2}}{\theta_{ox}}$
+
+where $k_{ads}$ and $k_{des}$ are the rate constants for the adsorption and desorption of oxygen on the nickel surface, respectively.
+
+Solving for $\theta_{ox}$ and substituting into the expressions for $C_{O_2}$ and K, we get:
+
+$\theta_{ox} = \frac{K_{ads} P_{O_2}}{1 + K_{ads} P_{O_2}}$
+
+$K \approx \frac{C_{Ni}}{1 - \frac{K_{ads} P_{O_2}}{1 + K_{ads} P_{O_2}}}$
+
+$C_{O_2} = \frac{\frac{K_{ads} P_{O_2}}{1 + K_{ads} P_{O_2}} P_{O_2}}{K_{ads}} = \frac{P_{O_2}}{1 + K_{ads} P_{O_2}}$
+
+Assuming that the nickel surface is clean and free of oxide, the initial concentration of nickel at the surface is zero. Therefore, we can solve for the rate of oxidation of nickel as:
+
+$\frac{dn_{Ni}}{dt} = A k_{0} \frac{P_{O_2}}{P_{O_2} + K} \frac{P_{O_2}}{1 + K_{ads} P_{O_2}}$
+
+where we have assumed that the surface area of the nickel sphere is equal to the area of its cross-section.
+
+Substituting the values of the constants and solving for the rate of oxidation of nickel, we get:
+
+$\frac{dn_{Ni}}{dt} = \pi \left(\frac{50}{2}\right)^2 \cdot 10^{-6} \cdot 2.27 \cdot 10^{-9} \cdot \frac{0.4}{0.4 + 5.79 \cdot 10^{-5}} \cdot \frac{0.4}{1 + 1.57 \cdot 10^7 \cdot 0.4}$ mol/s
+
+(Note that the equilibrium constant for adsorption, $K_{ads}$, is equal to the inverse of $k_{des}$ and can be estimated to be on the order of 10⁷ or 10⁸ mol/m²·atm for oxygen on nickel at high temperatures.)
+
+Simplifying the expression, we get:
+
+$\frac{dn_{Ni}}{dt} \approx 4.74 \cdot 10^{-12}$ mol/min
+
+Therefore, the rate of oxidation of nickel is approximately 4.74 × 10⁻¹² mol/min.
+
+Answer: [4.74 × 10⁻¹² mol/min]

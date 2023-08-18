@@ -1,0 +1,21 @@
+In the case of plane strain, we have ε(zz) = 0. We also know that:
+
+ε(xx) = (1/E) * [σ(xx) - ν * (σ(yy) + σ(zz))] (1)
+ε(yy) = (1/E) * [σ(yy) - ν * (σ(xx) + σ(zz))] (2)
+ε(zz) = (1/E) * [σ(zz) - ν * (σ(xx) + σ(yy))] (3)
+
+Given that ε(zz) = 0, and σ(xx) = σ(yy), we have:
+
+0 = (1/E) * [σ(zz) - ν * (σ(xx) + σ(xx))] (4)
+
+We are interested in finding the ratio σ(zz) / σ(xx). We can rearrange equation 4:
+
+σ(zz) = ν * (σ(xx) + σ(xx))
+σ(zz) = 2 * ν * σ(xx)
+σ(zz) / σ(xx) = 2 * ν
+
+Given that Poisson's ratio, ν = 0.3, we have:
+
+σ(zz) / σ(xx) = 2 * 0.3 = 0.6
+
+The ratio of σ(zz) / σ(xx) is 0.6. Therefore, the answer is [0.6].

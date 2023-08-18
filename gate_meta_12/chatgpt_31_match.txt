@@ -1,0 +1,8 @@
+The principles given in Group I and their corresponding corrosion terminology in Group II are:
+
+- P. Electrode polarization -> 3. Over voltage
+- Q. Passivity -> 4. Surface oxide film
+- R. Selective leaching -> 1. Dezincification
+- S. Grain boundary precipitation -> 2. Intergranular attack
+
+Therefore, the correct answer is (A) P-3, Q-4, R-1, S-2.

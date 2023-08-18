@@ -1,0 +1,2 @@
+The length of internal cracks in two samples of the same glass is measured to be $𝑐_1$ = 0.5 mm and $𝑐_2$ = 2 mm. The ratio ($𝜎_(1)/𝜎_(2)$) of the fracture strength of the two samples is 
+(A) 0.5 (B) 1.0 (C) 2.0 (D) 4.0

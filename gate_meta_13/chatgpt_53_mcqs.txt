@@ -1,0 +1,7 @@
+There exists a relationship between density and crystallinity for polypropylene. The higher the density, the higher is the percent crystallinity. This relationship can be used to estimate the percent crystallinity for a given density. 
+
+As per this relationship, the percent crystallinity of polypropylene sample having a density of 1.3 g/$cm^3$ can be estimated to be around 64%. 
+
+Therefore, the correct answer is: 
+
+- (B) 64

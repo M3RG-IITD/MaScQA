@@ -1,0 +1,1 @@
+A rod is elastically deformed by a uniaxial stress resulting in a strain of 0.02. If the Poisson's ratio is 0.3, the volumetric strain is?(answer up to three decimal places)

@@ -1,0 +1,1 @@
+An arc welding is performed at 400 Amperes, 20 V at a traverse speed of 5 𝑚𝑚.$𝑠^(−1)$ . If the heat transfer efficiency is 0.6, the energy input per unit length (in 𝐽. $𝑚𝑚^(−1)$ , rounded off to the nearest integer) during the process is

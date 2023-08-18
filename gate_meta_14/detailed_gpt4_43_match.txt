@@ -1,0 +1,24 @@
+We first need to understand the processes in both groups before matching them.
+
+Group I:
+P. Blast Furnace Ironmaking: Involves the reduction of iron ore to pig iron through a blast furnace where coke (essentially carbon) is used as a reducing agent. This is a smelting process.
+ 
+Q. BOF Steelmaking: Basic Oxygen Furnace Steelmaking is a process that involves the conversion of pig iron into steel by using a basic oxygen furnace to blow oxygen onto the molten iron. Impurities are then oxidized and removed, resulting in pure steel. This is a refining process.
+
+R. Hall-Heroult Process: Involves the electrolytic reduction of aluminum oxide into aluminum by using a molten mixture of cryolite and alumina. Aluminum ions are reduced at the cathode, and oxygen ions are oxidized at the anode. This is an electrolysis process.
+
+S. Bayer Process: It is the principal industrial method for refining bauxite to produce alumina (aluminum oxide). In this process, bauxite ore is first crushed and then heated in a pressure vessel with a hot solution of caustic soda (NaOH) to leach aluminum hydroxide from the bauxite. This is a leaching process.
+
+Group II:
+1. Refining: A process of removing impurities and unwanted elements from metals.
+2. Electrolysis: A technique where electrical energy is used to drive a non-spontaneous chemical reaction.
+3. Smelting: A process of extracting a metal from its ore by heating the ore beyond its melting point and using a reducing agent like coke (carbon).
+4. Leaching: A process in which a solute is separated from a solid-phase material through the use of a liquid solvent.
+
+Now we can match the operations:
+P. Blast Furnace Ironmaking (3. Smelting)
+Q. BOF Steelmaking (1. Refining)
+R. Hall-Heroult Process (2. Electrolysis)
+S. Bayer Process (4. Leaching)
+
+Thus, the correct option is (B) P-3, Q-1, R-2, S-4

@@ -1,0 +1,66 @@
+To find the minimum voltage for refining, we need to calculate the cell potential of the electrochemical reaction between the Cu-Ni alloy and pure Ni. 
+
+First, let's announce the chemical reactions happening at the anode and cathode. At the anode, copper dissolves into the solution, so the reaction is:
+
+Cu(s) -> Cu^2+ (aq) + 2e^-
+
+At the cathode, nickel ions are reduced to form pure nickel:
+
+Ni^2+ (aq) + 2e^- -> Ni(s)
+
+The overall cell reaction is:
+
+Cu(s) + Ni^2+ (aq) -> Cu^2+ (aq) + Ni(s)
+
+Now, we need to find the standard cell potential for this reaction. The standard cell potential (E°) is the difference between the standard reduction potentials of the cathode and the anode:
+
+E° = E°(cathode) - E°(anode)
+
+The standard reduction potentials for Cu and Ni are:
+
+E°(Cu^2+/Cu) = +0.337 V
+E°(Ni^2+/Ni) = -0.257 V
+
+Now, we can calculate the standard cell potential E°:
+
+E° = E°(Ni^2+/Ni) - E°(Cu^2+/Cu) = -0.257 - (+0.337) = -0.594 V
+
+Next, we need to account for the non-standard conditions of the Cu-Ni alloy. We can use the Nernst equation to determine the cell potential at non-standard conditions:
+
+E = E° - (RT/nF) * ln(Q)
+
+Where:
+E is the cell potential under non-standard conditions
+R is the gas constant (8.314 J $mol^(-1)K^(-1)$)
+T is the temperature in Kelvin (300 K)
+n is the number of electrons transferred in the reaction (2)
+F is the Faraday constant (96490 C $mol^(-1)$)
+Q is the reaction quotient
+
+For ideal solutions, the activity coefficients are equal to 1. Therefore, the reaction quotient Q can be replaced by the molar concentrations:
+
+Q = [Cu^2+] / [Ni^2+]
+
+Given that the Cu-Ni solution is 10 atom% Ni, the ratio of concentrations is:
+
+[Ni^2+] / [Cu^2+] = 10 / 90 = 1 / 9
+
+Thus, Q = 9
+
+Now we can plug in the values into the Nernst equation:
+
+E = -0.594 - (8.314 * 300 / (2 * 96490)) * ln(9)
+E = -0.594 - (0.0129) * ln(9)
+E ≈ -0.640 V
+
+Since we need the ABSOLUTE value of the minimum voltage, we simply take the positive value of the calculated voltage:
+
+|-0.640| = 0.640 V
+
+Now we can convert volts to millivolts:
+
+0.640 V * 1000 = 640 mV
+
+Therefore, the ABSOLUTE value of the minimum voltage required for refining is:
+
+[[640]] mV

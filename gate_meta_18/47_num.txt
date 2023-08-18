@@ -1,0 +1,1 @@
+If the net magnetic moment of an Fe atom in BCC structure is 2 𝜇𝐵, then what is the saturation magnetization of Fe in kAm-1 rounded off to one decimal place? Given: 𝜇𝐵 = 9.273 × $10^(-24)$ A $m^2$, Lattice parameter of BCC iron is 0.287 nm Note: kA is kiloAmperes

@@ -1,0 +1,18 @@
+The Griffith theory states that for a material with a crack of length `a`, the fracture stress, `σ_f`, is given by:
+
+```
+σ_f = (2 * γ * cos(θ)) / sqrt(pi * a)
+```
+
+where `γ` is the surface energy of the material and `θ` is the angle between the crack and the direction of the applied stress.
+
+Assuming that the surface energy of the material is constant, we can solve for the new fracture stress for a crack length of 4 µm as follows:
+
+```
+σ_f' = (2 * γ * cos(θ)) / sqrt(pi * 4)
+     = σ_f * sqrt(a') / sqrt(a)
+     = 200 MPa * sqrt(4 µm) / sqrt(1 µm)
+     = 400 MPa
+```
+
+Therefore, the answer is (B) 150 MPa.

@@ -1,0 +1,2 @@
+Schematic diagram shows rolling of a slab. P and Q are points on the surface of the workpiece near entrance and exit, respectively. With reference to the work piece, which one of the following statemnets is TRUE?
+(A) Frictional force is along rolling direction at both P and Q.  (B) Frictional force is opposite to rolling direction at both P and Q.  (C) Frictional force is along rolling direction at P and opposite to rolling direction at Q.  (D) Frictional force is opposite to rolling direction at P and along rolling direction at Q.

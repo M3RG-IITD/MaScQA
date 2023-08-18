@@ -1,0 +1,35 @@
+To solve this problem, we need to understand the concept of activity and how it relates to equilibrium in a solution.
+
+The activity (a) of a species in a solution is a measure of its effective concentration, which is influenced by various factors such as the presence of other ions or the solvent. In other words, activity is a "corrected" measure of concentration that accounts for any deviations from ideal behavior. An activity of 1.0 indicates that the substance under study shows ideal behavior and its effective concentration is the same as what we would measure experimentally.
+
+Now, let's consider the given question. We have liquid steel in a graphite crucible, and carbon is dissolved in the steel. Graphite is a solid, so the activity of the solid phase is generally taken as 1.0. We are given that equilibrium is established between the carbon in the graphite crucible and the liquid steel.
+
+At equilibrium, the chemical potentials of carbon in both graphite (μC,graphite) and liquid steel (μC,steel) are equal:
+μC,graphite = μC,steel
+
+The chemical potential of carbon in graphite can be expressed as:
+μC,graphite = μC,graphite° + RT ln(aC,graphite)
+
+Where μC,graphite° is the standard chemical potential of carbon in graphite, R is the gas constant, T is the temperature, and aC,graphite is the activity of carbon in graphite. Since graphite is a solid, its activity is 1, so:
+μC,graphite = μC,graphite°
+
+Similarly, the chemical potential of carbon in liquid steel can be expressed as:
+μC,steel = μC,steel° + RT ln(aC,steel)
+
+At equilibrium, μC,graphite = μC,steel, so we can set these two expressions equal to each other and solve for the activity of carbon in liquid steel:
+
+μC,graphite° = μC,steel° + RT ln(aC,steel)
+
+Now, we need to solve for aC,steel. To do this, we can isolate aC,steel in the equation above:
+
+RT ln(aC,steel) = μC,graphite° - μC,steel°
+ln(aC,steel) = (μC,graphite° - μC,steel°) / RT
+aC,steel = exp((μC,graphite° - μC,steel°) / RT)
+
+But since both graphite and steel are in equilibrium, the difference in standard chemical potentials (μC,graphite° - μC,steel°) becomes 0, making the exponent 0:
+
+aC,steel = exp(0) = 1
+
+So the activity of carbon in the liquid steel with respect to graphite as the standard state is 1.0.
+
+The correct answer is (C) 1.0.

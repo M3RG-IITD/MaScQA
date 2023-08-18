@@ -1,0 +1,15 @@
+The rate of diffusion is given by Fick's first law of diffusion which states:
+
+$J = -D\frac{dC}{dx}$
+
+where $J$ is the diffusion flux, $D$ is the diffusion coefficient, and $\frac{dC}{dx}$ is the concentration gradient.
+
+For diffusion through a lattice, the atoms must jump from one lattice site to another. This process is usually slower than diffusion along grain boundaries or free surfaces since the atoms must first overcome the activation energy for diffusion which is higher for lattice diffusion. Therefore, we can expect that $D_L$ will be lower than $D_{GB}$ or $D_S$.
+
+For diffusion along grain boundaries, the atoms can move more easily since the grain boundary provides a lower-energy path for diffusion. Therefore, we can expect that $D_{GB}$ will be higher than $D_L$.
+
+For diffusion along free surfaces, the atoms can move even more easily since there is no crystal structure to hinder their motion. Therefore, we can expect that $D_S$ will be the highest of the three diffusion coefficients.
+
+Therefore, the correct relation is:
+
+(D) $D_S > D_{GB} > D_L$

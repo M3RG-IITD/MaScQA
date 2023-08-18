@@ -1,0 +1,17 @@
+The calculation involves the weighted average of the Ni content in the plates and filler wire, considering the contribution of each component to the dilution of the weld pool. 
+
+Ni content in Fe-10 wt.% Ni plate = 10 wt.% Ni 
+Ni content in Fe-20 wt.% Cr-5 wt.% Ni plate = 5 wt.% Ni 
+Ni content in filler wire = 20 wt.% Ni 
+
+Contribution to dilution from each plate = 20% 
+
+Using the weighted average formula, the Ni content in the weld pool is:
+
+Ni content = [(10 wt.% Ni x 0.2) + (5 wt.% Ni x 0.2) + (20 wt.% Ni x 0.6)]/0.6 
+
+Ni content = (2 + 1 + 12)/0.6 = 25 wt.% 
+
+Therefore, the Ni content in the weld pool is 25 wt.%. 
+
+Answer: [25]

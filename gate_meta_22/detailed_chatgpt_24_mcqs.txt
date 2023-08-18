@@ -1,0 +1,15 @@
+The casting defect resulting from the displacement of mould cavity by an oversized core in green sand moulding is known as "crush".
+
+Explanation:
+
+Green sand moulding is a sand casting process that uses a mixture of clay, sand, and water as the moulding material. In this process, a pattern is placed in sand to create a mould cavity, and then molten metal is poured into the cavity to create a desired shape.
+
+Sometimes, a sand core is used to create internal cavities and shapes in the casting. However, if the sand core is too large or not properly supported, it can displace the sand in the mould cavity, causing deformation or crushing of the mould. This defect is known as "crush".
+
+Hot tear is a casting defect caused by the unequal contraction of different sections of the casting during cooling, resulting in a crack.
+
+Blow is a casting defect that occurs when gas gets trapped in the molten metal and forms a bubble in the casting.
+
+Fin is a casting defect caused by the unintentional formation of a thin, sharp projection on the surface of the casting. 
+
+Therefore, the correct answer is (A) crush.

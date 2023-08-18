@@ -1,0 +1,2 @@
+In a conventional unit cell of a crystal, 𝑎 = 𝑏 ≠ 𝑐 and 𝛼 = 𝛽 = 𝛾 = 90°. This crystal belongs to which of the following systems? 
+(A) Cubic (B) Tetragonal (C) Orthorhombic (D) Triclinic

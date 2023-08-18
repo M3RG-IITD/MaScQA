@@ -1,0 +1,5 @@
+Match the processes given in Group I with the corresponding metals in Group II:
+Group I: [P. Matte smelting, Q. Cyanide leaching, R. Carbothermic reduction, S. Fused salt electrolysis]
+Group II: [1.Lead, 2. Copper, 3. Gold, 4. Aluminium]
+
+Options: (A) P-1, Q-2, R-1, S-4 (B) P-2, Q-3, R-1, S-4 (C) P-2, Q-1, R-3, S-4 (D) P-2, Q-3, R-4, S-1

@@ -1,0 +1,39 @@
+To find the minimum pH at which $Fe^{+3}$ will precipitate as $Fe(OH)_3$, we need to determine the concentration of hydroxide ions ($OH^-$) in the solution at equilibrium. 
+
+1. Write the balanced equation for the reaction:
+$Fe^{+3} + 3OH^- \rightleftharpoons Fe(OH)_3$
+
+2. Write the expression for the solubility product constant (Ksp):
+$K_{sp} = [Fe^{+3}] [OH^-]^3$
+
+Given $K_{sp} = 10^{-39}$, and $[Fe^{+3}] = 10^{-3}$ M, we can solve for $[OH^-]$:
+
+$10^{-39} = (10^{-3}) [OH^-]^3$
+
+3. Divide both sides by $10^{-3}$:
+$10^{-36} = [OH^-]^3$
+
+4. Take the cube root of both sides:
+$(10^{-36})^{1/3} = [OH^-]$
+
+$10^{-12} = [OH^-]$
+
+5. Use the relationship between concentration of $H^+$ ions, $OH^-$ ions and the pH, pOH scale: 
+$pOH = -\log_{10}[OH^-]$
+
+$pOH = -\log_{10}(10^{-12})$
+
+$pOH = 12$
+
+6. Convert pOH to pH using the relation: 
+$pH + pOH = 14$
+
+Substitute the value of pOH:
+
+$pH = 14 - 12$
+
+$pH = 2$
+
+The minimum pH at which $Fe^{+3}$ will precipitate as $Fe(OH)_3$ is 2.00.
+ 
+Answer: [2.00]

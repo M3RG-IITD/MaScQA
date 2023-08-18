@@ -1,0 +1,1 @@
+Given: F = 96500 C $mol^(-1)$. If $E°_(Ni^(+2)/Ni)$ = -0.25V, the value of $µ°_(Ni^(+2))$ (in J $mol^(-1)$) at 298 K is?(round off to nearest integer)

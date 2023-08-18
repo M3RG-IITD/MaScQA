@@ -1,0 +1,9 @@
+During LD blow in steelmaking, the impurity that gets removed first is Silicon (D). 
+
+Step-by-Step Explanation:
+
+During the LD (Linz-Donawitz) Process, oxygen is introduced into the molten iron to remove impurities and to reduce carbon content. This results in the formation of slag, which floats on the surface of the metal and absorbs impurities. The impurities present in the molten iron have varying degrees of affinity for oxygen, resulting in their removal from the metal at different rates. 
+
+During the initial stages of the LD blow, the impurity that gets removed first is silicon (Si). This is because silicon readily reacts with oxygen to form silicon dioxide (SiO2), which is then absorbed by the slag. The removal of silicon from the molten iron is essential as it improves the ductility, toughness, and weldability of the final steel product. 
+
+After silicon, the impurities that get removed in the LD process, in order of decreasing affinity for oxygen, are phosphorus (P), carbon (C), and manganese (Mn).

@@ -1,0 +1,14 @@
+We can find the volumetric strain by applying the formula:
+
+Volumetric Strain = (1 - 2 × Poisson's Ratio) × Axial Strain
+
+Given, Poisson's Ratio = 0.3 and Axial Strain = 0.02.
+
+Volumetric Strain = (1 - 2 × 0.3) × 0.02
+Volumetric Strain = (1 - 0.6) × 0.02
+Volumetric Strain = 0.4 × 0.02
+Volumetric Strain = 0.008
+
+So, the Volumetric Strain is 0.008 (up to three decimal places).
+
+Answer: [0.008]

@@ -1,0 +1,30 @@
+We can use the relationship between strain and Poisson's ratio to determine the lateral strain, and then use the definition of volumetric strain to find the answer.
+
+Let the applied stress be σ and the resulting strain be ε. We are given that ε = 0.02. The Poisson's ratio ν is also given as 0.3. 
+
+From the definition of Poisson's ratio:
+
+ν = lateral strain / longitudinal strain
+
+The longitudinal strain is the same as the axial strain in uniaxial stress, which is ε = 0.02. Thus, we can solve for the lateral strain:
+
+lateral strain = ν * longitudinal strain
+               = 0.3 * 0.02
+               = 0.006
+
+The volumetric strain ε_v is defined as the change in volume per unit volume:
+
+ε_v = (change in volume) / (original volume)
+
+In terms of the axial and lateral strains:
+
+ε_v = ε + 2*lateral strain
+
+Substituting the given values:
+
+ε_v = 0.02 + 2*0.006
+     = 0.032 (rounded to three decimal places)
+
+Therefore, the volumetric strain is 0.032. 
+
+Answer: [0.032]

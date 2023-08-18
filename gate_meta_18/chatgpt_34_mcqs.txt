@@ -1,0 +1,61 @@
+The process of refining impure copper to pure copper using electrolysis involves the following half-cell reactions: 
+
+Anode: $Cu \to Cu^{2+} + 2e^-$
+Cathode: $Cu^{2+} + 2e^- \to Cu$
+
+The overall reaction is: $Cu \to Cu^{2+} + 2e^- \to Cu$
+
+The standard electrode potential for the reduction of $Cu^{2+}$ to $Cu$ is +0.34 V. 
+
+The Nernst equation relates the standard electrode potential to the actual electrode potential under non-standard conditions: 
+
+$E = E^{\circ} - \frac{RT}{nF} ln Q$
+
+where E = actual electrode potential, E° = standard electrode potential, R = gas constant, T = temperature, n = number of electrons transferred in the half-reaction, F = Faraday's constant, and Q = reaction quotient. 
+
+For the reduction of $Cu^{2+}$ to $Cu$, we have: 
+
+$E = 0.34 - \frac{RT}{2F} ln \frac{a_{Cu}}{a_{Cu^{2+}}}$
+
+where $a_{Cu}$ represents the activity of pure copper and $a_{Cu^{2+}}$ represents the activity of $Cu^{2+}$ ions in the solution. 
+
+At equilibrium, the reaction quotient Q is equal to the equilibrium constant K: 
+$Q = \frac{a_{Cu}}{a_{Cu^{2+}}} = K$
+
+For a Raoultian solution at 300 K, activity is equal to mole fraction. The activity of $Cu^{2+}$ ions can be calculated from the given activity of impure copper using the relation: 
+
+$a_{Cu^{2+}} = \frac{K a_{Cu}}{0.9}$
+
+Substituting the values in the Nernst equation, we get: 
+
+$E = 0.34 - \frac{RT}{2F} ln \frac{a_{Cu}}{a_{Cu^{2+}}} = 0.34 - \frac{RT}{2F} ln \frac{0.9}{K}$
+
+K is the equilibrium constant for the reaction $Cu \to Cu^{2+} + 2e^-$. The standard Gibbs energy change for this reaction can be related to the standard electrode potential using the relation: 
+
+$\Delta G^{\circ} = -nFE^{\circ}$
+
+For the given reaction, $n = 2$ and $E^{\circ} = 0.34$ V. Using the values of R and T, we get: 
+
+$\Delta G^{\circ} = -2 \times 96500 \times 0.34 = -65828 J$ 
+
+At 300 K, the equilibrium constant K can be related to the standard Gibbs energy change using the relation: 
+
+$\Delta G^{\circ} = -RT lnK$
+
+Substituting the values, we get: 
+
+$ln K = \frac{\Delta G^{\circ}}{-RT} = \frac{65828}{8.314 \times 300} = 26.17$
+
+Therefore, 
+
+$K = e^{26.17} = 1.16 \times 10^{11}$
+
+Finally, substituting the values in the Nernst equation, we get: 
+
+$E = 0.34 - \frac{8.314 \times 300}{2 \times 96500} ln \frac{0.9}{1.16 \times 10^{11}} = 0.34 - 0.0159 = 0.3241$ V
+
+Thus, the voltage required to electrolytically refine impure copper of activity $a_{Cu}$ = 0.9 (Raoultian standard state) to pure copper at 300 K is approximately 0.3241 V.
+
+Answer: (A) 1.36 mV (B) 2.72 mV (C) 0 mV (D) 5.44 mV
+
+Correct answer: (C) 0 mV

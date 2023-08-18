@@ -1,0 +1,25 @@
+The thickness of the velocity boundary layer is given by:  
+$𝛿_𝑣$ = $5.0∗x/√{Re_x}$  -------- (Equation 1)  
+where,  
+$Re_x$ = $ρ𝑣∙𝑥/μ$  
+    
+The thickness of the thermal boundary layer is given by:  
+$𝛿_𝑡$ = $5.0∗x/√{Re_{𝜃x}}$  -------- (Equation 2)  
+where,  
+$Re_{𝜃x}$ = $ρ𝑣∙𝑐𝑝∙(T_w - T_∞)/𝜇_{𝑡h}$  
+    
+The given information indicates that the thermal diffusivity $α_{th}$ (which is thermal conductivity/ (density × specific heat)) is higher than the kinematic viscosity (which is viscosity/density). This indicates that the thermal boundary layer will be thinner than the velocity boundary layer. Let's prove this by comparing the equations 1 and 2.  
+
+Rearranging Equation 1:  
+$Re_x$ = $𝑥∙𝜌∙𝑣/𝜇$  
+    
+Substituting this in Equation 2:  
+$𝛿_𝑡$ = $5.0∗x/√{𝑥∙𝜌∙𝑣∙𝑐𝑝∙(T_w - T_∞)/𝜇_{𝑡h}}$  
+    
+$𝛿_𝑡$ = $5.0∗x/√{Re_x∙Pr_{t}}$  -------- (Equation 3) 
+where $Pr_t$ = $𝜈/𝛼_{th}$
+    
+We know that $Pr_t$ is a constant for a given fluid. Since $𝜈$ is significantly smaller than $α_{th}$, $Pr_t$ is a larger number than $1$. This indicates that the thermal boundary layer thickness is smaller than $𝛿_𝑣$.  
+
+Hence the answer is:  
+(A) $𝛿_𝑣$ < $𝛿_𝑡$

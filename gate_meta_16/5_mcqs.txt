@@ -1,0 +1,2 @@
+In a typical Ellingham diagram for the oxides, the C + $O_2$ = $CO_2$ line is nearly horizontal because
+(A) The slope of the line is equal to the enthalpy change at standard state, which is approximately zero in this case (B) The slope of the line is equal to the entropy change at standard state, which is approximately zero in this case (C) $CO_2$ shows non-ideal behaviour (D) $CO_2$ is a gaseous oxide 

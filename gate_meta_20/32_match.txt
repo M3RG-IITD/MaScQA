@@ -1,0 +1,5 @@
+Match the processes in Column I with the most appropriate mechanisms in Column II. 
+Column I: [(P) Blast furnace iron making process, (Q) Hall- Heroult's process, (R) Basic oxygen furnace steel making process, (S) Kroll's process]
+Column II: [1. Metallothermic reduction, 2. Oxidation, 3. Carbothermic reduction, 4. Fused salt electrolysis]
+
+Options: (A) P-1, Q-4, R-2, S-3 (B) P-3, Q-1, R-2, S-4 (C) P-3, Q-4, R-2, S-1 (D) P-1, Q-2, R-3, S-4

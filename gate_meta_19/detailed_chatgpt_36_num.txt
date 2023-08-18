@@ -1,0 +1,118 @@
+Let's consider the following diagram:
+
+```
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+      (top of rod)
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+            -----
+          /      \
+    (bottom of   (distance from wall
+       rod)         is 30 cm)
+```
+
+Let's call $x$ the distance from the wall that the bottom of the rod has been pulled, like so:
+
+```
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+      (top of rod)
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+            -----
+          /<--x   \
+    (bottom of   (distance from wall
+       rod)         is 30 cm)
+```
+
+Since the rod is 50 cm long, the height of the top of the rod is $50 - x$. Let's call $h$ the distance between the bottom of the rod and the top of the rod along the wall, like so:
+
+```
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+      (top of rod)
+              |
+              |
+              | h
+              |
+              |
+              |
+              |
+            -----
+          /<--x   \
+    (bottom of   (distance from wall
+       rod)         is 30 cm)
+```
+
+By similar triangles, we have:
+
+$$\frac{h}{50 - x} = \frac{30}{x}$$
+
+Simplifying:
+
+$$hx = (50 - x)(30)$$
+
+$$hx = 1500 - 30x$$
+
+Taking the derivative with respect to time $t$:
+
+$$\frac{d}{dt}(hx) = \frac{d}{dt}(1500 - 30x)$$
+
+$$h\frac{dx}{dt} + x\frac{dh}{dt} = -30\frac{dx}{dt}$$
+
+We want to find $\frac{dh}{dt}$ when $\frac{dx}{dt} = 4 \text{ cm}^{-1}$:
+
+$$h(4) + x\frac{dh}{dt} = -30(4)$$
+
+$$\frac{dh}{dt} = -\frac{4h}{x}$$
+
+Using the equation we found before for $hx$:
+
+$$\frac{dh}{dt} = -\frac{4(1500-30x)}{x^2}$$
+
+Substituting $x = 30 + 4t$ (since we know that $\frac{dx}{dt} = 4 \text{ cm}^{-1}$):
+
+$$\frac{dh}{dt} = -\frac{4(1500 - 30(30 + 4t))}{(30 + 4t)^2}$$
+
+Simplifying:
+
+$$\frac{dh}{dt} = -\frac{480}{(30 + 4t)^2}$$
+
+Plugging in $t = 0$ (since we want the instantaneous velocity when the bottom of the rod is 30 cm away from the wall):
+
+$$\frac{dh}{dt} = -\frac{480}{(30)^2} = -\frac{4}{3} \text{ cm}^{-1}$$
+
+But we want the magnitude of the instantaneous velocity, so we take the absolute value:
+
+$$\left|\frac{dh}{dt}\right| = \frac{4}{3} \text{ cm}^{-1}$$
+
+Therefore, the magnitude of the instantaneous velocity of the top of the rod is $\frac{4}{3}$ cm/s. 
+
+Answer: 
+- $\frac{4}{3}$ cm/s

@@ -1,0 +1,15 @@
+Since we are interested in the view factor $F_{22}$, the question is asking us for the fraction of radiation leaving surface 2 that is intercepted by surface 2 itself. This means that we need to calculate the area on surface 2 that can "see" surface 2 itself, and divide this area by the total area of surface 2. 
+
+The easiest way to visualize this is to imagine a tiny surface element $\text{d}A_2$ on surface 2. We want to calculate the fraction of radiation leaving $\text{d}A_2$ that gets intercepted by any part of surface 2. In other words, we want to find the solid angle $\text{d}\Omega_{21}$ that covers surface 2 and has $\text{d}A_2$ at its center. The view factor $F_{22}$ is then the total radiation intercepted by surface 2, divided by the radiation leaving surface 2.
+
+Since we are dealing with spheres, we can use the formula for solid angles subtended by a sphere, which is:
+
+$$\text{d}\Omega = \frac{\text{d}A}{r^2}$$
+
+where $\text{d}A$ is the area subtended by the solid angle, and $r$ is the radius of the sphere.
+
+In this case, $\text{d}A_2$ is just a point, so its area is zero, and the solid angle subtended by it is also zero. This means that $F_{22} = 0$. 
+
+Therefore, the answer is:
+
+- $F_{22} = 0$

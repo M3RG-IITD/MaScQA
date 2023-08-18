@@ -1,0 +1,1 @@
+We cannot solve this question without having the values of k (rate constant) and n (Avrami exponent) for the isothermal phase transformation. Please provide these values.

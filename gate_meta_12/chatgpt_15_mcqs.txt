@@ -1,0 +1,28 @@
+We can use Bragg's law to relate the peak position to the lattice spacing:
+
+2d sin θ = n λ
+
+where d is the interplanar spacing, θ is the angle of the peak (78° in this case), n is an integer (we'll assume n=1 for the strongest peak), and λ is the wavelength of the incident X-rays (0.154 nm in this case).
+
+For fcc crystals, the interplanar spacing of {hkl} planes is given by:
+
+d = a / sqrt(h^2 + k^2 + l^2)
+
+where a is the lattice parameter and h, k, and l are the Miller indices of the planes.
+
+For {311} planes, we have h=3, k=1, and l=1, so:
+
+d = a / sqrt(3^2 + 1^2 + 1^2) = a / sqrt(11)
+
+Substituting this into Bragg's law and solving for a, we get:
+
+a = 2d sqrt(11) / λ / sin θ
+
+Plugging in the values given in the problem, we get:
+
+a = 2 * (0.154 nm) * sqrt(11) / (sin 78°) = 0.385 nm
+
+Therefore, the lattice parameter of the metal is approximately 0.385 nm, which corresponds to answer choice (B) 0.4 nm. 
+
+Answer: 
+- (B) 0.4 nm

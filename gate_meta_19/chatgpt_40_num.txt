@@ -1,0 +1,15 @@
+First, we convert the given pressure of pure zinc from atm to torr:
+$$p_{\text{zn}}^\circ=0.027\text{ atm}=0.027\times760\text{ torr}=20.52\text{ torr}$$
+Next, we use the given Henry's law coefficient to calculate the equilibrium partial pressure of zinc in lead. We convert the concentration of zinc in lead from mole percent to mole fraction:
+$$x_{\text{zn}}=\frac{0.03\text{ mole %}}{100\text{ mole}}=0.0003$$
+Then, we use Henry's law to relate the partial pressure of zinc in the gas phase to its mole fraction in the liquid phase:
+$$p_{\text{zn}}=x_{\text{zn}}\times\gamma_{\text{znb}}^\circ p_\text{Pb}$$
+where $p_\text{Pb}$ is the total pressure of the system, which is equal to the sum of the partial pressures of zinc and lead:
+$$p_\text{Pb}=p_{\text{zn}}+p_{\text{Pb}}=p_{\text{zn}}+1\text{ atm}$$
+Putting it all together, we have:
+$$p_{\text{zn}}=(0.0003\times8.55\times10^{-3}\text{ atm}\cdot\text{mol}^{-1})\times(1\text{ atm}+20.52\text{ torr}\times1.316\times10^{-3}\text{ atm/torr})$$
+Simplifying and converting to torr:
+$$p_{\text{zn}}=0.06916\text{ torr}\approx 0.07\text{ torr}$$
+Therefore, the partial pressure of zinc in equilibrium with liquid lead containing 0.03 mole % zinc at 900K is approximately 0.07 torr.
+
+Answer: [0.07]

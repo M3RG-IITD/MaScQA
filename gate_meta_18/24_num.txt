@@ -1,0 +1,1 @@
+A plate of thickness h = 120 mm is cold rolled in a mill with a roll diameter of 200 mm. If the coefficient of friction μ is 0.1, the maximum possible reduction Δh(in mm to one decimal place) in a single pass is

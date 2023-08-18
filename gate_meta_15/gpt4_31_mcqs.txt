@@ -1,0 +1,7 @@
+This reaction is endothermic because the value of $∆𝐻°_(298)$ is positive, which means it absorbs heat. In endothermic reactions, increasing temperature favors the forward reaction. 
+
+Now, let's analyze how pressure affects the reaction. There are 2 moles of CO (g) on the right side of the reaction and 1 mole of $CO_2$ (g) on the left side. As per Le Chatelier's principle, increasing the pressure will cause a shift in the reaction towards the side having fewer moles of gas. In this case, it will shift the reaction to the left side (backward reaction). Therefore, decreasing pressure will favor forward reaction.
+
+So the correct condition to favor the forward reaction is to increase the temperature and decrease pressure. The correct answer is (D). 
+
+Answer: [D]

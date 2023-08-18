@@ -1,0 +1,42 @@
+To find the critical radius of a nickel nucleus during solidification, we can use the Gibbs-Thomson equation. The Gibbs-Thomson equation relates the critical radius (r) with the melting temperature (T), the equilibrium melting temperature (T_m), the enthalpy of fusion (ΔH), and the liquid-solid interfacial energy (γ). The equation is given by:
+
+$$
+\frac{T_m - T}{T_m} = \frac{2γ}{rΔH}
+$$
+
+We can rearrange the equation to solve for r:
+
+$$
+r = \frac{2γ}{ΔH} \frac{T_m}{T_m - T}
+$$
+
+Now, we can plug in the given values:
+
+ΔH = 2.65 × $10^9$ 𝐽.$𝑚^(−3)$
+γ = 0.5 𝐽.𝑚^(−2)$
+T_m = 1728 K
+T = 1673 K
+
+$$
+r = \frac{2 × 0.5}{2.65 × 10^9} \frac{1728}{1728 - 1673}
+$$
+
+$$
+r = \frac{1}{2.65 × 10^9} \frac{1728}{55}
+$$
+
+Let's calculate the value of r:
+
+$$
+r ≈ \frac{1}{2.65 × 10^9} × \frac{1728}{55} ≈ 1.18696 × 10^{-9} \, \text{m}
+$$
+
+We need to convert the critical radius to nm:
+
+$$
+1.18696 × 10^{-9} \, \text{m} × \frac{10^9 \, \text{nm}}{1 \, \text{m}} ≈ 1.2 \, \text{nm}
+$$
+
+The critical radius of the nickel nucleus during solidification at 1673 K is approximately 1.2 nm. So the final answer is:
+
+[1.2]

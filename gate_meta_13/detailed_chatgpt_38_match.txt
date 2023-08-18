@@ -1,0 +1,8 @@
+Here are the descriptions of the powder production techniques given in Group I and the corresponding shapes they produce in Group II:
+
+- Reduction (P) is a process where a chemical compound is reduced to its metal form. The resulting powder is typically spongy in shape (2).
+- Gas atomization (Q) is a process where a molten metal is atomized with a high-pressure gas stream. The resulting powder is typically spherical in shape (4).
+- Milling (R) is a process where metal powders are mechanically milled to reduce their size and improve their shape. The resulting powder is typically flaky in shape (1).
+- Electrolysis (S) is a process where a metal is produced by passing an electric current through a chemical compound containing the metal. The resulting powder is typically dendritic in shape (3).
+
+Therefore, the correct answer is (C) P-2, Q-3, R-4, S-1.

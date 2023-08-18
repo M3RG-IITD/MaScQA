@@ -1,0 +1,18 @@
+We can use Bragg's law to solve this problem:
+$$2d\sin\theta = n\lambda$$
+where $d$ is the spacing between the {311} planes, $\theta$ is the angle of incidence (which is equal to the angle of reflection in this case), $n$ is an integer, and $\lambda$ is the wavelength of the incident X-ray beam.
+
+We can rearrange this equation to solve for $d$:
+$$d = \frac{n\lambda}{2\sin\theta}$$
+
+In this case, we have $\theta = 78^\circ$, $n = 1$, and $\lambda = 0.154$ nm. We need to determine $d$ in order to find the lattice parameter of the metal.
+
+The spacing $d$ between {311} planes in an fcc crystal can be derived using the lattice parameter $a$:
+$$d_{311} = \frac{a}{\sqrt{3}}$$
+
+Substituting this expression into the equation above, we have:
+$$\frac{a}{\sqrt{3}} = \frac{n\lambda}{2\sin\theta}$$
+$$a = \frac{2\sqrt{3}\sin\theta}{n\lambda}d_{311}$$
+Substituting the given values, we get:
+$$a = \frac{2\sqrt{3}\sin 78^\circ}{0.154~\mathrm{nm}}\left(\frac{d_{311}}{1}\right) \approx 0.408~\mathrm{nm}$$
+Therefore, the lattice parameter of the metal is approximately 0.4 nm, which means the correct answer is (B).

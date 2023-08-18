@@ -1,0 +1,1 @@
+Given: Vapour pressure of pure zinc $(p_(zn))°$ at 900K is 0.027 atm. Henry's law coefficient $(γ_(zb))°$ for zinc at infinite dilution solution in lead on Raoultian scale is 8.55. 1 torr = 1.316 * $10^(-3)$ atm. The partial pressure of zinc(in torr, rounded off two decimal places) in equlibrium with liquid lead containing 0.03 mole % zinc at 900K is?

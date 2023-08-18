@@ -1,0 +1,26 @@
+To find the volumetric strain, we need to first understand the concept of Poisson's ratio and how it relates to the problem statement.
+
+Poisson's ratio (ν) is defined as the negative ratio of transverse strain (lateral or radial) to the longitudinal strain (axial) in a material subjected to uniaxial stress. In other words, it describes the relative deformation that occurs in a material in the transverse direction compared to the longitudinal (axial) direction when a rod is deformed elastically.
+
+Given, the longitudinal strain (axial) = 0.02
+Poisson's ratio (ν) = 0.3
+
+Now, let's find the transverse strain.
+
+Transverse strain (lateral) = -(Poisson's ratio × longitudinal strain)
+= - (0.3 × 0.02)
+= -0.006
+
+Now we have both the longitudinal strain (axial) and the transverse strain (lateral). We can find the volumetric strain by using the following formula.
+
+Volumetric strain = longitudinal strain + 2 × transverse strain
+
+Substitute the values we found earlier:
+
+Volumetric strain = 0.02 + 2 × (-0.006)
+Volumetric strain = 0.02 - 0.012
+Volumetric strain = 0.008
+
+So, the volumetric strain is 0.008.
+
+Answer: [0.008]

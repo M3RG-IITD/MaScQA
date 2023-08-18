@@ -1,0 +1,35 @@
+Let's solve this question step-by-step.
+
+1. To find the inter-planar spacing, first, we need to recall Bragg's law:
+
+n(λ) = 2d sinθ
+
+where n is an integer (the order of the reflection), λ is the wavelength of the incident x-ray, d is the inter-planar spacing of the (hkl) planes, and θ is the angle of incidence.
+
+2. The Miller indices (h, k, l) represent the reciprocal of the intercepts of the plane on the unit cell axes. The distance between the planes can be found using the following formula:
+
+d = a / (sqrt(h^2 + k^2 + l^2))
+
+where a is the lattice parameter and (h, k, l) are the Miller indices of the plane.
+
+3. Now, we have to find the inter-planar spacing for the (nh, nk, nl) planes. To do so, we can use the same formula:
+
+d' = a / (sqrt((nh)^2 + (nk)^2 + (nl)^2))
+
+4. Let's simplify the equation:
+
+d' = a / (sqrt(n^2(h^2 + k^2 + l^2)))
+
+5. We can see that the expression under the square root is n^2 times the expression under the square root in the original spacing formula for the (hkl) planes. Therefore, we can rewrite it as:
+
+d' = a / (n*sqrt(h^2 + k^2 + l^2))
+
+6. We can observe that the denominator of this expression is the same as the denominator of the expression for the original inter-planar spacing d, multiplied by n. Hence, if we replace the denominator of the d expression with the denominator of the d' expression, we get:
+
+d' = (a / (sqrt(h^2 + k^2 + l^2))) / n
+
+7. Since d = a / (sqrt(h^2 + k^2 + l^2)), we can see that:
+
+d'= d/n
+
+8. The correct option is (B).

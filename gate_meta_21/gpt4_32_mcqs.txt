@@ -1,0 +1,33 @@
+To determine which slip system will be activated, we need to calculate the resolved shear stress for each slip system and compare it with the critical resolved shear stress (CRSS).
+
+The resolved shear stress (τ) can be calculated using the following formula:
+
+τ = σ * cos(φ) * cos(λ)
+
+where σ is the applied tensile stress (100 MPa), φ is the angle between the tensile stress axis and the slip direction, and λ is the angle between the tensile stress axis and the slip plane normal.
+
+Let's calculate the resolved shear stress for each slip system:
+
+(A) Slip direction: [-1 0 1], Slip plane normal: [1 1 1]
+cos(φ) = cos(angle(-110, 112)) ≈ 0.333
+cos(λ) = cos(angle(-110, 111)) ≈ 0.333
+τ_A = 100 * 0.333 * 0.333 ≈ 11.089 MPa
+
+(B) Slip direction: [-1 1 0], Slip plane normal: [1 1 1]
+cos(φ) = cos(angle(-110, 120)) ≈ 0.333
+cos(λ) = cos(angle(-110, 111)) ≈ 0.333
+τ_B = 100 * 0.333 * 0.333 ≈ 11.089 MPa
+
+(C) Slip direction: [1 0 1], Slip plane normal: [1 1 -1]
+cos(φ) = cos(angle(112, 101)) ≈ 0.333
+cos(λ) = cos(angle(112,-111)) ≈ 0.333
+τ_C = 100 * 0.333 * 0.333 ≈ 11.089 MPa
+
+(D) Slip direction: [0 1 1], Slip plane normal: [1 1 -1]
+cos(φ) = cos(angle(112, 011)) ≈ 0.333
+cos(λ) = cos(angle(112,-111)) ≈ 0.333
+τ_D = 100 * 0.333 * 0.333 ≈ 11.089 MPa
+
+All slip systems have the same resolved shear stress (τ_A = τ_B = τ_C = τ_D = 11.089 MPa). However, none of these values exceed the critical resolved shear stress (CRSS) of 25 MPa. Therefore, none of the given slip systems will be activated under the given conditions.
+
+Answer: None

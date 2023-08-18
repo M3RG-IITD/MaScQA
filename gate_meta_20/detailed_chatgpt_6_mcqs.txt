@@ -1,0 +1,5 @@
+Selective leaching refers to the removal of one of the two elements from a binary alloy by corrosion, leaving behind a porous residue that consists of the remaining element. The correct statement regarding selective leaching of a binary alloy is:
+
+(B) The element having higher diffusivity is leached.
+
+When two elements are present in a binary alloy, the atoms of each element have a different size, different diffusion coefficient, different electronegativity, and different density. During selective leaching, the more loosely packed atoms (i.e., the one with the higher diffusivity) are leached out more easily than the less mobile atoms. Therefore, the element having a higher diffusivity is preferentially removed by corrosion, leaving behind the less mobile and more corrosion-resistant element.

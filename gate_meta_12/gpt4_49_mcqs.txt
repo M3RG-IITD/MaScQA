@@ -1,0 +1,31 @@
+To find the terminal velocity, we need to balance the gravitational force and the viscous drag force on the steel particle.
+
+Gravitational force, F_g = ($ρ_(steel)$ - $ρ_(Al)$) * V_p * g
+where V_p is the volume of the spherical steel particle.
+
+Viscous drag force, F_d = 3 * π * μ_(Al) * d_p * v_t
+where v_t is the terminal velocity.
+
+For terminal velocity, F_g = F_d.
+
+($ρ_(steel)$ - $ρ_(Al)$) * V_p * g = 3 * π * μ_(Al) * d_p * v_t
+
+Now, V_p = 4/3 * π * (d_p/2)^3 = 1/6 * π * d_p^3
+
+Plugging V_p into the equation,
+
+(7200 - 2360) * 1/6 * π * d_p^3 * g = 3 * π * 10^(-3) * d_p * v_t
+
+Solving for v_t,
+
+v_t = (4840 * 1/6 * d_p^2 * g) / (3 * 10^(-3))
+
+v_t = (4840 * d_p^2 * g) / (18 * 10^(-3))
+
+Taking g = 9.81 m/s^2,
+
+v_t = (4840 * d_p^2 * 9.81) / (18 * 10^(-3))
+
+v_t = 1.3 * 10^6 * d_p^2 m/s
+
+So, the correct answer is (C) 1.3 * 10^6 * d_p^2 m/s.

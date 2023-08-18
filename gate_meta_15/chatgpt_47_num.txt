@@ -1,0 +1,17 @@
+We know that the total rate of heat removal by the mold is the sum of the sensible heat and the latent heat of fusion. At the melting point, there is no sensible heat contribution; hence, we have:
+
+Heat Removal Rate = Latent Heat of Fusion x Mass Flow Rate
+
+Rearranging the equation, we get:
+
+Mass Fraction Solid = Heat Removal Rate / (Latent Heat of Fusion x Mass Flow Rate)
+
+Substituting the given values:
+
+Mass Fraction Solid = 4.2 x $10^6$ W / (3 x $10^5$ J kg^(-1) x 35 kg s^(-1))
+                     
+Mass Fraction Solid = 4 / 35 
+
+Therefore, the mass fraction of solid at the mould exit is:
+
+[0.114 or 11.43% or (4/35)]

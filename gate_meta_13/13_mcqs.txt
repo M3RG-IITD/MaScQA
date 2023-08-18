@@ -1,0 +1,2 @@
+In the Ellingham diagram for oxides, C-CO line cuts the M-MO line at temperature $T_1$ and the M′-M′O line at a higher temperature $T_2$. At a temperature greater than $T_1$ and less than $T_2$, carbon can reduce
+(A) MO (B) both MO and M′O (C) M′O (D) neither MO nor M′O 

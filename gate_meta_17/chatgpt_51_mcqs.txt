@@ -1,0 +1,9 @@
+The [110] direction in FCC crystal has the following Miller Indices: [1 1 0]. To determine the slip system, we need to find the slip plane and slip direction corresponding to [1 1 0]. 
+
+The normal to the slip plane will be perpendicular to [1 1 0] and the most densely packed plane. The most densely packed planes in FCC are the {1 1 1} planes. Therefore, the slip plane's normal vector will be [1 1 -2], which is a direction perpendicular to both [1 1 0] and [1 1 1]. 
+
+To determine the slip direction, we need to identify the most densely packed direction in the slip plane. The <1 1 0> direction is the most densely packed direction in the {1 1 1} planes. Therefore, the slip direction will be perpendicular to both [1 1 -2] and [1 1 0] and parallel to <1 1 0>. 
+
+Option (C) a/2[0 1 1](1 -1 1) satisfies the above conditions and will be the slip system that is activated. 
+
+Answer: (C) a/2[0 1 1](1 -1 1)

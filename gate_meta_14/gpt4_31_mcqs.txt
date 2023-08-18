@@ -1,0 +1,33 @@
+We have: (a/2)[1 -1 0] → (a/6)[2 -1 1] + (a/6)[1 -2 -1]
+
+To find the plane the dislocations lie in, we can use the fact that the vectors of the dislocations should be perpendicular to the normal vector of the plane. 
+
+Let's assume the normal vector of the plane is [h k l].
+
+Now, we have two equations to work with:
+
+1. Dot product of (a/6)[2 -1 1] and [h k l] = 0
+2. Dot product of (a/6)[1 -2 -1] and [h k l] = 0
+
+Now let's solve them:
+
+1. (2h - k + l) = 0
+2. (h - 2k - l) = 0
+
+From equation (1) we can get: l = k - 2h
+Substitute l into equation (2): h - 2k - (k - 2h) = 0
+Solving for h and k gives h = k.
+
+Now we can find l: l = h - 2h = -h.
+
+Since h = k, the normal vector of the plane is [1 -1 l] or its multiples.
+We can now check the options given:
+
+(A) (-1 1 1) → Here h = -1, k = 1, l = 1; this does not match [1 -1 l]
+(B) (1 1 1) → This is not a possibility, as h must be equal to k
+(C) (1 -1 1) → Here h = 1, k = -1, l = 1; this matches [1 -1 l]
+(D) (1 1 -1) → This is not a possibility, as h must be equal to k
+
+So the correct answer is:
+
+[(C)]

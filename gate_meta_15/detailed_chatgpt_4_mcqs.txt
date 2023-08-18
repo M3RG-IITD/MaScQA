@@ -1,0 +1,15 @@
+To determine which of the properties is intensive, we need to understand the difference between intensive and extensive properties. 
+
+- Intensive properties are those that do not depend on the amount or size of the system. Examples include temperature, pressure, density, and molar mass.
+- Extensive properties, on the other hand, are those that depend on the amount or size of the system. Examples include volume, mass, energy, and entropy.
+
+Using this definition, we can determine that:
+
+(A) Volume is an extensive property since it depends on the size of the system.
+(B) Gibbs free energy is an extensive property since it depends on the energy and entropy of the system.
+(C) Chemical potential is an intensive property since it does not depend on the size of the system.
+(D) Entropy is an extensive property since it depends on the size of the system.
+
+Therefore, the answer is:
+
+- (C) Chemical potential

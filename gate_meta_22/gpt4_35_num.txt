@@ -1,0 +1,31 @@
+We can use Newton's law of viscosity to find the viscosity of the liquid. Newton's law of viscosity states that the shear stress acting on a fluid is proportional to the rate of strain, which is the velocity gradient in this case. Mathematically, it can be represented as:
+
+$$\tau = \mu (\dfrac{dv}{dy})$$
+
+where
+- $\tau$ is the shear stress acting on the fluid (given as 5 Pa),
+- $\mu$ is the dynamic viscosity of the fluid (which we need to find),
+- $dv$ is the change in velocity between the plates (given as 2 m/s), and
+- $dy$ is the distance between the plates (given as $10^{-3}$ m).
+
+We are given $\tau$, $dv$, and $dy$, so we can rearrange the equation to solve for $\mu$:
+
+$$\mu = \dfrac{\tau}{(\dfrac{dv}{dy})}$$
+
+Now we can plug in the given values and solve for $\mu$:
+
+$$\mu = \dfrac{5 \,\text{Pa}}{\dfrac{2\, \text{m/s}}{10^{-3}\, \text{m}}}$$
+
+$$\mu = 5 \,\text{Pa} * \dfrac{10^{-3}\, \text{m}}{2\, \text{m/s}}$$
+
+$$\mu = 2.5 * 10^{-3}\, \text{Pa}\cdot\text{s}$$
+
+So, the viscosity of the liquid is $2.5 * 10^{-3}$ Pa.s. Now we can compare this value to the given form y * $10^{-3}$ Pa.s:
+
+$$2.5 * 10^{-3}\, \text{Pa}\cdot\text{s} = y * 10^{-3}\, \text{Pa}\cdot\text{s}$$
+
+To find y, simply divide both sides by $10^{-3}$ Pa.s:
+
+$$y = 2.5$$
+
+Therefore, the value of y is 2.5, rounded off to 1 decimal place. The correct answer is [2.5].

@@ -1,0 +1,25 @@
+In a BCC (Body Centered Cubic) crystal structure, the octahedral void lies along the body diagonal of the unit cell. The distance between opposite corners of a cube is given by:
+
+$d = \sqrt{3}a$
+
+where 'a' is the edge length of the cube.
+
+The radius of the largest interstitial atom that can be accommodated in the octahedral void can be calculated as follows:
+
+The octahedral void can be filled with spheres of radius 'r'. The spheres just touch each other along the diagonal of the cube, which is equal to twice the radius of the BCC lattice atom (Fe).
+
+$d = 2R_{Fe} = 2(0.124 \text{ nm}) = 0.248 \text{ nm}$
+
+The radius of the largest interstitial atom 'r' that can be accommodated in the octahedral void is given by:
+
+$r + R_{Fe} = d/\sqrt{2}$
+
+Substituting the values:
+
+$r + 0.124 \text{ nm} = 0.248 \text{ nm}/\sqrt{2}$
+
+$r = 0.101 \text{ nm}$
+
+Therefore, the radius of the largest interstitial atom that can be accommodated in an octahedral void in BCC iron without distorting the lattice is 0.101 nm (rounded off to three decimal places).
+
+Answer: [0.101]

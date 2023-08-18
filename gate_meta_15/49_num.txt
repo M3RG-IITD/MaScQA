@@ -1,0 +1,1 @@
+The driving force for sintering a compact consisting of spherical particles of radius $R_1$ is $∆G_1$. If the particle size is reduced to $R_2$ = 0.1 $R_1$, the corresponding driving force $∆G_2$ = α $∆G_1$ , where α is

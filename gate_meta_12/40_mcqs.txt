@@ -1,0 +1,2 @@
+Arrange the following in terms of increasing severity of quench: P. Oil quenching, Q. Water quenching, R. Water quenching with agitation, S. Brine quenching
+(A) P<Q<R<S (B) Q<R<P<S (C) P<Q<S<R (D) Q<P<R<S

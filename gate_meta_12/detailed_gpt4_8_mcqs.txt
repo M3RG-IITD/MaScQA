@@ -1,0 +1,20 @@
+To answer this question, we need to understand the different modes of heat transfer: radiation, conduction, and convection. 
+
+1. Radiation:
+Radiation is the transfer of heat through electromagnetic waves, such as infrared waves. This mode of heat transfer does not require a medium to transfer heat and can take place in a vacuum. Since the hot metal is exposed to air at the top of the sand mould, it is certainly losing heat via radiation.
+
+2. Conduction:
+Conduction is the transfer of heat through a solid medium. It occurs when there is direct physical contact between the hot metal and the sand mould. Heat transfer takes place as the high-energy particles transfer their energy to the lower energy particles. In this case, the hot metal is in direct contact with the sand, so it is also losing heat through conduction.
+
+3. Convection:
+Convection is the transfer of heat through a fluid, such as liquid or gas. It occurs when a fluid in contact with a hot surface flows from a hot region to a cold region, carrying heat with it. In this case, since the mould is open, air can flow over the surface of the hot metal, and natural convection will occur. As the hot air rises, it will carry away heat from the metal, causing energy loss through convection.
+
+Considering the three modes of heat transfer mentioned above, it is evident that the hot metal loses heat through:
+
+1. Radiation, as an open sand mould allows electromagnetic waves to emit from the hot metal.
+2. Conduction, as the hot metal is in direct contact with the sand mould, transferring heat to the cooler sand grains.
+3. Convection, as air flows over the surface of the hot metal found in the open mould, transferring heat.
+
+So, the correct answer is:
+
+(D) Radiation, conduction, and convection.

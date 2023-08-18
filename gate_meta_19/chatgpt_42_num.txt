@@ -1,0 +1,101 @@
+To solve this question, we can use the diffusion equation for steady-state diffusion through a concentration boundary layer. The equation is:
+
+$NA=-D\frac{dC}{dx}$
+
+where NA is the molar flux of oxygen, D is the diffusion coefficient of oxygen in the mixture, C is the concentration of oxygen, and x is the distance from the surface of the solid nickel. We can assume that the concentration of oxygen at the surface of the nickel is zero, so the boundary condition is C=0 at x=0. We also know that the concentration of oxygen in the gas mixture is 40% by volume, which means that the partial pressure of oxygen is:
+
+$P_O2=0.4\times P_{total}=0.4\times1=0.4\text{ atm}$
+
+Using the ideal gas law, we can convert the partial pressure of oxygen to its concentration in mol/m^3:
+
+$C_O2=\frac{P_{O2}}{RT}=\frac{0.4}{8.205\times10^{-5}\times1173}=3.22\text{ mol/m}^3$
+
+The diffusion coefficient of oxygen in argon can be obtained from a reference book or a database. For simplicity, we will assume the diffusion coefficient of oxygen in air at 1173 K, which is 0.290 cm^2/s. We need to convert this value to units of m^2/s:
+
+$D=0.290\times10^{-4}\text{ m}^2/\text{s}$
+
+The distance from the surface of the nickel to the bulk gas is the radius of the sphere minus the thickness of the concentration boundary layer:
+
+$L=\frac{d}{2}-\delta$
+
+We can use the Sherwood number to relate the molar flux to the mass transfer coefficient and the diffusion coefficient:
+
+$Sh=\frac{K_DL}{D}=\frac{hL}{D}$
+
+where K is the mass transfer coefficient for the species being transported, and h is the heat transfer coefficient. For steady-state diffusion through a concentration boundary layer, the Sherwood number is a function of the Reynolds and Schmidt numbers:
+
+$Sh=0.664Re_D^{1/2}Sc^{1/3}$
+
+where Re_D is the Reynolds number based on the diameter of the sphere and the gas velocity, and Sc is the Schmidt number, which is the ratio of the kinematic viscosity to the diffusion coefficient. The Reynolds number can be calculated using the properties of the gas mixture and the diameter of the sphere:
+
+$Re_D=\frac{\rho uD}{\mu}$
+
+where u is the gas velocity, $\rho$ is the density of the gas mixture, and $\mu$ is its dynamic viscosity. The density of the gas mixture can be calculated using the ideal gas law:
+
+$\rho=\frac{P_{total}M}{RT}$
+
+where M is the molar mass of the gas mixture, which can be calculated from the mole fractions of argon and oxygen:
+
+$M=0.6\times39.948+0.4\times31.9988=36.925\text{ g/mol}$
+
+The dynamic viscosity can be estimated from the kinetic theory of gases:
+
+$\mu=\frac{5}{16}\sqrt{\frac{m}{\pi RT}}\times\frac{(1+\sqrt{T_r})^2}{\sqrt{2}(2+\sqrt{T_r})}$
+
+where m is the molecular mass of the gas, and $T_r$ is its reduced temperature, which is the actual temperature divided by the critical temperature of the gas. For a mixture of argon and oxygen, we can assume an effective molecular mass of:
+
+$m=\frac{0.6\times39.948+0.4\times31.9988}{0.6+0.4}=36.029\text{ g/mol}$
+
+The critical temperature of argon is 151 K, and the critical temperature of oxygen is 154 K. Therefore, the reduced temperature of the gas mixture is:
+
+$T_r=\frac{T}{T_c}=\frac{1173}{154}=7.6$
+
+Using these values, we can calculate the dynamic viscosity:
+
+$\mu=\frac{5}{16}\sqrt{\frac{36.029}{\pi\times8.205\times10^{-5}\times1173}}\times\frac{(1+\sqrt{7.6})^2}{\sqrt{2}(2+\sqrt{7.6})}=3.01\times10^{-5}\text{ Pa}\cdot\text{s}$
+
+Now we can calculate the Reynolds number:
+
+$Re_D=\frac{\rho uD}{\mu}=\frac{(1.87\times10^{-3})(0.05)(0.6)}{3.01\times10^{-5}}=373$
+
+The Schmidt number can be calculated using the molecular diffusivity and the kinematic viscosity:
+
+$Sc=\frac{\nu}{D}$
+
+where $\nu$ is the kinematic viscosity:
+
+$\nu=\frac{\mu}{\rho}=\frac{3.01\times10^{-5}}{1.87\times10^{-3}}=0.0161\text{ m}^2/\text{s}$
+
+Therefore, the Schmidt number is:
+
+$Sc=\frac{0.0161}{0.290\times10^{-4}}=55.5$
+
+Using the Sherwood number equation, we can solve for L:
+
+$Sh=0.664Re_D^{1/2}Sc^{1/3}=0.664(373)^{1/2}(55.5)^{1/3}=159$
+
+$L=\frac{ShD}{K_D}=\frac{(159)(0.290\times10^{-4})}{0.03}=1.54\times10^{-3}\text{ m}$
+
+The molar flux of oxygen can now be calculated as:
+
+$NA=-D\frac{dC}{dx}=D\frac{C}{L}=0.290\times10^{-4}\times\frac{3.22}{1.54\times10^{-3}}=6.09\times10^{-4}\text{ mol/m}^2\cdot\text{s}$
+
+The rate of oxidation of nickel can be calculated from the molar flux of oxygen and the stoichiometry of the reaction:
+
+$\text{Rate of oxidation}=2NA\times\frac{4\pi r^2}{\text{mol wt.}}$
+
+where r is the radius of the sphere, and mol wt. is the molar weight of nickel. Mol wt. can be calculated from the atomic weight of nickel and the number of atoms in its formula, which is 1:
+
+$\text{mol wt.}=58.6934\text{ g/mol}$
+
+Therefore, the rate of oxidation of nickel is:
+
+$\text{Rate of oxidation}=2(6.09\times10^{-4})\times\frac{4\pi(0.025)}{58.6934}=2.50\times10^{-8}\text{ mol/min}$
+
+Rounded off to two decimal places, the answer is:
+
+$\text{Rate of oxidation}=2.50\times10^{-8}\text{ mol/min}\approx2.50\times10^{-8}\text{ mol/min}$
+
+Answer: 
+
+- 2.50 × 10^-8 mol/min

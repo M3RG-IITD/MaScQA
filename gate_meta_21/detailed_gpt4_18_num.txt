@@ -1,0 +1,43 @@
+Unfortunately, I cannot see the image you are referring to. However, I can explain the Tresca Criterion and the process for finding the uniaxial tensile yield stress. Once you have your values, you can substitute them into the equations and solve for your specific problem. 
+
+The Tresca Criterion, also known as the Maximum Shear Stress Criterion, is used to predict yielding in materials based on the maximum shear stress that the material can withstand. The Tresca Criterion states that yielding occurs when the maximum shear stress (difference between the principal stresses) exceeds the yield shear stress.
+
+For your problem, let's assume the stress tensor is given by:
+
+σ = | σx  τxy τxz |
+       | τyx σy τyz |
+       | τzx τzy σz |
+
+where σx, σy, and σz are the normal stresses and τxy, τxz, τyx, τyz, τzx, τzy are the shear stresses.
+
+Step 1: Find the Principal Stresses
+
+Compute the principal stresses by finding the eigenvalues of the stress tensor. This involves solving the cubic equation of the form:
+
+|σ - λ| = 0
+
+where λ represents the eigenvalues (principal stresses).
+
+Step 2: Calculate the Maximum Shear Stress
+
+The maximum shear stress is half the difference between the maximum and minimum principal stresses:
+
+Tmax = (σ1 - σ3) / 2
+
+where σ1 is the maximum principal stress, σ3 is the minimum principal stress, and Tmax is the maximum shear stress.
+
+Step 3: Determine the Uniaxial Tensile Yield Stress
+
+Now, let σY be the uniaxial tensile yield stress. To satisfy the Tresca Criterion, the maximum shear stress must be less than or equal to half the uniaxial tensile yield stress:
+
+Tmax ≤ σY / 2
+
+Solving for σY:
+
+σY ≥ 2 × Tmax
+
+Step 4: Calculate and Round Off
+
+Calculate σY using the previously found values for Tmax and round off to the nearest integer.
+
+In conclusion, without the stress tensor values from the image, I cannot provide a specific answer. However, you can follow the steps outlined above to determine the uniaxial tensile yield stress for your stress tensor.

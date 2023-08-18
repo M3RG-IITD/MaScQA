@@ -1,0 +1,21 @@
+We are looking for the property of a material that refers to its ability to absorb energy when deformed elastically. Let's first understand the given terms and analyze which one fits the description:
+
+(A) Toughness: It is the ability of a material to absorb energy and plastically deform without fracturing or breaking. Therefore, it is not related to elastic deformations.
+
+(B) Fracture toughness: It refers to the ability of a material containing a crack to resist further crack extension and ultimately breaking. It is a property associated with the material's resistance to fracture rather than elasticity.
+
+(C) Resilience: It is the ability of a material to store and release elastic potential energy during deformations. In other words, it is the capacity of a material to absorb energy when it's deformed elastically and return to its original shape after the stress is removed.
+
+(D) Hardness: It is a measure of a material's resistance to localized plastic deformation or permanent indentation, i.e., its ability to resist scratching, wear, and indentation.
+
+Based on these definitions, we can conclude that:
+
+The correct answer is (C) Resilience, as it refers to the ability of a material to absorb energy when deformed elastically.
+
+To summarize:
+
+1. Understand the given terms and their definitions.
+2. Analyze which property fits the description of the ability to absorb energy when deformed elastically.
+3. Identify the correct answer based on the analysis.
+
+Answer: [(C) Resilience]

@@ -1,0 +1,11 @@
+We can use the rule of mixtures to find the overall elastic modulus of the material. The rule of mixtures states that the overall property of a composite material is the weighted average of the properties of its constituents. 
+
+In this case, the material is made up of alternating layers of metals A and B. Since the volume % of B is 25%, we know that the volume % of A is also 25% (since there are only two materials). Therefore, we can calculate the overall elastic modulus as follows:
+
+E = 0.25(200 GPa) + 0.25(100 GPa)
+  = 50 GPa + 25 GPa
+  = 75 GPa
+
+Answer: 
+
+- 75 GPa.

@@ -1,0 +1,5 @@
+Match the metals listed in Group I with the most appropriate extraction routes listed in Group II.
+Group I: [P. Al, Q. Ti, R. Cu, S. Fe]
+Group II: [1. Blast Furnace, 2. Matte Smelting, 3. Electrolysis of Fused Salts, 4. Halide Metallurgy]
+
+Options: (A) P-3, Q-2, R-4, S-1 (B) P-3, Q-4, R-2, S-1 (C) P-2, Q-4, R-3, S-1 (D) P-4, Q-1, R-3, S-2

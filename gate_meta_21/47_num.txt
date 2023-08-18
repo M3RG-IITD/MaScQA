@@ -1,0 +1,1 @@
+In a material, a shear stress of 100 MPa is required to bow a dislocation line between precipitates with a spacing of 0.2 µm. If the spacing between the precipitates is increased to 0.5 µm, the shear stress (in MPa)  to bow the dislocation would be?(round off to nearest integer)

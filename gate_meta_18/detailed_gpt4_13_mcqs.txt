@@ -1,0 +1,37 @@
+First, let's write down the given values:
+
+Charge of an electron, q = 1.6 x 10^(-19) C
+Electron concentration, n = 1 x 10^(16) m^(-3)
+Hole concentration, p = 1 x 10^(16) m^(-3)
+Electron mobility, μn = 0.1 m^2.V^(-1).s^(-1)
+Hole mobility, μp = 0.2 m^2.V^(-1).s^(-1)
+
+Now, we need to find the room temperature electrical conductivity (σ). According to the formula for electrical conductivity:
+
+σ = q(nμn + pμp)
+
+Let's plug in the given values:
+
+σ = (1.6 x 10^(-19) C) [(1 x 10^(16) m^(-3)) (0.1 m^2.V^(-1).s^(-1)) + (1 x 10^(16) m^(-3)) (0.2 m^2.V^(-1).s^(-1))]
+
+Now let's simplify the expression:
+
+σ = (1.6 x 10^(-19) C) (1 x 10^(16) m^(-3) x 0.1 m^2.V^(-1).s^(-1) + 1 x 10^(16) m^(-3) x 0.2 m^2.V^(-1).s^(-1))
+
+Now, let's calculate:
+
+σ = (1.6 x 10^(-19) C) (1 x 10^(15) m^(-3).V^(-1).s^(-1) + 2 x 10^(15) m^(-3).V^(-1).s^(-1))
+
+σ = (1.6 x 10^(-19) C) (3 x 10^(15) m^(-3).V^(-1).s^(-1))
+
+Now we can cancel out the units:
+
+σ = 1.6 x 10^(-4) (Ω.m)^(-1)
+
+So, the room temperature electrical conductivity is:
+
+σ = 1.6 * 10^(-4) (Ω.m)^(-1)
+
+Thus, the correct answer is (B) 1.6 * 10^(-4) (Ω.m)^(-1).
+
+Answer: [1.6 * 10**(-4)]

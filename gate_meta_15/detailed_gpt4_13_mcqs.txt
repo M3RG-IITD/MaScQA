@@ -1,0 +1,17 @@
+To answer this question, we need to recall the standard galvanic series, which ranks metals based on their reactivity or anodic behavior. The galvanic series lists metals in decreasing order of their electrochemical activity or anodic potential. The more active a metal is, the higher its tendency to corrode or oxidize, making it a better anode.
+
+The standard galvanic series is as follows:
+
+Mg, Al, Zn, Fe, Ni, Sn, Pb, H2, Cu, Ag, Hg, Pd, Pt, Au
+
+Now, we need to arrange the given metals (Zn, Fe, Pt, Cu) in the increasing order of anodic behavior.
+
+1. Zn (zinc) appears before Fe (iron) in the galvanic series. This means that zinc is more likely to act as an anode and corrode compared to iron. So, Zn > Fe.
+
+2. Pt (platinum) appears late in the galvanic series, indicating that it is much less likely to act as an anode and corrode. So, Pt < Zn, Fe.
+
+3. Cu (copper) appears between Fe (iron) and Pt (platinum) in the galvanic series. This means that copper is less likely to act as an anode compared to iron but more likely compared to platinum. So, Fe > Cu > Pt.
+
+Now, combining the above information, we have the increasing order of anodic behavior: Pt < Cu < Fe < Zn.
+
+Hence, the correct answer is (D) Pt, Cu, Fe, Zn.

@@ -1,0 +1,8 @@
+The trapezoidal rule for numerical integration of a function involves approximating the function with a straight line segment (i.e., linear approximation) in each subinterval of the integration domain. 
+
+To be more specific, the trapezoidal rule approximates the area under a curve between two points by approximating the curve with a straight line segment connecting those two points. This approximation can be made for each subinterval of the integration domain and the areas of the trapezoids formed by these straight line segments can be added together to approximate the total area under the curve.
+
+Therefore, the nature of approximation used for the function in each interval in the trapezoidal rule is (B) linear. 
+
+Correct answer: 
+(B) linear.

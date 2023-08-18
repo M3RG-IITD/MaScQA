@@ -1,0 +1,11 @@
+Tresca yield criterion states that yielding starts to occur in a material when the difference between any two principal stresses reaches or exceeds a critical value known as the yield strength (also called the Tresca strength or the limit of shear stress).
+
+To apply the Tresca criterion in this problem, we need to find the two principal stresses with the largest difference, since that will be the critical one. From the given values, we can see that the maximum and minimum principal stresses are 250 MPa and -50 MPa, respectively, and their difference is:
+
+σ₁ - σ₃ = 250 MPa - (-50 MPa) = 300 MPa
+
+Therefore, the yield strength of the material according to Tresca criterion is 300 MPa.
+
+Answer: 
+
+- 300 MPa

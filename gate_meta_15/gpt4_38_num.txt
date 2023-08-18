@@ -1,0 +1,31 @@
+To find the maximum of $ΔS_{mix}$, we need to determine the values of $X_A$ and $X_B$ that maximize the given expression. Since $X_A + X_B = 1$, we can rewrite the expression in terms of a single variable:
+
+$ΔS_{mix} = -R*(X_A * ln[X_A] + (1 - X_A) * ln[1 - X_A])$
+
+Now we will find the maximum value by taking the derivative of $ΔS_{mix}$ with respect to $X_A$:
+
+$\frac{d(ΔS_{mix})}{dX_A} = -R*(ln[X_A] - ln[1 - X_A])$
+
+We'll find the critical points by setting the derivative equal to zero:
+
+$0 = ln[X_A] - ln[1 - X_A]$
+
+Now using properties of logarithms, we can rewrite this equation as:
+
+$ln\frac{X_A}{1 - X_A} = 0$
+
+Taking the exponential of both sides, we get:
+
+$\frac{X_A}{1 - X_A} = 1$
+
+Solving for $X_A$, we have:
+
+$X_A = 1 - X_A$
+
+This gives us the value:
+
+$X_A = 0.5$
+
+Therefore, the maximum of $ΔS_{mix}$ occurs when $X_A = 0.5$.
+
+Answer: [0.5]

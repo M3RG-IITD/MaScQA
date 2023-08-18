@@ -1,0 +1,33 @@
+To solve this problem, we will use the Orowan equation, which relates the shear stress required to move a dislocation in a material to the spacing between the precipitates:
+
+τ = G * b / L
+
+Here, τ is the shear stress required to bow the dislocation line, G is the shear modulus of the material, b is the Burgers vector (a measure of the dislocation's size), and L is the spacing between the precipitates.
+
+We are given that τ = 100 MPa and L = 0.2 µm initially, and we want to find τ when L = 0.5 µm. First, we can rewrite the Orowan equation as:
+
+G * b = τ * L
+
+Now, since G and b are constants for the material, the quantity G * b will remain the same for both cases. Let's call this quantity K, i.e., K = G * b.
+
+Using the information given in the problem, we can say that,
+
+K = τ1 * L1 = 100 MPa * 0.2 µm
+K = τ2 * L2 = τ2 * 0.5 µm
+
+We want to find τ2, so we can write:
+
+τ2 * 0.5 µm = K = 100 MPa * 0.2 µm
+
+Now, we can solve for τ2:
+
+τ2 = (100 MPa * 0.2 µm) / 0.5 µm
+
+τ2 = 20 MPa / 0.5
+τ2 = 40 MPa
+
+Rounding off to the nearest integer, τ2 = 40 MPa.
+
+So, the shear stress required to bow the dislocation when the spacing between the precipitates is increased to 0.5 µm is 40 MPa.
+
+The correct answer is [40].

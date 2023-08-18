@@ -1,0 +1,19 @@
+The Tresca yield criterion states that yielding occurs when the maximum shear stress reaches a critical value, which is half of the difference between the maximum and minimum principal stresses. So, we need to find the maximum shear stress and then multiply it by two to get the yield strength.
+
+First, let's identify the maximum and minimum principal stresses:
+σ1 = 250 MPa (maximum)
+σ3 = -50 MPa (minimum)
+
+According to Tresca yield criterion:
+yield strength = 2 * max shear stress
+max shear stress = (σ1 - σ3) / 2
+
+Now, let's calculate the max shear stress:
+max shear stress = (250 - (-50)) / 2 = (250 + 50) / 2 = 300 / 2 = 150 MPa
+
+Finally, let's find the yield strength:
+yield strength = 2 * max shear stress = 2 * 150 MPa = 300 MPa
+
+So, the yield strength of the material is 300 MPa.
+
+Answer: [300]

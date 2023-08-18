@@ -1,0 +1,36 @@
+First, we need to consider the forces acting on the ball at point C. There are two forces acting on the ball: gravity and centrifugal force. The centrifugal force is given by:
+
+Fc = m * r * w^2
+
+where m is the mass of the ball, r is the radius of the mill, and w is the angular velocity of the mill in radians per second. We want the ball to leave the wall at point C, which means the centrifugal force must be equal and opposite to the force of gravity:
+
+Fc = m * r * w^2 = m * g
+
+Solving for w, we get:
+
+w = sqrt(g / r)
+
+We can convert this to rpm by:
+
+w = 2 * pi * n / 60
+
+where n is the rotational speed of the mill in rpm. Substituting the expression for w, we get:
+
+sqrt(g / r) = 2 * pi * n / 60
+
+Squaring both sides:
+
+g / r = (2 * pi * n / 60)^2
+
+Solving for n:
+
+n = sqrt(g / r) * 60 / (2 * pi)
+
+Substituting the given values, we get:
+
+n = sqrt(9.8 / (3.26 / 2)) * 60 / (2 * pi) = 14.7 rpm (rounded to one decimal place)
+
+Therefore, the rotational speed of the mill should be 14.7 rpm for effective comminution. 
+
+Answer: 
+- 14.7 rpm

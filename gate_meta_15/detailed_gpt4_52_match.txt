@@ -1,0 +1,23 @@
+To match the scientist pairs with the phenomena, we need to first identify the contribution of each pair to the field of material science and then associate them with the phenomena listed in Group II.
+
+Group I: 
+
+P. Hall-Petch: They are known for the Hall-Petch relationship, which is an empirical equation describing the grain boundary strengthening effect in polycrystalline materials. This means:
+
+P -> 4. Grain boundary strengthening
+
+Q. Nabarro-Herring: They proposed the Nabarro-Herring creep mechanism, which is a diffusion-controlled process that involves the movement of vacancies through the crystal lattice, causing plastic deformation at elevated temperatures. This means:
+
+Q -> 2. Diffusional creep
+
+R. Lomer-Cottrell: They formulated the Lomer-Cottrell theory, which describes a special product of dislocation reactions called the Lomer-Cottrell barrier, an energetically unfavorable configuration that locks dislocations, making the material harder. This means:
+
+R -> 1. Dislocation reaction product
+
+S. Frank-Read: They discovered the Frank-Read source, a mechanism by which dislocations multiply in the crystal lattice. This is a mechanism for the generation of additional dislocations in a material, thereby contributing to its plastic deformation. This means:
+
+S -> 3. Dislocation source
+
+Putting it all together, the correct answer is:
+
+(C) P-4, Q-2, R-1, S-3

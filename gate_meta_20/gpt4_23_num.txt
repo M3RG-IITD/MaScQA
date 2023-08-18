@@ -1,0 +1,19 @@
+To find the corrosion rate, we first need to convert the given values to the appropriate units.
+
+Total exposed surface area (A) = 50 cm²
+Weight lost (W) = 200 g = 0.2 kg
+Time (t) = 10 years
+
+First, convert cm² to m²:
+1 m² = 100 cm x 100 cm = 10000 cm²
+So, 50 cm² = 50 / 10000 = 0.005 m²
+
+Now, we can use the formula for corrosion rate (CR):
+CR = W / (A * t)
+
+So the corrosion rate is:
+CR = 0.2 kg / (0.005 m² * 10 years) = 4 kg.m².year⁻¹
+
+Rounding off to the nearest integer, the corrosion rate is 4 kg.m².year⁻¹.
+
+Answer: [4]

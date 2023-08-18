@@ -1,0 +1,35 @@
+To solve this problem, we can use the principle of volume conservation. The volume of the billet before and after forging will remain the same.
+
+The volume of a cylinder is given by the formula V = πr²h, where V is the volume, r is the radius, and h is the height.
+
+For the initial billet:
+Height (h1) = 1.0 m
+Diameter (d1) = 0.5 m
+Radius (r1) = d1/2 = 0.25 m
+
+For the forged pancake:
+Height (h2) = 0.25 m
+Diameter (d2) = ? (we need to find this)
+Radius (r2) = d2/2
+
+Now we can equate the volumes:
+
+V1 = V2
+πr1²h1 = πr2²h2
+π(0.25²)1 = π(r2²)(0.25)
+
+Cancel out the π and divide by 0.25:
+
+r1² = r2²
+(0.25²) = r2²
+
+Now square root both sides:
+
+r2 = sqrt(0.25²) = 0.5
+
+Now find the diameter: 
+d2 = 2 * r2 = 2 * 0.5 = 1.0
+
+The diameter of the pancake is 1.0 m.
+
+Answer: [1.0]

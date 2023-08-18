@@ -1,0 +1,19 @@
+First, we find the number of gearwheels above the required tolerance.
+Total gearwheels = 150
+Required tolerance gearwheels = 112
+Below tolerance gearwheels = 21
+Above tolerance gearwheels = 150 - 112 - 21 = 17
+
+Now, we find the probability of selecting a gearwheel below the tolerance.
+Probability_below = (Number of below tolerance gearwheels) / (Total number of gearwheels) 
+                          = 21 / 150
+
+After selecting a below tolerance gearwheel, there are now 149 gearwheels left. We find the probability of selecting a gearwheel above the tolerance.
+Probability_above = (Number of above tolerance gearwheels) / (Total number of gearwheels - 1) 
+                              = 17 / 149
+
+To find the combined probability, we multiply the two individual probabilities.
+Combined_probability = Probability_below * Probability_above
+                                   = (21 / 150) * (17 / 149) = 357 / 22350 ≈ 0.016
+
+Therefore, the correct answer is (A) 0.016. Answer: [0.016].

@@ -1,0 +1,27 @@
+We can use the Laplace's law to solve this problem.
+
+Laplace's law states that the pressure inside a spherical bubble is given by:
+
+$$P_{inside} = \frac{2 \gamma}{r} $$
+
+where $r$ is the radius of the bubble, and $\gamma$ is the surface tension.
+
+We are given the radius of the bubble to be 0.01 mm, and the surface tension of the steel at 1773 K to be 1.4 N⋅ $m^(-1)$.
+
+Converting the radius to meters, we get:
+
+$$r = 0.01 \text{ mm} = 0.00001 \text{ m}$$
+
+Substituting the given values in Laplace's law, we get:
+
+$$P_{inside} = \frac{2 \gamma}{r} = \frac{2 \times 1.4}{0.00001} = 280000 \text{ Pa}$$
+
+Now, we need to convert the pressure from Pa to bar. We know that 1 bar = $10^5$ Pa. Therefore:
+
+$$P_{inside} = \frac{280000}{10^{5}} = 2.8 \text{ bar} $$
+
+Finally, we are given that the pressure outside the bubble is 1.5 bar. Therefore, the pressure inside the bubble is:
+
+Answer: 
+
+- 2.8 bar (rounded off to 1 decimal place)

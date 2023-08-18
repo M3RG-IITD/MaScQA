@@ -1,0 +1,2 @@
+The respective units for dislocation density and stress intensity factor are
+(A) $m^2$ and MPa.m (B) $m^2$ and MPa.$m^(1/2)$ (C) $m^(-2)$ and MPa.$m^(1/2)$ (D) $m^(-2)$ and MPa.m

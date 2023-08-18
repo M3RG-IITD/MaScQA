@@ -1,0 +1,19 @@
+To solve this problem, we need to recall the definition of the enthalpy of mixing for a regular solution model and determine the solution parameter.
+
+For a regular solution, the enthalpy of mixing (ΔH_mix) is given by:
+
+ΔH_mix = Ω * χ_A * χ_B
+
+Here Ω is the solution parameter, χ_A and χ_B are the mole fractions of A and B in the solution.
+
+In our case, we have a liquid (Cu, Zn) solution with the enthalpy of mixing given as follows:
+
+ΔH_mix = -19250 * χ_Cu * χ_Zn
+
+Comparing the provided enthalpy of mixing equation with the general equation for a regular solution model, we can determine the solution parameter:
+
+Ω = -19250 J/mol
+
+Hence, the correct answer is (A) -19250.
+
+Answer: [-19250]

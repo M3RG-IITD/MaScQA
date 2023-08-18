@@ -1,0 +1,25 @@
+To calculate the composition of phase α in mol% B, we can use the lever rule. The lever rule relates the overall composition, the ratio of the phases, and the composition of the individual phases in a two-phase system.
+
+Let A be the symbol for mol% B in phase α, B be the symbol for mol% B in phase β, oh be the symbol for the overall composition (in mol% B), mα be the molar proportion of phase α, and mβ be the molar proportion of phase β.
+
+Given:
+
+oh = 70 mol% B
+B = 90 mol% B
+mα = 2
+mβ = 1
+
+The lever rule formula can be written as:
+
+(oh - B) / (A - B) = mα / mβ
+
+We will now solve for A:
+
+70 - 90 = 2(A - 90)
+-20 = 2A - 180
+160 = 2A
+A = 80 mol% B
+
+So, the composition (in mol% B) of phase α is 80 (rounded off to the nearest integer).
+
+Answer: [80]

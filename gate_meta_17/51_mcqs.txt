@@ -1,0 +1,2 @@
+A single crystal of an FCC metal is subjected to a sufficiently large tensile stress along the [110] direction to activate some of the slip systems. Which one of the following slip systems will be activated:
+(A) (a/2)[-1 1 0](1 1 1) (B) a/2 [0 1 1](1 1 -1) (C) a/2[0 1 1](1 -1 1) (D) a/2[1 1 0](-1 1 -1)

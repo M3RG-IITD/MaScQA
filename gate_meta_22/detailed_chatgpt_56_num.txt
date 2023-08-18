@@ -1,0 +1,25 @@
+The flux of a solute through a solid is given by:
+
+$J = -D(\frac{dC}{dx})$
+
+where J is the flux in $atoms.mm^{-2}s^{-1}$, D is the diffusion coefficient in $mm^2s^{-1}$ and $\frac{dC}{dx}$ is the concentration gradient in $atoms.mm^{-4}$.
+
+Differentiating the given expression for concentration with respect to x, we get:
+
+$\frac{dC}{dx} = 2a_1x + a_2$
+
+Substituting the given values for $a_1$ and $a_2$, we get:
+
+$\frac{dC}{dx} = 2x + 1$
+
+At x = 2 mm, $\frac{dC}{dx} = 5$
+
+Substituting the given value of D and the calculated value of $\frac{dC}{dx}$, we get:
+
+$J = -(3 * 10^{-3}mm^2.s^{-1})(5 atoms.mm^{-4})$
+
+$J = -15 * 10^{-3} atoms.mm^{-2}s^{-1}$
+
+Therefore, the magnitude of the flux at x = 2 mm is 15, rounded off to the nearest integer.
+
+Answer: [15]

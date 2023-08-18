@@ -1,0 +1,2 @@
+An aluminium single crystal is loaded in tension along [1 -1 0] axis. Among the following slip systems, the one that will be activated first is?
+(A) (1 -1 -1)[0 -1 1] (B) (-1 -1 1)[011] (C) (-1 -1 1)[1 -1 0] (D) (-1 -1 1)[101]

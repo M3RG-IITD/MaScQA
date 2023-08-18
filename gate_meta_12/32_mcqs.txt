@@ -1,0 +1,2 @@
+Identify the correct combination of the following statements: P. Hydrogen electrode is a standard used to measure redox potentials Q. Activation polarization refers to electrochemical processes controlled by reaction sequence at metal-solution interface R. Potential-pH diagrams can be used to predict corrosion rates of metals S. Cathodic protection can use sacrificial anodes such as magnesium
+(A) P, Q and R (B) Q, R and S (C) P, Q and S (D) P, R and S

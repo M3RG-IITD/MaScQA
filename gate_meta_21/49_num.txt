@@ -1,0 +1,1 @@
+Assume: Linear elastic fracture mechanics is valid. Given: Fracture toughness, $K_(1c)$ = 20 MPa $m^(1/2)$. An infinite metal plate has a central through-thickness crack of length 80/π mm. The maximum applied stress(in Mpa) that the plate can sustain in mode I is?(round off to nearest integer)

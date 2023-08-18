@@ -1,0 +1,27 @@
+The equation for the reaction is:
+
+4Ag(s) + $O_2$(g) ⟶ $2Ag_2O$(s)
+
+We know the standard enthalpy change, ∆𝐻° = − 61080 J, and the standard entropy change, ∆𝑆° = − 132.22 J $K^(−1)$.
+
+To find the temperature at which $Ag_2O$ decomposes in an atmosphere containing oxygen at a partial pressure $𝑝_(𝑂_2)$ = 0.3 atm, we need to use the Gibbs free energy equation:
+
+ΔG° = ΔH° - TΔS°
+
+where ΔG° is the standard Gibbs free energy change, T is the temperature in Kelvin, ΔH° is the standard enthalpy change, and ΔS° is the standard entropy change.
+
+At the temperature above which $Ag_2O$ decomposes, the Gibbs free energy change will be zero. Thus, we can set ΔG° = 0 and solve for T:
+
+0 = ΔH° - TΔS°
+
+T = ΔH°/ΔS°
+
+Substituting the values given,
+
+T = (-61080 J) / (-132.22 J $K^(−1)$)
+
+T = 461.25 K
+
+Therefore, the temperature above which $Ag_2O$ decomposes in an atmosphere containing oxygen at a partial pressure $𝑝_(𝑂_2)$ = 0.3 atm is 461.3 K (rounded to one decimal place). 
+
+Answer: [461.3 K]

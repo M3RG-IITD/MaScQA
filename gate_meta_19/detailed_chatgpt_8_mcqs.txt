@@ -1,0 +1,44 @@
+Given, 
+Faraday constant, $𝐹 = 96500 𝐶𝑜𝑢𝑙𝑜𝑚𝑏 𝑝𝑒𝑟 𝑔𝑟𝑎𝑚 𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡$ 
+The transport of reactant is the rate-limiting step, and the mass transfer coefficient is $10^{−4}$ $𝑐𝑚.𝑠^{−1}$. 
+The concentration of 𝐶uSO4 is given as 0.5 × $10^{−3}$ $𝑚𝑜𝑙.𝑐𝑚^{−3}$.
+We can use the limiting current density equation for electrodeposition, which is given as: 
+
+$$𝑖_L = \frac{{nFAC}}{t}$$
+
+where, 
+n = number of electrons 
+A = electrode area 
+C = concentration 
+t = time
+
+The number of electrons for copper deposition can be found from the reaction, 
+Cu$^{2+}$ + 2e$^{-}$ → Cu
+
+Here, the number of electrons involved is 2. 
+
+The time for deposition can be calculated using the relation, 
+
+$$𝑖_L = 0.95i_m$$
+
+$$𝑖_L = \frac{{nFAC}}{t}$$
+
+$$t = \frac{{nFA}}{0.95i_mC}$$
+
+Here $0.95i_m$ is taken as the limiting current density.
+
+Substituting the given values in the equation, 
+ 
+$$t = \frac{{2×96500×1×10^{−4}}}{0.95×9.65×0.5×10^{−3}} $$
+
+$$t = 40.95\ s$$
+
+The limiting current density is given by, 
+
+$$i_L = \frac{{nFAC}}{t}$$
+
+$$i_L = \frac{{2×96500×1×10^{−4}×0.5×10^{-3}}} {40.95}$$
+
+$$i_L = 4.83\ mA/cm^2$$
+
+Therefore, the correct answer is (A) 4.83.

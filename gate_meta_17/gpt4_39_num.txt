@@ -1,0 +1,39 @@
+We are given that the solubility product constant $(K_{sp})$ for $Fe(OH)_3$ is $10^{-39}$. The dissolved equilibrium reaction can be represented as follows:
+
+$Fe(OH)_3 \rightleftharpoons Fe^{+3} + 3OH^-$
+
+We can express the solubility product constant as:
+
+$K_{sp} = [Fe^{+3}][OH^-]^3$
+
+We are also given that the concentration of $Fe^{+3}$ is $10^{-3}$ M. Let the concentration of $OH^-$ be x M, then we can write the equation as follows:
+
+$10^{-39} = (10^{-3})(x)^3$
+
+We need to find the value of x, which is the concentration of $OH^-$.
+
+$x^3 = \frac{10^{-39}}{10^{-3}}$
+
+$x^3 = 10^{-36}$
+
+$x = \sqrt[3]{10^{-36}}$
+
+$x = 10^{-12}$ M
+
+Now we can find the pOH and then the pH.
+
+$pOH = -\log{[OH^-]}$
+
+$pOH = -\log{(10^{-12})}$
+
+$pOH = 12$
+
+Since $pH + pOH = 14$,
+
+$pH = 14 - pOH$
+
+$pH = 14 - 12$
+
+$pH = 2$
+
+So the minimum pH at which $Fe^{+3}$ will precipitate as $Fe(OH)_3$ is 2. The answer is [2].

@@ -1,0 +1,21 @@
+To match the reactors/refining sites in Column I with the corresponding refining processes in Column II, let's first understand each of the terms in Column I and their role in the refining process.
+
+Column I:
+(P) Blast furnace runner: The blast furnace runner is a trough through which you can transfer hot metal from the blast furnace to the torpedo car. This involves the external de-sulfurization process.
+ 
+(Q) AOD (Argon Oxygen Decarburization): AOD is a refining process used to reduce carbon content in stainless steel and primarily used for de-carburization. 
+
+(R) Torpedo car: A torpedo car is a vehicle used to transport molten iron from the blast furnace to the steel-making plant. It undergoes the external de-siliconization process. 
+
+(S) BOF (Basic Oxygen Furnace): BOF is a steel-making process where impure hot metal gets converted into pure steel by blowing pure oxygen on it. It primarily involves de-phosphorization.
+
+Now, let us match these terms with the correct refining process in Column II:
+
+1. De-carburization: AOD (Q)
+2. External De-sulfurization: Blast furnace runner (P)
+3. De-phosphorization: BOF (S)
+4. External De-siliconization: Torpedo car (R)
+
+Thus, the correct answer is P-2, Q-1, R-4, S-3, which corresponds to Option (C).
+
+Answer: [(C) P-2, Q-1, R-4, S-3]

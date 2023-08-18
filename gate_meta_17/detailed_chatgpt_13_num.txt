@@ -1,0 +1,26 @@
+Density of metal $\rho$ = $19000 kg.m^{-3}$
+
+Lattice parameter $a$ = $0.4 nm$
+
+Atomic weight $W$ = $183$
+
+Number of atoms in an unit cell $n$ = ?
+
+The formula to calculate density is given as:
+
+$$\rho = \frac{Z.W}{a^3.N_A}$$
+
+where $Z$ is the number of atoms per unit cell, $N_A$ is Avogadro’s number.
+
+Rearranging the above formula, we get:
+
+$$Z = \frac{\rho.a^3.N_A}{W}$$
+
+Substituting the given values, we get:
+
+$$Z = \frac{19000 \times 10^3 \times (0.4 \times 10^{-9})^3 \times 6.022 \times 10^{23}}{183}$$
+
+Therefore, $Z$ or the effective number of atoms in an unit cell of this metal is equal to $8$.
+
+Answer: 
+- 8

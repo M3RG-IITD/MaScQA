@@ -1,0 +1,61 @@
+To solve this problem, we will use lever rule. Lever rule is a mathematical formula that can be used to determine the composition and relative quantities of phases in a two-phase region of a phase diagram.
+
+Here's the step by step solution:
+
+1. Draw a line from the point representing the alloy composition to the tie line that intersects the α-phase boundary.
+
+![image.png](attachment:image.png)
+
+2. Determine the length of the line segment to the tie line, L1. This can be done using the following formula:
+
+L1 = (C - Cα)/(CL - Cα)
+
+where C is the composition of the alloy in wt% B, Cα is the composition of the α-phase in wt% B, and CL is the composition of the liquid phase in wt% B. 
+
+Note that in the phase diagram provided, the compositions are given in mole percent. Therefore, we need to convert them to wt% before using them in the above formula.
+
+Let's assume that the alloy composition in wt% is x% B. Since the molecular weight of A is twice that of B, the mole fraction of A will be (100-x)/(2x+100). Multiplying this by 100 gives us the mole percent of A, which is equal to (100-x)/(2x+200)*100. 
+
+Similarly, the mole percent of B is equal to x/(2x+200)*100.
+
+Using the phase diagram, the composition of the α-phase is 75 mole % B, which is equal to 0.75/(0.75+1.25)*100 = 37.5 wt% B.
+
+The composition of the liquid phase at the given temperature is not provided in the phase diagram. However, we can assume that it lies on the eutectic composition line since complete solidification is assumed. Therefore, we can read off the eutectic composition, which is 30 mole % B, which is equal to 30/(30+70)*100 = 30 wt% B.
+
+Substituting all these values in the above formula, we get:
+
+L1 = (x - 37.5)/(30 - 37.5)
+
+3. Determine the length of the line segment to the opposite phase boundary, L2. This can be done using the following formula:
+
+L2 = (CL - C)/(CL - Cα)
+
+where C is the composition of the alloy in wt% B, Cα is the composition of the α-phase in wt% B, and CL is the composition of the liquid phase in wt% B.
+
+Substituting the above values, we get:
+
+L2 = (30 - x)/(30 - 37.5)
+
+4. Determine the fraction of α-phase, α:
+
+α = L1/(L1 + L2)
+
+Substituting the above values, we get:
+
+α = [(x - 37.5)/(30 - 37.5)] / [(x - 37.5)/(30 - 37.5) + (30 - x)/(30 - 37.5)]
+
+Simplifying this expression, we get:
+
+α = (2x - 105)/15
+
+5. Given that α = 0.50, we can now solve for x:
+
+0.50 = (2x - 105)/15
+
+Solving for x, we get:
+
+x = 52.5 wt% B
+
+Therefore, the alloy composition in terms of wt% B is 52.5%. 
+
+Answer: [52.5].

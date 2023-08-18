@@ -1,0 +1,13 @@
+We can estimate the theoretical fracture strength of a brittle material using the Griffith's criterion, which relates the fracture strength to the presence of internal cracks within the material. The criterion states that a crack will propagate if the stress at the tip of the crack is greater than the critical stress, which can be found through the following formula:
+
+σc = (2 * E * γ /π * a)^(1/2)
+
+Where σc is the critical stress (fracture strength), E is Young's modulus, γ is the surface energy, and a is the crack length. We are given the values for E, γ, and a in the problem:
+
+E = 400 GPa = 400 * 10^9 Pa (converting GPa to Pa)
+γ = 3.14 J/m^2 = 3.14 N/m (1 J = 1 Nm)
+a = 8 µm = 8 * 10^(-6) m (converting µm to m)
+
+Now we can substitute these values into the equation and calculate the theoretical fracture strength:
+
+σc = (2 * 400 * 10^9 * 3.14 /π * 8 * 10^(-6))^1/2

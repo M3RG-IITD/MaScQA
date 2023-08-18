@@ -1,0 +1,6 @@
+P: Blast furnace runner - 4. External De-siliconization
+Q: AOD (Argon Oxygen Decarburization) - 1. De-carburization
+R: Torpedo car - 2. External De-sulfurization
+S: BOF (Basic Oxygen Furnace) - 3. De-phosphorization
+
+So, the correct option is (A) P-4, Q-1, R-2, S-3. Answer: [(A)].

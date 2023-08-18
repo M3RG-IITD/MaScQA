@@ -1,0 +1,19 @@
+To arrange the given casting processes in increasing order of surface roughness, we need to understand the characteristics of each process and how they affect the surface finish of the produced casting. Let's discuss each process briefly.
+
+1. Investment casting (P):
+Investment casting is also known as lost-wax casting. It is a complex process that involves the creation of a wax pattern, coating it with a ceramic slurry, and then melting the wax out of the ceramic to create a mold cavity. This process allows for a high degree of precision and close dimensional control, and therefore, a good surface finish. Investment casting typically has a surface roughness ranging from 3.2 to 6.3 micrometers (µm).
+
+2. Permanent mold casting (Q):
+Permanent mold casting uses reusable metal molds to produce parts with good dimensional accuracy and a relatively smooth surface finish. The use of reusable molds allows for a controlled production process and reduced defects, resulting in better surface roughness compared to some other casting methods such as sand casting. The surface roughness of permanent mold castings typically ranges from 6.3 to 12.5 µm.
+
+3. Pressure die casting (R):
+Pressure die casting is a high-pressure casting method where the molten metal is forced into a mold cavity under high pressure. This results in increased dimensional accuracy, reduced porosity, and a better surface finish compared to other casting methods like sand casting. The surface roughness of pressure die-cast parts typically ranges between 1.6 and 3.2 µm.
+
+4. Sand casting (S):
+Sand casting is a widely used casting process that uses sand as the mold material. The surface finish of sand castings is typically more coarse and rough compared to other casting processes. This is due to the natural coarseness and texture of the sand used to make the mold. The surface roughness of sand castings typically ranges from 12.5 to 25 µm.
+
+Now that we have discussed the surface roughness characteristics of each process let's arrange them in increasing order based on their typical surface roughness values:
+
+Pressure die casting (R) < Investment casting (P) < Permanent mold casting (Q) < Sand casting (S)
+
+Therefore, the correct answer is (C) R < P < Q < S.

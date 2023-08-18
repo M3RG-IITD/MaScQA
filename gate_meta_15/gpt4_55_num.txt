@@ -1,0 +1,43 @@
+According to the Griffith's theory of brittle fracture, the fracture strength ($σ_f$) of a material with a critical flaw size ($c$) is as follows:
+
+$σ_{f} = \sqrt{\dfrac{2 E 𝛾_s}{π c}}$
+
+Here, $E$ is the elastic modulus of the material. The fracture strength is given for medium P, and we are supposed to find the fracture strength for medium Q.
+
+Let's denote the fracture strength in medium P with the surface energy of $𝛾_{s_P}$ = 0.9 J $m^{−2}$ and fracture strength $σ_{f_P}$ as 300 MPa. For medium Q, the surface energy is $𝛾_{s_Q}$ = 0.1 J $m^{−2}$ and we need to find the fracture strength $σ_{f_Q}$.
+
+First, we get the critical flaw size $c$ using medium P's data:
+
+$σ_{f_P} = \sqrt{\dfrac{2 E 𝛾_{s_P}}{π c}}$
+$300 × 10^6 = \sqrt{\dfrac{2E(0.9)}{π c}}$
+
+Now, we square both sides of the equation:
+
+$(300 × 10^6)^2 = \dfrac{2E(0.9)}{π c}$
+$c = \dfrac{2E(0.9)}{π × (300 × 10^6)^2}$ ---(1)
+
+Now, let's find the fracture strength in medium Q:
+
+$σ_{f_Q} = \sqrt{\dfrac{2 E 𝛾_{s_Q}}{π c}}$
+$σ_{f_Q} = \sqrt{\dfrac{2E(0.1)}{π c}}$
+
+We already have the value of $c$ in equation (1), so we can substitute it here:
+
+$σ_{f_Q} = \sqrt{\dfrac{2E(0.1)}{π × \dfrac{2E(0.9)}{π × (300 × 10^6)^2}}}$
+
+Simplifying the equation:
+
+$σ_{f_Q} = \sqrt{\dfrac{(0.1) × π × (300 × 10^6)^2}{(0.9)}}$
+$σ_{f_Q} = \sqrt{\dfrac{(300 × 10^6)^2}{9}}$
+
+Taking square root both sides:
+
+$σ_{f_Q} = \dfrac{300 × 10^6}{3} = 100 × 10^6$
+
+Putting the value in MPa:
+
+$σ_{f_Q} = 100$ MPa
+
+So, the fracture strength of the material in medium Q is 100 MPa.
+
+Answer: [100].

@@ -1,0 +1,48 @@
+Using the equation for viscosity $\eta$,
+
+$\eta=\frac{\text{shear stress}}{\text{velocity gradient}}$
+
+We can calculate the velocity gradient as follows:
+
+$u=\frac{\Delta x}{\Delta y}\cdot v$
+
+$\Delta x$ is the distance between the plates, $\Delta x=10^{-3}$ m.
+
+$v$ is the velocity of the upper plate, $v=2\ m/s$.
+
+$\Delta y$ is the distance traveled by the upper plate over a time interval $\Delta t$ during which the shear stress $F/A$ is applied to keep it moving with constant velocity. 
+
+$\Delta y = v \cdot \Delta t$
+
+From Newton's second law of motion, the force F on the upper plate is given by:
+
+$F=\frac{A}{\Delta y}\cdot 5\ Pa$
+
+$A$ is the area of the plates, $A=0.01\ m^2$.
+
+Substituting $\Delta y$ and $F$:
+
+$5\ Pa=\frac{A}{v\cdot \Delta t} \cdot \frac{A}{\Delta y}$
+
+$5\ Pa=\frac{A^2}{v \cdot \Delta t \cdot \Delta y}$
+
+Rearranging to solve for $\Delta t$:
+
+$\Delta t = \frac{A^2}{5\ v\ \Delta y}$
+
+Substituting $\Delta t$ into the expression for the velocity gradient gives:
+
+$\frac{\Delta v}{\Delta y} = \frac{v}{\Delta t} = \frac{v \cdot 5\ v\ \Delta y}{A^2}$
+
+$\frac{\Delta v}{\Delta y}=\frac{5\ v^2}{A^2}\cdot\Delta y$
+
+Substituting $\Delta v/\Delta y$ and the given values into the expression for viscosity:
+
+$\eta=\frac{F/A}{\Delta v/\Delta y}$
+
+$\eta=\frac{5\ Pa}{5\ v^2/A^2}=\frac{5\ Pa}{5\cdot 2^2/0.01}\approx 500\ Pa.s$
+
+Therefore, $y=500$. 
+
+Answer: 
+- 500

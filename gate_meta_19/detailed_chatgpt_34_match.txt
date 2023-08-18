@@ -1,0 +1,9 @@
+(P) Engine block - (Casting) - Engine blocks are generally made by casting. Molten metal is poured into a mold to take the shape of the engine block.
+
+(Q) Brake pad - (Sheet metal forming) - Brake pads are made by forming and cutting metal sheets into the desired shape and thickness.
+
+(R) Connecting rod - (Forging) - Connecting rods are made by forging a piece of metal that is heated until it can be shaped under pressure.
+
+(S) Door panel - (Powder metallurgy) - Door panels are made by pressing and molding metal powders into the desired shape and size.
+
+Therefore, the correct answer is (C) P-3, Q-2, R-4, S-1.

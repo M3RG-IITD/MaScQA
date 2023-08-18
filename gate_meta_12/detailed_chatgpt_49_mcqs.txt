@@ -1,0 +1,45 @@
+Given data:
+
+Density of steel, $ρ_{(steel)}$ = 7200 kg/$m^3$
+
+Density of liquid Al, $ρ_{(Al)}$ = 2360 kg/$m^3$
+
+Viscosity of liquid Al, $μ_{(Al)}$ = 1$×10^{−3}$ Pa.s
+
+Reynolds number of the liquid Al flow around the steel ball, Re = 5$×10^{5}$
+
+Friction factor, f = 0.2
+
+Force exerted on the steel ball, $F = fπR^2(ρ_{(Al)} v^2/2)$
+
+where R is the radius of the steel ball and v is the velocity of the liquid Al
+
+To find: Terminal velocity of a fine spherical steel particle of diameter $d_p$ in µm range, when allowed to fall in a quiescent liquid Al bath
+
+- Terminal velocity is the velocity at which the gravitational force on the particle is balanced by the drag force due to the surrounding fluid.
+
+The drag force acting on a spherical particle by the surrounding fluid is given by:
+
+$F = 3πμ_{(Al)}d_{(p)}v + (ρ_{(Al)}−ρ_{(steel)})gd_{(p)}^3/6$
+
+where $d_{(p)}$ is the diameter of the particle, v is the velocity of the liquid Al, μ is its viscosity and g is the acceleration due to gravity.
+
+The gravitational force acting on the particle is given by:
+
+$F = ρ_{(steel)}g(d_{(p)}/2)^3 π(4/3)$
+
+Equating the two forces and solving for v:
+
+$3πμ_{(Al)}d_{(p)}v = ρ_{(steel)}g(d_{(p)}/2)^3 π(4/3) + (ρ_{(Al)} − ρ_{(steel)})gd_{(p)}^3/6$
+
+$v = [2(d_{(p)}/2)^2/9μ_{(Al)}] (ρ_{(steel)}/ρ_{(Al)})g$
+
+Substituting the given values, we get:
+
+$v = [d_{(p)}^2/135μ_{(Al)}] (ρ_{(steel)}/ρ_{(Al)})g$
+
+$v = [d_{(p)}^2/135μ_{(Al)}] (7200/2360) × 9.81$ m/s^2
+
+$v = 2.66 × 10^6 d_{(p)}^2$ m/s
+
+Therefore, the terminal velocity of a fine spherical steel particle of diameter $d_p$ in µm range, when allowed to fall in a quiescent liquid Al bath is 2.66* $10^6$ $d_(p)^2$ m/s, which is closest to option (B) 2.6*$10^6$ $d_(p)^2$ m/s.

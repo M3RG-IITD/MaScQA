@@ -1,0 +1,19 @@
+The equation for Fick's second law is given as:
+D * (C2 - C1) / (2 * t) = x
+
+where,
+D = Diffusivity of carbon in γ-Fe at 950°C = 1.6 * $10^(-11)m^(2)s^(-1)
+C1 = Initial carbon concentration = 0.1 wt.%
+C2 = Final carbon concentration = 0.6 wt.%
+t = Time for diffusion = 9 hours = 32400 seconds
+x = Distance at which carbon concentration is 0.6 wt.% C
+
+Substituting the values, we get:
+
+1.6 * $10^(-11) * ((0.6 - 0.1) / (2 * 32400)) = x
+
+x = 0.08 mm (approx)
+
+Therefore, the depth at which the carbon concentration is 0.6 wt.% C will be approximately 0.08 mm below the surface. 
+
+Answer: [0.08 mm]

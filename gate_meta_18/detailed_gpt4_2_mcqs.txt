@@ -1,0 +1,33 @@
+Given the melt $2CaO.SiO_2$, let's first analyze the components of this compound.
+
+The compound contains $2 CaO$ and $1 SiO_2$. 
+
+Now, let's write the ionization reactions of each oxide:
+
+1. $CaO:  CaO \rightarrow Ca^{2+} + O^{2-}$
+
+2. $SiO_2: SiO_2 + O^{2-} \rightarrow (SiO_4)^{4-}$
+
+Now, consider the amount of each ion formed in the melt.
+ 
+1. For every 2 moles of $CaO$, there will be $2 \times Ca^{2+}$ ions and $2 \times O^{2-}$ ions formed.
+
+2. For every 1 mole of $SiO_2$, there will be $1 \times (SiO_4)^{4-}$ ion formed.
+
+The sum of the bound negative charges of silicon ions $(SiO_4)^{4-}$ must be equal to the sum of the bound positive charges of calcium ions $Ca^{2+}$, since the electroneutrality principle states that a melt must be electrically neutral.
+
+Let's denote the number of moles of $CaO$ as $x$ (where $x=2$ in this case, but it's not crucial for our problem). Therefore, we can write the following equation considering the charges:
+
+$ \text{(sum of charges of all} \ (SiO_4)^{4-}  \text{ions)} = \text{(sum of charges of all } Ca^{2+} \text{ ions)} \\
+4 \times (SiO_4)^{4-} \text{(1 mole)} = 2 \times x \times Ca^{2+} \text{(2 moles)} $
+
+Now, we can solve this for the number of moles of $(SiO_4)^{-4}$ ions:
+
+$4 \times (SiO_4)^{4-} = 4 \times Ca^{2+} \\
+(SiO_4)^{4-} = Ca^{2+}$
+
+So, we have the same number of moles of $(SiO_4)^{-4}$ ions as of $Ca^{2+}$ ions in the melt. Importantly it means, that there are no other silicon anions in the melt.
+
+Thus, the most abundant anion in the $2CaO.SiO_2$ melt is $(SiO_4)^{-4}$.
+
+Answer: [A]

@@ -1,0 +1,3 @@
+For an ideal hexagonal-closed packed (hcp) structure, the c/a ratio is approximately 1.633, while the packing efficiency is 74%. Therefore, the correct answer is (B) 1.633 and 74%.
+
+Answer: [1.633, 74%]

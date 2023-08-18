@@ -1,0 +1,13 @@
+The heat input in kJ per unit length is calculated using the following formula:
+
+Heat Input = Voltage x Current x Welding speed x Efficiency / 1000
+
+Assuming an efficiency of 60%, we get:
+
+Heat Input = 20 V x 200 A x 0.01 m/s x 60 / 1000
+
+Heat Input = 24 J/m
+
+Therefore, the heat input in kJ per unit length is 0.024 kJ/m.
+
+Answer: [0.024 kJ/m]

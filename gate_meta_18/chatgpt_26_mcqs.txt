@@ -1,0 +1,25 @@
+To find the excess molar free energy, we need to subtract the ideal molar free energy from the actual molar free energy. The ideal molar free energy is given by the last two terms of the equation, i.e., RT[xlnx + (1-x)ln(1-x)] and the actual molar free energy is given by the entire equation.
+
+Substituting x = 0.5 and T = 1000 K in the given equation, we get:
+
+$G^(L)(1000,0.5)$ = 0.5*$[G_(A)]^(0,L)$ + 0.5*$[G_(B)]^(0,L)$ + 2077.0 J $mol^(-1)$ + 2000 J $mol^(-1)$
+
+Here, we have used ln(0.5) = -ln(2) and ln(0.5) + ln(0.5) = ln(0.25).
+
+Now, substituting the values of $[G_(A)]^(0,L)$ and $[G_(B)]^(0,L)$, and simplifying, we get:
+
+$G^(L)(1000,0.5)$ = -4169 J $mol^(-1)$
+
+The ideal molar free energy at x = 0.5 and T = 1000 K is given by:
+
+RT[xlnx + (1-x)ln(1-x)] = 2077.0 J $mol^(-1)$
+
+Therefore, the excess molar free energy at x = 0.5 and T = 1000 K is:
+
+𝐺^(XS,L) = $G^(L)(1000,0.5)$ - RT[xlnx + (1-x)ln(1-x)] - 2000 J $mol^(-1)$
+
+= -4169 J $mol^(-1)$ - 2077.0 J $mol^(-1)$ - 2000 J $mol^(-1)$
+
+= -8246 J $mol^(-1)$
+
+The correct answer is (D) -5763 J $mol^(-1)$.

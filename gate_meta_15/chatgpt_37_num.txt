@@ -1,0 +1,74 @@
+The overall reaction is:
+
+Cu-Ni(s)  +  Ni2+(aq) →  Cu2+(aq)  +  Ni(s)
+
+The standard reduction potential at 298 K for the half-reactions are:
+
+Ni2+(aq) + 2e- → Ni(s)    E° = -0.25 V
+
+Cu2+(aq) + 2e- → Cu(s)    E° = +0.34 V
+
+At the anode, oxidation of Ni to Ni2+ will occur, and Cu will not oxidize because it is more noble than Ni. The overall reaction is then:
+
+Ni(s) →  Ni2+(aq) + 2e-    E = +0.25 V
+
+At the cathode, reduction of Ni2+ to Ni will occur, and Cu2+ will not reduce because it is less noble than Ni. The overall reaction is then:
+
+Ni2+(aq) + 2e- → Ni(s)    E = -0.25 V
+
+The cell potential is the difference between the anode and cathode potentials:
+
+Ecell = Ecathode – Eanode
+       = (-0.25) – (+0.25)
+       = -0.5 V
+
+The Gibbs free energy change of the reaction is given by:
+
+ΔG° = -nFE°
+
+where n is the number of electrons exchanged, F is the Faraday constant, and E° is the cell potential at standard conditions. Since one mole of electrons is transferred in the reaction, n = 1. The temperature is 300 K, and R = 8.314 J $mol^(-1)K^(-1)$:
+
+ΔG° = -nFE°
+        = -(1)(96490)(-0.5)
+        = 48245 J $mol^(-1)$
+
+The voltage required for the reaction to proceed is given by the equation:
+
+ΔG = -nFE
+
+where ΔG is the Gibbs free energy change at non-standard conditions, and E is the cell potential. At equilibrium, ΔG = 0:
+
+0 = -nFE + RTlnQ
+
+where Q is the reaction quotient. For an ideal solution, the reaction quotient is:
+
+Q = [Ni2+]/[Ni][Cu2+]
+
+Since the cathode is pure Ni, [Ni]/1 = 1. Let x be the concentration of Cu in the anode. Then [Ni2+] = x and [Cu2+] = 0.1 – x. Substituting into the equation:
+
+0 = -nFE + RTlnQ
+      = -1(96490)E + (8.314)(300)ln[x/(0.1 – x)]
+
+Solving for E:
+
+E = (RT/nF)ln[x/(0.1 – x)]
+   = (8.314/96490)ln[x/(0.1 – x)]
+   = 0.086 ln[x/(0.1 – x)]
+
+Taking the absolute value and converting to mV:
+
+|Ecell| =  |E| × 1000
+              = |0.086 ln[x/(0.1 – x)]| × 1000
+              
+The minimum voltage occurs when the concentration of Cu is such that the maximum amount of Ni2+ is reduced at the cathode. This occurs when the concentration of Cu in the anode is equal to the concentration of Ni2+ in the electrolyte, or when:
+
+x = [Ni2+] = 1 mol $dm^(-3)$
+
+Substituting into the equation:
+
+|Ecell| = |0.086 ln[(1)/(0.1 – 1)]| × 1000
+             = 724.3 mV
+
+Therefore, the absolute value of the minimum voltage required for refining is 724.3 mV. 
+
+Answer: [ 724.3 mV ]

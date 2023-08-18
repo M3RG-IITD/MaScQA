@@ -1,0 +1,33 @@
+
+
+To solve this problem, we need to use the rule of mixtures, which relates the properties of a composite material to the properties of its constituents. 
+
+The rule of mixtures for the Young's modulus of a composite material is given by:
+
+$E_c = V_f E_f + V_m E_m$
+
+where $E_c$ is the Young's modulus of the composite, $V_f$ and $V_m$ are the volume fractions of the fiber and matrix, respectively, and $E_f$ and $E_m$ are the Young's moduli of the fiber and matrix, respectively.
+
+In this problem, we are given that the volume fraction of fibers is 25%, and the Young's moduli of the fiber and matrix are 250 GPa and 2.5 GPa, respectively. Therefore, we can calculate the Young's modulus of the composite as:
+
+$E_c = 0.25 \times 250 + 0.75 \times 2.5 = 64.375$ GPa
+
+Next, we need to determine the fraction of load borne by the reinforcement. Under iso-strain conditions, the stress in the composite is equal to the stress in the fibers. Therefore, the fraction of load borne by the reinforcement is equal to the fraction of stress borne by the fibers. 
+
+The stress in the composite can be calculated from the applied load and the cross-sectional area of the composite. Let's assume that the cross-sectional area of the composite is 1 m$^2$. Then, if the composite is subjected to a load of 1 kN, the stress in the composite is:
+
+$\sigma_c = \frac{F}{A} = \frac{1000}{1} = 1000$ kPa
+
+Since the stress in the composite is equal to the stress in the fibers, we can calculate the stress in the fibers as:
+
+$\sigma_f = \sigma_c = 1000$ kPa
+
+The stress in the matrix can be calculated from the rule of mixtures for the stress:
+
+$\sigma_m = V_m \sigma_c = 0.75 \times 1000 = 750$ kPa
+
+Now, we can calculate the fraction of load borne by the reinforcement as:
+
+$\frac{F_f}{F} = \frac{\sigma_f A_f}{\sigma_c A_c} = \frac{V_f E_f}{V_f E_f + V_m E_m} = \frac{0.25 \times 250}{0.25 \times 250 + 0.75 \times 2.5} = 0.96$
+
+Therefore, the fraction of load borne by the reinforcement is 0.96, rounded off to two decimal places.

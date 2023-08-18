@@ -1,0 +1,39 @@
+We'll use the 1-D heat transfer equation to solve this problem.
+
+The 1-D heat transfer equation is given by:
+
+q = k * (ΔT / d)
+
+where q is the heat transfer rate, k is the thermal conductivity, ΔT is the temperature difference, and d is the distance.
+
+Considering the shrinkage defects occur at distance L1 from Mold-1 and L2 from Mold-2, we can write two equations for heat transfer:
+
+$q_1$ = $k_1$ * (ΔT / L1)
+$q_2$ = $k_2$ * (ΔT / L2)
+
+Since the same amount of heat is transferred between the two molds, we can equate $q_1$ and $q_2$:
+
+$k_1$ * (ΔT / L1) = $k_2$ * (ΔT / L2)
+
+We are given the ratio L1:L2 = 3:2. Let's write this ratio as:
+
+L1 = 3x
+L2 = 2x
+
+Now we can plug these values into our equation and solve for the ratio ($k_1$/$k_2$):
+
+$k_1$ * (ΔT / (3x)) = $k_2$ * (ΔT / (2x))
+
+Cancelling ΔT from both sides and solving for ($k_1$/$k_2$):
+
+($k_1$/$k_2$) * (2x / 3x) = 1
+
+Since x is nonzero, it cancels out:
+
+($k_1$/$k_2$) * (2/3) = 1
+
+Now, solving for ($k_1$/$k_2$):
+
+($k_1$/$k_2$) = 3/2
+
+Thus, the ratio ($k_1$/$k_2$) is [3/2].

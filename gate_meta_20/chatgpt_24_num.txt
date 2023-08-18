@@ -1,0 +1,11 @@
+The angle of contact should be less than or equal to the angle of friction given by:
+$$\theta \leq \tan^{-1}(\mu)$$
+where $\mu$ is the coefficient of friction.
+
+Substituting the given value of $\mu=0.1$, we get:
+$$\theta \leq \tan^{-1}(0.1) \approx 5.7^\circ$$
+
+Therefore, the angle of contact should be less than or equal to 5.7 degrees.
+
+Answer: 
+- 5.7 degrees.

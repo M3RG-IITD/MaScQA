@@ -1,0 +1,13 @@
+Let's match the ceramics with their applications step by step:
+
+(P) Mullite: Mullite is known for its high strength, good creep resistance, and excellent thermal shock resistance. These properties make it suitable for use in refractories, which are materials that retain their strength at high temperatures. So, P matches with 2.
+
+(Q) Spinel ferrites: Spinel ferrites are a group of magnetic ceramics. They possess high magnetic permeability, low coercivity, and low eddy current loss, which make them suitable for use as soft magnets. So, Q matches with 4.
+
+(R) Tungsten carbide: Tungsten carbide is a very hard and dense ceramic material. Its high hardness, wear resistance, and ability to withstand high pressures make it suitable for use in cutting tools. So, R matches with 1.
+
+(S) Barium titanate: Barium titanate is a ceramic material that exhibits strong piezoelectric properties. This is used to convert mechanical pressure into electrical voltage and vice versa, making it ideal for piezoelectric applications. So, S matches with 3.
+
+Putting it all together, the correct answer is:
+
+[(P-2), (Q-4), (R-1), (S-3)] which corresponds to option (D).

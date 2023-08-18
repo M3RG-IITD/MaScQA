@@ -1,0 +1,17 @@
+To select the correct spectra for emission from a gray surface and a black body, we need to understand the difference between these two types of surfaces.
+
+A gray surface is one that emits and absorbs radiation equally at all wavelengths. This means that its emission spectrum will be flat and independent of temperature. Therefore, we can rule out options (A) and (B).
+
+On the other hand, a black body is a theoretical object that absorbs all radiation incident on it and emits radiation according to its temperature. Its emission spectrum is given by the Planck's law and is a function of its temperature.
+
+At a temperature of 1000K, the peak emission wavelength of a black body is given by Wien's displacement law as:
+
+λ_max = 2.898 x 10^-3 m.K / 1000K
+λ_max = 2.898 x 10^-6 m or 2898 nm
+
+Therefore, we need to look for the option that shows a peak around this wavelength. Option (D) shows a curve with a peak at around 3000 nm, which is close to the value we calculated.
+
+Hence, the correct spectra for emission from a gray surface and a black body maintained at 1000K are:
+
+- Gray surface: a flat line independent of temperature (not shown in the options)
+- Black body: Option (D)

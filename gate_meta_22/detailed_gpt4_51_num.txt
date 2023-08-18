@@ -1,0 +1,32 @@
+To find the desulfurizing index, we first need to find the amount of sulfur removed from the molten steel during the process of equilibration. Then, we will calculate the ratio between the mass of sulfur removed and the mass of synthetic slag used. Finally, we will round off the value to the nearest integer.
+
+1. First, let's find the initial and final masses of sulfur in the steel:
+   Initial sulfur mass = (initial sulfur %) * (total steel mass)
+   Final sulfur mass = (final sulfur %) * (total steel mass)
+
+2. Calculate the amount of sulfur removed during the desulfurization process:
+   Sulfur removed = Initial sulfur mass - Final sulfur mass
+
+3. Calculate the desulfurizing index:
+   Desulfurizing index = (Sulfur removed) / (mass of synthetic slag)
+   
+4. Round off the desulfurizing index to the nearest integer.
+
+Now let's solve the problem step by step:
+
+Step 1: Calculate initial and final masses of sulfur in the molten steel.
+The initial sulfur mass = (0.015/100) * 100,000 kg = 15 kg
+The final sulfur mass = (0.0025/100) * 100,000 kg = 2.5 kg
+
+Step 2: Calculate the amount of sulfur removed during the desulfurization process.
+Sulfur removed = 15 kg - 2.5 kg = 12.5 kg
+
+Step 3: Calculate the desulfurizing index.
+Desulfurizing index = 12.5 kg / 1250 kg = 0.01
+
+Step 4: Round off the desulfurizing index value to the nearest integer.
+Desulfurizing index = 0.01 * 100 = 1 (rounded off)
+
+So, the desulfurizing index is 1.
+
+The correct answer is [1].

@@ -1,0 +1,15 @@
+When a trivalent element, like boron, is doped into silicon, it introduces some additional steps in the process. Here is the detailed, step-by-step explanation of this doping process in silicon:
+
+1. Pure silicon is a very poor conductor of electricity at room temperature due to its tightly bound valence electrons. To make it a better conductor, it is treated with impurities, a process called doping.
+
+2. The silicon crystal has a tetrahedral lattice structure with each silicon atom covalently bonded to neighboring four silicon atoms with a strong chemical bond. Each silicon atom takes part in four covalent bonds. This forms a very stable structure with eight of the available eight outer shell electrons taking part in bonding.
+
+3. Boron is a trivalent element with three valence electrons in its outer shell. When boron is doped into the silicon lattice, it takes the place of a silicon atom in the lattice. This means that three of the boron's valence electrons form bonds with neighboring silicon atoms, and one bond remains unfulfilled as there are only three electrons available.
+
+4. This unfulfilled bond forms an "hole" in the lattice, which is considered a positive charge carrier. This means that a p-type semiconductor has been formed. In a p-type semiconductor, the majority charge carriers are holes, and these holes can move freely throughout the lattice, allowing the flow of electric current.
+
+5. When an electric field is applied, the holes (positive charge carriers) move from a higher energy state to a lower energy state, resulting in the flow of current in a p-type semiconductor.
+
+In conclusion, doping silicon with a trivalent element like boron forms a p-type semiconductor.
+
+The correct answer is: [A]

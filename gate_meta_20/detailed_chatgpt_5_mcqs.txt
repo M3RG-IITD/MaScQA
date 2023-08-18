@@ -1,0 +1,5 @@
+An electrolytic cell involves a non-spontaneous reaction that is driven by an external voltage source, whereas a galvanic cell involves a spontaneous reaction that produces an external voltage. The process that is an example of an electrolytic cell is:
+
+(B) Charging of a rechargeable battery
+
+In this process, an external voltage source is connected to the battery, causing a non-spontaneous reaction that drives the recharge of the battery. The other processes listed are examples of galvanic cells or other forms of corrosion protection.

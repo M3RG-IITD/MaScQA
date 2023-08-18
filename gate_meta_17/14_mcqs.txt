@@ -1,0 +1,2 @@
+Primary mechanisms of accommodating plastic strain at low temepratures in crystalline metals are:
+(A) twinning and dislocation-slip (B) dislocation-climb and dislocation-slip (C) dislocation-slip and diffusion (D) viscous-flow and dislocation-slip

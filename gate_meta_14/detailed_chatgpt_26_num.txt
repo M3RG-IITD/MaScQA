@@ -1,0 +1,18 @@
+We can use the formula for green density ($p_g$) in terms of apparent density ($p_a$) and compacting ratio ($C_r$):
+$$p_g = p_a \times C_r$$
+
+We can rearrange this formula to solve for the compacting ratio:
+$$C_r = \frac{p_g}{p_a}$$
+
+We are given $p_a = 2.5$ g/$cm^3$ and $p_g = 5.5$ g/$cm^3$. Substituting these values, we get:
+$$C_r = \frac{5.5}{2.5} = 2.2$$
+
+This means that the volume of the powder before compaction was 2.2 times greater than the volume after compaction. We can use this to find the fill height of powder (which we'll call $h_f$):
+$$h_f = \frac{h_g}{C_r}$$
+
+We are given $h_g = 12$ mm. Substituting the values we have:
+$$h_f = \frac{12}{2.2} \approx 5.45 \text{ mm}$$
+
+Therefore, the fill height of powder was approximately 5.45 mm.
+
+Answer: [5.45]

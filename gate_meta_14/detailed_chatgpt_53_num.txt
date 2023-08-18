@@ -1,0 +1,31 @@
+To solve the problem, we need to integrate the expression of $C_p$ with respect to temperature (T) in the given temperature range and use the integrated expression to calculate the change in enthalpy. The integrated expression for $C_p$ is:
+
+$\int C_p dT = \int (17.49 + 24.77 *10^{-3}*T) dT$
+
+$\int C_p dT = 17.49*T + 12.385*T^2*10^{-3}$
+
+Now, we can calculate the change in enthalpy ($\Delta H$) using the following equation:
+
+$\Delta H = \int_{T_1}^{T_2} C_p dT$
+
+where $T_1$ is the initial temperature (25°C) and $T_2$ is the final temperature (700°C) in Kelvin.
+
+Converting the temperatures to Kelvin, we get:
+
+$T_1$ = 298 K
+$T_2$ = 973 K
+
+Substituting the values in the above equation, we get:
+
+$\Delta H = \int_{298}^{973} (17.49 + 24.77 *10^{-3}*T) dT$
+
+$\Delta H = (17.49*T + 12.385*T^2*10^{-3})|_{298}^{973}$
+
+$\Delta H = (17.49*973 + 12.385*973^2*10^{-3}) - (17.49*298 + 12.385*298^2*10^{-3})$
+
+$\Delta H = 1.205*10^6$ J/mol
+
+Therefore, the change in enthalpy of pure iron when it is heated from 25°C to 700°C is 1.205*10^6 J/mol.
+
+Answer: 
+The change in enthalpy ($\Delta H$) is 1.205*10^6 J/mol.

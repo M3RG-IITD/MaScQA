@@ -1,0 +1,21 @@
+We are given the fracture toughness $K_{1c} = 30 \, \text{MPa} \cdot \text{m}^{1/2}$ and the crack geometry factor $Y=1$. We want to find the maximum allowed tensile stress on the component, considering the 10% margin of safety and the NDT technique limitation of detecting cracks larger than 1 mm.
+
+The formula for the stress intensity factor $K_1$ is given by:
+
+$$K_1 = Y \times \sigma \times \sqrt{\pi a}$$
+
+where $\sigma$ is the tensile stress we want to find, and $a$ is the crack length. Since we are keeping a 10% margin of safety, we should consider that $K_1 = 0.9K_{1c} = 0.9 \times 30 \, \text{MPa} \cdot \text{m}^{1/2} = 27 \, \text{MPa} \cdot \text{m}^{1/2}$.
+
+Using the NDT technique limitation, we know that the minimum detectable crack length is 1 mm or $1 \times 10^{-3}\, \text{m}$. So, we have:
+
+$$27 \, \text{MPa} \cdot \text{m}^{1/2} = (1) \times \sigma \times \sqrt{\pi (1 \times 10^{-3}\, \text{m})}$$
+
+Now we want to solve for tensile stress $\sigma$:
+
+$$\sigma = \frac{27 \, \text{MPa} \cdot \text{m}^{1/2}}{\sqrt{\pi (1 \times 10^{-3} \, \text{m})}}$$
+
+$$\sigma \approx 151.88\, \text{MPa}$$
+
+Rounding off to the nearest integer, the maximum allowed tensile stress on the component is 152 MPa.
+
+The final answer is [152].

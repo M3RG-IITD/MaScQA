@@ -1,0 +1,13 @@
+The welding process that uses a non-consumable electrode is gas tungsten arc welding also known as Tungsten Inert Gas (TIG) welding. 
+
+In TIG welding, a tungsten electrode is used to produce the arc, which melts the base material and creates a weld. The electrode is non-consumable because it does not melt and become part of the weld. The welder uses a filler rod to add material to the weld. 
+
+Gas metal arc welding (GMAW), also known as MIG welding, uses a consumable electrode. In GMAW, a wire electrode is fed through a welding gun, and as the wire melts, it becomes part of the weld. 
+
+Submerged arc welding (SAW) uses a consumable electrode, which is continually fed through the welding machine. The weld is shielded by a granular flux material, which is fed onto the weld. 
+
+Flux cored arc welding (FCAW) uses a consumable tubular electrode, which has flux material inside. As the wire melts, the flux material creates a shielding gas to protect the weld. 
+
+Therefore, the correct answer is:
+
+- (A) Gas tungsten arc welding (TIG welding)

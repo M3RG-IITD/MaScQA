@@ -1,0 +1,13 @@
+To determine the maximum possible reduction in a hot-rolled slab, we can use the following formula:
+
+Maximum reduction = µ * roll diameter
+
+where µ is the coefficient of friction and the roll diameter is given in millimeters.
+
+Plugging in the given values:
+
+Maximum reduction = 0.5 * 720 mm = 360 mm
+
+So the correct answer is (D) 360.
+
+Therefore, the answer is [360].

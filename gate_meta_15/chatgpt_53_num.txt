@@ -1,0 +1,21 @@
+We can start by using the relation:
+
+$U_{strain} = \frac{\mu b^2}{4\pi}(ln\frac{r}{r_0}+f(\frac{r}{R})) $
+
+where $U_{strain}$ is the strain energy per unit length, $\mu$ is the shear modulus, $b$ is the Burgers vector, and $r_0$, $R$, and $f$ are constants that depend on the crystal structure.
+
+For an FCC crystal, the values of these constants are: $r_0 = 0.260a$, $R = 0.224a$, and $f(\frac{r}{R}) = 0.68 - 0.72\frac{r}{R} + 0.086(\frac{r}{R})^2 - 0.0032(\frac{r}{R})^3$.
+
+For a 𝑎/2 〈110〉 dislocation, $b = \frac{a}{2}\sqrt{2}$ and $r = \frac{a}{\sqrt{2}}$ (since the dislocation line lies along a $\langle110\rangle$ direction).
+
+For a 𝑎/6 〈112〉 dislocation, $b = \frac{a}{6}\sqrt{6}$ and $r = \frac{a}{\sqrt{2}}$ (since the dislocation line lies along a $\langle111\rangle$ direction, which is perpendicular to the $\langle112\rangle$ direction of the Burgers vector).
+
+Plugging in these values into the formula above and taking the ratio of the strain energies, we get:
+
+$x = \frac{U_{strain}(\frac{a}{2}\langle110\rangle)}{U_{strain}(\frac{a}{6}\langle112\rangle)} = \frac{\frac{\mu (\frac{a}{2}\sqrt{2})^2}{4\pi}(ln\frac{\sqrt{2}a}{0.260a}+f(\frac{\sqrt{2}a}{0.224a}))}{\frac{\mu (\frac{a}{6}\sqrt{6})^2}{4\pi}(ln\frac{\sqrt{2}a}{0.260a}+f(\frac{\sqrt{2}a}{0.224a}))}$
+
+Simplifying this expression using the constants for FCC crystal, we get:
+
+$x = \frac{3\sqrt{3}ln(5.192)}{2ln(5.192)-8.055} \approx 4.62$
+
+Answer: $x = 4.62$

@@ -1,0 +1,11 @@
+The maximum possible reduction Δh in a single pass can be calculated using the formula:
+
+$\Delta h = \frac{2 \mu R}{1-\mu^2} \ln \frac{h}{h_0}$
+
+where R is the roll diameter and h0 is the initial thickness of the plate.
+
+Plugging in the given values, we get:
+
+$\Delta h = \frac{2 \times 0.1 \times 200}{1-0.1^2} \ln \frac{120}{120+2} \approx \boxed{17.6\ mm}$
+
+Answer: [17.6 mm]

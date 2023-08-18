@@ -1,0 +1,44 @@
+We can use the Bernoulli equation and the continuity equation to solve this problem.
+
+Continuity equation: 
+$Q = A_1v_1 = A_2v_2$
+
+Velocity at section A:
+$v_1 = \dfrac{Q}{A_1} = \dfrac{10^{-3}}{100 \times 10^{-6}} = 10\, m/s$
+
+Velocity at section B (Since A1 = 2 * A2, v2 = 2 * v1):
+$v_2 = 20\, m/s$
+
+Now we'll apply the Bernoulli equation between points A and B:
+
+$P_A + \dfrac{1}{2} \rho _a v_1^2 + \rho _a g h_A = P_B + \dfrac{1}{2} \rho _a v_2^2 + \rho _a g h_B$
+
+Since the venturimeter is horizontal, $h_A = h_B$, thus:
+
+$P_A + \dfrac{1}{2} \rho _a v_1^2 = P_B + \dfrac{1}{2} \rho _a v_2^2$
+
+We are looking for the pressure difference, $\Delta P = P_A - P_B$, so:
+
+$\Delta P = \dfrac{1}{2} \rho _a (v_2^2 - v_1^2)$
+
+$\Delta P = \dfrac{1}{2} (1)(20^2 - 10^2)$
+
+$\Delta P = 150\, Pa$
+
+Now, we'll use this pressure difference to find the height H in the manometer. The pressure difference in the manometer is related to the height H by:
+
+$\Delta P = (\rho _w - \rho _a)g H$
+
+Let's solve for H:
+
+$H = \dfrac{\Delta P}{(\rho _w - \rho _a)g} = \dfrac{150}{(1000 - 1)(9.8)}$
+
+$H = 0.0153\, m$
+
+To convert this to millimeters, we'll multiply by 1000:
+
+$H = 15.3\, mm$
+
+Rounded to the nearest integer, the height H in the air-over-water manometer is:
+
+$H=[15\, mm]$

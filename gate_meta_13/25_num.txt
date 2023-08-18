@@ -1,0 +1,1 @@
+Arc welding is done using current, voltage and welding speed of 200 A, 20 V and 0.01 m/s, respectively. The heat input in kJ per unit length is?

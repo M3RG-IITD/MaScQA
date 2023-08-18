@@ -1,0 +1,34 @@
+Firstly, let's recall Dulong-Petit's law for a monoatomic solid. It states that the molar heat capacity of a solid should be constant and equal to 3R. Since the given question asks for the ratio of heat capacities $C_p/C_v$, we need to determine $C_p$ and $C_v$ individually.
+
+Dulong-Petit law says:
+$C_v = C_p - R = 3R$
+
+Thus, we can find $C_p$:
+$C_p = C_v + R = 3R + R = 4R$
+
+Now, we can use the given information to find the ratio of heat capacities. We are given molar volume $(V_m)$, isothermal compressibility $(k_T)$, and isobaric expansivity $(\beta)$. We can use these values to find the ratio of heat capacities using the following relation:
+
+$C_p/C_v = 1 + \frac{\beta^2 T V_m}{k_T R}$
+
+Plugging in the given values, we get:
+
+$C_p/C_v = 1 + \frac{(6*10^{-5}K^{-1})^2 * 7*10^{-6}m^3*mol^{-1} * 500K}{8*10^{-12}Pa^{-1} * 8.314J*K^{-1}*mol^{-1}}$
+
+Now let's evaluate the equation step by step:
+
+1. Square the isobaric expansivity:
+$\beta^2 = (6*10^{-5})^2 = 36 * 10^{-10} K^{-2}$
+
+2. Multiply the constants and the given values
+$A = 36*10^{-10} * 7*10^{-6} * 500 = 126*10^{-16}$
+
+3. Divide the result of the multiplication by the product of $k_T R$
+$B = \frac{126*10^{-16}}{8*10^{-12} * 8.314} = \frac{126}{66.512*10^4}$
+
+4. Add 1 to the result
+$C_p/C_v = 1 + B = 1 + \frac{126}{66.512*10^4}$
+
+5. Perform the final division and round off to three decimal places
+$C_p/C_v \approx 1 + \frac{126}{6.6512 * 10^6} \approx 1.000$
+
+So, the ratio of heat capacities $C_p/C_v$ at 500K is approximately 1.000. The final answer is: [1.000].

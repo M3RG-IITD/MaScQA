@@ -1,0 +1,11 @@
+Let's match the products in Column I with the manufacturing processes in Column II one by one.
+
+(P) Blades of a gas turbine: These blades are made of precise dimensions and complex shapes that can be achieved through investment casting. So, P matches with 4.
+
+(Q) Seamless tubing: Seamless tubing is made by forcing the raw material to pass through a die that shapes it into the required size and shape. This process is known as extrusion. So, Q matches with 2.
+
+(R) Automotive cylinder blocks: Automotive cylinder blocks are large and require a more cost-effective and widely used process such as sand casting. So, R matches with 1.
+
+(S) Tungsten filament: Tungsten filaments require high precision and consistent properties along the length, which can be achieved through powder metallurgy and wire drawing. So, S matches with 3.
+
+Therefore, the correct option is (D) P-4, Q-2, R-1, S-3.

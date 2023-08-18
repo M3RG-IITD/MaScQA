@@ -1,0 +1,17 @@
+To answer this question, let's first understand what dendrites are and how they are formed during the solidification of a pure metal.
+
+Dendrites are tree-like structures formed during the solidification process of a molten metal. As the metal cools down and solidifies, the atoms rearrange themselves and form crystal structures. These structures grow along different directions, leading to the formation of dendrites.
+
+Now, let's analyze the temperature profile from the liquid-solid interface into the liquid during the solidification process.
+
+At the liquid-solid interface, the temperature is at the melting point of the metal. This is because the solidification process starts at the melting temperature of the metal.
+
+As we move farther away from the liquid-solid interface and into the liquid, the temperature of the metal will gradually decrease. This is because heat is being removed from the system to solidify the metal, and the solidifying metal acts like a heat sink, which absorbs the heat from the surrounding liquid. This leads to a temperature gradient in the liquid, with the temperature decreasing as we move away from the liquid-solid interface.
+
+Therefore, during the solidification of a pure metal and the formation of dendrites, the temperature profile from the liquid-solid interface into the liquid is as follows:
+
+(A) Decreases
+
+This is because the heat is being removed from the system to solidify the metal, resulting in a temperature gradient in the liquid with the temperature decreasing as we move away from the liquid-solid interface.
+
+Answer: [A]

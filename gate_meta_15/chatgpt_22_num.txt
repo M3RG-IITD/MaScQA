@@ -1,0 +1,27 @@
+Assuming Orowan's equation is applicable, 
+
+τ = Gb/λd
+
+where τ is the stress required for dislocation bypass, G is the shear modulus of the material, b is the magnitude of the Burgers vector for the dislocation, λ is the average inter-precipitate spacing and d is the effective diameter of the precipitates.
+
+Let us assume the values of G and b are constant. 
+
+When λ = 500 nm, τ = 200 MPa. 
+
+Therefore, 200 = Gb/(500 x d)
+
+When λ = 200 nm, the stress required can be represented as τ'.
+
+Therefore, We can write  τ' = Gb/(200 x d)
+
+Dividing the two equations, we get:
+
+τ'/τ = (λ/200)
+
+Substituting the given values, we get:
+
+τ' = 80 MPa
+
+Therefore, the stress required when the inter-precipitate spacing is reduced to 200 nm is 80 MPa.
+
+Answer: [80]

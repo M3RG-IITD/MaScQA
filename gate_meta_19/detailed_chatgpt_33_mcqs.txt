@@ -1,0 +1,45 @@
+Since the problem does not provide any values for the stress components, we will assume arbitrary values and proceed with the construction of the Mohr's circle. Let us assume that the stress components are as follows:
+
+σxx = 20 MPa
+σyy = 10 MPa
+τxy = -5 MPa
+
+Step 1: Plot the stress state on the σxx-σyy plane
+
+We begin by plotting the stress state on the σxx-σyy plane. We represent σxx and σyy along the horizontal and vertical axes respectively, and mark the point (σxx, σyy) = (20 MPa, 10 MPa).
+
+Step 2: Construct the center of the Mohr's circle
+
+The center of the Mohr's circle is given by the average of the normal stresses:
+
+σ¯ = (σxx + σyy)/2 = (20 MPa + 10 MPa)/2 = 15 MPa
+
+We mark this point on the σ-τ plane.
+
+Step 3: Find the radius of the Mohr's circle
+
+The radius of the Mohr's circle is given by half the difference between the maximum and minimum normal stresses (in absolute value):
+
+R = (σxx - σyy)/2 = (20 MPa - 10 MPa)/2 = 5 MPa
+
+We mark the two points on the σ-τ plane corresponding to the maximum and minimum normal stresses:
+
+(σ1, τ1) = (σxx, τxy) = (20 MPa, -5 MPa)
+
+(σ2, τ2) = (σyy, -τxy) = (10 MPa, 5 MPa)
+
+Step 4: Draw the Mohr's circle
+
+We can now draw the Mohr's circle using the center and radius found in steps 2 and 3.
+
+To determine the correct option from the given options, we compare our Mohr's circle with the given options.
+
+Option (A) is incorrect since the circle does not pass through the point (20 MPa, -5 MPa).
+
+Option (B) is incorrect since the circle does not pass through the point (10 MPa, 5 MPa).
+
+Option (C) is correct since the circle passes through both (20 MPa, -5 MPa) and (10 MPa, 5 MPa).
+
+Option (D) is incorrect since the circle does not have the correct center or radius.
+
+Therefore, the correct Mohr's circle construction for the stress state given is option (C).

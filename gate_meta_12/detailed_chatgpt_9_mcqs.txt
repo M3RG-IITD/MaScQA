@@ -1,0 +1,14 @@
+An equilibrium defect is a point defect that persists even at absolute zero. 
+
+(A) Vacancies are point defects that occur when an atom is missing from its normal lattice site. They are an example of an equilibrium defect.
+
+(B) Dislocations are a type of line defect that occur when there is a mismatch in the arrangement of atoms in a crystal structure. They are not an example of an equilibrium defect.
+
+(C) Stacking faults are planar defects that occur when there is an error in the stacking sequence of crystal planes. They are not an example of an equilibrium defect.
+
+(D) Grain boundaries are planar defects that occur when two grains with different crystal orientations meet. They are not an example of an equilibrium defect.
+
+Therefore, the correct answer is (A) Vacancies. 
+
+List of correct answer: 
+- Vacancies.

@@ -1,0 +1,12 @@
+The mesh number is calculated using the formula:
+
+Mesh number = 25.4 / (wire diameter in µm + aperture size in µm)
+
+Substituting the given values, we get:
+
+Mesh number = 25.4 / (53 + 74) = 25.4 / 127 ≈ 0.2
+
+Rounding off to the nearest integer, the mesh number is 0.
+
+Therefore, the answer is:
+- 0

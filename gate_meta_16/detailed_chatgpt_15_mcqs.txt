@@ -1,0 +1,15 @@
+To determine the cooling curve that produces 50% bainitic structure in an eutectoid steel, we need to first understand the phase transformation that occurs during cooling. 
+
+At the eutectoid temperature (about 727°C for plain carbon steels), the austenite in the steel begins to transform into two new phases: ferrite and cementite. This transformation is called pearlite because the two phases arrange themselves in a layered pattern that looks like mother-of-pearl. However, if the cooling rate is fast enough, the austenite can bypass the pearlite phase and transform directly into bainite, which also consists of ferrite and cementite but with a different microstructure.
+
+Now, let's analyze the four cooling curves (P, Q, R, and S) shown in the schematic and see which one results in 50% bainitic structure:
+
+- Curve P: This curve represents a slow cooling rate, which means that the steel will undergo the pearlite transformation. Therefore, 50% bainitic structure cannot be achieved with this cooling curve.
+
+- Curve Q: This curve represents a moderate cooling rate, which could potentially result in some bainitic structure. However, it also covers a wide temperature range, which makes it difficult to determine if 50% bainitic structure would be achieved.
+
+- Curve R: This curve represents a faster cooling rate than Curve Q, but still not fast enough to completely bypass the pearlite transformation. Therefore, 50% bainitic structure cannot be achieved with this cooling curve.
+
+- Curve S: This curve represents a very fast cooling rate, which is sufficient to transform the austenite directly into bainite. Therefore, 50% bainitic structure can be achieved with this cooling curve.
+
+Therefore, the answer is (D) S.

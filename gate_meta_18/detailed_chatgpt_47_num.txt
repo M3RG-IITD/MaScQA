@@ -1,0 +1,22 @@
+The saturation magnetization of a material is defined as the maximum magnetic moment per unit volume exhibited by the material. It can be calculated using the formula:
+
+M_s = (N/V) * mu_B * S
+
+where
+
+N/V = number of magnetic moments per unit volume (in units of m^-3)
+mu_B = Bohr magneton (9.273 × 10^(-24) A m^2)
+S = the spin magnetic moment of the atom
+
+For BCC Fe, there are two Fe atoms per unit cell. Each Fe atom in BCC structure has a spin magnetic moment of sqrt(2) * mu_B (you can derive this value from the total magnetic moment given in the question). Therefore,
+
+N/V = (2/0.287^3)*10^27 = 2.49×10^28 m^-3
+S = sqrt(2) * mu_B = 2.2104 × 10^(-23) A m^2
+
+Substituting these values in the formula for M_s, we get:
+
+M_s = (2.49×10^28) * (9.273 × 10^(-24)) * (2.2104 × 10^(-23)) = 5.622 kA/m
+
+Therefore, the saturation magnetization of BCC Fe is 5.622 kA/m, rounded off to one decimal place.
+
+Answer: [5.6]

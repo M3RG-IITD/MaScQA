@@ -1,0 +1,39 @@
+In the FCC crystal, we can calculate the strain energy per unit length of a dislocation (E) using the following formula:
+
+E = (G * b^2) / (4 * π * (1 - v))
+
+Where G is the shear modulus, b is the magnitude of the Burgers vector, and v is the Poisson's ratio.
+
+For the first dislocation with Burgers vector (a/2)〈110〉, the magnitude of this vector can be found as follows:
+
+b1 = |(a/2)(1,1,0)| = a/√2
+
+For the second dislocation with Burgers vector (a/6)〈112〉, the magnitude of this vector can be found as follows:
+
+b2 = |(a/6)(1,1,2)| = a/√6
+
+The strain energy per unit length for the first dislocation is:
+
+E1 = (G * (a/√2)^2) / (4 * π * (1 - v))
+
+And for the second dislocation:
+
+E2 = (G * (a/√6)^2) / (4 * π * (1 - v))
+
+Now, we are given that the strain energy per unit length of the first dislocation is x times that of the second dislocation:
+
+E1 = x * E2       (G * (a/√2)^2) / (4 * π * (1 - v)) = x * (G * (a/√6)^2) / (4 * π * (1 - v))
+
+We can cancel out some terms:
+
+(a/√2)^2 / (a/√6)^2 = x
+
+Now, simplifying:
+
+(√6/√2)^2 = x      (6/2) = x
+
+Therefore, the x value that we are looking for is:
+
+x = 3
+
+The correct answer is [3].

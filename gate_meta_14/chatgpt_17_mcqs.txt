@@ -1,0 +1,5 @@
+The stress amplitude is the difference between the maximum stress and the minimum stress, divided by two. 
+
+Stress amplitude = (400 MPa - 300 MPa) / 2 = 50 MPa
+
+Answer: [50 MPa]

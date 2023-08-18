@@ -1,0 +1,23 @@
+To answer this question, let's evaluate the given options and analyze their relation to self-supporting arches for furnace roofs.
+
+(A) Silica has a significantly lower thermal expansion coefficient than magnesia at high temperatures.
+
+Thermal expansion coefficient is an important property to consider for materials subjected to high temperatures, as it indicates how much a material will expand or contract as a result of temperature changes. A material with a lower thermal expansion coefficient will typically exhibit less expansion and contraction, which contributes to improved stability during temperature fluctuations. With a lower thermal expansion coefficient, silica bricks in a self-supporting arch are less likely to crack or lose structural integrity when exposed to high temperatures in a furnace.
+
+(B) Silica has a significantly higher thermal conductivity than magnesia at high temperatures.
+
+Thermal conductivity determines how efficiently a material transfers heat. A higher thermal conductivity could be beneficial in evenly distributing heat in a furnace, but it doesn't directly affect the structural integrity of a self-supporting arch. Therefore, this is not a decisive factor.
+
+(C) Silica has a significantly lower melting point than magnesia.
+
+A lower melting point would be a disadvantage for a material used in furnace roofs, as it would be more prone to melting under high temperatures. However, silica bricks have a melting point of around 1710°C, which is still quite high compared to many other materials. This option is not a valid reason for why silica bricks can be used in self-supporting arches and magnesia bricks cannot.
+
+(D) Silica is significantly more acidic than magnesia.
+
+This statement is true, as silica is a highly acidic refractory material, while magnesia is a more basic refractory material. However, this fact doesn't directly contribute to the ability of silica bricks to be used in self-supporting arches for furnace roofs.
+
+Based on these analyses, we can conclude that:
+
+The correct answer is (A) Silica has a significantly lower thermal expansion coefficient than magnesia at high temperatures.
+
+This property of silica bricks contributes to their ability to maintain structural integrity and resist cracking under the high temperatures experienced in furnace roofs, making them suitable for self-supporting arches.

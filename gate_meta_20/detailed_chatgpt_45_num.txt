@@ -1,0 +1,37 @@
+To find the Ni content in the weld pool, we need to first calculate the composition of the weld metal.
+
+Let's assume the weight of the weld metal to be 100 g.
+
+From the given information, we know that 20% of the weld pool is contributed from each plate. This means that 40% (20% + 20%) is the dilution of the weld pool.
+
+Therefore, the weight of the diluted metal (i.e. the combined weight of the base metal and filler metal) is:
+
+100 g / (1 - 40%) = 166.67 g
+
+Now, let's calculate the weight of each component in the diluted metal:
+
+For the Fe-10%Ni plate, the weight of Ni is:
+
+10 wt.% x 166.67 g x (1 - 40%) = 10 wt.% x 100 g = 10 g
+
+For the Fe-20%Cr-5%Ni plate, the weight of Ni is:
+
+5 wt.% x 166.67 g x (1 - 40%) = 5 wt.% x 100 g = 5 g
+
+For the filler metal, the weight of Ni is:
+
+20 wt.% x 100 g = 20 g
+
+Therefore, the total weight of Ni in the diluted metal is:
+
+10 g + 5 g + 20 g = 35 g
+
+Finally, we can calculate the Ni content in the weld pool:
+
+Ni content = (weight of Ni / total weight of diluted metal) x 100%
+
+Ni content = (35 g / 166.67 g) x 100% = 21%
+
+Therefore, the Ni content in the weld pool is 21%, rounded off to the nearest integer.
+
+Answer: [21]

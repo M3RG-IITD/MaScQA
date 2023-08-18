@@ -1,0 +1,13 @@
+Continuous casting is a process in which molten steel is solidified into a semi-finished billet, bloom, or slab, which is further processed in a finishing mill. The use of mold flux is essential in this process for various reasons:
+
+(A) Lubrication: Mold flux acts as a lubricant between the mold wall and the solidifying steel. It helps minimize friction during the continuous casting process, and prevents sticking and cracking of the solidifying steel. The lubrication ensures smooth movement of the solid steel strand, which allows for continuous casting and efficient production.
+
+(B) Reducing heat loss: During the solidification process, heat is generated and needs to be removed in a controlled manner. Mold flux helps in reducing the heat loss from the molten steel to the mold by forming a layer of slag between the mold wall and the steel. This layer of slag has low thermal conductivity, which slows down the transfer of heat and ensures controlled cooling, leading to uniform solidification.
+
+(C) Inclusion control: Inclusions, such as non-metallic impurities and unwanted elements, can be detrimental to the final product's quality. Mold flux helps in minimizing their effect by trapping these inclusions within itself. As the mold flux floats to the top, it forms a protective layer on the surface of the molten steel, preventing re-entry of inclusions back into the steel. By trapping these impurities, mold flux improves the quality of the final product.
+
+(D) Reducing solidification shrinkage: During solidification, the steel goes through contraction as it changes from a liquid to a solid state. This shrinkage can lead to voids, cracks, and other defects in the final product. Mold flux helps to mitigate these issues by providing a barrier that can compensate for the shrinkage force generated while the steel solidifies.
+
+In summary, mold flux plays a critical role in continuous casting of steel. It helps in lubrication, reducing heat loss, inclusion control, and reducing solidification shrinkage.
+
+Answer: [A, B, C, D]

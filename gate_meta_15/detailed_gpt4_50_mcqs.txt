@@ -1,0 +1,13 @@
+To answer this question, let's first discuss briefly about each technique and its applicability on ceramic materials:
+
+1. Liquid penetration test: This technique is used for detecting surface cracks and discontinuities in materials, especially in metals, by applying a penetrant liquid to the surface and then a developer that makes the discontinuities visible. Since this technique is limited to surface defects and does not provide information about internal flaws, it is NOT applicable for detecting internal flaws in ceramic materials.
+
+2. Radiography: Radiography involves using X-rays or gamma rays to inspect the internal structure of a material. This technique works well on a wide range of materials, including ceramics, as it can identify defects such as voids, cracks, and inclusions without causing any damage to the material. Therefore, radiography is applicable for detecting internal flaws in ceramic materials.
+
+3. Ultrasonic testing: Ultrasonic testing uses high-frequency sound waves to detect flaws and discontinuities within a material. It measures the time taken for the ultrasonic wave to travel through the material and reflect back, which can give information about the presence of defects. Ultrasonic testing can be used for ceramic materials, as it is sensitive to internal flaws like voids and cracks.
+
+4. Eddy current method: Eddy current testing relies on the change of electrical conductivity in a material due to the presence of flaws. This technique is most commonly used with conductive materials, such as metals. Since ceramics are typically non-conductive or poor conductors of electricity, the eddy current method is NOT applicable for detecting internal flaws in ceramic materials.
+
+From the explanations above, we can conclude that techniques 1 (liquid penetration test) and 4 (eddy current method) are NOT applicable for detecting internal flaws in ceramic materials.
+
+So, the correct answer is (D) 1 and 4.

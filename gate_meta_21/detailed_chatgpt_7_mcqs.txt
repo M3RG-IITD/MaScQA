@@ -1,0 +1,11 @@
+(A) True stress is always higher than the engineering stress - This statement is TRUE.
+
+(B) At the ultimate stress point on the true stress-strain curve, dσ/dε = 0 - This statement is TRUE.
+
+(C) Resilience is the area under the elastic region of the engineering stress-strain curve - This statement is FALSE. Resilience is the energy absorbed per unit volume of a material when it is deformed elastically and then released. The correct definition of resilience is "the area under the elastic region of the stress-strain curve". It is not specific to the engineering stress-strain curve.
+
+(D) Maximum true stress does not correspond to the maximum load - This statement is TRUE. The maximum true stress will occur at the point where the stress-strain curve starts to bend over or neck. This does not necessarily correspond to the maximum load that the material can withstand. The maximum load will occur at the point of fracture, which may be at a lower load than the maximum true stress.
+
+Therefore, the false statement is (C) Resilience is the area under the elastic region of the engineering stress-strain curve. 
+
+The correct statement is "Resilience is the area under the elastic region of the stress-strain curve".

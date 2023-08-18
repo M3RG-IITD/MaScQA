@@ -1,0 +1,3 @@
+The angle between two neighboring tetrahedral bonds in a diamond cubic structure is 109.5°. 
+
+Answer: [109.5]

@@ -1,0 +1,23 @@
+Here is the information we need to match the elements with their electronic behaviour:
+
+- Copper: a metal often used for electrical wiring
+- Iron: a metal commonly found in construction materials 
+- Mercury: a liquid metal with unique properties 
+- Silicon: a non-metal often used in electronic devices 
+
+- Ferromagnetic: materials that are strongly attracted to magnets 
+- Superconducting: materials that can conduct electricity with no resistance at very low temperatures 
+- Semiconducting: materials that can conduct electricity under certain conditions, but not as well as metals 
+- Diamagnetic: materials that are weakly repelled by magnets 
+
+Using this information, we can match the elements with their electronic behaviour:
+
+- Copper: a metal often used for electrical wiring, so it is likely to be a good conductor of electricity. Therefore, it is not likely to be semiconducting or diamagnetic. It is not a liquid like mercury, so it is not likely to exhibit any unique properties like superconductivity. That leaves us with ferromagnetic as the most likely option. Answer options (A) and (C) have copper as ferromagnetic, but we need to keep going to see which option matches all of the elements. 
+
+- Iron: a metal commonly found in construction materials, so it is also likely to be a good conductor of electricity. That rules out semiconducting and diamagnetic. It is not a liquid like mercury, so it is not likely to exhibit any unique properties like superconductivity. However, iron is a well-known ferromagnetic material. Answer option (B) has iron as diamagnetic, so we can eliminate that option. 
+
+- Mercury: a liquid metal with unique properties, one of which is superconductivity. So we can eliminate any option that does not have mercury listed as such. Answer option (A) has mercury listed as diamagnetic, so we can eliminate that option. 
+
+- Silicon: a non-metal often used in electronic devices, so it is most likely a semiconducting material. That leaves us with answer option (D) as the only option that has silicon listed as semiconducting. 
+
+So the final answer is: (D) P-4, Q-3, R-1, S-2

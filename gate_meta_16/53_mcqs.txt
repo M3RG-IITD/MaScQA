@@ -1,0 +1,2 @@
+[The mould constant is 2 s/$mm^2$.] For casting a cylindrical aluminum bloom having a length of 1000 mm and diameter of 750 mm, the approximate solidification time (in minutes) estimated using Chvorinov’s rule is 
+(A) 45 (B) 316 (C) 440 (D) 620 

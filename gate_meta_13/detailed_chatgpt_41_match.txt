@@ -1,0 +1,15 @@
+P - Jigging involves the separation of particles with different densities by shaking them in water. Heavy particles settle to the bottom, and lighter particles are carried to the top.
+
+Q - Tabling involves shaking the particles in a horizontal motion with a riffled surface. The heavier particles settle in the riffles, and lighter particles are carried away.
+
+R - Heavy media separation involves the separation of materials based on their density using a dense media solution. The dense media solution sinks the denser material, while the lighter material floats.
+
+S - Flotation involves the attachment of particles to air bubbles to separate particles with different surface properties. The bubbles rise to the surface with the attached particles.
+
+From the above explanation, it can be concluded that:
+P - 2 (Difference in density)
+Q - 4 (Differential lateral movement)
+R - 1 (Modification of surface tension)
+S - 3 (Differential initial acceleration)
+
+Therefore, the correct answer is (B) P-2, Q-4, R-1, S-3.

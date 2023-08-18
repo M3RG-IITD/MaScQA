@@ -1,0 +1,5 @@
+Match the metal in Group I with its corresponding ore in Group II:
+Group I: [(P) Ni, (Q) Th, (R) Pb, (S) Sn]
+Group II: [(1) Monazite, (2) Cassiterite, (3) Penlandite, (4) Galena]
+
+Options: (A) P-1, Q-3, R-4, S-2 (B) P-4, Q-2, R-3, S-1 (C) P-3, Q-1, R-4, S-2 (D) P-2, Q-3, R-1, S-4 

@@ -1,0 +1,35 @@
+First, let's consider Henry's law for this problem. Henry's law states that the concentration of a solute in a solution is directly proportional to the partial pressure of the gas above the solution. Mathematically, this can be written as:
+
+C_gas = k_H * p_gas
+
+Where C_gas is the concentration of gas dissolved in a solution, k_H is Henry's law constant for the particular gas and solution, and p_gas is the partial pressure of the gas above the solution.
+
+Since we are given the relation between wt.%C and wt.%O, let's denote C = wt.%C and O = wt.%O. The given relation is:
+
+C * O = K
+
+We know that initially, when p_CO = 1 atm, K = 0.002. Now, let's consider the situation when p_CO = 0.1 atm.
+
+We are assuming Henry's law to be applicable. According to the given question, we know that:
+
+K1 = C1 * O1
+K2 = C2 * O2
+
+Where K1 and K2 are the values of K for the system, C1 and O1 are the initial weights for carbon and oxygen, and C2 and O2 are the weights when "$𝑝_(𝐶𝑂)$ = 0.1 atm". Since Henry's law is applicable, the ratio of the concentrations will be equal to the ratio of the partial pressures:
+
+C1 / C2 = p_CO1 / p_CO2
+O1 / O2 = p_CO1 / p_CO2
+C1 * O1 / C2 * O2 = p_CO1 / p_CO2
+
+Now, we know the values of K1, p_CO1, and p_CO2:
+
+0.002 / K2 = 1 / 0.1
+
+We can now solve for K2:
+
+K2 = 0.002 * 0.1
+K2 = 0.0002
+
+So, the value of K when the partial pressure of CO is 0.1 atm is 0.0002.
+
+The correct answer is (D) 0.0002.

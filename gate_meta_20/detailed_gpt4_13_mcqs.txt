@@ -1,0 +1,57 @@
+Let's start by working through each of the statements one by one:
+
+Statement A: To determine if the vectors are mutually perpendicular, we will calculate the dot product of each pair of vectors. If the dot product of each pair is 0, then the vectors are mutually perpendicular.
+
+1. X⋅Y = (-1)(-1) + (-1)(2) + (1)(1) = 1 - 2 + 1 = 0
+2. X⋅Z = (-1)(1) + (-1)(0) + (1)(1) = -1 + 0 + 1 = 0
+3. Y⋅Z = (-1)(1) + (2)(0) + (1)(1) = -1 + 0 + 1 = 0
+
+Since the dot product for all pairs is 0, the vectors are mutually perpendicular. Statement A is TRUE.
+
+Statement B: If the vectors are coplanar, their scalar triple product (X x Y)⋅Z will be 0.
+
+1. X x Y = i(-1(-1) - (2)(1)) - j(-1(-1) - (1)(1)) + k(-1(2) - (-1)(-1)) = i(-1 - 2) - j(1 - 1) + k(-2 - 1) = i(-3) - j(0) + k(-3) = -3i - 0j - 3k
+2. (X x Y)⋅Z = (-3)(1) + (0)(0) + (-3)(1) = -3 + 0 + (-3) = -6
+
+Since the scalar triple product is not 0, the vectors are not coplanar. Statement B is FALSE.
+
+Statement C: First, let's find the normal to the plane containing Y and Z. This can be done by finding the cross product Y x Z: 
+
+1. Y x Z = i(2(1) - (1)(0)) - j(-1(1) - (1)(1)) + k(-1(0) - (1)(1)) = i(2 - 0) - j(-1 -1) + k(0 - 1) = 2i + 2j - k
+
+Now, let's calculate the angle between X and the normal to the plane containing Y and Z.
+
+2. cos(θ) = (X ⋅ (Y x Z))/|X||Y x Z|
+   cos(θ) = ((-i - j + k) ⋅ (2i + 2j - k))/|(-i - j + k)||(2i + 2j - k)|
+
+   = ((-1)(2) + (-1)(2) + (1)(-1))/sqrt((-1)^2 + (-1)^2 + (1)^2) sqrt((2)^2 + (2)^2 + (-1)^2) 
+
+   = (-2 -2 -1)/sqrt(1+1+1) sqrt(4+4+1) = (-5)/sqrt(3) sqrt(9) = -5/(sqrt(3) * 3)
+
+   θ = arccos(-5/(sqrt(3) * 3))
+
+Approximately,
+
+   θ = 123.69°
+
+Since the angle does not equal 30°, Statement C is FALSE.
+
+Statement D: We want to find the angle between Z and the normal to the plane containing X and Y. We have already found the normal to the plane containing X and Y: X x Y = -3i - 0j - 3k
+
+1. cos(φ) = (Z ⋅ (X x Y))/|Z||X x Y|
+   cos(φ) = ((i + k) ⋅ (-3i - 3k))/|(i + k)||(-3i - 3k)|
+
+   = (1(-3) + 0(0) + (1)(-3))/sqrt((1)^2 + (0)^2 + (1)^2) sqrt((-3)^2 + (-3)^2) 
+
+   = (-3 -0 - 3)/sqrt(1+0+1) sqrt(9+9) = -6/(sqrt(2) * 6)
+
+   φ = arccos(-6/(sqrt(2) * 6))
+
+Approximately,
+
+   φ = 135°
+
+Since the angle does not equal 60°, Statement D is FALSE.
+
+Conclusion:
+Only Statement A is TRUE. The correct answer is [A].

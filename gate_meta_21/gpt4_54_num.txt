@@ -1,0 +1,25 @@
+We are given that weight gain is proportional to the square root of time. So, we can write the proportionality as:
+
+Weight gain = k * (square root of time)
+
+For the first case, weight gain = 2mg (after 400s). So, we can write:
+
+2 = k * (square root of 400)
+
+Now we solve for k:
+
+k = 2 / (square root of 400)
+k = 2 / 20
+k = 0.1
+
+Now we need to find the weight gain after 1600s. So, we plug in the time and k value:
+
+Weight gain = 0.1 * (square root of 1600)
+
+Weight gain = 0.1 * 40
+
+Weight gain = 4 mg/cm^2
+
+Since we need to round it to the nearest integer, the weight gain after a duration of 1600s is 4 mg/cm^2.
+
+The correct answer is [4].

@@ -1,0 +1,52 @@
+Step 1: Identify the known values and convert them to standard units (SI units)
+- Gas constant R = 8.314 J $mol^(-1)K^(-1)$
+- 1 atm = 101325 Pa
+- $C_p$ = 2.5 R
+- Initial pressure $P_1$ = 10 atm
+- Final pressure $P_2$ = 1 atm
+- Initial temperature $T_1$ = 300 K
+- Adiabatic process (no heat transfer)
+- 1 mole of gas (n = 1)
+
+Converting initial pressure to Pa:
+$P_1$ = 10 atm * 101325 Pa/atm = 1013250 Pa
+
+Step 2: Use the equation for reversible adiabatic process to find the final temperature $T_2$
+$P_1V_1^{gamma} = P_2V_2^{gamma}$
+$V_1 = \frac{nRT_1}{P_1}$
+$V_2 = \frac{nRT_2}{P_2}$
+
+Substituting for $V_1$ and $V_2$ and simplifying:
+$T_2 = T_1(\frac{P_2}{P_1})^{\frac{gamma-1}{gamma}}$
+where gamma ($\gamma$) = $C_p/C_v$ for an ideal gas (where $C_v$ is the specific heat capacity at constant volume)
+
+Since $C_p$ = $gamma R$, we have:
+$\gamma = \frac{C_p}{R} = \frac{2.5R}{R} = 2.5$
+Substituting all values:
+$T_2 = 300(\frac{1}{10})^{\frac{2.5-1}{2.5}} = 106.83 K$
+
+Step 3: Calculate the work done by the gas using the equation:
+$W = -\int_{V_1}^{V_2}PdV$
+
+Since the process is reversible, we can use the formula $W = -\Delta nRT$ where $\Delta n$ is the change in moles of gas (which is zero in this case since it is a one mole system). We also know that the process is adiabatic, so there is no heat transfer, i.e., $Q = 0$.
+Therefore, $\Delta U = W$
+
+Using the first law of thermodynamics $\Delta U = Q - W$ and $Q = 0$:
+$\Delta U = 0 - W$
+$W = -\Delta U$
+
+Using the equation for change in internal energy $\Delta U = C_v\Delta T$ (where $C_v$ is the specific heat capacity at constant volume for an ideal gas):
+$\Delta U = C_v\Delta T = \frac{C_p}{\gamma - 1}(\frac{P_2}{P_1})^{\frac{\gamma - 1}{\gamma}}(T_2 - T_1)$
+
+Substituting all values:
+$\Delta U = \frac{2.5R}{1.5}(1/10)^{\frac{2.5-1}{2.5}}(106.83 - 300)$
+$\Delta U = -6447.39 J$
+
+Therefore, the work done by the gas is:
+$W = -\Delta U = 6447.39 J$
+
+Step 4: Round off the answer to the nearest integer
+$W \approx 6447 J$
+
+Answer: 
+- 6447 J (rounded off to the nearest integer)

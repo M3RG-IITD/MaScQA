@@ -1,0 +1,1 @@
+[Given: density of steel = 7000 kg/$m^3$ , density of alumina = 3650 kg/$m^3$ , viscosity of steel = 6*$10^(-3)$ kg/m/s]. Ladle deoxidation of liquid steel is done at 1600°C by adding ferro-aluminium. By assuming Stokes law behaviour, time (in s) required for alumina particles of 50 µm diameter to float to the surface from a depth of 2m would be?

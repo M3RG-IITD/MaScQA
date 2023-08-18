@@ -1,0 +1,2 @@
+The pressure(P) versus volume (V) diagram given in the image represents reversible isothermal curves at temperatures, T1, T2 and T3. Considering one mole of ideal gas for all the three isothermal processes, which one of the following is TRUE?
+(A) T1> T2> T3 (B) T2>T3>T1 (C) T3>T1>T2 (D) T2<T1<T3

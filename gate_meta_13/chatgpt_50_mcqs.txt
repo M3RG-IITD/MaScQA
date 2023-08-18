@@ -1,0 +1,4 @@
+The partial molar enthalpy of mixing for Cu can be calculated using the equation:
+$$\Delta H_{Cu}^{mix} = \frac{\partial \Delta H^{mix}}{\partial \chi_{Cu}} = -19250 \chi_{Zn}$$
+
+Therefore, the correct answer is (D) $-19250 \; (\chi_{Zn})^2$.

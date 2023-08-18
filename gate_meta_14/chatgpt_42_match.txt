@@ -1,0 +1,10 @@
+The correct answer is:
+
+(C) P-4, Q-3, R-1, S-2
+
+Explanation:
+
+- Grain size strengthening (P) occurs when the grain size of a metal is reduced, which increases the number of grain boundaries that impede dislocation motion. Dislocation pileup at grain boundaries (4) is responsible for this strengthening mechanism.
+- Work hardening (Q) is the result of plastic deformation of a metal, which increases the internal dislocation density. Lomer-Cottrell barrier (3) is responsible for this strengthening mechanism.
+- Dispersion strengthening (R) occurs when small, hard particles are dispersed throughout a softer matrix, impeding dislocation motion. Suzuki interaction (1) is responsible for this strengthening mechanism.
+- Solid solution hardening (S) occurs when impurity atoms are dissolved into the metal matrix, creating lattice strain and impeding dislocation motion. Orowan looping (2) is responsible for this strengthening mechanism.

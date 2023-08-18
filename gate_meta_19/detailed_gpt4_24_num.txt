@@ -1,0 +1,38 @@
+We can approach this problem using Bragg's Law, which relates the wavelength of X-rays, the angle of incidence or reflection (θ), the crystal lattice spacing (d), and the order of reflection (n). 
+
+Step 1: Bragg's Law
+The equation is given as:
+
+n * λ = 2 * d * sin(θ),
+
+where λ is the wavelength of X-rays, d is the lattice spacing for the corresponding crystal planes (in our case, (111) planes), and θ is the Bragg angle.
+
+Step 2: Calculate the lattice spacing d
+For an FCC crystal, the interplanar distance (d) between the (hkl) planes can be calculated using the lattice parameter (a) and the Miller indices (h, k, l). The formula is:
+
+d_hkl = a / √(h^2 + k^2 + l^2),
+
+For the (111) planes, h = 1, k = 1, and l = 1. The lattice parameter a is given as 0.3615 nm. Plugging these values, we get:
+
+d_111 = 0.3615 / √(1^2 + 1^2 + 1^2) = 0.3615 / √3,
+
+d_111 = 0.3615 / 1.732 ≈ 0.2086 nm
+
+Step 3: Apply Bragg's Law to calculate the wavelength
+Now we know our d_111 spacing, and we can plug this value into Bragg's Law equation using the given Bragg angle (θ) and assuming the order of reflection (n) to be 1:
+
+1 * λ = 2 * 0.2086 * sin(21.68°),
+
+λ = 2 * 0.2086 * sin(21.68°),
+
+The sine value in degrees should be converted into radians:
+
+sin(21.68°) = sin(21.68 * π / 180) = sin(0.37814) ≈ 0.3717
+
+Now we can find the wavelength:
+
+λ = 2 * 0.2086 * 0.3717 ≈ 0.1549 nm.
+
+Rounded off to three decimal places, the wavelength of the X-rays is 0.155 nm.
+
+Answer: [0.155]

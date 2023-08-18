@@ -1,0 +1,4 @@
+Intergranular corrosion (IGC) in austenitic stainless steel occurs when the carbides precipitate at grain boundaries, leading to the depletion of chromium in those regions. This makes the steel susceptible to corrosion at these boundaries. 
+Out of the given options, the carbide that precipitates at grain boundaries in austenitic stainless steel is (A) $Cr_{23}C_6$.
+Therefore, the correct answer is:
+- (A) $Cr_{23}C_6$

@@ -1,0 +1,19 @@
+We can use the formula for modulus of Burgers' vector- 
+
+$|\vec{b}| = \frac{\mu b}{2\pi a}$
+
+where $\mu$ is the shear modulus, $a$ is the atomic diameter and $b$ is the Burgers' vector.
+
+Substituting the given values, we get
+
+$b = \frac{2\pi a|\vec{b}|}{\mu} = \frac{2\pi \times 0.25 \ nm \times |\vec{b}|}{70 \ GPa}$
+
+Converting GPa to nm$^{-2}$, we get
+
+$b = \frac{2\pi \times 0.25 \times |\vec{b}|}{70 \times 10^3}$
+
+$b = 0.00225 \times |\vec{b}|$
+
+Comparing with the options given, we see that the correct answer is:
+
+(B) 0.25 nm.

@@ -1,0 +1,15 @@
+To calculate the stress ratio, we need to look at the formula for stress ratio:
+
+Stress ratio (R) = (maximum stress)/(minimum stress)
+
+Looking at the image provided, we can see that the maximum stress is at point A and is equal to -80MPa, while the minimum stress is at point B and is equal to -20MPa.
+
+Substituting these values into the formula, we get:
+
+R = -80MPa/-20MPa
+
+R = 4
+
+Therefore, the stress ratio is 4.
+
+Answer: (A) 4

@@ -1,0 +1,7 @@
+According to the Orowan equation, the strain rate (𝜖̇) is related to dislocation density (𝜌) and dislocation velocity (𝑣) as follows:
+
+𝜖̇ ∝ 𝜌 * 𝑣
+
+Thus, we can see that (B) 𝜖̇ ∝ 𝑣 and (D) 𝜖̇ ∝ 𝜌 are correct relationships.
+
+Answer: [B, D]

@@ -1,0 +1,33 @@
+Let's denote the original interfacial energy as γ, and the new interfacial energy after increasing by 10% as γ'. Then, γ' = 1.1γ.
+
+Now, let's denote the radius of the spherical solid as r. The energy barrier for homogeneous nucleation is given by the energy of a spherical cap:
+
+E = (4πr^2)γ
+
+After the 10% increase in interfacial energy, the new energy barrier will be:
+
+E' = (4πr^2)γ'
+
+Let's now calculate the percent change in the energy barrier. The percent change is defined as:
+
+Percent Change = (E' - E) / E * 100
+
+Substitute the energy barrier expressions:
+
+Percent Change = ((4πr^2)γ' - (4πr^2)γ) / (4πr^2)γ * 100
+
+Factor out the common terms:
+
+Percent Change = (γ' - γ) / γ * 100
+
+Now, substitute the interfacial energies:
+
+Percent Change = (1.1γ - γ) / γ * 100
+
+Percent Change = (0.1γ) / γ * 100
+
+Percent Change = 0.1 * 100 = 10%
+
+Therefore, the energy barrier for homogeneous nucleation of a spherical solid from the liquid will change by 10%.
+
+The correct answer is (C) -10%. However, it should be positive instead of negative. So, the correct answer is [10%].

@@ -1,0 +1,19 @@
+In this question, we have to identify the metal working operation which can be categorized as an indirect compression process out of the given options.
+
+Let's understand each process and its categorization:
+
+(A) Forging:
+Forging is a metalworking process where a metal workpiece is compressed between two dies, which are usually heated up to increase the workability of the metal. Forging can be classified as a direct compression process because the force applied on the workpiece is directly compressive.
+
+(B) Wire Drawing:
+Wire drawing is a metalworking process which reduces the cross-sectional area of a metal wire or rod by pulling it through a series of dies, which have a progressively smaller diameter. Wire drawing can be considered as an indirect compression process because, during the operation, the metal is subjected to compressive forces indirectly as the wire passes through the dies.
+
+(C) Extrusion:
+Extrusion is a metalworking process in which a metal workpiece is forced through a shaped die, creating a continuous elongated product with a uniform cross-sectional profile. Like wire drawing, extrusion can also be categorized as an indirect compression process. In this process, the metal is subjected to compressive forces indirectly by being forced through a die, which shapes the final product.
+
+(D) Stretch Forming:
+Stretch forming is a metalworking process where a metal sheet or plate is stretched over a die, resulting in the desired shape. Stretch forming can be classified as a tension process rather than a compression process since the metal is subjected to tensile forces during the operation.
+
+Out of the given options, wire drawing (B) and extrusion (C) can be categorized as indirect compression processes.
+
+So the correct answer is [B, C].

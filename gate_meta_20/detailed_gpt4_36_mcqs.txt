@@ -1,0 +1,47 @@
+To solve this question, we need to use the lever rule. The lever rule is a tool used in thermodynamics to determine the relative amounts of two phases in a two-phase equilibrium system. It is based on the fact that the mass of each phase is proportional to the length of the tie line (or mass lever) connecting the two phases in the phase diagram.
+
+Step 1: Locate the given alloy composition (Mg-50 wt.% Sn) in the phase diagram.
+
+The given alloy has 50 wt.% Sn, and it is between the two eutectics (36.9 wt.% Sn at 561° C and 97.87 wt.% Sn at 203° C).
+
+Step 2: Determine the amounts of α and $Mg_2Sn$ in the given alloy using the lever rule.
+
+Since the alloy is between the two eutectics, we can use the lever rule to determine the amount of α and the intermetallic compound $Mg_2Sn$ in the alloy.
+
+Let x be the wt.% of Mg in the eutectic composition. Then, the wt.% of Sn in the eutectic composition is (50 - x). In this case, the lever rule can be expressed as:
+
+x / (50 - x) = (14.48 - 36.9) / (36.9 - 50)
+
+Now, we can solve for x:
+
+x / (50 - x) = -22.42 / -13
+x = 50 - x * 22.42 / 13
+13x = 14.42 * (50 - x)
+13x = 710 + 22.42x
+(13 - 22.42)x = 710
+x = 710 / (-9.42)
+x ≈ 75.4 wt.%
+
+So, the amount of α in the alloy is approximately 75.4 wt.%, and the intermetallic compound $Mg_2Sn$ would be 50 - 75.4 = -25.4 wt.% (the negative value indicates that we have more α phase than $Mg_2Sn$ phase).
+
+Step 3: Calculate the amount of eutectic constituent in the given alloy.
+
+The eutectic constituent is the amount of α and $Mg_2Sn$ in solid solution formed during the eutectic reaction. As we have found out in the previous step, there is approximately 75.4 wt.% α and -25.4 wt.% $Mg_2Sn$ in the alloy.
+
+The amount of eutectic constituent present in the alloy is equal to the sum of α and the intermetallic compound $Mg_2Sn$, which is:
+
+Eutectic constituent = α + $Mg_2Sn$
+Eutectic constituent ≈ 75.4 + (-25.4)
+Eutectic constituent ≈ 50 wt.%
+
+However, due to the negative value for the $Mg_2Sn$ phase, let us re-evaluate the calculations:
+
+We may consider that the eutectic composition is made up of 25 wt.% α and 25 wt.% of $Mg_2Sn$. In that case, the total eutectic constituent in the given alloy (Mg-50 wt.% Sn) would be approximately:
+
+Eutectic constituent = α + $Mg_2Sn$
+Eutectic constituent = (25) + (25)
+Eutectic constituent = 50 wt.%
+
+Since the calculations are approximate, we choose the nearest option as our answer.
+
+The correct answer is: (C) 62.

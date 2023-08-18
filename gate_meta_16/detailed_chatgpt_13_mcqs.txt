@@ -1,0 +1,25 @@
+In a hexagonal-closed packed (HCP) structure, the atoms are arranged in layers with a stacking sequence of ABABAB..., where the first layer is the hexagonal close packed layer, and then the second layer is placed in the depressions formed between the atoms in the first layer, and so on. The crystal can be viewed as a close-packed plane hexagonal lattice with an additional set of atoms (one-eighth of an atom per unit cell) in the centers of the triangles formed by the lattice.
+
+The c/a ratio is the ratio of the vertical height (c-axis) to the horizontal length (a-axis) of the unit cell. For an HCP structure, the c/a ratio is approximately 1.633.
+
+The packing efficiency is the proportion of space in a crystal that is occupied by atoms. For an HCP structure, the packing efficiency is calculated as follows:
+
+First, calculate the volume of the unit cell:
+
+V_cell = (3/2)√3a^2c
+
+where a is the length of the side of the hexagonal base and c is the height of the cell.
+
+Second, calculate the volume of the atoms in the unit cell:
+
+V_atoms = (number of atoms in unit cell)(4/3)π(r_atom)^3
+
+where r_atom is the radius of the atom. For an HCP structure, there are two atoms per unit cell.
+
+Finally, calculate the packing efficiency:
+
+packing efficiency = V_atoms / V_cell
+
+For an HCP structure, the packing efficiency is approximately 74%.
+
+Therefore, the correct answer is (B) 1.633 and 74%.

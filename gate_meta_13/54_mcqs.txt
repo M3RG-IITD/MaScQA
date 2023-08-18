@@ -1,0 +1,2 @@
+An edge dislocation is present in α-Fe. Atomic diameter of iron atom is 0.25 nm and its shear modulus is 70 GPa. Modulus of the Burgers vector (in nm) is
+(A) 0.125 (B) 0.25 (C) 0.50 (D) 0.625 

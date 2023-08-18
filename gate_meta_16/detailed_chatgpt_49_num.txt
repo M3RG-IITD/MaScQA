@@ -1,0 +1,19 @@
+When a tensile stress is applied along the [100] direction in an FCC crystal, there are various slip systems that can get activated. However, we need to determine the slip system that has the lowest critical resolved shear stress (CRSS). The CRSS for a particular slip system is given by:
+
+$\tau_{\text{CRSS}} = \dfrac{\sigma}{\sqrt{2}}$
+
+where $\sigma$ is the tensile stress applied along the given direction.
+
+For an FCC crystal, the [100] direction is normal to the (010) slip plane, while the [010] direction is normal to the (001) slip plane. The (111) slip plane is such that it intersects the [101] and the [$\bar{1}$01] directions. Therefore, slip on the (111) plane occurs by the movement of partial dislocations on the {110} planes.
+
+The resolved shear stress on the (111) plane can be resolved along the [101] and the [$\bar{1}$01] directions as follows:
+
+$\tau_{\text{111}} = \dfrac{\sigma}{\sqrt{2}} \cos{\dfrac{\pi}{6}} = \dfrac{\sqrt{3}}{4} \sigma$
+
+Therefore, the tensile stress required for slip to initiate on the (111) slip plane is given by:
+
+$\sigma_{\text{111}} = \dfrac{4}{\sqrt{3}} \tau_{\text{111}} = \dfrac{4}{\sqrt{3}} \times 6 = 8.77\text{ MPa}$
+
+Therefore, the answer is:
+
+- The tensile stress required for initiating slip on the (111) slip plane is 8.77 MPa.

@@ -1,0 +1,2 @@
+Given: $ΔH_(mix)^(solid)$ - Enthalpy of mixing of solid, $ΔH_(mix)^(liquid)$- Enthalpy of mixing of liquid. The condition for getting the binary phase diagram of A-B (shown below) is:
+(A) $ΔH_(mix)^(solid)$ = 0 and $ΔH_(mix)^(liquid)$ = 0 (B) $ΔH_(mix)^(solid)$ << 0 and $ΔH_(mix)^(liquid)$ = 0 (C) $ΔH_(mix)^(solid)$ > 0 and $ΔH_(mix)^(liquid)$ = 0 (D) $ΔH_(mix)^(solid)$ = 0 and $ΔH_(mix)^(liquid)$ << 0

@@ -1,0 +1,1 @@
+If 2 moles of Au and 3 moles of Ag are mixed to form a single-phase ideal solid solution, what is the total entropy of mixing in J K-1 rounded off to one decimal place? Given: Gas constant R = 8.314 J $K^(-1)mol^(-1)$

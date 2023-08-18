@@ -1,0 +1,13 @@
+A hydrometallurgical operation is a technique that utilizes aqueous solutions (liquids containing water) to extract metals from their ores. Let's analyze each of the given options to determine which one is a hydrometallurgical operation.
+
+A) Roasting: Roasting is a pyrometallurgical process, where the concentrated ore is heated in the presence of oxygen to convert the metal sulfides to metal oxides. This process typically does not involve aqueous solutions, so it is not a hydrometallurgical operation.
+
+B) Leaching: Leaching is a hydrometallurgical process, which involves the use of an aqueous solution to extract metals from their ores. In leaching, the desired metals are dissolved in a solvent (typically an acid, base, or water), and the dissolved metals are then recovered from the solution. Leaching is mainly used for extracting metals from their low-grade ores and concentrates.
+
+C) Zone refining: Zone refining is a technique used to purify metals by creating a solid-state diffusion zone that moves through the metal, carrying impurities along with it. This is a physical process rather than a chemical process, and therefore not considered hydrometallurgical.
+
+D) Smelting: Smelting is another pyrometallurgical process in which a metal is extracted from its ore using heat and a chemical reducing agent (typically carbon or a carbonaceous substance). Like roasting, smelting does not involve aqueous solutions, so it is not a hydrometallurgical operation.
+
+Based on the analysis of the given options, we can conclude that the correct answer is:
+
+[B]

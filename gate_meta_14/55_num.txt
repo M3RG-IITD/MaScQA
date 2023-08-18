@@ -1,0 +1,1 @@
+A glass fibre reinforced epoxy composite is made with 60 wt.% unidirectional continuous glass fibres. The elastic moduli of the glass fibre and the epoxy matrix are 72.5 and 2.4 GPa, respectively. What is the elastic modulus of this composite along the fibre direction, in GPa? The densities of glass fibre and epoxy are $2.58 g/cm^3$ and 1.14 $g/cm^3$, respectively.

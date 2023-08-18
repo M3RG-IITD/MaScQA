@@ -1,0 +1,9 @@
+P. Galvanic corrosion occurs when two different metals with different corrosion potentials are in contact with each other and an electrolyte. The more anodic metal corrodes while the cathodic metal stays protected. Example: (3) Brass fittings joined with lead-tin solder.
+
+Q. Filiform corrosion is a type of corrosion that occurs under a coating as a result of the coating being breached. The metal will oxidize and corrode beneath the coating in what appears to be small filaments. Example: (1) Season cracking in brass.
+
+R. Stress corrosion cracking occurs when a metal is exposed to a corrosive environment and experiences a sustained tensile stress. The corrosion then propagates through the metal along the direction of the applied stress. Example: (2) Nut-bolt assembly with gasket.
+
+S. Crevice corrosion occurs when there is a small gap or crevice between two surfaces, such as a bolt and a plate or two pipes in contact. This gap can trap an electrolyte, causing localized corrosion. Example: (4) Painted food can.
+
+Therefore, the correct matching is: (C) P-3, Q-4, R-1, S-2.

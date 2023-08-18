@@ -1,0 +1,48 @@
+We are given the following information:
+
+- Density of oxide: 6.5 g/cm³
+- Parabolic rate constant: 3 x 10^(-6) g²/cm⁴/s
+- Final thickness of oxide film: 2 µm (we want to find the time it takes to reach this thickness)
+
+The parabolic rate law states that the weight gain (or thickness) of an oxide film per unit area is proportional to the square root of time. Mathematically, this can be represented as:
+
+W = Kₚ * √t
+
+Where W is the weight gain per unit area, Kₚ is the parabolic rate constant, and t is the time.
+
+First, we need to convert the thickness of the oxide film into a weight gain per unit area. To do this, we can use the formula:
+
+W = ρ * x
+
+Where ρ is the density of the oxide (6.5 g/cm³), and x is the thickness of the oxide film (2 µm). 
+
+Convert the thickness into cm:
+
+2 µm = 2 x 10^(-4) cm
+
+Now calculate the weight gain per unit area:
+
+W = (6.5 g/cm³) * (2 x 10^(-4) cm)
+W = 1.3 x 10^(-3) g/cm²
+
+Now that we have the weight gain per unit area, W, we can solve for the time t using the parabolic rate law equation:
+
+1.3 x 10^(-3) g/cm² = (3 x 10^(-6) g²/cm⁴/s) * √t
+
+To solve for t, we first divide both sides by the parabolic rate constant, 3 x 10^(-6) g²/cm⁴/s:
+
+(1.3 x 10^(-3) g/cm²) / (3 x 10^(-6) g²/cm⁴/s) = √t
+
+4.333 x 10^(3) s^(1/2) = √t
+
+Now we square both sides to eliminate the square root:
+
+(4.333 x 10^(3) s^(1/2))^2 = t
+
+1.879 x 10^(7) s = t
+
+Finally, rounding to two decimal places, the time taken for the oxide film to grow to a thickness of 2 µm is:
+
+t ≈ 1.88 x 10^(7) s
+
+Therefore, the answer is [1.88 x 10^(7)].

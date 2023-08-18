@@ -1,0 +1,15 @@
+The correct sequence of steelmaking operations is:
+
+(A) BOF → LF → VD → CC
+
+Here is a detailed explanation of each step:
+
+1. BOF (Basic Oxygen Furnace): This is the first step in steelmaking. In the BOF process, the molten iron from the blast furnace is combined with scrap steel and other alloys. Pure oxygen is then blown into the mixture, which helps to remove impurities such as carbon, silicon, and manganese. This produces a more refined steel that is ready for further processing.
+
+2. LF (Ladle Furnace): After the BOF process, the steel is transferred to a ladle furnace. Here, the steel is further refined by adding alloys and adjusting its temperature and chemical composition. LF is an optional step depending on the desired specifications of the final product.
+
+3. VD (Vacuum Degassing): The steel is then transferred to a vacuum degassing chamber. Here, unwanted gases such as oxygen, nitrogen, and hydrogen are removed from the steel. This process helps to improve the steel's purity, homogeneity, and ductility.
+
+4. CC (Continuous Casting): Finally, the steel is cast into billets or slabs using a continuous casting process. In this process, the steel is continuously fed into a mold where it solidifies and is gradually withdrawn from the mold. This produces a product with a consistent shape, size, and internal structure.
+
+Therefore, option (A) is the correct sequence of steelmaking operations.

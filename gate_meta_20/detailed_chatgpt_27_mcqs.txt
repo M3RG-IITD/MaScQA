@@ -1,0 +1,17 @@
+To determine which dislocation reaction is not feasible in a FCC crystal, we need to analyze each reaction and check if it violates the von Mises criterion. The von Mises criterion states that a material will yield when the von Mises stress (a combination of normal and shear stresses) exceeds a certain value, which depends on the material's properties.
+
+(A) (1/2)[0 -1 1] → (1/6)[1 -2 1] + (1/6)[-1 -1 2]:
+This dislocation reaction can occur in a FCC crystal since it involves the glide of a partial dislocation on a {111} plane. It does not violate the von Mises criterion.
+
+(B) (1/2)[1 -1 0] + (1/2)[1 -1 0] → [1 -1 0]:
+This dislocation reaction can occur in a FCC crystal since it involves the glide of two partial dislocations on {111} planes. It does not violate the von Mises criterion.
+
+(C) (1/6)[1 1 -2] + (1/3)[1 1 1] → (1/2)[1 1 0]:
+This dislocation reaction can occur in a FCC crystal since it involves the glide of a full dislocation on a {110} plane. It does not violate the von Mises criterion.
+
+(D) (1/2)[-1 0 1] → (1/6)[-2 1 1 ] + (1/6)[-1 -1 2]:
+This dislocation reaction cannot occur in a FCC crystal since it involves the glide of a full dislocation on a {101} plane. In a FCC crystal, {101} planes do not exist since they would result in tetrahedral voids. Therefore, this dislocation reaction violates the crystal structure and is not feasible in a FCC crystal.
+
+Therefore, the correct answer is:
+
+(D) (1/2)[-1 0 1] → (1/6)[-2 1 1 ] + (1/6)[-1 -1 2]

@@ -1,0 +1,66 @@
+To solve this problem, we need to find the ideal plastic work of deformation per unit volume. We will use the following steps:
+
+Step 1: Find the strain and true stress from the given equations.
+
+Step 2: Calculate the true strain before and after deformation.
+
+Step 3: Calculate the ideal plastic work per unit volume.
+
+Here's a step-by-step explanation of the process:
+
+Step 1: Find the true stress and strain from the given equation:
+
+The given equation is flow behavior equation: 𝜎 = 350 $𝜖^(0.3)$ MPa
+
+Here, 𝜎 is the true stress and 𝜖 is the true strain.
+
+Step 2: Calculate the initial and final true strain values:
+
+We have an initial diameter d₁ = 30 mm and final diameter d₂ = 20 mm. We know that volume will be conserved during cold extrusion, so 𝑉₁ = 𝑉₂, where 𝑉₁ and 𝑉₂ are initial and final volume, respectively.
+
+Since the specimen is cylindrical, we can express volume as the product of cross-sectional area and height: 𝑉 = 𝜋 * 𝑟^² * h, where r = radius and h = height.
+
+From volume conservation: 𝜋 * 𝑟₁² * h₁ = 𝜋 * 𝑟₂² * h₂
+
+By dividing both sides with 𝜋: r₁² * h₁ = r₂² * h₂
+
+Let's find the initial and final radius values:
+
+r₁ = d₁ / 2 = 30 mm / 2 = 15 mm
+r₂ = d₂ / 2 = 20 mm / 2 = 10 mm
+
+Now, let's express the height ratio using the given diameter values:
+
+h₂ / h₁ = (r₁²) / (r₂²) = (15²) / (10²) = 2.25
+
+Now, we calculate the true strain values, which are the natural logarithm of height ratio (since volume is constant, the true strain in one direction is equal and opposite to the true strain in the other direction):
+
+The true strain is given by 𝜖 = ln(h₂ / h₁)
+
+𝜖 = ln(2.25) = 0.8109
+
+Step 3: Calculate the ideal plastic work per unit volume:
+
+Since we have the true strain value, we can find the corresponding true stress value using the given equation:
+
+𝜎 = 350 * 𝜖^(0.3)
+𝜎 = 350 * (0.8109^0.3) = 587.645 MPa
+
+Now, we can calculate the ideal plastic work (W) per unit volume:
+
+W = ∫ 𝜎 d𝜖 (integral of true stress over true strain)
+
+For an ideal plastic material, 𝜎 is constant for the given deformation process. So, the integral will be:
+
+W = 𝜎 * (𝜖₂ - 𝜖₁)
+
+Since the initial true strain, 𝜖₁, is 0, the equation becomes:
+
+W = 𝜎 * 𝜖₂
+
+W = 587.645 MPa (0.8109)
+W = 476.753 MJ/m³
+
+Rounded off to the nearest integer, we get the ideal plastic work per unit volume W = 477 MJ/m³.
+
+Therefore, the correct answer is [477 MJ/m³].

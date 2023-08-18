@@ -1,0 +1,14 @@
+To find the weight percent of FeO in DRI, we can use the following formula:
+
+Weight percent of FeO = (Total Fe - Metallic Fe) / Total wt.% composition * 100
+
+Given:
+Total Fe = 92 wt.%
+Metallic Fe = 84 wt.%
+
+Weight percent of FeO = (92 - 84) / 100 * 100
+Weight percent of FeO = 8 wt.%
+
+Thus, the weight percent of FeO in DRI is 8%.
+
+Answer: [8]

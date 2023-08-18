@@ -1,0 +1,21 @@
+Step 1: Identify the reactants
+
+In this case, the reactants are zinc metal (Zn) and hydrochloric acid (HCl).
+
+Step 2: Write the balanced chemical equation
+
+The balanced chemical equation for the reaction between zinc and hydrochloric acid is:
+
+Zn (s) + 2HCl (aq) → ZnCl₂ (aq) + H₂ (g)
+
+Step 3: Analyze the products
+
+According to the balanced chemical equation, the products of the reaction are zinc chloride (ZnCl₂) and hydrogen gas (H₂).
+
+Step 4: Identify the correct option based on the products
+
+As we can see, hydrogen gas (H₂) is evolved during the reaction. Therefore, the correct option is:
+
+(A) Evolution of hydrogen
+
+So, the correct answer is [A].

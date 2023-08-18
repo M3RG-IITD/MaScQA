@@ -1,0 +1,5 @@
+The amplitude ratio is defined as the ratio of the amplitude of output signal to the amplitude of input signal. From the given figure, we can see that the amplitude of output signal is one third of the amplitude of input signal. Thus, the amplitude ratio is:
+
+Amplitude ratio = amplitude of output signal / amplitude of input signal = 1/3
+
+Therefore, the correct answer is (B) 1/3.

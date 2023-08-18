@@ -1,0 +1,31 @@
+To find the width of the fusion zone, we need to determine when the temperature profile is at the melting point of the base material, which is 1500 K. 
+
+1. Set the temperature function equal to the melting point:
+
+2000 * exp(-0.3*x^2) = 1500
+
+2. Divide both sides by 2000:
+
+exp(-0.3*x^2) = 1500/2000
+exp(-0.3*x^2) = 0.75
+
+3. Take the natural logarithm of both sides to get rid of the exponential function:
+
+-0.3*x^2 = ln(0.75)
+
+4. Divide both sides by -0.3:
+
+x^2 = ln(0.75) / -0.3
+
+5. Calculate the value of x:
+
+x = sqrt(ln(0.75) / -0.3)
+x ≈ ±1.151
+
+The distance from the center is in both positive and negative directions, We have found the distance from the center to one side of the fusion zone, so to find the width, we need to add both distances together:
+
+width = 1.151 + 1.151 ≈ 2.30
+
+Therefore, the width of the fusion zone is approximately 2.30 mm.
+
+Answer: [2.30]

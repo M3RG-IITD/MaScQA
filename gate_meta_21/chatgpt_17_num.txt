@@ -1,0 +1,33 @@
+We can use the following equation to relate the free energy change to the enthalpy and temperature:
+
+$\Delta G = \Delta H - T\Delta S$
+
+Since the question asks for the free energy change for the transformation from liquid to solid, we know that the entropy change will be negative (i.e. the solid state has lower entropy than the liquid state). Therefore, we can write:
+
+$\Delta G = \Delta H - T\Delta S \approx \Delta H$
+
+where we have ignored the entropy term.
+
+To calculate the enthalpy change for the transformation, we can use the following equation:
+
+$\Delta H = n\cdot\Delta H_{melt}$
+
+where $\Delta H_{melt}$ is the enthalpy of melting, and $n$ is the number of moles of Cu. We can calculate the number of moles using the molar mass of Cu:
+
+$m_{Cu} = 63.55~g/mol$
+
+$n = \frac{m}{m_{Cu}} = \frac{1~mol}{63.55~g/mol} = 0.0157~mol$
+
+Therefore:
+
+$\Delta H = n\cdot\Delta H_{melt} = 0.0157~mol \cdot 13400~J/mol = 211~J$
+
+Finally, we can calculate the free energy change at the given temperature:
+
+$\Delta G = \Delta H = 211~J$
+
+Rounding to the nearest integer, we get:
+
+$\Delta G \approx 211~J/mol \approx \boxed{211}~J/mol$ 
+
+Answer: 211 J/mol

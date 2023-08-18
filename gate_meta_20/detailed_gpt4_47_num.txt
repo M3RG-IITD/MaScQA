@@ -1,0 +1,61 @@
+To solve this problem, we will analyze the forces acting on the ball at point C and perform a force balance. Since there is no slip between the ball and the mill wall, we only need to consider the centrifugal force and the gravitational force acting on the ball at point C.
+
+Let's denote the centrifugal force as F_c and the gravitational force as F_g.
+
+Given:
+
+1. Inner diameter of the ball mill (D) = 3.26 m
+2. Acceleration due to gravity (g) = 9.8 m/s²
+3. ∠BOC = 120°
+
+We need to find the rotational speed of the mill (N) in RPM.
+
+Step 1: Calculate the radius of the ball mill:
+
+Since the diameter of the ball mill is given, we can find the radius (R) by dividing the diameter by 2.
+
+R = D / 2
+R = 3.26 m / 2
+R = 1.63 m
+
+Step 2: Calculate the centrifugal force acting on the ball at point C:
+
+F_c = m * R * ω²
+where m is the mass of the ball and ω is the angular velocity in rad/s.
+
+Step 3: Decompose the gravitational force acting on the ball at point C:
+
+F_g can be decomposed into two components: one along the wall tangent (F_x) and one perpendicular to the wall (F_y).
+
+F_x = m * g * cos(120°)
+F_y = m * g * sin(120°)
+
+Step 4: Perform force balance:
+
+At point C, the perpendicular component of gravity (F_y) is equal to the centrifugal force (F_c):
+
+F_y = F_c
+m * g * sin(120°) = m * R * ω²
+
+Rearranging the equation for ω:
+
+ω² = g * sin(120°) / R
+ω = sqrt(g * sin(120°) / R)
+
+Step 5: Convert angular velocity to RPM:
+
+N = ω * (60 / 2π)
+where N is the rotational speed in RPM.
+
+Calculating the values:
+
+ω = sqrt(9.8 m/s² * sin(120°) / 1.63 m)
+ω ≈ sqrt(15.62)
+ω ≈ 3.95 rad/s
+
+N = 3.95 (rad/s) * (60 / 2π)
+N ≈ 37.7 RPM
+
+So, the rotational speed of the mill is approximately 37.7 RPM or 37.7 RPM to one decimal place.
+
+The correct answer is [37.7].

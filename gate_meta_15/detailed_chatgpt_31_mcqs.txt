@@ -1,0 +1,17 @@
+We can use Le Chatelier's principle to determine which conditions will favour the forward reaction. According to the principle, if a system at equilibrium is subjected to a change in temperature, pressure or concentration, the system will shift its equilibrium position in a way that tends to counteract the change.
+
+In this reaction, the forward reaction is the one that produces CO gas, while the reverse reaction is the one that produces CO2 gas. To favour the forward reaction, we need to shift the equilibrium position to the right, meaning we need to increase the concentration of CO gas.
+
+A. Increasing both temperature and pressure:
+According to Le Chatelier's principle, increasing pressure will tend to shift the equilibrium position to the side with fewer moles of gas. In this case, the left side has one solid and one gas, while the right side has two gases. Therefore, increasing pressure will tend to shift the equilibrium position to the left, favouring the reverse reaction. Increasing temperature also tends to favour the reverse reaction, as this reaction is exothermic (-∆𝐻°). Therefore, option A will not favour the forward reaction.
+
+B. Decreasing temperature and increasing pressure:
+Decreasing temperature tends to favour the reaction that produces heat, which in this case is the forward reaction. Increasing pressure, as discussed above, tends to shift the equilibrium position to the side with fewer moles of gas. Therefore, this option will favour the forward reaction.
+
+C. Decreasing both temperature and pressure:
+Decreasing temperature tends to favour the forward reaction, while decreasing pressure tends to favour the reverse reaction. Therefore, this option will not favour either reaction.
+
+D. Increasing temperature and decreasing pressure:
+Increasing temperature tends to favour the reverse reaction, while decreasing pressure tends to favour the forward reaction. Therefore, this option will favour the forward reaction.
+
+Therefore, the correct answer is (B) Decreasing temperature and increasing pressure.

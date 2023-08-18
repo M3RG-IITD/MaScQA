@@ -1,0 +1,20 @@
+We can use the Griffith's theory of brittle fracture to solve this problem. According to this theory, the fracture of a brittle material is caused by the propagation of a crack due to the release of stored elastic energy. The critical condition for crack growth is when the increase in potential energy due to crack growth is equal to the decrease in potential energy due to the release of stored elastic energy.
+
+The stress required to initiate crack growth can be found by equating the energy release rate (G) to the surface energy of the material (γ).
+
+G = (E*δ^2)/(π*a), where E = young's modulus, δ = crack length, and a = half length of the crack.
+
+γ = (2*G)/π*a
+
+Solving for stress (σ) at fracture,
+
+σ = (2*γ*E)/(π*δ)
+
+Putting in the values,
+
+σ = (2*0.5*10^-3*60*10^9)/(π*2*10^-6)
+σ = 1.92 GPa = 1920 MPa (approx)
+
+Therefore, the fracture strength of the material is 1920 MPa.
+
+Answer: [1920]

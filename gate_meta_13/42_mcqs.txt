@@ -1,0 +1,2 @@
+Determine the correctness or otherwise of the following Assertion (a) and Reason (r). Assertion: For the extraction of metal values from their sulphide concentrates by hydrometallurgical route, leaching with oxygen under high pressure is used. Reason: Presence of oxygen under high pressure causes roasting of sulphides, which helps in leaching of the values.
+(A) a is true but r is false (B) a is false but r is true (C) both a and r are true, and r is the reason for a (D) both a and r are true, but r is not the reason for a

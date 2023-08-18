@@ -1,0 +1,2 @@
+The figure below shows water flowing through a pipe. The pressure difference between points P and Q measured using a water-over-mercury manometer is
+(A) $𝜌_(2)𝑔H$ (B) $𝜌_(1)𝑔ℎ$ (C) ($𝜌_2$ − $𝜌_1$)𝑔𝐻 (D) ($𝜌_2$ − $𝜌_1$)𝑔h

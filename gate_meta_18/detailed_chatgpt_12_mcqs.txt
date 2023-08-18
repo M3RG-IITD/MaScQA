@@ -1,0 +1,13 @@
+From the given differential of Gibbs free energy, we can write:
+
+$$dG = -SdT + VdP + \sum_{i=1}^{K} \mu_i dn_i$$
+
+Taking partial derivative of $-SdT+VdP$ with respect to $T$ and $P$ respectively, we get:
+
+$$\left(\frac{\partial (-S)}{\partial P}\right)_T = \left(\frac{\partial V}{\partial T}\right)_P$$
+
+$$\left(\frac{\partial V}{\partial T}\right)_P = -\left(\frac{\partial S}{\partial P}\right)_T $$
+
+Thus, the correct option is:
+
+(D) $\left(\frac{\partial S}{\partial P}\right)_T = \left(\frac{\partial V}{\partial P}\right)_T$

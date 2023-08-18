@@ -1,0 +1,29 @@
+We can use Bernoulli's equation to determine the initial mass flow rate through the nozzle:
+
+$\frac{1}{2}\rho v^2 + \rho gh = \text{constant}$
+
+At the surface of the liquid metal column, the velocity of the fluid is zero, so we can simplify the equation to:
+
+$\rho gh = \frac{1}{2}\rho v^2$
+
+Solving for velocity, we get:
+
+$v = \sqrt{2gh}$
+
+The diameter of the nozzle is given as 30 mm, so the cross-sectional area is:
+
+$A = \frac{\pi}{4}d^2 = \frac{\pi}{4}(0.03\text{ m})^2 = 7.07 \times 10^{-4} \text{ m}^2$
+
+The mass flow rate is given by:
+
+$\dot{m} = \rho AvC$
+
+where C is the discharge coefficient of the nozzle. 
+
+Substituting in the given values, we get:
+
+$\dot{m} = (7000 \text{ kg/m}^3)(7.07 \times 10^{-4} \text{ m}^2)(\sqrt{2gh})(0.80) = 28.67 \text{ kg/s}$
+
+Therefore, the initial mass flow rate through the nozzle is 28.67 kg/s. 
+
+Answer: [28.67 kg/s]

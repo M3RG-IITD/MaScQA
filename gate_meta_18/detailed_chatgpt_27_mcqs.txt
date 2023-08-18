@@ -1,0 +1,5 @@
+Assertion [A] is true. This is because Coble creep is diffusion-controlled creep that occurs when the material is subject to tensile stresses at high temperature. Coble creep is characterized by the diffusion of vacancies through grain boundaries, and therefore a reduction in grain size would result in a smaller diffusion path and hence an increase in creep rate.
+
+Reason [R] is also true. Grain boundaries act as a barrier to motion of dislocations. In materials where dislocation creep is the dominant mechanism, a reduction in grain size leads to a more refined microstructure, which results in an increased number of grain boundaries. Dislocations have to overcome the barrier presented by these grain boundaries and as a result, the material exhibits an increased resistance to dislocation motion. 
+
+Therefore, the correct answer is (B) Both [A] and [R] are true, but [R] is not the correct reason for [A].

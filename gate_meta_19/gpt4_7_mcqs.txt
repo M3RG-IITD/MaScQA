@@ -1,0 +1,21 @@
+We need to apply the Buckingham Π theorem to determine the number of independent dimensionless variables needed to describe the phenomenon.
+
+First, determine the number of physical variables (n) in the functional relationship: U = f(d, W, µ, ρ)
+
+We have n = 5 (U, d, W, µ, ρ)
+
+Now, determine the number of fundamental dimensions (m) involving the physical variables:
+
+We have 3 fundamental dimensions: Length (L), mass (M), and time (T)
+
+So, m = 3
+
+Finally, according to the Buckingham Π theorem, the number of independent dimensionless variables (p) needed to describe the phenomenon is given by:
+
+p = n - m
+
+p = 5 - 3
+
+p = 2
+
+Thus, the correct answer is (B) 2. Answer: [2].

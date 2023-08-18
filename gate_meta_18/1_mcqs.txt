@@ -1,0 +1,2 @@
+For a laminar flow of a liquid metal over a flat plate, the thicknesses of the velocity and thermal boundary layers are $𝛿_𝑣$ and $𝛿_𝑡$ respectively. Kinematic viscosity (viscosity/density) of liquid metal is significantly lower than its thermal diffusivity [thermal conductivity / (density × specific heat)]. Based on this information, pick the correct option. (Note: The temperature of the liquid metal is different from that of the plate).
+(A) $𝛿_𝑣$ < $𝛿_𝑡$ (B) $𝛿_𝑣$ > $𝛿_𝑡$ (C) $𝛿_𝑣$ = $𝛿_𝑡$ (D) Information insufficient

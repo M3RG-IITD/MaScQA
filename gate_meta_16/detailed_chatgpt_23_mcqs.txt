@@ -1,0 +1,17 @@
+Dye-penetrant test is a non-destructive testing method used to detect surface-breaking defects in materials. The correct statement among the options given is:
+
+(C) Surface oxides help in crack identification.
+
+Explanation:
+
+In the dye-penetrant test, a liquid dye penetrant is applied to the surface of the material being tested. The dye penetrates into any surface-breaking defects, such as cracks, voids, or porosity, by capillary action. After allowing sufficient time for the dye to penetrate, excess dye is removed from the surface, and a developer is applied to draw the penetrant out of the defect to make it visible.
+
+Surface oxides can help in crack identification in the dye-penetrant test. This is because the penetrant can penetrate more easily into the cracks through the oxide layer. Surface preparation, including cleaning and removal of surface oxides, is required to ensure that the penetrant can penetrate into the defects easily.
+
+Pre- and post-cleaning of parts are usually required in the dye-penetrant test. This is because any grease, oil, or other contaminants on the surface can interfere with the penetration of the dye, while any excess dye left on the surface after testing can also interfere with subsequent processes.
+
+The dye-penetrant test can only detect defects that are open to the surface. It cannot detect internal defects unless they are connected to the surface through a crack or other opening. Therefore, option (B) is incorrect.
+
+The contact angle of the dye on the surface is also important in the dye-penetrant test. Dye with a low contact angle can penetrate more easily into small cracks and defects. However, option (D) is incorrect as it does not specify the specific contact angle value required.
+
+Therefore, the correct answer is option (C): Surface oxides help in crack identification.

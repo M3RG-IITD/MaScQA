@@ -1,0 +1,7 @@
+Austenitic stainless steels are prone to weld decay due to the formation of carbides during welding. These carbides can cause sensitization of the material, leading to intergranular corrosion.
+
+To avoid weld decay of austenitic stainless steels, we need to eliminate strong carbide formers. This can be achieved by adding elements such as titanium or niobium to the material, which will form more stable carbides and prevent sensitization.
+
+Therefore, the correct answer is:
+
+- (C) Eliminating strong carbide formers.

@@ -1,0 +1,18 @@
+Let's first understand the crystal structures associated with each phase of steel in Group I:
+
+P. Martensite: Martensite is a highly strained and very hard phase formed during the heat treatment process called quenching. It has a Body-Centered Tetragonal (bct) structure.
+
+Q. Cementite: Cementite (also known as iron carbide, Fe3C) is a hard, brittle compound that appears in steel as a result of the decomposition of austenite. It has an Orthorhombic crystal structure.
+
+R. Austenite: Austenite is a high-temperature phase of steel characterized by a Face-Centered Cubic (fcc) structure. It is important for heat treatment, as it can be transformed into martensite by rapid cooling (quenching) or into other microstructures by slower cooling.
+
+S. Ferrite: Ferrite, also known as alpha iron, is a phases of steel with low carbon content and relatively soft and ductile. It has a Body-Centered Cubic (bcc) crystal structure.
+
+Now let's match these with the crystal structures given in Group II:
+
+P. Martensite - 3. bct
+Q. Cementite - 4. Orthorhombic
+R. Austenite - 2. fcc
+S. Ferrite - 1. bcc
+
+So, the correct answer is: (C) P-3, Q-4, R-2, S-1.

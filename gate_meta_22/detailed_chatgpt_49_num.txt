@@ -1,0 +1,32 @@
+The cell reaction is:
+$$\mathrm{Cl_2}\;(g) + 2\; \mathrm{Pb}(s) + \mathrm{2 KCl}(l) \to \mathrm{2\;PbCl_2}(l) + 2\;\mathrm{K}(s)$$
+
+The standard Gibbs energy change of the cell reaction can be calculated as:
+$$\Delta_r G^\circ = -nFE^\circ_{cell}$$
+where $n=2$ is the number of electrons transferred in the cell reaction, $F$ is the Faraday constant, and $E^\circ_{cell}$ is the standard cell potential at standard conditions (1 atm and 298 K).
+
+We need to first calculate the standard cell potential $E^\circ_{cell}$ at 298 K. We can use the relationship between the cell potential and the Gibbs energy change of the cell reaction:
+$$\Delta_r G^\circ = -nFE^\circ_{cell}$$
+$$E^\circ_{cell} = -\frac{\Delta_r G^\circ}{nF}$$
+
+Since the given cell potential is at 873 K, we need to use the Nernst equation to calculate the cell potential at 298 K:
+$$E_{cell} = E^\circ_{cell} - \frac{RT}{nF}\ln\left(Q\right)$$
+where $R$ is the gas constant, $T$ is the temperature in kelvin, $n$ is the number of electrons transferred, $F$ is the Faraday constant, and $Q$ is the reaction quotient.
+
+At 873 K, we have:
+$$Q = \frac{\left(\mathrm{PbCl_2}\right)^2}{P_{\mathrm{Cl_2}}}$$
+where $\left(\mathrm{PbCl_2}\right)$ is the activity of $PbCl_2$ and $P_{\mathrm{Cl_2}}$ is the partial pressure of $\mathrm{Cl_2}$.
+
+The given cell potential of 1.2327 V corresponds to the standard cell potential at 873 K, so we can find $\Delta_r G^\circ$ at 873 K as follows:
+$$\Delta_r G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.2327\; \mathrm{J.mol^{-1}} = -237124 \;\mathrm{J.mol^{-1}}$$
+$$\Delta_r G^\circ = -237.1 \;\mathrm{kJ.mol^{-1}}\; (\mathrm{rounded})$$
+Now we need to calculate the standard cell potential at 298 K using the Nernst equation. The reaction quotient at 298 K can be calculated as:
+$$Q = \frac{\left(\mathrm{PbCl_2}\right)^2}{P_{\mathrm{Cl_2}}} = \frac{(0.18)^2}{0.5} = 0.0648$$
+Substituting the values into the Nernst equation gives:
+$$E_{cell} = E^\circ_{cell} - \frac{RT}{nF}\ln\left(Q\right)$$
+$$1.2327\; \mathrm{V} = E^\circ_{cell} - \frac{(8.314\; \mathrm{J.K^{-1}.mol^{-1}})(298\; \mathrm{K})}{(2)(96500\; \mathrm{C.mol^{-1}})}\ln\left(0.0648\right)$$
+Solving for $E^\circ_{cell}$ gives:
+$$E^\circ_{cell} = 1.5911\; \mathrm{V}$$
+Thus, the standard Gibbs energy change of formation of $PbCl_2$ at 873 K is -237.1 kJ.mol$^{-1}$ and the standard Gibbs energy change of formation of $PbCl_2$ at 298 K is -159.1 kJ.mol$^{-1}$ (since $\Delta_r G^\circ$ is independent of temperature). Therefore, the answer is:
+
+-159.1 kJ.mol$^{-1}$

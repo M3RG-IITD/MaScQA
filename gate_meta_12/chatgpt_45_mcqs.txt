@@ -1,0 +1,23 @@
+Given, σ = 100* $(ε)^(0.1)$ MPa
+
+Given, speed of extrusion (ε) = 2 cm/s
+
+We know that strain rate is given by ε = (2*v) / d
+
+Where, v = speed of extrusion and d = initial diameter of the alloy
+
+Putting the given values, we get ε = (2*2) / 10 = 0.4 s^-1
+
+Now, σ = 100* $(ε)^(0.1)$ MPa
+
+Putting the value of strain rate (ε), we get
+
+σ = 100* $(0.4)^(0.1)$ MPa
+
+σ = 105 MPa
+
+Hence, the flow stress of the alloy is 105 MPa, which is option (B). 
+
+Answer: 
+
+(B) 105 MPa

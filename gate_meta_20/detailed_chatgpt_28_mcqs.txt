@@ -1,0 +1,42 @@
+The given values are:
+
+R = 8.314 $J.mol^(-1).K^(-1)$
+F = 96500 $C.mol^(-1)$
+T = 298K
+$E°_(Zn^(+2)/Zn)$ = -0.76 V
+$E°_(Fe^(+2)/Fe)$ = -0.44 V
+Voltage of the cell, E = 0.5V
+
+The net cell reaction can be written as:
+
+$Zn(s) + Fe^{+2} -> Zn^{+2} + Fe(s)$
+
+The standard emf of the cell can be calculated using the Nernst equation:
+
+$E°_cell = E°_(cathode) - E°_(anode)$
+
+$E°_cell = E°_(Fe^(+2)/Fe) - E°_(Zn^(+2)/Zn)$
+
+$E°_cell = (-0.44) - (-0.76)$
+
+$E°_cell = 0.32V$
+
+The actual emf of the cell, E is given as 0.5V. The cell reaction is spontaneous, so it is a galvanic cell. Therefore,
+
+$E°_cell - E = \frac{RT}{F}ln(\frac{[Fe^{+2}]}{[Zn^{+2}]})$
+
+Substituting the given values,
+
+$0.32 - 0.5 = \frac{(8.314)(298)}{(96500)}ln(\frac{[Fe^{+2}]}{[Zn^{+2}]})$
+
+$ln(\frac{[Fe^{+2}]}{[Zn^{+2}]}) = \frac{-0.18(96500)}{(8.314)(298)}$
+
+$ln(\frac{[Fe^{+2}]}{[Zn^{+2}]}) = -26.38$
+
+$\frac{[Fe^{+2}]}{[Zn^{+2}]} = e^{-26.38}$
+
+$\frac{[Fe^{+2}]}{[Zn^{+2}]} = 3.68 * 10^{-12}$
+
+Therefore, the ratio of the concentration of $[Fe^{+2}]$ to $[Zn^{+2}]$ ions in the cell is of the order of $10^{-12}$, which is of the order of (A) $10^(-6)$.
+
+Hence, the correct answer is (A) $10^(-6)$.

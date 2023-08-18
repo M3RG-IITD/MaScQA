@@ -1,0 +1,4 @@
+The reaction is endothermic (positive ∆𝐻°), meaning increasing the temperature will favour the forward reaction direction. According to Le Chatelier's principle, increasing pressure will favour the side with fewer moles of gas. The forward reaction has fewer moles of gas (1 mol) compared to the reverse reaction (2 mol). Thus, decreasing pressure will favour the forward reaction. Therefore, the answer is (D) increasing temperature and decreasing pressure. 
+
+Answer: 
+- (D) Increasing temperature and decreasing pressure.

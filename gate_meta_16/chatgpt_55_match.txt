@@ -1,0 +1,8 @@
+A possible solution is: 
+
+(A) P-1; Q-2; R-3; S-4 
+
+- Wire Drawing: The cross-section of a wire is reduced by pulling it through a small orifice under tensile stress. This process involves direct compression along the axis of wire.
+- Forging: A heated metal billet is shaped by applying compressive forces using a hammer, press, or die. This process involves indirect compression, where the metal is squeezed between two dies.
+- Stretch Forming: A sheet metal is stretched over a die to take the shape of the die. This process involves tension along the plane of the sheet.
+- Cutting: A material is separated into two or more parts using a sharp tool or blade. This process involves shear stress to cause deformation and fracture of the material.

@@ -1,0 +1,69 @@
+The equilibrium constant can be calculated using the standard Gibbs free energy change of reaction ($Δ_rG°$) at the given temperature:
+
+$Δ_rG° = -RTlnK$
+
+where R is the gas constant, T is the temperature in Kelvin, and K is the equilibrium constant.
+
+Firstly, let's find the $Δ_rG°$ of the reaction of interest, Mo(s) + $O_2$(g) ⇔ $MoO_2$(s). We can use the Gibbs free energy of formation of the products and reactants to calculate this value:
+
+$Δ_rG° = Σ_nΔ_fG°(products) - Σ_mΔ_fG°(reactants)$
+
+$Δ_fG°$ values can be found in standard tables. For simplicity, we will assume all the reactants and products are in their standard states, so $Δ_fG°$ is zero for all of them except $MoO_2$(s), which has a value of -602.7 kJ/mol.
+
+$Δ_rG° = -602.7 - 0 = -602.7 kJ/mol$
+
+We need to convert this value to J/mol, which gives us:
+
+$Δ_rG° = -602700 J/mol$
+
+Now let's find the equilibrium constant for the reaction CO(g) + 0.5$O_2$(g) ⇔ $CO_2$(g):
+
+$Δ_rG° = -120860 J/mol$
+
+$T = 1873 K$
+
+$R = 8.314 J.K^{-1}.mol^{-1}$
+
+$-120860 = -RTlnK$
+
+$lnK = \frac{-120860}{8.314 \times 1873}$
+
+$lnK = -8.205$
+
+$K = e^{-8.205}$
+
+$K = 0.000273$
+
+Now we can use the equilibrium constant and the stoichiometry of the reaction to find the equilibrium partial pressures of $CO$ and $CO_2$:
+
+$K = \frac{p_{CO_2}}{(p_{CO})(p_{O_2})^{0.5}}$
+
+$p_{O_2}$ is usually assumed to be constant, so we can combine it with the equilibrium constant:
+
+$K' = K(p_{O_2})^{0.5}$
+
+$K' = 0.000273(\sqrt{p_{O_2}})$
+
+We can assume the gases behave ideally, so we can use the ideal gas law to relate the partial pressures to the total pressure $P$:
+
+$p_{CO_2} = \frac{n_{CO_2}}{n_{total}}P$
+
+$p_{CO} = \frac{n_{CO}}{n_{total}}P$
+
+$n_{CO_2}$ and $n_{CO}$ are the number of moles of $CO_2$ and $CO$ at equilibrium. The stoichiometry of the reaction tells us that for every 1 mole of $CO_2$ produced, 1 mole of $CO$ is consumed. Therefore:
+
+$n_{CO_2} = n_{CO_{initial}} - n_{CO}$
+
+$n_{CO_2} = \frac{P_{CO_{initial}}}{P_{total}} - n_{CO}$
+
+Substituting these expressions into the equilibrium constant equation:
+
+$K' = 0.000273(\sqrt{p_{O_2}}) = \frac{\frac{P_{CO_{initial}}}{P_{total}} - n_{CO}}{n_{CO}}P$
+
+Simplifying and solving for $p_{CO}/p_{CO_2}$:
+
+$\frac{p_{CO}}{p_{CO_2}} = \frac{1}{\sqrt{K'}+1} = 10.99$
+
+Rounding off to two decimal places: 10.99.
+
+Therefore, the equilibrium ($p_{CO}/p_{CO_2}$) ratio for the given reaction at 1873 K is 10.99.

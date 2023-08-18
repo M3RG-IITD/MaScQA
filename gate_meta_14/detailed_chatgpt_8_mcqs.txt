@@ -1,0 +1,9 @@
+The correct answer is (B) the volume of the oxide divided by the volume of the metal consumed in oxide formation. 
+
+The Pilling-Bedworth ratio is a measure of the difficulty of metal oxidation. It is defined as the ratio of the volume of the oxide to the volume of the metal consumed in oxide formation. A Pilling-Bedworth ratio greater than one indicates that the oxide will occupy more volume than the metal consumed, resulting in cracking and spalling of the oxide layer. This is a common problem in high-temperature oxidation of metals. 
+
+(A) is incorrect because it relates to the molar weight of the oxide and the metal consumed, not the volume. 
+
+(C) is incorrect because it relates to the density of the oxide and the metal consumed, not the volume. 
+
+(D) is incorrect because it relates to the molar Gibbs energy, which is not a direct measure of volume.

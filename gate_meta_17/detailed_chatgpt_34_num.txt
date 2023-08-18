@@ -1,0 +1,74 @@
+The given differential equation is: 
+
+dC/dt = -(c - c*)
+
+We can rearrange this equation as: 
+
+dC/(c - c*) = -dt 
+
+Now we can integrate both sides: 
+
+∫dC/(c - c*) = -∫dt 
+
+ln|c - c*| = -t + K 
+
+where K is the constant of integration. 
+
+We can solve for K using the initial condition that c(0) = 0.4%: 
+
+ln|0.4 - 0.04| = -0 + K 
+
+K = ln(0.36) 
+
+So the equation becomes: 
+
+ln|c - 0.04| = -t + ln(0.36) 
+
+We can exponentiate both sides: 
+
+|c - 0.04| = e^(-t+ln(0.36)) 
+
+|c - 0.04| = e^(ln(0.36)/e^t) 
+
+Now we can split the equation into two cases: 
+
+1. c - 0.04 = e^(ln(0.36)/e^t) 
+
+c = 0.04 + e^(ln(0.36)/e^t) 
+
+2. c - 0.04 = -e^(ln(0.36)/e^t) 
+
+c = 0.04 - e^(ln(0.36)/e^t) 
+
+We can simplify the second case as follows: 
+
+c = 0.04 - e^(ln(0.36)/e^t) 
+
+c = 0.04 - 0.36^(1/e^t) 
+
+Now we need to determine which case is valid for the given initial condition. 
+
+At t = 0, both cases reduce to: 
+
+c = 0.04 + e^ln(0.36) = 0.4 
+
+So both cases are valid. 
+
+Now we can use either case to find the concentration of carbon at t = 1. 
+
+Using case 1: 
+
+c = 0.04 + e^(ln(0.36)/e) 
+
+c ≈ 0.060 
+
+Using case 2: 
+
+c = 0.04 - e^(ln(0.36)/e) 
+
+c ≈ 0.002 
+
+Therefore, the concentration of carbon in steel at t= 1 min is approximately 0.060 wt.%. 
+
+Answer: 
+- 0.060 (wt.%)

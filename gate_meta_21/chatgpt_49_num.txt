@@ -1,0 +1,25 @@
+We can use the following formula to calculate the maximum stress that the plate can sustain:
+
+$σ_{max} = \frac{K_{1c}}{\sqrt{\pi a}}$
+
+where $a$ is the length of the crack.
+
+Substituting the given values, we get:
+
+$a = \frac{80}{\pi}$ mm
+
+$K_{1c} = 20$ MPa $m^{1/2}$
+
+$σ_{max} = \frac{20}{\sqrt{\pi \times \frac{80}{\pi}}}$
+
+$σ_{max} = \frac{20}{\sqrt{80}}$
+
+$σ_{max} \approx 2.24$ MPa
+
+Rounding off to the nearest integer, we get:
+
+$σ_{max} \approx 2$ MPa
+
+Therefore, the maximum stress that the plate can sustain in mode I is 2 MPa.
+
+Answer: [2]

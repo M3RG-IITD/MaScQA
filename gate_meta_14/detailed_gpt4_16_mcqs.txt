@@ -1,0 +1,22 @@
+Step 1: Understanding the question
+We need to find the mineral among the given options that serves as a source of titanium.
+
+Step 2: Knowing about the minerals
+Let's gather some information about the given minerals.
+
+(A) Haematite
+Haematite (Fe2O3) is an iron oxide mineral. It is the most important ore of iron, and its primary use is in the production of iron and steel.
+
+(B) Magnetite
+Magnetite (Fe3O4) is an iron oxide mineral. It is also a rich source of iron, occurring mainly in igneous rocks.
+
+(C) Ilmenite
+Ilmenite (FeTiO3) is a titanium-iron oxide mineral. It is one of the main sources of titanium along with rutile (TiO2).
+
+(D) Pyrolusite
+Pyrolusite (MnO2) is a manganese oxide mineral, primarily found in sedimentary deposits, and it is the main ore of manganese.
+
+Step 3: Identifying the correct mineral
+From the information gathered above, it is clear that Ilmenite (FeTiO3) is the mineral that provides a source of titanium, as it is a titanium-iron oxide mineral.
+
+Answer: The correct answer is [C) Ilmenite].

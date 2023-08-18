@@ -1,0 +1,1 @@
+As shown in image, an alloy is cast as a rectangular slab between two thick mould walls that differ in their thermal conductivities. Shrinkage defects are found at a distance L1 from Mould-1 with thermal conductivity $𝑘_1$ and distance L2 from Mould-2 with thermal conductivity $𝑘_2$. If the ratio L1:L2 = 3:2, and assuming 1-D heat transfer, the ratio ($k_1$/$k_2$) is?

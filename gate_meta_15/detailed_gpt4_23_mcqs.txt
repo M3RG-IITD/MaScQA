@@ -1,0 +1,28 @@
+To answer this question, we need to understand what equi-biaxial tension is and how it signifies in Mohr's circle representation for plane-stress condition.
+
+Equi-biaxial tension is a state of stress where both principal stresses (σ1 and σ2) are equal, and positive, and there is no shear stress (τ). In this case, the stress tensor can be represented in the form:
+
+σ = |σ  0|
+       |0  σ|
+
+Now, let's understand Mohr's circle representation for plane-stress condition:
+
+1. The center of Mohr's circle is located at the average of the two principal stresses: (σ1 + σ2) / 2, on the horizontal axis (σ).
+2. The radius of Mohr's circle is given by the square root of the differences between the principal stresses: √((σ1 - σ2)^2 + 4τ^2) / 2, where τ is the shear stress.
+3. In the case of equi-biaxial tension, the principal stresses are equal and positive, i.e. σ1 = σ2 = σ.
+
+Now, let's analyze the provided Mohr's circle options:
+
+(A) P:
+The center of the circle is not on the positive side of the horizontal axis. It does not correspond to equi-biaxial tension.
+
+(B) Q:
+The center of the circle is on the positive side of the horizontal axis, but the circle has some nonzero radius, which means there is a difference between σ1 and σ2. It does not correspond to equi-biaxial tension.
+
+(C) R:
+The center of the circle is on the positive side of the horizontal axis, but the circle has some nonzero radius, which means there is a difference between σ1 and σ2. It does not correspond to equi-biaxial tension.
+
+(D) S:
+The center of the circle is on the positive side of the horizontal axis, and the circle has zero radius, which means there is no difference between σ1 and σ2. This corresponds to the condition of equal principal stresses with no shear stress. Hence, it represents equi-biaxial tension.
+
+The correct answer is: [D].

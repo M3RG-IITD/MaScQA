@@ -1,0 +1,26 @@
+This question requires the use of a formula to calculate the reduction in thickness of the slab during rolling. One such formula is:
+
+𝑑2 = (𝑑1 – 𝑑1 × 𝜇 × 𝜋)2
+
+Where:
+- 𝑑1 = initial diameter of the slab
+- 𝑑2 = final diameter of the slab after rolling
+- 𝜇 = coefficient of friction between roll and slab
+- 𝜋 = 3.14 (approximate value of pi)
+
+Substituting the given values:
+
+𝑑1 = 100 mm (since the slab is initially 100 mm thick)
+𝑑2 = ?
+𝜇 = 0.2
+𝑑1 = 200 mm (since the roll diameter is 200 mm)
+𝜋 = 3.14
+
+𝑑2 = (100 – 100 × 0.2 × 3.14)2
+𝑑2 = (100 – 62.8)2
+𝑑2 = 37.2
+
+Rounding off to one decimal place, the maximum possible reduction in thickness of the slab during rolling is 37.2 mm.
+
+Therefore, the answer is:
+- 37.2 mm

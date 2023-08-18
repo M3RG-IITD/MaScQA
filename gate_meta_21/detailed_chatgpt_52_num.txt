@@ -1,0 +1,47 @@
+The Tafel Equation is given as: 
+
+$$log({j}) = β_a (E - E_{corr}) + log({j_0}) \quad \quad (1)$$
+
+where, 
+
+$j$ is the corrosion current density 
+
+$β_a$ is the anodic Tafel constant 
+
+$E_{corr}$ is the corrosion potential 
+
+$E$ is the electrode potential 
+
+$j_0$ is the exchange current density 
+
+Since iron corrodes in dearated acid, the anodic Tafel constant can be calculated from the exchange current density using the following expression:
+
+$$β_a = β_c = 0.1V/decade \quad \quad (2)$$
+
+Using Nernst equation we can write:
+
+$$ E_{corr} = E^° - \frac{RT}{F}ln({\frac{i_{corr}}{i_0}})$$
+
+where,
+
+$i_{corr}$ = Corrosion current density 
+
+$i_0$ = Exchange current density 
+
+At 25°C, pH = 3, the hydrogen ion concentration is 10−3 M, and the potential of the standard hydrogen electrode is 0. The standard reduction potential of the hydrogen electrode is zero. Hence,we can write:
+
+$$ E_{corr} = - \frac{RT}{F}ln({i_{corr}})$$
+
+$$ E_{corr} = - \frac{RT}{F}ln({4*10^(-6)})\quad\quad(3)$$
+
+Substituting the given values, we get:
+
+$$ E_{corr} = -0.059V\times\frac{8.314J/mol K\times 298K}{96500C/mol}\times ln(4*10^{-6})$$
+
+$$ E_{corr} = -0.529V \quad\quad (4)$$
+
+Therefore, the corrosion potential of iron in dearated acid of pH 3 at 25°C is -0.53 V.
+
+Answer: 
+
+-0.53 V

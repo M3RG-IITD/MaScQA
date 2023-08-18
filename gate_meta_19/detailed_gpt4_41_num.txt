@@ -1,0 +1,73 @@
+Given the steady-state radial heat conduction equation for a hollow, infinitely long zirconia cylinder:
+
+d/dr (r * dT/dr) = 0
+
+with the boundary conditions:
+
+T(r=0.05) = 1473 K
+T(r=0.07) = 973 K
+
+To solve this differential equation, we first integrate with respect to r:
+
+∫d/dr (r * dT/dr) dr = ∫0 dr
+r * dT/dr = C1
+dT/dr = C1/r
+
+Now, we integrate once more with respect to r:
+
+∫dT/dr dr = ∫C1/r dr
+T(r) = C1 ln|r| + C2
+
+Now, we use the boundary conditions to find the constants C1 and C2.
+
+T(r=0.05) = 1473 K:
+1473 = C1 ln(0.05) + C2
+
+T(r=0.07) = 973 K:
+973 = C1 ln(0.07) + C2
+
+Now, we have a system of two equations and two unknowns. Let's solve for C1 and C2:
+
+From the first equation:
+C2 = 1473 - C1 ln(0.05)
+
+Substitute this expression for C2 into the second equation:
+
+973 = C1 ln(0.07) + 1473 - C1 ln(0.05)
+
+Now, solve for C1:
+
+C1 (ln(0.07) - ln(0.05)) = 500
+C1 = 500 / (ln(0.07) - ln(0.05))
+
+Now, calculate the numerical value of C1:
+
+C1 ≈ -9523.82
+
+Now, substitute the value of C1 back into the expression for C2:
+
+C2 = 1473 - (-9523.82) ln(0.05)
+
+Now, calculate the numerical value of C2:
+
+C2 ≈ 12782.55
+
+Now, we have the equation for temperature as a function of radial distance:
+
+T(r) = -9523.82 ln|r| + 12782.55
+
+Now, to find the rate of heat loss per unit length (Q) through the outer surface of the hollow cylinder, we can use Fourier's law of heat conduction:
+
+q = -k * dT/dr
+
+Evaluate at the outer surface, r = 0.07:
+
+q(r=0.07) = -2 * (-9523.82/0.07) = 271079.43 W/m
+
+Finally, we round off the rate of heat loss per unit length to the nearest integer:
+
+Q = 271079 W/m
+
+The correct answer inside a list is:
+
+[271079]

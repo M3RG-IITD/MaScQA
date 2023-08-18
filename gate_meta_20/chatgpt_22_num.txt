@@ -1,0 +1,17 @@
+The maximum allowed tensile stress can be calculated using the following formula:
+
+$\sigma_{max} = \frac{K_{1c}}{\sqrt{a}}$
+
+where $a$ is the crack length. Since the NDT technique can only detect cracks larger than 1mm and we want to have a 10% margin of safety, we need to assume a crack length of 1.1mm.
+
+Thus, 
+
+$\sigma_{max} = \frac{30\ MPa\ m^{1/2}}{\sqrt{1.1\ mm}} = \frac{30\ MPa\ m^{1/2}}{\sqrt{0.0011\ m}} = \frac{30\ MPa\ m^{1/2}}{0.0332\ m^{1/2}} = 902.4\ MPa$
+
+Adding the 10% margin of safety, the maximum allowed tensile stress is:
+
+$\sigma_{max} = 902.4\ MPa \times 1.1 = 992.7\ MPa$
+
+Therefore, the maximum allowed tensile stress is 993 MPa (rounded off to the nearest integer).
+
+Answer: [993]

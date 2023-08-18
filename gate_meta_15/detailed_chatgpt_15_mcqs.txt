@@ -1,0 +1,87 @@
+In a simple cubic crystal, the peaks in the X-ray powder pattern occur at Miller indices that satisfy the Bragg equation:
+
+n λ = 2d sin(θ)
+
+where n is an integer, λ is the wavelength of the X-rays, d is the distance between planes of atoms in the crystal, and θ is the angle between the incident X-rays and the planes of atoms.
+
+For a simple cubic crystal, the distance between adjacent planes of atoms along a given set of crystallographic directions can be calculated as:
+
+d(hkl) = a / sqrt(h^2 + k^2 + l^2)
+
+where a is the lattice constant and h, k, and l are the Miller indices.
+
+Now, we can use the distance between planes equation to determine which set of Miller indices corresponds to the 2nd peak in the X-ray powder pattern. We assume that the first peak corresponds to the (100) reflection.
+
+d(100) = a / sqrt(1^2 + 0^2 + 0^2) = a
+
+The second peak will correspond to the next set of planes that satisfy the Bragg equation. This occurs when n = 2 (i.e. the second order reflection).
+
+2 λ = 2d sin(θ)
+
+sin(θ) = λ / 2d
+
+sin(θ) = λ / (4a)
+
+sin(θ)^2 = (λ / 4a)^2
+
+sin(θ)^2 = (1 / 16) (λ/a)^2
+
+Now, we look for the set of Miller indices (hkl) that satisfy the distance between planes equation and have sin(θ)^2 = (1 / 16) (λ/a)^2. There are several such sets of Miller indices, but we can narrow them down based on the fact that we are dealing with a simple cubic crystal.
+
+In a simple cubic crystal, all sets of Miller indices that correspond to the same sin(θ)^2 value will generate reflections that occur at the same angle (i.e. the same value of θ). Therefore, if we can identify the angle of the second peak in the X-ray powder pattern, we can determine which set of Miller indices corresponds to the peak.
+
+For a simple cubic crystal, we know that the strongest peak (corresponding to the (100) reflection) occurs at an angle of 2θ = 90°. Based on this information, we can use the Bragg equation to calculate the angle of the second peak.
+
+2 λ = 2d sin(θ)
+
+sin(θ) = λ / 2d
+
+sin(θ) = λ / (4a)
+
+θ = sin^(-1)(λ / (4a))
+
+2θ = 2 sin^(-1)(λ / (4a))
+
+2θ = 2 sin^(-1)(0.5)
+
+2θ = 120°
+
+Therefore, the angle of the second peak is 2θ = 120°. Now, we can compare this angle to the angles of reflections for various sets of Miller indices. We can use the following formula to calculate the angle of reflection for a given set of Miller indices:
+
+θ = sin^(-1)(λ / (2d(hkl)))
+
+We can test the sets of Miller indices (111), (200), and (110), since they all have sin(θ)^2 = (1 / 16) (λ/a)^2. Using the distance between planes equation, we can calculate the distances between adjacent planes of atoms for each set of Miller indices:
+
+d(111) = a / sqrt(1^2 + 1^2 + 1^2) = a / sqrt(3)
+
+d(200) = a / sqrt(2^2 + 0^2 + 0^2) = a / 2
+
+d(110) = a / sqrt(1^2 + 1^2 + 0^2) = a / sqrt(2)
+
+Using these values, we can calculate the angles of reflection for each set of Miller indices:
+
+θ(111) = sin^(-1)(λ / (2d(111))) = sin^(-1)(λ sqrt(3) / (4a))
+θ(200) = sin^(-1)(λ / (2d(200))) = sin^(-1)(λ / (4a))
+θ(110) = sin^(-1)(λ / (2d(110))) = sin^(-1)(λ sqrt(2) / (4a))
+
+We can simplify these expressions using the fact that sin^2(θ) + cos^2(θ) = 1 and sin(2θ) = 2 sin(θ) cos(θ):
+
+sin^2(θ) = 1/2 - 1/2 cos(2θ)
+cos(2θ) = 2 sin^2(θ)-1
+
+Applying these simplifications, we get:
+
+sin^2(θ(111)) = 1/2 - 1/2 cos(2θ(111)) = 1/2 - 1/2 cos(2 sin^(-1)(λ sqrt(3) / (4a))) = 1/2 - 1/2 (4/3 - λ^2 (3/16a^2)) = 5/6 - 3/16 (λ/a)^2
+sin^2(θ(200)) = 1/2 - 1/2 cos(2θ(200)) = 1/2 - 1/2 cos(2 sin^(-1)(λ / (4a))) = 1/2 - 1/2 (2/2 - λ^2 (1/16a^2)) = λ^2 (1/32a^2)
+sin^2(θ(110)) = 1/2 - 1/2 cos(2θ(110)) = 1/2 - 1/2 cos(2 sin^(-1)(λ sqrt(2) / (4a))) = 1/2 - 1/2 (6/8 - λ^2 (2/16a^2)) = 1/4 - 3/16 (λ/a)^2
+
+Now, we can plug in the value of λ/a to see which set of Miller indices corresponds to an angle of 120°:
+
+sin^2(θ(111)) = 5/6 - 3/16 (λ/a)^2
+sin^2(θ(200)) = λ^2 / (32 a^2)
+sin^2(θ(110)) = 1/4 - 3/16 (λ/a)^2
+
+From this, we can see that only the set of Miller indices (111) corresponds to an angle of 120°. Therefore, the 2nd peak in the X-ray powder pattern of a simple cubic crystal corresponds to the (111) reflection.
+
+Answer: 
+- (A) (111)

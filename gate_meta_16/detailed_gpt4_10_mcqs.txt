@@ -1,0 +1,17 @@
+A sub-lance is a widely used instrument in the steelmaking industry for monitoring composition and temperature. It helps in maintaining accurate control of the temperature range for various metallurgical reactions, ensuring production efficiency, and improving the quality of steel. Let's analyze the given options to determine the correct answer.
+
+A) BOF: Basic Oxygen Furnace
+- The Basic Oxygen Furnace (BOF) is a vessel where the steel is primarily produced through the oxidation of carbon and impurities from the liquid iron. High temperature and oxygen are required in this process. Sub-lance is used in BOF to monitor and control the temperature and sample the molten steel for determining the composition. So, it is possible that sub-lance is used in BOF.
+
+B) Ladle Refining Furnace
+- Ladle Refining Furnace (LRF) is a secondary metallurgical process in the steelmaking industry, which is used to refine steel by adjusting the chemical composition, temperature, and cleanliness. Typically, a submerged entry shroud or a porous plug is used for measurements and sampling, not a sub-lance. So, it is less likely that a sub-lance is used in LRF.
+
+C) Continuous casting mould
+- Continuous casting is the process of solidifying molten steel into a semi-finished product with a specific shape (such as billets, slabs, or blooms). The process involves pouring the molten steel through a water-cooled mold. Sub-lance is not generally used in continuous casting molds, as other methods like mold temperature sensors or infrared cameras are employed to monitor the temperature and composition.
+
+D) Blast furnace
+- Blast furnace is the primary ironmaking process where iron ore is reduced to metallic iron at high temperatures. It does not involve the production of steel and is primarily focused on iron making rather than refining or casting steel. Moreover, sub-lance is not typically used for the monitoring of temperature and composition in the blast furnace process.
+
+From the above detailed analysis, it is clear that sub-lance is most commonly used in monitoring composition and temperature in a Basic Oxygen Furnace (BOF). Therefore, the answer is:
+
+[A]

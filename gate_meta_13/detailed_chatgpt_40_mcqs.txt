@@ -1,0 +1,29 @@
+First, we need to write the overall reaction by combining the two half-reactions:
+
+Sn + 2$H^{+}$ + 2$e^{-}$ = Sn$^{2+}$ + H$_{2}$
+
+This tells us that Sn is oxidized and H$^{+}$ is reduced.
+
+The given standard reduction potential is for the reduction of Sn$^{2+}$ to Sn, and it is negative, indicating that the reverse reaction of Sn to Sn$^{2+}$ is spontaneous. This means that Sn$^{2+}$ can effectively oxidize Sn to Sn$^{2+}$.
+
+Next, we need to determine whether the reaction will proceed forward or backward by calculating the cell potential. We can use the Nernst equation:
+
+E = E$^{o}$ - $\frac{0.0592}{2}$ log Q
+
+where E$^{o}$ is the standard cell potential, Q is the reaction quotient, and 0.0592 is the constant for room temperature.
+
+At pH 5, the concentration of H$^{+}$ is 10$^{-5}$M. The concentration of Sn$^{2+}$ is given as 10$^{-2}$M. The concentration of Sn and H$_{2}$ is 1 atm.
+
+The reaction quotient can be expressed as:
+
+Q = $\frac{[Sn^{2+}][H_{2}]}{[H^{+}]^{2}}$
+
+Plugging in the values, we get:
+
+Q = $\frac{(10^{-2})(1)}{(10^{-5})^{2}}$ = $10^{7}$
+
+Substituting the values of E$^{o}$, Q, and 0.0592 into the Nernst equation gives:
+
+E = -0.136 - $\frac{0.0592}{2}$ log $10^{7}$ = -0.136 - 0.886 = -1.022 V
+
+Since the cell potential is negative, the reaction will not proceed spontaneously in the forward direction. This means that Sn will not undergo oxidation, and there will be no net reaction. Therefore, the correct answer is (D) No net reaction.

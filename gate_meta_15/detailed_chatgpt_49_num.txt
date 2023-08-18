@@ -1,0 +1,25 @@
+To solve this question, we will use the fact that the driving force for sintering is proportional to the surface area of the particles.
+
+Let's consider two spherical particles with radii $R_1$ and $R_2$, where $R_1 > R_2$. The surface area of the first particle is $4\pi R_{1}^{2}$, and the surface area of the second particle is $4\pi R_{2}^{2}$. The ratio of their surface areas is:
+
+$\frac{4\pi R_{2}^{2}}{4\pi R_{1}^{2}} = \left(\frac{R_{2}}{R_{1}}\right)^2$
+
+From this equation, we see that if the radius of the particle is reduced by a factor of 10 (as is the case in this question), the surface area is reduced by a factor of 100. Therefore, the driving force for sintering is reduced by a factor of 100.
+
+Now we can find the relationship between the two driving forces $∆G_1$ and $∆G_2$. We can write:
+
+$∆G_2 = k\,A_{2} = k\,\frac{1}{100}\,A_{1} = \frac{1}{100}\,(k\,A_{1})$
+
+where $A_{1}$ and $A_{2}$ are the surface areas of the particles with radii $R_1$ and $R_2$, respectively, and $k$ is a proportionality constant.
+
+We know that $∆G_1 = k\,A_{1}$, so we can substitute it into the equation above:
+
+$∆G_2 = \frac{1}{100}\,∆G_1$
+
+Therefore, we have:
+
+$\alpha = \frac{∆G_2}{∆G_1} = \frac{1}{100}$
+
+So the answer is:
+
+$\alpha = \frac{1}{100}$

@@ -1,0 +1,3 @@
+The width of the heat-affected zone is generally smallest in Laser Beam Welding, followed by Metal Inert Gas Welding, and then Submerged Arc Welding. Therefore, the correct answer is:
+
+(A) P > Q > R

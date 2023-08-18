@@ -1,0 +1,10 @@
+The correct answer is:
+
+(D) P-2, Q-4, R-1, S-3
+
+Explanation:
+
+- Mullite is a refractory material and is used in applications such as furnace linings, kiln furniture, and as a substrate for electronic equipment. Therefore, it matches with option 2.
+- Spinel ferrites are soft magnetic materials often used in electrical applications such as transformers, inductors, and microwave devices. Therefore, it matches with option 4.
+- Tungsten carbide is a hard and wear-resistant ceramic material that is commonly used in cutting tools such as drills, milling cutters, and turning tools. Therefore, it matches with option 1.
+- Barium titanate is a piezoelectric ceramic material that exhibits a change in shape or generates an electric charge in response to mechanical stress. It is used in various applications such as ultrasonic transducers, sensors, and actuators. Therefore, it matches with option 3.

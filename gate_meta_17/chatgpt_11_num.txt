@@ -1,0 +1,14 @@
+The radius of the largest sphere that can fit in the tetrahedral void of a FCC lattice can be calculated using the formula:
+
+r = (sqrt(2)/4) * a
+
+where r is the radius of the sphere and a is the lattice parameter.
+
+Substituting the given values, we get:
+
+r = (sqrt(2)/4) * 0.401 nm
+r = 0.141 nm
+
+Therefore, the radius of the largest sphere that can fit in the tetrahedral void of a FCC lattice is 0.141 nm.
+
+Answer: [0.141]

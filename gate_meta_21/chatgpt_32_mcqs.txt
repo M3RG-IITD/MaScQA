@@ -1,0 +1,21 @@
+The resolved shear stress (RSS) (τ) on a specific slip system can be calculated by multiplying the applied tensile stress (σ) with the Schmid factor (cos(θ)), where θ is the angle between the tensile direction and the slip direction. The slip system with the highest RSS will be activated. 
+
+For slip system (A) [-1 0 1](1 1 1):
+cos(θ) = |[-1 0 1] . [1 1 1]| / (sqrt(2)*sqrt(3)) = 1/sqrt(6)
+τ = σ*cos(θ) = 100*(1/sqrt(6)) ≈ 40.8 MPa
+
+For slip system (B) [-1 1 0](1 1 1):
+cos(θ) = |[-1 1 0] . [1 1 1]| / (sqrt(2)*sqrt(3)) = 1/sqrt(6)
+τ = σ*cos(θ) = 100*(1/sqrt(6)) ≈ 40.8 MPa
+
+For slip system (C) [1 0 1](1 1 -1):
+cos(θ) = |[1 0 1] . [1 1 -1]| / (sqrt(2)*sqrt(3)) = 1/sqrt(6)
+τ = σ*cos(θ) = 100*(1/sqrt(6)) ≈ 40.8 MPa
+
+For slip system (D) [0 1 1](1 1 -1):
+cos(θ) = |[0 1 1] . [1 1 -1]| / (sqrt(2)*sqrt(3)) = 1/3
+τ = σ*cos(θ) = 100*(1/3) ≈ 33.3 MPa
+
+Therefore, the slip system with the highest RSS is (A) [-1 0 1](1 1 1), so it will be activated.
+
+Answer: (A) [-1 0 1](1 1 1)

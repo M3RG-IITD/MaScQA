@@ -1,0 +1,2 @@
+An edge dislocation is present in α-Fe. Atomic diameter of iron atom is 0.25 nm and its shear modulus is 70 GPa. Energy (in J/m) of the dislocation is
+(A) 0.5 * $10^(-9)$ (B) 1.1 * $10^(-9)$ (C) 2.2 * $10^(-9)$ (D) 4.4 * $10^(-9)$

@@ -1,0 +1,13 @@
+P. Macrosegregation: It is the non-uniform distribution of alloying elements or composition within the casting caused by density differences and convection currents during solidification.  
+Reason: 4. Density difference and convection currents.
+
+Q. Fine grained structure: It is the feature of having small and uniform grain size in the casting.  
+Reason: 3. Temperature gradients and supercooling.
+
+R. Porosity: It is the presence of voids or cavities in the casting.  
+Reason: 2. Gas evolution and shrinkage.
+
+S. Dendrites: It is a crystal structure formed during solidification, which gives a treelike appearance.  
+Reason: 1. Inoculation.
+
+Therefore, the correct matching option is (D) P-4, Q-1, R-3, S-2.

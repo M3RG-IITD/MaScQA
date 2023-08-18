@@ -1,0 +1,2 @@
+Integral enthalpy of mixing (in J/mol) of liquid (Cu, Zn) solution can be approximated by mix $ΔH^(mix)$ = -19250 * $χ_(Cu)$ * $χ_(Zn)$. Assuming regular solution behaviour, the solution parameter (in J/mol) is
+(A) -19250 (B) -9625 (C) 13.75 (D) 2315.4 

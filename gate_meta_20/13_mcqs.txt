@@ -1,0 +1,2 @@
+Given the three vectors X = -i -j +k, Y = -i + 2j + k and Z = i +k, which one of the following statements is TRUE?
+(A) X, Y and Z are mutually perpendicular. (B) X,Y and Z are coplanar.  (C) X makes an angle of 30° with the normal to the plane containing Y and Z. (D) Z makes an angle of 60° with the normal to the plane containing X and Y.

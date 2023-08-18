@@ -1,0 +1,1 @@
+Given, the coefficient of friction between sheet and roll is 0.1. In cold-rolling, for the sheet to be drawn into rolls, the angel of contact(in degress) (or angle of bite) should be less than or equal to?(round off to one decimal places)

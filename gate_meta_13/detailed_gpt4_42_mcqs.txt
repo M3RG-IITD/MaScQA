@@ -1,0 +1,15 @@
+Let's analyze both the Assertion (a) and the Reason (r) in detail:
+
+Assertion (a): For the extraction of metal values from their sulphide concentrates by hydrometallurgical route, leaching with oxygen under high pressure is used.
+
+This statement is true. Hydrometallurgical route is a process where metals are extracted from their ores or concentrates by an aqueous-based method (i.e., using water or a water-mixture as a solvent). One such process is pressure oxidation, also known as autoclave leaching. Oxygen is injected into the high-pressure autoclave as an oxidant to react with the sulphide concentrates, leading to the formation of soluble metal compounds. This makes it easier to extract the metal values from their concentrates.
+
+Reason (r): Presence of oxygen under high pressure causes roasting of sulphides, which helps in leaching of the values.
+
+This statement is false. Roasting is a different process (known as pyrometallurgy) that involves heating the sulphide ores or concentrates in the presence of air, converting the sulphides to their oxides. Roasting is used for metal extraction, but it is not part of the hydrometallurgical route. The autoclave leaching mentioned in the Assertion (a) is an aqueous-based process that does not involve the roasting step. The high pressure and presence of oxygen in autoclave leaching promote the dissolution of the sulphides without the formation of their oxides.
+
+Hence, the Assertion (a) is true, but the Reason (r) is false.
+
+Therefore, the correct answer is: (A) a is true but r is false.
+
+Answer: [A]

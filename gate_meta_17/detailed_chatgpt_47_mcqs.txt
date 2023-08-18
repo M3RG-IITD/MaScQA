@@ -1,0 +1,30 @@
+The formula for electrical conductivity in intrinsic semiconductors is given by:
+
+σ = q(nμ_n +pμ_p)
+
+where σ is the electrical conductivity, q is the charge of an electron, μ_n and μ_p are the electron and hole mobility, and n and p are the electron and hole concentrations respectively.
+
+At room temperature, the electron and hole concentrations are equal and given by:
+
+n_i^2 = np = (N_cN_v)exp(-Eg/kT)
+
+where n_i is the intrinsic carrier concentration, N_c and N_v are the effective densities of states in the conduction and valence bands respectively, Eg is the band gap energy, k is the Boltzmann constant, and T is the temperature.
+
+We can solve for n_i using the given values:
+
+σ = 10^(-6) Ω^(-1).m^(-1)
+q = 1.6*10^(-19) C
+μ_n = 0.75 m^(2)V^(-1)s^(-1)
+μ_p = 0.06 m^(2)V^(-1)s^(-1)
+k = 1.38*10^(-23) J/K (Boltzmann constant)
+T = 300 K
+
+For silicon, N_c = 2.8*10^(19) m^(-3) and N_v = 1.04*10^(19) m^(-3), while Eg = 1.12 eV = 1.12*1.6*10^(-19) J.
+
+Substituting these values into the formula for σ and solving for n_i, we get:
+
+n_i = sqrt((σ/q)/(μ_n + μ_p))
+
+n_i = sqrt((10^(-6)/(1.6*10^(-19)))/(0.75 + 0.06)) = 7.76 * 10^(12)  m^(-3)
+
+Therefore, the answer is (B) 7.7 * $10^(12)$.

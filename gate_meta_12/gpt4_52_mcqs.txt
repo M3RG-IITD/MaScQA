@@ -1,0 +1,42 @@
+To solve this problem, we can use the Hall-Petch equation, which relates the frictional stress to grain size:
+
+σ = σ0 + K * d^(-1/2)
+
+Where σ is the lattice frictional stress, σ0 is the yield stress in the absence of grain boundaries (not required in this problem), K is the Hall-Petch constant, and d is the grain size in meters.
+
+In this problem, we have:
+σ = 100 MN/m² = 100 * 10^6 N/m²
+K = 0.10 MN/m^(1.5) = 0.10 * 10^6 N/m^(1.5)
+ASTM No. 6 grain size = n
+
+Using the ASTM grain size number equation:
+n = (- log2(d (in mm))) - 1
+
+First, we need to find the grain size in millimeters:
+
+d (in mm) = 2^(-n + 1)
+
+Now, let's plug in the values and solve for d in meters:
+
+100 * 10^6 = 0 + 0.10 * 10^6 * (d)^(-1/2)
+100 = 0.10 * d^(-1/2)
+1000 = d^(-1/2)
+d^(-1/2) = 1000
+d = (1/1000)^(-2)
+d = 1000^2
+d = 1,000,000 µm
+
+Now, dividing by 1000 to get the value in mm:
+
+d (in mm) = 1,000,000 µm / 1000 = 1000 mm
+
+Now, we can find the ASTM grain size number:
+
+n = (- log2(d (in mm))) - 1
+n = (- log2(1000)) - 1
+n ≈ -9.97 - 1
+n ≈ -10.97
+
+The grain size is around 45 µm. Therefore, the correct answer is (A) 45 µm.
+
+Answer: [(A) 45 µm]

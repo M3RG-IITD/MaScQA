@@ -1,0 +1,1 @@
+Given: Enthalpy of fusion of nickel = 2.65 × $10^9$ 𝐽.$𝑚^(−3)$; Liquid-solid interfacial energy = 0.5 𝐽. $𝑚^(−2)$ , and Equilibrium melting temperature of nickel = 1728 K. The critical radius (in nm, rounded off to one decimal place) of nickel nucleus during solidification at 1673 K is 

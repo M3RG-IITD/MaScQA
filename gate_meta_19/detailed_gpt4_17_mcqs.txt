@@ -1,0 +1,36 @@
+Tensile creep is the time-dependent deformation of a material subjected to a constant stress at elevated temperature. Two mechanisms that contribute to creep deformation in polycrystalline materials are the Nabarro-Herring mechanism and the Coble mechanism. Both these mechanisms describe the movement of atoms across grain boundaries, causing the material to deform.
+
+Nabarro-Herring mechanism:
+This mechanism involves the diffusion of vacancies within the grain (lattice diffusion) followed by their annihilation at the grain boundaries. The creep rate due to Nabarro-Herring mechanism is given by:
+
+1. Q_NH = k * D_v * G * b * exp(-Q_D / RT) / a^2
+
+where:
+Q_NH: Creep rate due to Nabarro-Herring mechanism
+k: Constant
+D_v: Lattice diffusion coefficient
+G: Shear modulus
+b: Burgers vector
+Q_D: Activation energy for lattice diffusion
+R: Gas constant
+T: Absolute temperature
+a: Grain size
+
+Coble mechanism:
+This mechanism involves the diffusion of atoms along grain boundaries (grain boundary diffusion) and causes the material to deform through a sliding process. The creep rate due to Coble mechanism is given by:
+
+2. Q_C = k * D_GB * G * b * exp(-Q_GB / RT) / a^3
+
+where:
+Q_C: Creep rate due to Coble mechanism
+D_GB: Grain boundary diffusion coefficient
+Q_GB: Activation energy for grain boundary diffusion
+
+From the creep rate expressions (1) and (2), we can see that the Nabarro-Herring mechanism is favored over the Coble mechanism when:
+
+a. The grain size (a) is larger, as Q_NH is inversely proportional to a^2, while Q_C is inversely proportional to a^3.
+b. The temperature (T) is lower, as both mechanisms involve an exponential term with activation energy in the denominator (exp(-Q_D / RT) and exp(-Q_GB / RT), respectively). A lower temperature makes the exponential term smaller, and since lattice diffusion is generally slower than grain boundary diffusion (Q_D > Q_GB), the Nabarro-Herring mechanism is favored at lower temperatures. 
+
+So, the correct answer is:
+
+(A) larger grain size and lower temperature

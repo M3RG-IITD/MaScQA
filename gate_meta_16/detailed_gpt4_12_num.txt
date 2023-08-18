@@ -1,0 +1,41 @@
+To find the radius of the octahedral void in a face-centered cubic (fcc) iron lattice, we first need to understand the geometry and relationships within the lattice. 
+
+Step 1: Understanding the fcc unit cell
+The face-centered cubic unit cell consists of one atom at each of the eight corners and one atom at the center of each face. The length of the diagonal of the face of a cube can be represented as 4 times the atomic radius (4r), and the length of the edge of the unit cube (lattice parameter) is represented by 'a'.
+
+Step 2: Relate the lattice parameter to the atomic radius
+Using the Pythagorean theorem in the right-angled triangle formed by half the face diagonal and two edges in the fcc unit cell, we get:
+
+(1/2 * 4r)^2 = (a)^2 + (a)^2
+=> 16r^2 / 4 = 2a^2
+=> 4r^2 = 2a^2
+=> r^2 = a^2 / 2
+
+Step 3: Calculate the atomic radius
+We have the lattice parameter (a) for γ-Fe as 0.3571 nm.
+
+r^2 = (0.3571)^2 / 2
+r^2 = 0.12754121 / 2
+r^2 = 0.063770605
+r = √0.063770605
+r ≈ 0.2525 nm
+
+Step 4: Calculate the octahedral void radius
+The octahedral void is formed by 6 atoms on the fcc lattice. The center of these atoms forms an octahedron. The length of the face diagonal of the octahedron is 2 times the atomic radius (2r) and the length of the edge of this octahedron is represented by x, the radius of the octahedral void.
+
+Using the Pythagorean theorem on a right-angled triangle formed by the two atomic radii and the face diagonal of the octahedron, we have:
+
+(2r)^2 = x^2 + x^2
+=> 4r^2 = 2x^2
+=> x^2 = 2r^2
+=> x = √(2r^2)
+
+Step 5: Plug in the atomic radius value
+x = √(2(0.2525)^2)
+x = √(2 * 0.06375625)
+x = √(0.1275125)
+x ≈ 0.3571 nm
+
+The radius of the octahedral void in γ-Fe is approximately 0.3571 nm.
+
+Answer: [0.3571]

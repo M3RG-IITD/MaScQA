@@ -1,0 +1,47 @@
+To solve this problem we make use of the equation for carbon diffusion in austenite: 
+
+$$\frac{dC}{dt} = \frac{D_{o}}{N_{\text{m}}^2} \cdot \exp{\left(\frac{-Q}{RT}\right)} \cdot \frac{d^2C}{dx^2}$$
+
+where $C$ is the carbon concentration, $t$ is time, $D_{o}$ is the diffusion coefficient, $N_{\text{m}}$ is the number of sites available for diffusion (which is related to the lattice parameter), $Q$ is activation energy, $R$ is the gas constant, and $x$ is the distance from the surface of the specimen.
+
+For simplicity, we assume that the concentration profile remains constant for the duration of the carburizing process, and that the carburizing atmosphere maintains a constant carbon concentration of 1.2 wt.% C at the surface of the specimen. Thus, the initial and boundary conditions are:
+
+$C(x,0) = 0.002$ (initial composition) 
+
+$C(0,t) = 0.012$ (surface composition) 
+
+$C(\infty,t) = 0.002$ (bulk composition)
+
+We can use the complementary error function, $\text{erfc}(x)$, to solve for the concentration profile as a function of depth and time. The solution is: 
+
+$$C(x,t) = C_{o} + (C_{s} - C_{o}) \cdot \text{erfc} \left(\frac{x}{2\sqrt{Dt}}\right)$$
+
+where $C_{o}$ is the initial concentration, $C_{s}$ is the surface concentration, and $D$ is the diffusion coefficient. 
+
+We want to find the depth at which a composition of 0.4 wt.% C is obtained after carburizing at 870°C for 10 h. We can use the concentration profile equation to solve for the depth $x$:
+
+$$C(x,t) = 0.004 = C_{o} + (C_{s} - C_{o}) \cdot \text{erfc} \left(\frac{x}{2\sqrt{Dt}}\right)$$
+
+Plugging in the given constants: 
+
+- $C_{o} = 0.002$
+- $C_{s} = 0.012$
+- $D = 2.0 \cdot 10^{-5} \text{ m}^2/\text{s}$
+- $t = 10 \text{ h} = 36000 \text{ s}$ (note that we need to convert hours to seconds)
+- $Q = 142 \text{ kJ/mol}$
+- $R = 8.314 \text{ J/mol$\cdot$K}$
+- $T = 870 \text{ K}$
+
+we can rearrange the equation to solve for $x$: 
+
+$$x = 2\sqrt{Dt} \cdot \text{erfc}^{-1}\left(\frac{C_{s} - C_{x}}{C_{s} - C_{o}}\right)$$
+
+where $C_{x}$ is the concentration at a depth $x$. Rearranging again: 
+
+$$x = 2\sqrt{Dt} \cdot \text{erf}\left(\frac{C_{s} - C_{x}}{C_{s} - C_{o}}\right)^{-1}$$
+
+We want to find the depth at which $C_{x} = 0.004$ and $C_{s} = 0.012$. Plugging these values into the equation: 
+
+$$x = 2\sqrt{Dt} \cdot \text{erf}\left(\frac{0.008}{0.01}\right)^{-1} \approx 84 \text{ µm}$$
+
+Therefore, the answer is (B) 84 µm.

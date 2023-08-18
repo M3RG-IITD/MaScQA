@@ -1,0 +1,21 @@
+Intergranular corrosion is a type of localized corrosion that occurs along the grain boundaries of a metal, causing significant local weakening and eventual failure of the material. It can occur in several different metals, but we are going to focus on austenitic stainless steel in this problem. 
+
+Austenitic stainless steel is a type of stainless steel that is characterized by its high corrosion resistance and is mainly composed of iron, chromium, nickel, and small amounts of carbon. The high corrosion resistance is due to the formation of a thin, passive oxide layer on the surface, which comes from the reaction between chromium and oxygen. 
+
+During the annealing process or welding (heating at high temperatures), the excess carbon in the steel has a tendency to form carbides with different elements. These carbides form preferentially at the grain boundaries of the material. When some carbides form along the grain boundaries, they can deplete the grain boundary area of chromium, which reduces the ability to form a stable passive oxide layer. As a result, the grain boundary area becomes more susceptible to intergranular corrosion. 
+
+In order to solve this question, we need to determine which carbide is primarily responsible for intergranular corrosion in austenitic stainless steel.
+
+To answer this question, let's examine each carbide option:
+
+(A) $Cr_{23}C_{6}$ - Chromium Carbide: This carbide is formed when chromium reacts with excess carbon in the stainless steel. This process depletes the chromium content in the grain boundary areas, leaving them more susceptible to corrosion due to the decreased corrosion resistance. The formation of chromium carbide is a significant cause of intergranular corrosion in austenitic stainless steel.
+
+(B) $Fe_{3}C$ - Iron Carbide (cementite): Iron carbide is formed in some low-alloy steels by the reaction between iron and carbon. However, it is not a major concern for austenitic stainless steel since chromium and nickel in the steel promote the formation of austenite, which suppresses the formation of this carbide.
+
+(C) SiC - Silicon Carbide: Silicon carbide is not common in austenitic stainless steel, and it doesn't have a significant influence on intergranular corrosion.
+
+(D) $Mn_{3}C$ - Manganese Carbide: This carbide can be formed in stainless steel containing high carbon and manganese content. However, it is not the primary carbide responsible for intergranular corrosion in austenitic stainless steel.
+
+Based on the analysis of each option, the carbide primarily responsible for intergranular corrosion in austenitic stainless steel is (A) $Cr_{23}C_{6}$ (Chromium Carbide) due to its depletion of chromium, which reduces the corrosion resistance of the grain boundary regions. 
+
+The correct answer is: [A]

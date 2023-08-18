@@ -1,0 +1,33 @@
+To find the electrical conductivity of the zone-refined Si, we need to determine the concentration of P atoms (impurities) and the number of free electrons contributed by each P atom in the Si crystal.
+
+First, let's find the number of P atoms in 1 gram of Si:
+Residual P content = 0.1 parts per billion by weight
+= 0.1 * (10^(-9))
+
+Weight percentage of P in Si = 0.1 * (10^(-9)) * 100 = 10^(-7) %
+
+Now, let's find the moles of Si in 1 gram:
+Molecular weight of Si = 28.085 g/mol (from periodic table)
+Moles of Si in 1g = 1 g / 28.085 g/mol = 0.0356 mol
+
+Now let's find the number of Si atoms:
+Number of Si atoms in 1g = 0.0356 mol * 6.02 * (10^23) atoms/mol ≈ 2.14 * (10^22) atoms
+
+Weight of the P atoms in 1g of Si = (10^(-7))% = 10^(-9) g
+
+Moles of P in 1g = 10^(-9) g / 30.97 g/mol ≈ 3.23 * (10^(-11)) mol
+
+Number of P atoms in 1g = 3.23 * (10^(-11)) mol * 6.02 * (10^23) atoms/mol ≈ 1.94 * (10^13) atoms
+
+Each P atom contributes 1 free electron, so the total number of free electrons in the zone refined Si is:
+n = 1.94 * (10^13) / 1g
+
+Now let's find the electrical conductivity:
+σ = n * e * μ
+where e = charge of electron = 1.6 * (10^(-19)) A.s, and μ = mobility of electrons = 0.2 (m^2) . (V^(-1)) . (s^(-1))
+
+σ = 1.94 * (10^13) * 1.6 * (10^(-19))A.s * 0.2 (m^2) . (V^(-1)) . (s^(-1)) = 6.21 * (10^(-2)) Ω^(-1).m^(-1)
+
+So the electrical conductivity of the zone-refined Si is approximately 0.062 Ω^(-1).m^(-1).
+
+Answer: [0.062].

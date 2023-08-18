@@ -1,0 +1,20 @@
+Let x be the weight of the slag needed.
+
+Initially, the weight of the sulphur in steel is 0.03% * 1000 kg = 0.3 kg S.
+
+After desulphurization, the weight of sulphur in steel is 0.015% * 1000 kg = 0.15 kg S.
+
+Thus, 0.15 kg of sulphur has been transferred to the slag.
+
+Since the equilibrium sulphur partition ratio is 50, the weight of sulphur in the slag is 50 times the remaining sulphur content in the steel. That is:
+
+(wt.%S) in slag = 50 * (wt.%S) in steel after desulphurization
+(wt.%S) in slag = 50 * 0.015 = 0.750
+
+Now we can find the weight of slag needed:
+
+x * 0.750 = 0.15 kg S
+x = 0.15 kg S / 0.750
+x = 0.2 kg
+
+Therefore, the quantity of slag needed is approximately 0.2 kg, rounded off to the nearest integer: [0].

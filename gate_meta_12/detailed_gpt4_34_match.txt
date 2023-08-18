@@ -1,0 +1,47 @@
+To solve this question, we have to match the processes in Group I with their respective objectives in Group II.
+
+Group I:
+P. Vacuum Arc Degassing (VAD)
+Q. LD (Linz-Donawitz) Process
+R. COREX (COke-free Reactor EXport) Process
+S. Blast Furnace
+
+Group II:
+1. Primary iron making
+2. Secondary steel making
+3. Direct smelting
+4. Primary steel making
+
+Let's analyze options:
+
+A) P-3, Q-4, R-2, S-1
+ B) P-4, Q-3, R-1, S-2
+ C) P-3, Q-2, R-1, S-4
+ D) P-2, Q-4, R-3, S-1
+
+
+Matching the processes with objectives:
+
+P. Vacuum Arc Degassing (VAD) - This is a process to remove impurities (such as hydrogen, oxygen, nitrogen, and carbon) from steel. It is used for secondary steel making.
+→ P matches with 2.
+
+Q. LD (Linz-Donawitz) Process - Also known as Basic Oxygen Steelmaking (BOS), this process is used to convert molten pig iron into steel by blowing oxygen through the molten pig iron. It is a primary steelmaking process.
+→ Q matches with 4.
+
+R. COREX (COke-free Reactor EXport) Process - This process is an environmentally-friendly alternative to traditional blast furnace-based ironmaking. It allows the production of pig iron without the need for coke. It is used for primary ironmaking.
+→ R matches with 1.
+
+S. Blast Furnace - The blast furnace process is used for the production of pig iron from iron ore, coke, and limestone. It is the primary iron-making process.
+→ S matches with 1.
+
+Now, comparing the matchings with the options:
+
+A) P-3, Q-4, R-2, S-1 - Incorrect because P and R do not match the correct numbers.
+B) P-4, Q-3, R-1, S-2 - Incorrect because only R matches the correct number.
+C) P-3, Q-2, R-1, S-4 - Incorrect because only R and Q match the correct numbers.
+D) P-2, Q-4, R-3, S-1 - Correct because P, Q, R, and S match the correct numbers.
+
+Therefore, the correct answer is (D) P-2, Q-4, R-3, S-1.
+
+Writing the answer inside a list:
+[D]

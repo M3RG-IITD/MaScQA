@@ -1,0 +1,23 @@
+We can use the equation for the temperature distribution inside a sphere due to heating at the center:
+
+$T(r,t) = T_0 + \frac{Q}{6\pi k r^2} \exp\left(\frac{-k r^2}{\alpha t}\right)$
+
+where $T_0$ is the initial temperature, $Q$ is the heat input rate, $r$ is the distance from the center, $k$ is the thermal conductivity, $\alpha$ is the thermal diffusivity, and $t$ is time.
+
+Since both spheres have the same diameter, their initial temperatures and heat input rates are the same. Therefore, we can compare their temperature distributions by comparing the exponential term in the equation. We want to find the time required for the center of sphere Y to reach a temperature of 800K, which means solving for $t$ in the equation:
+
+$800 = T_0 + \frac{Q}{6\pi k r^2} \exp\left(\frac{-k r^2}{\alpha t}\right)$
+
+For sphere X, we are given that $r$ and $\alpha$ are the same as for sphere Y, but $\alpha$ is four times larger. Therefore, we can use the same equation to find the time required for the center of sphere X to reach a temperature of 800K, but with $\alpha/4$ substituted for $\alpha$:
+
+$800 = T_0 + \frac{Q}{6\pi k r^2} \exp\left(\frac{-k r^2}{(\alpha/4) t}\right)$
+
+Dividing the two equations, we get:
+
+$\frac{800 - T_0}{800 - T_0} = \frac{\exp\left(\frac{-k r^2}{(\alpha/4) t_x}\right)}{\exp\left(\frac{-k r^2}{\alpha t_y}\right)}$
+
+Simplifying and solving for $t_y$, we get:
+
+$t_y = \frac{t_x}{4} = \frac{1}{4} \text{hour} = \boxed{\text{(A) 1 hour}}$
+
+Therefore, the time required for the center of sphere Y to reach 800K is 1 hour.

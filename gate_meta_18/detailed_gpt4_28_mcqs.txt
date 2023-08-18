@@ -1,0 +1,19 @@
+We will first consider the statements individually and then check if the reasoning is correct or not.
+
+Assertion [A]: Refractory BCC metals like W and Mo are less ductile than FCC metals like Ni and Pt at room temperature.
+
+This statement is true. Metals with a Body Centered Cubic (BCC) structure such as W (Tungsten) and Mo (Molybdenum) are typically less ductile than Face Centered Cubic (FCC) metals like Ni (Nickel) and Pt (Platinum) at room temperature.
+
+Reason [R]: BCC metals have fewer independent slip systems than FCC metals.
+
+This statement is also true. The ductility of a metal depends on the number of independent slip systems available in its crystal structure. A greater number of slip systems make it easier for the metal to deform plastically without fracture.
+
+Face Centered Cubic (FCC) metals have 12 independent slip systems, whereas Body Centered Cubic (BCC) metals have fewer (usually 6) independent slip systems. Hence, FCC metals can generally accommodate more plastic deformation before fracture, making them more ductile than BCC metals.
+
+Now, let's analyze if [R] is the correct reason for [A].
+
+As explained above, BCC metals have fewer independent slip systems than FCC metals, which directly affects their ability to deform plastically without fracture. Since ductility is the measure of a material's ability to deform plastically before fracture, the lesser number of independent slip systems in BCC metals is indeed the correct reason for their lower ductility compared to FCC metals at room temperature.
+
+Thus, the correct answer is:
+
+(A) Both [A] and [R] are true and [R] is the correct reason for [A].

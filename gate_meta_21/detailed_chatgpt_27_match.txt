@@ -1,0 +1,11 @@
+P: Extrusion - In this process, a metal billet is heated and forced through a die to form a specific shape. (1)
+
+Q: Rolling - This process is used to form thin and flat pieces of metal by passing them through a set of rollers. (2)
+
+R: Deep Drawing - The process of forming a sheet metal blank into a hollow shape by pressing the metal into a die cavity. (3)
+
+S: Open Die Forging - In this process, a piece of metal is hammered into shape using a set of dies that do not enclose the metal entirely. (4)
+
+Therefore, the correct matching is:
+
+(A) P-1, Q-2, R-3, S-4

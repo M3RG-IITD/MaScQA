@@ -1,0 +1,19 @@
+Let's analyze both the assertion (a) and reason (r) separately before concluding the correctness.
+
+Assertion (a): Peak aging time for an Al-4 wt.% Cu alloy is indicated by a maximum in the hardness.
+
+This assertion is true. In the precipitation hardening process, the peak aging time is the time at which the hardness is at its maximum value. This occurs when the optimum level of precipitation strengthening has been reached, wherein the alloy has the optimal number and distribution of precipitates.
+
+Reason (r): The maximum volume fraction of the θ precipitates is formed at the peak aging time.
+
+This reason is also true. During peak aging in the Al-Cu alloy system, the maximum volume fraction of the θ (also known as Al2Cu) precipitates is formed. The formation of these precipitates leads to an increase in hardness as the precipitates hinder the dislocation movement, thereby increasing the resistance to deformation.
+
+Now, let's analyze if the reason (r) is the reason for assertion (a).
+
+The increase in hardness is directly linked to the formation of the maximum volume fraction of θ precipitates during the peak aging time. As previously mentioned, these precipitates impede dislocation movement, causing increased hardness. Therefore, the reason (r) is indeed the correct explanation for the assertion (a).
+
+Based on the above analysis, the correct option is:
+
+(C) both a and r are true, and r is the reason for a
+
+The correct answer is [C].

@@ -1,0 +1,1 @@
+Given: $Δ_(f)G°_(1873)$ = -262300J; $a_(MoO_(2))$ (s) = 0.5 and $Δ_(r)G°_(1873)$ = -120860J for the reaction CO(g) + 0.5$O_2$(g)⇔ $CO_2$(g); R = 8.314 J.$K^(-1).mol^(-1)$. What is the equilibrium ($p_(CO)$/$p_(CO_2)$) ratio for the given reaction at 1873 K? (round off to 2 decimal places). Mo(s) + $O_2$(g) ⇔ $MoO_2$(s)

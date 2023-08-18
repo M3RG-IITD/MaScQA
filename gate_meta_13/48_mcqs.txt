@@ -1,0 +1,2 @@
+Given: For carbon diffusion in austenite: $D_o$ = 2.0 * $10^(-5)m^(2)/s. Activation energy for diffusion, Q=142 kJ/mol. A steel specimen containing 0.2 wt.% C is carburized in an atmosphere that maintains a carbon content of 1.2 wt.% C at the surface of the specimen. What is the depth (in µm) from the surface of the specimen at which a composition of 0.4 wt.% C is obtained after carburizing at 870°C for 10 h? (use the image)
+(A) 15 (B) 84 (C) 113 (D) 875

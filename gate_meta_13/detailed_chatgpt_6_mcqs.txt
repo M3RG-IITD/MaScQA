@@ -1,0 +1,9 @@
+Answer: (C) Nitriding
+
+Explanation:
+- Flame hardening: In this process, a high-intensity flame is directed towards the surface of the steel, and then the surface is quenched rapidly to obtain the desired hardness. Therefore, it requires quenching to obtain final case hardness.
+- Induction hardening: In this process, the steel is heated by electromagnetic induction, and then the surface is quenched rapidly to obtain the desired hardness. Therefore, it requires quenching to obtain final case hardness.
+- Carburizing: In this process, the steel is heated in a carbon-rich environment to absorb carbon into the surface, and then the surface is quenched rapidly to obtain the desired hardness. Therefore, it requires quenching to obtain final case hardness.
+- Nitriding: In this process, the steel is heated in an atmosphere of ammonia gas to absorb nitrogen into the surface. The surface hardness is obtained without the need for quenching because the steel does not absorb carbon in this process.
+
+Therefore, the correct answer is (C) Nitriding.

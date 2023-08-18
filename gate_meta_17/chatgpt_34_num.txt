@@ -1,0 +1,48 @@
+The equation for de-carburization rate is: 
+
+dC/dt = -(c-c*)
+
+We are given the equilibrium concentration of carbon in steel, c* = 0.04 wt.%. We are also given the initial concentration of carbon in steel, c(t=0) = 0.4 wt.%. 
+
+Using the equation for de-carburization rate, we can set up a differential equation:
+
+dC/dt = -(c-c*)
+dC/-(c-c*) = dt
+
+Integrating both sides, we get: 
+
+-ln|c-c*| = t + k
+
+where k is the constant of integration. We can solve for k using the initial condition c(t=0) = 0.4:
+
+-ln|0.4-0.04| = 0 + k
+k = -ln(0.36)
+
+So the equation for c is:
+
+-ln|c-0.04| = t - ln(0.36)
+
+Taking the exponential of both sides, we get:
+
+|c-0.04| = exp(-t+ln(0.36)) = 0.36 exp(-t)
+
+Since c cannot be negative, we can remove the absolute value:
+
+c-0.04 = 0.36 exp(-t)  (if c > 0.04)
+c-0.04 = -0.36 exp(-t) (if c < 0.04)
+
+Since our initial condition c(t=0) = 0.4 is greater than c*, the solution is:
+
+c-0.04 = 0.36 exp(-t)
+
+Adding 0.04 to both sides, we get:
+
+c = 0.04 + 0.36 exp(-t)
+
+We want to find c at t = 1 min:
+
+c = 0.04 + 0.36 exp(-1) = 0.086
+
+Therefore, the concentration of carbon in steel at t=1 min is 0.086 wt.%. 
+
+Answer: [0.086]

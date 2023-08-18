@@ -1,0 +1,2 @@
+Which of the following techniques are NOT applicable for detecting internal flaws in a ceramic material? 1. Liquid penetration test 2. Radiography 3. Ultrasonic testing 4. Eddy current method
+(A) 1 and 3 (B) 3 and 4 (C) 2 and 4 (D) 1 and 4

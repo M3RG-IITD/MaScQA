@@ -1,0 +1,63 @@
+First, we need to find the equilibrium constant (K) for the reaction CO(g) + 0.5$O_2$(g)⇔ $CO_2$(g) at 1873 K using the equation:
+
+$Δ_(r)G°$ = -RTlnK
+
+where R is the gas constant, T is the temperature in Kelvin, and ln is the natural logarithm.
+
+$Δ_(r)G°_(1873)$ = -120860 J
+R = 8.314 J.$K^(-1).mol^(-1)$
+T = 1873 K
+
+-120860 = -8.314 x 1873 x lnK
+lnK = 24.7
+K = e^(24.7) = 4.46 x 10^(10)
+
+Next, we need to calculate the value of $Δ_(r)G$ for the reaction Mo(s) + $O_2$(g) ⇔ $MoO_2$(s) at 1873 K using the equation:
+
+$Δ_(r)G$ = $Δ_(r)G°$ + RTln(Q)
+
+where Q is the reaction quotient.
+
+For the given reaction, Q = $p_(O_2)$/$a_(Mo)$, as the stoichiometric coefficients are both 1.
+
+$Δ_(r)G$ = 0 + 8.314 x 1873 x ln($p_(O_2)$/$a_(Mo)$)
+
+We can simplify this equation by using $pO_(2)$/$a_(Mo)$ = $p_(O_2)$/$0.5a_(MoO_(2))$, as the two reactants have 1:1 stoichiometry in the product.
+
+$Δ_(r)G$ = 8.314 x 1873 x ln($p_(O_2)$/$0.5a_(MoO_(2))$)
+
+Now we can use the equation for the Gibbs free energy change ($Δ_(f)G$) of formation of $MoO_2$(s) to calculate the value of $Δ_(f)G$ for $MoO_2$(s) at 1873 K:
+
+$Δ_(f)G$ = $Δ_(f)G°$ + RTln($a_(MoO_(2))$)
+
+$Δ_(f)G$ = 0 + 8.314 x 1873 x ln(0.5)
+
+We can now use the relationship $Δ_(r)G$ = $Δ_(f)G$($MoO_(2)$) - $ΣΔ_(f)G$(reactants) to find $Δ_(r)G$:
+
+$Δ_(r)G$ = $Δ_(f)G$($MoO_(2)$) - $Δ_(f)G$($Mo(s)$) - 0.5$Δ_(f)G$($O_2$(g))
+
+$Δ_(r)G$ = (8.314 x 1873 x ln(0.5)) - 0 - 0.5(0)
+
+$Δ_(r)G$ = 7.8 x 10^(3) J
+
+Finally, we can use the equation:
+
+$Δ_(r)G$ = -RTln($K_(p)$)
+
+to solve for the equilibrium partial pressures of CO and $CO_2$:
+
+$K_(p)$ = e^(-$Δ_(r)G$/(RT))
+
+$K_(p)$ = e^(-7800/(8.314 x 1873))
+
+$K_(p)$ = 0.0256
+
+$p_(CO_2)$/$p_(CO)$ = $K_(p)$/$p°$
+
+where $p°$ is the standard pressure of 1 bar.
+
+$p_(CO_2)$/$p_(CO)$ = 0.0256/1
+
+$p_(CO_2)$/$p_(CO)$ = 0.0256
+
+Therefore, the equilibrium $p_(CO)$/$p_(CO_2)$ ratio for the given reaction at 1873 K is 0.03 (rounded off to 2 decimal places). Answer: [0.03].

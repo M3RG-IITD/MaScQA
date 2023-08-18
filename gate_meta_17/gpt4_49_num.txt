@@ -1,0 +1,31 @@
+We can use the Avrami equation to determine the transformation percentage after a certain time.
+
+The Avrami equation is given by:
+Y = 1 - exp(-k*t^n)
+
+where:
+Y = percentage of transformation
+k = rate constant
+t = time
+n = Avrami exponent (given as 2)
+
+We know that after 100s, the transformation is 20% complete, so we can plug these values into the equation to solve for k:
+
+0.20 = 1 - exp(-k * 100^2)
+
+Now we need to find the value of k:
+
+0.80 = exp(-k * 10000)
+ln(0.80) = -k * 10000
+k = -ln(0.80) / 10000 ≈ 2.288e-5
+
+Now that we have the value of k, we can find the transformation percentage after 400s:
+
+Y = 1 - exp(-2.288e-5 * 400^2)
+Y = 1 - exp(-3.6608)
+Y = 1 - 0.02573
+Y ≈ 0.97427
+
+The transformation percentage after 400s is approximately 97.43%.
+
+So the answer is [97.43].

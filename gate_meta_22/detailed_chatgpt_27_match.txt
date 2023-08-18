@@ -1,0 +1,12 @@
+(P) Extrusion - 4. Fir-tree cracking
+(Q) Deep drawing - 1. Earing
+(R) Forging - 2. Cold shut
+(S) Rolling - 3. Edge cracking
+
+Explanation:
+- Extrusion involves forcing a material through a die to give it the desired shape. Fir-tree cracking can occur during this process due to high thermal and mechanical stresses.
+- Deep drawing involves pulling a sheet of material over a tool to create a desired shape. Earing is a defect that can occur, where the material becomes unevenly stretched and causes a wavy appearance.
+- Forging involves shaping metal by compressing it and is done either hot or cold. Cold shut is a defect that can occur during this process where a part of the metal does not properly fuse during the compression.
+- Rolling involves reducing the thickness of a material by compressing it with rollers. Edge cracking occurs when the edges of a rolled material crack due to excessive pressure.
+
+Therefore, the correct answer is option (D) P - 4, Q - 1, R - 2, S - 3.

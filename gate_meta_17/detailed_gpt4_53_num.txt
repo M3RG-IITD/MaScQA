@@ -1,0 +1,65 @@
+Chvorinov's equation states:
+
+t = k(V^2/A)
+
+where t is the total time for solidification, k is a constant, V is the volume of the casting and A is the total surface area. Since the exponent (n) given is 2, the equation becomes:
+
+t = k(V/A)
+
+For the cubic casting, the dimensions are 5cm * 5cm * 5cm. The volume and surface area can be calculated as:
+ 
+V_cube = L * W * H = 5 * 5 * 5 = 125 cm^3
+
+A_cube = 6 * L^2 = 6 * (5^2) = 150 cm^2 
+
+Given that the total time for solidification of the cubic casting is 1.6 min, we can determine the constant 'k':
+
+1.6 = k * (125/150)
+k = 1.6 * (150/125)
+k = 1.92
+
+Now let's analyze the cylindrical riser. It's given that the diameter to height ratio is 0.5. Therefore, 
+
+D = 0.5 * H
+
+where D is the diameter and H is the height. 
+
+The volume and surface area of the cylinder can be calculated as follows:
+
+V_cyl = π * (D/2)^2 * H = π * (0.5*H)^2 * H = π * (0.25*H^3)
+
+A_cyl = 2 * π * (D/2) * H + 2 * π * (D/2)^2 = π * D * H + π * (D/2)^2 = π * (0.5*H*H + 0.125*H^2)
+
+The total time for solidification of the riser is 3.2 min. We know the value of 'k' (1.92) from before, so we can apply Chvorinov's rule for the riser:
+
+3.2 = 1.92 * (V_cyl/A_cyl)
+
+Substitute the expressions obtained for V_cyl and A_cyl:
+
+3.2 = 1.92 * (π * (0.25*H^3) / (π * (0.5*H*H + 0.125*H^2)))
+
+Since π is present in both the numerator and denominator, they cancel out:
+
+3.2 = 1.92 * (0.25*H^3 / (0.5*H^2 + 0.125*H^2))
+
+Next, divide both sides of the equation by 1.92:
+
+3.2 / 1.92 = 0.25*H^3 / (0.5*H^2 + 0.125*H^2)
+
+1.66667 = 0.25*H^3 / (0.625 * H^2)
+
+Now, multiply both sides by (0.625 * H^2):
+
+1.66667 * (0.625 * H^2) = 0.25*H^3
+
+1.04167 * H^2 = 0.25*H^3
+
+Now, divide by 0.25*H^2 to isolate H:
+
+(1.04167 * H^2) / (0.25*H^2) = H
+
+H = 4.16667
+
+Therefore, the height of the riser is approximately 4.17 cm. 
+
+The correct answer is [4.17].

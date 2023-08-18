@@ -1,0 +1,11 @@
+Indirect compression is a metalworking process in which a metal workpiece is compressed between two dies or rolls. The correct options are listed and explained below:
+
+(A) Forging: Forging is not an indirect compression process. It is a direct compression process where a metal workpiece is compressed and shaped by a hammer or a press.
+
+(B) Wire drawing: Wire drawing is not an indirect compression process. It is a metalworking process where a metal wire is pulled through a die to reduce its diameter and increase its length.
+
+(C) Extrusion: Extrusion can be categorized as an indirect compression process. In this metalworking process, a metal workpiece is forced through a die to create a desired cross-sectional shape.
+
+(D) Stretch forming: Stretch forming is not an indirect compression process. It is a metalworking process where a metal sheet is stretched and bent over a die to create a curved or contoured part.
+
+Therefore, the answer is (C) Extrusion.

@@ -1,0 +1,7 @@
+The correct answer is (C) both a and r are true, and r is the reason for a.
+
+Explanation:
+
+In gas tungsten arc welding of aluminium alloys, the DCRP mode is used because it has a cleaning effect on the metal surface due to its high heat concentration on the cathodic electrode (the tungsten electrode). This facilitates the breaking up of the oxide film that tends to form on the aluminium surface, allowing the welding process to proceed more easily.
+
+Therefore, both the assertion and the reason are true, and the reason correctly explains why the assertion is true.

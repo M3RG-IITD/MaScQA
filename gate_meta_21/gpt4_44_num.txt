@@ -1,0 +1,35 @@
+To find the work done during the adiabatic expansion, we can use the formula:
+
+$W = \frac{(P_2 V_2 - P_1 V_1) \cdot R}{1 - \gamma}$, where $\gamma$ is the adiabatic index, $P_1$ and $P_2$ are the initial and final pressures, and $V_1$ and $V_2$ are the initial and final volumes. Additionally, for an ideal gas, we know that $PV=nRT$.
+
+The adiabatic index, $\gamma$, can be calculated as the ratio of specific heat capacities: $\gamma = \frac{C_p}{C_v}$. Given that $C_p = 2.5 R$, we can find $C_v$ using the relationship $C_p = C_v + R$.
+
+$C_v = C_p - R = 2.5 R - R = 1.5 R$
+
+Now, we can find the adiabatic index:
+
+$\gamma = \frac{C_p}{C_v} = \frac{2.5R}{1.5R} = \frac{5}{3}$
+
+Using the relationships for an ideal gas, we can find the initial and final volumes:
+
+$V_1 = \frac{nR T_1}{P_1} = \frac{1 \cdot 8.314 \cdot 300}{10 \cdot 101325}$
+$V_1 = \frac{2494.2}{1013250} = 0.00246$ $m^3$
+
+$V_2 = \frac{nR T_2}{P_2} = \frac{1 \cdot 8.314 \cdot T_2}{101325}$
+We know for an adiabatic process that $T_1^{1-\gamma} P_1^\gamma = T_2^{1-\gamma} P_2^\gamma$:
+
+$T_2 = T_1 \cdot \left(\frac{P_1}{P_2}\right)^{\frac{\gamma - 1}{\gamma}} = 300 \cdot \left(\frac{10}{1}\right)^{\frac{2}{5}}$
+$T_2 = 300 \cdot 10^{\frac25} = 300 \cdot 2.51188 \approx 753.56$ K
+
+Now we can find the final volume:
+
+$V_2 = \frac{1 \cdot 8.314 \cdot 753.56}{101325} = 0.06162$ $m^3$
+
+Finally, we can calculate the work done:
+
+$W = \frac{(P_2 V_2 - P_1 V_1) \cdot R}{1 - \gamma} = \frac{(101325 \cdot 0.06162 - 10 \cdot 101325 \cdot 0.00246) \cdot 8.314}{1 - \frac{5}{3}}$
+$W = \frac{(6182.65 - 2494.2) \cdot 8.314}{-\frac 23} = \frac{3688.45 \cdot 8.314}{-\frac 23} = \approx -6145$ J
+
+The work done by the gas during the adiabatic expansion is approximately -6145 Joules.
+
+Answer: [-6145]

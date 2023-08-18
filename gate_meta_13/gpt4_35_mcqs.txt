@@ -1,0 +1,27 @@
+First, we need to find the number of atoms per unit cell in an FCC metal. In FCC metal, there is 1/8 of an atom at each corner and 1/2 of an atom at each face. Therefore, there are:
+
+8 corners * (1/8) atoms per corner + 6 faces * (1/2) atoms per face = 1 + 3 = 4 atoms/unit cell
+
+Now we need to calculate the density of atoms along the lattice. As the lattice parameter is 0.2 nm, the volume of the unit cell is:
+
+V = a³ = (0.2 nm)³ = 8 * 10^(-9) m³
+
+The density of atoms within the unit cell is:
+
+Density = 4 atoms / V = 4 atoms / (8 x 10^(-9) m³) = 0.5 * 10^9 atoms/m³
+
+Given the saturation magnetization of the metal is 600 kA/m, the net magnetic moment per atom can be calculated by dividing the saturation magnetization by the atomic density:
+
+Magnetic moment per atom = Saturation magnetization / Density
+                                      = (600 kA/m) / (0.5 * 10^9 atoms/m³)
+                                      = 1.2 * 10^(-3) A.m²/atom
+
+Now, we have to convert the magnetic moment per atom from A.m²/atom to Bohr magneton (µ_B). 1 µ_B is equal to 9.274 * 10^(-24) A.m².
+
+Magnetic moment per atom (in Bohr magneton) = Magnetic moment per atom (A.m²/atom) / µ_B
+                                                             = (1.2 * 10^(-3) A.m²/atom) / (9.274 * 10^(-24) A.m²)
+                                                             = 0.129
+
+So, the correct answer is 0.129, which corresponds to option (D).
+
+Answer: [0.129]

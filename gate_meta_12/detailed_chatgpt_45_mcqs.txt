@@ -1,0 +1,56 @@
+Given, 
+
+The flow stress (σ) of an alloy varies with strain rate (ε) as σ = 100* $(ε)^(0.1)$ MPa. 
+
+The diameter of the alloy changes from 10 cm to 5 cm.
+
+The speed of extrusion is 2 cm/s.
+
+We need to find out the flow stress.
+
+We can use the following formula to calculate the flow stress for a metal during hot working process:
+
+$\sigma = K \times \epsilon^n$
+
+Where,
+$k$ and $n$ are constants which are specific to the material being processed.
+
+Here, 
+
+$k$ = 100 MPa
+
+$n$ = 0.1
+
+Let's calculate the strain rate using the formula:
+
+$\epsilon = \frac{v \ln(\frac{r_i}{r_f})}{L}$
+
+Where,
+
+$v$ = Speed of extrusion = 2 cm/s
+
+$r_i$ = Initial radius = 5 cm/2 = 2.5 cm
+
+$r_f$ = Final radius = 2.5 cm/2= 1.25 cm
+
+$L$ = Length of the extruded part (let's assume it to be 10 cm)
+
+Plugging in the values, we get:
+
+$\epsilon = \frac{2 \ln(\frac{2.5}{1.25})}{10}$
+
+$\epsilon = 0.276$ 
+
+Now we can calculate the flow stress using the formula:
+
+$\sigma = K \times \epsilon^n$
+
+Plugging in the values we get:
+
+$\sigma = 100 \times (0.276)^{0.1}$
+
+$\sigma = 105.08$ MPa
+
+Therefore, the flow stress is approximately 105 MPa.
+
+Hence, the answer is option (B) 105 MPa.

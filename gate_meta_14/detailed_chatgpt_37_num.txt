@@ -1,0 +1,18 @@
+Sievert's law states that the solubility of a gas in a solid is directly proportional to the partial pressure of the gas in contact with the solid. Mathematically, this can be written as:
+
+S = kP
+
+where S is the solubility, P is the partial pressure, and k is a constant of proportionality.
+
+We are given that Sievert's law holds for the solubility of hydrogen in a thin metal foil. If the partial pressure of hydrogen in contact with the foil is increased by a factor of 4, we can write:
+
+S2 = k(4P)
+
+where S2 is the new solubility, and 4P is the new partial pressure. Dividing this equation by the original Sievert's law equation (S = kP), we get:
+
+S2/S = (k(4P))/(kP)
+S2/S = 4
+
+Therefore, the solubility increases by a factor of 4. This means that if the original solubility of hydrogen in the metal foil was x, then the new solubility after increasing the partial pressure by a factor of 4 would be 4x.
+
+Answer: The solubility increases by a factor of 4.

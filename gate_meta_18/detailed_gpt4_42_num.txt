@@ -1,0 +1,45 @@
+To determine the associated volume change in %, we need to follow these steps:
+
+1. Calculate the volume of the unit cells for both BCC and FCC structures.
+2. Find the ratio of the volume of the FCC unit cell to the BCC unit cell.
+3. Calculate the percentage change in volume.
+
+Let's start with step 1:
+
+1. Calculate the volume of the unit cells for both BCC and FCC structures:
+
+For BCC, the lattice parameter is given as 0.293 nm. The volume of a BCC unit cell is given by the formula:
+
+V_BCC = a_BCC^3
+
+where a_BCC is the lattice parameter of the BCC phase.
+
+V_BCC = (0.293 nm)^3 = 0.293^3 nm³ ≈ 0.0251 nm³
+
+For FCC, the lattice parameter is given as 0.363 nm. The volume of an FCC unit cell is given by the formula:
+
+V_FCC = a_FCC^3
+
+where a_FCC is the lattice parameter of the FCC phase.
+
+V_FCC = (0.363 nm)^3 = 0.363^3 nm³ ≈ 0.0479 nm³
+
+Now, let's move to step 2:
+
+2. Find the ratio of the volume of the FCC unit cell to the BCC unit cell.
+
+R = V_FCC / V_BCC
+
+R ≈ 0.0479 nm³ / 0.0251 nm³ ≈ 1.908
+
+Finally, let's move to step 3:
+
+3. Calculate the percentage change in volume.
+
+Percentage change in volume = ((V_FCC - V_BCC) / V_BCC) * 100
+
+Percentage change ≈ ((0.0479 nm³ - 0.0251 nm³) / 0.0251 nm³) * 100 ≈ (0.0228 nm³ / 0.0251 nm³) * 100 ≈ 0.908 * 100 ≈ 90.8 %
+
+Rounding off to one decimal place, the associated volume change is 90.8%.
+
+Therefore, the correct answer is [90.8].

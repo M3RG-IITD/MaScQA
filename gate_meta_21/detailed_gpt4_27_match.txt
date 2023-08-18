@@ -1,0 +1,11 @@
+Unfortunately, I am unable to see the image you referenced for the Column I values. To accurately match the forming processes with their names, I would need more information about what P, Q, R, and S represent. If you provide descriptions or situations for the processes P, Q, R, and S, I would be more than happy to help you solve this problem.
+
+In general, below are descriptions of each process in Column II:
+
+1. Extrusion: A deformation process where a metal billet is forced through a die orifice, resulting in a formed product with a cross-section similar to the die's shape.
+
+2. Rolling: A continuous deformation process where metal stock is passed through two or more parallel rotating rolls. The thickness of the metal stock is reduced and its width expanded.
+
+3. Deep Drawing: A sheet metal forming process where a blank piece of sheet metal is drawn over a die by a mechanical press, resulting in the creation of a cup-shaped part.
+
+4. Open Die Forging: A metal forming process where a heated metal billet is hammered between two open dies without completely enclosing the material, allowing for more complex shapes and greater deformation.

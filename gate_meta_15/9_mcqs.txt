@@ -1,0 +1,2 @@
+Self supporting arches for furnace roofs can be fabricated using silica bricks but not using magnesia bricks. Why?
+(A) Silica has a significantly lower thermal expansion coefficient than magnesia at high temperatures. (B) Silica has a significantly higher thermal conductivity than magnesia at high temperatures. (C) Silica has a significantly lower melting point than magnesia. (D) Silica is significantly more acidic than magnesia.

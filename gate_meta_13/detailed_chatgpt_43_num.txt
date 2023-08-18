@@ -1,0 +1,23 @@
+The mesh count of a sieve is defined as the number of openings per linear inch. Here, we are given that the sieve has 200 mesh count. This means that there are 200 openings per inch.
+
+We can use this information to determine the size of each opening. To do this, we need to first convert the units to micrometers, since the wire diameter is given in micrometers. 
+
+1 inch = 25,400 micrometers (approx.)
+
+So, the sieve has 200 openings per inch = 200 openings/25,400 µm
+
+= 0.00787402 openings/µm
+
+Now, we need to determine the size of each opening. We can do this by using the formula:
+
+A = (d^2)/(n^2)
+
+where A is the aperture size, d is the wire diameter, and n is the mesh count. Substituting the given values, we get:
+
+A = (53^2)/(200^2)
+
+A = 0.000703025 µm
+
+Therefore, the aperture size of the sieve is 0.000703025 µm.
+
+Answer: [0.000703025 µm]

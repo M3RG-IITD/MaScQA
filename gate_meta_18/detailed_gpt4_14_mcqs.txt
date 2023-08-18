@@ -1,0 +1,18 @@
+BOF (Basic Oxygen Furnace) steel-making process is an important method for the production of steel, where pig iron is refined in a furnace by blowing oxygen on it to remove carbon and other impurities.
+
+During this process, a slag layer is produced as a byproduct. This layer protects the refractory lining of the furnace from impurities & erosive effect of the molten metal, and it should be as stable as possible to minimize the refractory loss.
+
+Now let's analyze the given options:
+
+A) $Al_2O_3$ - Alumina typical has high melting point and low solubility in slag, it means that it helps in reducing overall solubility in the slag, resulting in better refractory lining protection.
+
+B) $Fe_2O_3$ - Iron oxide or ferric oxide is a fluxing agent and present in relatively higher amounts in the slag. It's not desirable to supersaturate slag with iron oxide, as it will not add stability to the refractory lining.
+
+C) $SiO_2$ - Silica is also present in the slag, but it is not used to supersaturate the slag, as it can also act as a fluxing agent and may not help to increase the stability of the refractory lining.
+
+D) MgO - Magnesium oxide can react with the slag to form a more stable compound (magnesiowüstite) and increase its viscosity, which in turn helps to protect the refractory lining. Additional MgO also contributes to a higher melting point of the slag, which can enhance the refractory lining's durability.
+
+Conclusion:
+To minimize refractory loss during BOF steel-making, slag is supersaturated with MgO (option D), as it helps to increase the stability of refractory lining, reduce impurities solubility, and enhance slag melting point.
+
+Answer: [D]

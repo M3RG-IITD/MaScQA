@@ -1,0 +1,37 @@
+To solve this question, we need to follow the steps below:
+
+Step 1: Determine the phases present at room temperature for a 0.8 wt.% C steel sample using the iron-carbon equilibrium diagram.
+ 
+The iron-carbon equilibrium diagram is shown below:
+
+![iron-carbon%20equilibrium%20diagram.png](attachment:iron-carbon%20equilibrium%20diagram.png)
+
+At 0.8 wt.% C, the eutectoid composition, the phases present at room temperature are 100% pearlite.
+
+Step 2: Determine the phases present at room temperature for a 0.6 wt.% C steel sample using the iron-carbon equilibrium diagram.
+
+At 0.6 wt.% C, the phases present at room temperature are α-ferrite and pearlite.
+
+Step 3: Determine the maximum amount of pearlite that can form in the sample.
+
+The maximum amount of pearlite that can form in the sample can be calculated using lever rule. 
+
+First, we need to calculate the weight percentages of α-ferrite and pearlite in the sample. 
+
+Weight percentage of α-ferrite = (0.6 - 0.025) / (0.8 - 0.025) = 0.719
+
+Weight percentage of pearlite = 1 - 0.719 = 0.281
+
+Now, we can calculate the maximum amount of pearlite that can form in the sample using the lever rule:
+
+Maximum pearlite = (0.281 / 0.87) x 100% = 32.18%
+
+Step 4: Calculate the fraction of proeutectoid ferrite in the microstructure.
+
+Since the maximum amount of pearlite that can form in the sample is 32.18%, the fraction of proeutectoid ferrite in the microstructure is:
+
+Fraction of proeutectoid ferrite = 1 - 32.18% = 67.82%
+
+Therefore, the answer is:
+
+- Fraction of proeutectoid ferrite in the microstructure = 67.82%.

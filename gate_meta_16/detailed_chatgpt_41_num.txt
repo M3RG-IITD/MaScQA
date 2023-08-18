@@ -1,0 +1,77 @@
+The Avrami kinetics equation is:
+
+f = 1 – $exp(–kt^{n})$
+
+where:
+
+f = fraction transformed
+k = rate constant
+t = time
+n = Avrami exponent
+
+We are given two transformation times, which means we have two sets of data:
+
+At time t1 = 200 seconds, f1 = ?
+At time t2 = 400 seconds, f2 = ?
+
+We can use these two sets of data to solve for the rate constant k and the Avrami exponent n.
+
+Taking the natural logarithm of both sides of the Avrami equation, we get:
+
+ln(1-f) = -kt^n
+
+Let's first solve for the rate constant k by using the two sets of data:
+
+ln(1-f1) = -k(200)^n
+
+ln(1-f2) = -k(400)^n
+
+Dividing the second equation by the first, we get:
+
+ln(1-f2)/(1-f1) = -k((400)^n/(200)^n)
+
+Simplifying, we get:
+
+ln(1-f2)/(1-f1) = -k(2^n)
+
+Rearranging, we get:
+
+k = -ln(1-f2)/(1-f1) / (2^n)
+
+Now, we can solve for n by using the first set of data:
+
+ln(1-f1) = -k(200)^n
+
+Substituting the expression for k, we get:
+
+ln(1-f1) = -[-ln(1-f2)/(1-f1) / (2^n)](200)^n
+
+Simplifying, we get:
+
+ln(1-f1) = ln(1-f2)(200/400)^n
+
+Taking the natural logarithm of both sides, we get:
+
+ln(ln(1-f1)) = ln(ln(1-f2)) + n*ln(0.5)*ln(200/400)
+
+Solving for n, we get:
+
+n = [ln(ln(1-f1)) - ln(ln(1-f2))] / ln(0.5) * ln(200/400)
+
+Now, we can solve for the fraction transformed at 300 seconds (t = 300 s) using the Avrami equation:
+
+f = 1 – $exp(–kt^{n})$
+
+Substituting the values we have found, we get:
+
+f = 1 – $exp(–k(300)^{n})$
+
+f = 1 – $exp(–[-ln(1-f2)/(1-f1) / (2^n)](300)^{n})$
+
+f = 1 – $exp(–[-ln(1-f2)/(1-f1) / (2^[(ln(ln(1-f1)) - ln(ln(1-f2))] / ln(0.5) * ln(200/400)])](300)^[(ln(ln(1-f1)) - ln(ln(1-f2))] / ln(0.5) * ln(200/400)])$
+
+Now, we can plug in the values given in the question to calculate the fraction transformed at 300 seconds.
+
+Answer: 
+
+f = 0.8405 (rounded to four decimal places)

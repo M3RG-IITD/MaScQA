@@ -1,0 +1,25 @@
+Step 1: Analyze the TTT diagram given.
+
+TTT diagram shows the transformation of austenite to different phases at different temperatures for a particular cooling rate. In the given diagram, we have eutectoid steel (0.8% carbon).
+
+The four heat treatments for eutectoid steel are:
+P - Austenitization (heating to 720°C) and holding for 1 hour, followed by slow cooling to 650°C and holding for 10 hours
+Q - Austenitization (heating to 800°C) and quenching in oil
+R - Austenitization (heating to 760°C) and isothermal cooling to 350°C
+S - Austenitization (heating to 760°C) and isothermal cooling to 540°C
+
+Step 2: Identify the resulting microstructures for each heat treatment.
+
+P: Cooling from austenite temperature to 650°C at a slow rate and holding for 10 hours leads to the formation of fine pearlite.
+
+Q: Quenching austenite at 800°C results in the formation of martensite.
+
+R: Isothermal cooling from austenite temperature to 350°C results in the formation of bainite.
+
+S: Isothermal cooling from austenite temperature to 540°C results in the formation of coarse pearlite.
+
+Step 3: Match the heat treatments with the resulting microstructures.
+
+P-1, Q-2, R-3, S-4
+
+Therefore, the correct answer is (A) P-1, Q-2, R-3, S-4.

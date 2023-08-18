@@ -1,0 +1,35 @@
+We can use the principle of conservation of mass and conservation of energy to solve this problem. 
+
+Conservation of mass: 
+
+The mass of the plate must remain constant, so we can write: 
+
+mass * initial thickness = mass * final thickness 
+
+Simplifying, we get: 
+
+initial thickness = final thickness * (5/3)
+
+Conservation of energy: 
+
+We can assume that the plate is completely plastic, so there is no change in its kinetic energy (all of the energy is dissipated as heat due to friction). Therefore, we can write: 
+
+(1/2) * mass * initial velocity^2 = (1/2) * mass * final velocity^2 
+
+Simplifying, we get: 
+
+initial velocity^2 = final velocity^2 * (5/3) 
+
+Substituting initial thickness and solving for final velocity, we get: 
+
+final velocity = initial velocity * sqrt(3/5) * (5/3) 
+
+final velocity = initial velocity * sqrt(1/3) 
+
+final velocity = 10 * sqrt(1/3) 
+
+final velocity = 5.8 cm/s (rounded off to one decimal place)
+
+Answer: 
+
+- 5.8 cm/s

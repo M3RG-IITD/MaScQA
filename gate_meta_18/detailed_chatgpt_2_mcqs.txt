@@ -1,0 +1,21 @@
+To determine the most abundant anion in a $2CaO.SiO_2$ melt, we first need to find the overall charge of the compound. 
+
+$2CaO$ has a charge of $2+ \times 2 = 4+$ because there are two Ca atoms, each with a charge of $2+$.
+
+$SiO_2$ has a charge of $4-$. Si and O are in group 4 and 6 of the periodic table, respectively, meaning that Si needs to lose 4 electrons and O needs to gain 2 electrons to form stable ions. Therefore, $SiO_2$ has a charge of $2 \times 2- = 4-$.
+
+Thus, the overall charge of $2CaO.SiO_2$ is $4+ + 4- = 0$.
+
+We can now consider the anions that could be present in the melt. Since the overall charge is 0, the total number of negative charges from the anions must also be 0. Let's calculate the charges of each option:
+
+(A) $(SiO_4)^{-4}$: This anion has a charge of $-4$.
+
+(B) $(Si_(2)O_(7))^{-6}$: This anion has a charge of $-6$.
+
+(C) $(Si_(3)O_(10))^{-8}$: This anion has a charge of $-8$.
+
+(D) $(Si_(4)O_(14))^{-10}$: This anion has a charge of $-10$.
+
+Out of the given options, $(SiO_4)^{-4}$ has the right charge to balance the overall charge of $2CaO.SiO_2$. Therefore, the correct answer is:
+
+- (A) $(SiO_4)^{-4}$

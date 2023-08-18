@@ -1,0 +1,15 @@
+To match the phase transformations in Column I with the corresponding reactions in Column II, we need to first understand the basics of phase transformations.
+
+(P) Peritectic: This is a phase transformation that involves a solid phase and a liquid phase reacting to form another solid phase. The reaction can be represented as: L + α → β
+Matching (P) with Column II, we get (P-4).
+
+(Q) Monotectic: This is a phase transformation that involves one liquid phase decomposing into two different liquid phases. The reaction can be represented as: L1 → L2 + α
+Matching (Q) with Column II, we get (Q-3).
+
+(R) Eutectoid: This is a phase transformation that involves a solid phase decomposing into two other solid phases. The reaction can be represented as: γ → α + β
+Matching (R) with Column II, we get (R-1).
+
+(S) Syntectic: This is a phase transformation that involves two liquid phases reacting to form a solid phase. The reaction can be represented as: L1 + L2 → α
+Matching (S) with Column II, we get (S-2).
+
+Thus, the correct answer is: [(A) P-4, Q-3, R-1, S-2].

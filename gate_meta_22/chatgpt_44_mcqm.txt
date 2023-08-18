@@ -1,0 +1,1 @@
+A, B, C, and D all influence the melting rate of the consumable wire in a gas metal arc welding process.

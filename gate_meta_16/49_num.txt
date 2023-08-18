@@ -1,0 +1,1 @@
+A tensile stress is applied along the [100] direction in a FCC metal crystal. The critical resolved shear stress is 6 MPa. The tensile stress (in MPa) required for initiating slip on the (111) slip plane is?

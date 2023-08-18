@@ -1,0 +1,2 @@
+A species can diffuse through the lattice (diffusion coefficient, $D_L$ ), along grain boundaries (diffusion coefficient, $D_(GB)$ ), and along free surfaces (diffusion coefficient, $D_S$ ). Which of the following relations is CORRECT?
+(A) $D_L$ > $D_(GB)$ > $D_S$ (B) $D_S$ > $D_L$ > $D_(GB)$ (C) $D_(GB)$ > $D_S$ > $D_L$ (D) $D_S$ > $D_(GB)$ > $D_L$

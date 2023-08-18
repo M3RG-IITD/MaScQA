@@ -1,0 +1,17 @@
+According to Sieverts' law, the solubility of a gas in a solid is proportional to the square root of its pressure. Let's denote the solubility of hydrogen in Pd at 1 atm as S1 and the solubility of hydrogen in Pd at 0.09 atm as S2. Then, we can write the following equation:
+
+S1/S2 = √(1 atm / 0.09 atm)
+
+Given that S1 = 1.64 * 10^4 mm^3 per kg of Pd, we can solve for S2:
+
+S2 = S1 * √(0.09 atm / 1 atm)
+S2 = (1.64 * 10^4 mm^3 per kg of Pd) * √0.09
+S2 = (1.64 * 10^4 mm^3 per kg of Pd) * 0.3
+
+Now, we can calculate S2:
+
+S2 = 4920 mm^3 per kg of Pd
+
+So, the solubility of hydrogen in Pd at 300°C and 0.09 atm is approximately 4920 mm^3 (STP) per kg of Pd.
+
+Answer: [4920]

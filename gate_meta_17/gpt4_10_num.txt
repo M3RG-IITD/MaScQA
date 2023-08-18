@@ -1,0 +1,33 @@
+We are given the following:
+
+Green density = 0.55
+Final density after sintering = 0.865
+
+Now, we need to find the linear shrinkage (LS) in percentage.
+We know that volume shrinkage (VS) is related to linear shrinkage as follows:
+
+VS = 1 - (1 - LS)^3
+
+Since the shrinkage is uniform, the volume shrinkage is equal to the ratio of final density to green density:
+
+VS = Final_density / Green_density = 0.865 / 0.55 = 1.5727
+
+Now we can find LS using the formula:
+
+1 - (1 - LS)^3 = 1.5727
+(1 - LS)^3 = 1 - 1.5727 = -0.5727
+
+Take the cube root of both sides:
+
+1 - LS = (-0.5727)^(1/3)
+1 - LS = -0.8324
+
+Now, solve for LS:
+
+LS = 1 - (-0.8324) = 1.8324
+
+Convert LS to percentage by multiplying by 100:
+
+LS (%) = 1.8324 * 100 = 183.24
+
+Therefore, the linear shrinkage is [183.24]%.

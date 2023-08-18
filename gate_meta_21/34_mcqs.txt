@@ -1,0 +1,2 @@
+For a fully developed 1-D flow of Newtonian fluid through a horizontal pipe of radius R (see figure), the axial velocity ($v_z$) is given by: $v_z$ = [ΔP/L]*({$R^2$ - $r^2$}/4µ), where ΔP is the pressure difference (P1- P2), µ is the viscosity, r is the radial distance from the axis and L is the length of the tube. The shear stress exerted by the fluid on the tube wall is:
+(A) ΔPR/(2L) (B) ΔPR/L (C) 3ΔPR/(2L) (D) 2ΔPR/L

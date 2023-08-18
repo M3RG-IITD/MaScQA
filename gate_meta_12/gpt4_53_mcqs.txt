@@ -1,0 +1,50 @@
+To find the yield strength of the material, we can use the Hall-Petch equation:
+
+$$σ_y = σ_0 + kd^{\frac{-1}{2}}$$
+
+where σ_y is the yield strength, σ_0 is the lattice frictional stress, k is the locking parameter (Hall-Petch constant), and d is the grain size.
+
+First, we need to find the grain size d. The ASTM No. 6 corresponds to a grain size of 0.1 mm. Since we need the grain size in meters, we convert it:
+
+$$d = 0.1 \times 10^{-3} m$$
+
+Next, we use the Hall-Petch equation with the given values of σ_0 (100 MN/m²), k (0.10 MN/m¹.⁵), and d (0.1 mm in meters):
+
+$$σ_y = 100 + 0.10 \times (0.1 \times 10^{-3})^{\frac{-1}{2}}$$
+
+Convert the lattice frictional stress and locking parameter into MPa:
+
+σ_0 = 100 MN/m² = 100,000 MPa
+k = 0.10 MN/m¹.⁵ = 100 MPa m^(1/2)
+
+$$σ_y = 100000 + 100 \times (0.1 \times 10^{-3})^{\frac{-1}{2}}$$
+
+Calculate the value inside the brackets:
+
+$$\frac{-1}{2} = -0.5$$ value inside the power of grain size.
+
+The exponent is negative, so it becomes the reciprocal:
+
+$$ (0.1 \times 10^{-3})^{-0.5} = (\frac{1}{0.1 \times 10^{-3}})^{0.5}$$
+
+Square root the denominator:
+
+$$ \frac{1}{\sqrt{0.1 \times 10^{-3}}}$$
+
+$$ \frac{1}{\sqrt{10^{-4}}}$$
+
+$$ \frac{1}{10^{-2}}$$
+
+Multiply by 10²:
+
+$$10² = 100$$
+
+Now, we can plug this into the Hall-Petch equation:
+
+$$σ_y = 100,000 + 100 \times 100$$
+
+$$σ_y = 100,000 + 10,000$$
+
+$$σ_y = 110,000$$
+
+So, the yield strength of the material is approximately 110,000 MPa, which is not among the given options. Therefore, there seems to be an issue with the given solution choices. Please verify the values given in the problem statement.

@@ -1,0 +1,20 @@
+To solve this question, we need to understand the precipitation hardening process and phases involved in the Aluminum-Copper alloy system. 
+
+Precipitation hardening, also known as age hardening, is a heat treatment process that increases the strength and hardness of alloys. The Al-Cu system is one of the well-studied systems where precipitation hardening is highly effective.
+
+The Al-4 wt.% Cu alloy consists of aluminum as the base metal (matrix) and copper as the main alloying element. During the aging process of this alloy, there is a sequence of precipitation steps that take place, where the solute atoms (in this case, copper) form clusters, zones, and finally distinct phases with different crystal structures. 
+
+Here is the sequence of precipitation in the Al-4 wt.% Cu alloy during aging:
+
+1. GP (Guinier-Preston) Zones: These are the very initial clusters formed by the diffusion of copper atoms in the aluminum matrix during the aging process. GP zones are coherent with the matrix and have no distinct crystal structure. They are rich in copper and may form elongated shapes. The formation of GP zones increases the strength and hardness of the alloy.
+
+2. θ'' Phase: With further aging, the GP zones grow and transform into the θ'' phase (also known as the semi-coherent phase). In this phase, the copper atoms are arranged in a distinct crystal structure, and the mismatch in crystal lattice between the θ'' and the matrix causes some strain in the material. The θ'' phase is responsible for giving peak hardness in the alloy.
+
+3. θ' Phase: As aging continues, θ'' phase is transformed into the θ' phase. The θ' phase has a plate-like shape and is coherent with the aluminum matrix. This phase is responsible for maintaining good strength along with the increase in ductility.
+
+4. θ Phase: Finally, with continued aging, the θ' phase transforms into the θ phase (also known as the equilibrium phase). The θ phase is incoherent with the aluminum matrix and represents a stable phase where aging has reached saturation. In this phase, the strength and hardness start to decrease due to the formation of larger and more stable precipitates.
+
+Hence, the correct sequence of precipitation during aging of Al - 4 wt.% Cu alloy is: GP zone → θ'' → θ' → θ. 
+
+So, the correct answer is:
+[(C)]

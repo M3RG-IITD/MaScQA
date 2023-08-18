@@ -1,0 +1,22 @@
+The strain rate sensitivity parameter (m) can be calculated using the following equation:
+
+m = (log(σ2) - log(σ1)) / (log(ε'2) - log(ε'1))
+
+Where:
+σ1 and σ2 are the flow stresses at the two strain rates (50 MPa and 70 MPa, respectively)
+ε'1 and ε'2 are the strain rates (0.1 $s^(-1)$ and 10 $s^(-1)$, respectively)
+
+First, let's find the logs of the flow stresses and strain rates:
+
+log(σ1) = log(50) = 1.6990
+log(σ2) = log(70) = 1.8451
+log(ε'1) = log(0.1) = -1
+log(ε'2) = log(10) = 1
+
+Now, plug the values into the equation:
+
+m = (1.8451 - 1.6990) / (1 - (-1)) = 0.1461 / 2 = 0.07305
+
+Therefore, the strain rate sensitivity parameter is 0.073 (rounded off to 3 decimal places).
+
+Answer: [0.073].

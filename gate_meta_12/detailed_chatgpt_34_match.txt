@@ -1,0 +1,18 @@
+Group I consists of four processes and Group II consists of four objectives. We need to match each process with its corresponding objective. 
+
+- Vacuum Arc Degassing (VAD): This process involves the removal of gases from molten steel using a vacuum. The objective of this process is to improve the quality of steel by reducing the amount of impurities. This process falls under Secondary steel making. 
+
+- LD: The LD stands for Linz–Donawitz process, a converter steelmaking process. The primary objective of this process is to reduce the carbon content in the iron to make low carbon steel. This process falls under Primary steel making.
+
+- COREX: This process is a smelting-reduction process. It produces pig iron and a by-product called Corex gas. The Corex gas can be used as fuel for the furnace or further processed to produce chemicals. This process falls under Direct smelting.
+
+- Blast Furnace: This process is the most widely used method for primary iron making. The objective of this process is to produce pig iron or hot metal. This process falls under Primary iron making.
+
+Thus, the correct match of processes in Group I with the objectives in Group II is:
+
+(A) P-3, Q-4, R-2, S-1 
+
+- P- Vacuum Arc Degassing (VAD) - 3. Direct smelting 
+- Q- LD - 4. Primary steel making
+- R- COREX - 2. Secondary steel making
+- S- Blast Furnace - 1. Primary iron making

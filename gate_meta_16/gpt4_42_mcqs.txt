@@ -1,0 +1,36 @@
+Let's analyze the given reactions and label them:
+
+(1) ZnO(s) + C(s) = Zn(g) + CO(g)
+(2) 2CO(g) = CO₂(g) + C(s)
+
+First, let's write down the mole balance for each of the gases:
+
+Mole balance for Zn(g): Δn(Zn) = n(Zn) - n₀(Zn)
+Mole balance for CO(g): Δn(CO) = n(CO) - n₀(CO)
+Mole balance for CO₂(g): Δn(CO₂) = n(CO₂) - n₀(CO₂)
+
+Since ZnO and C are solids, n₀(Zn) and n₀(CO) are equal to zero.
+
+Now let's look at the reactions and how they affect the mole balance:
+
+Reaction (1) produces 1 mole of Zn(g) and 1 mole of CO(g) for each mole of ZnO that reacts. Thus, the change in moles for Zn and CO are equal: Δn(Zn) = Δn(CO).
+
+Reaction (2) produces 1 mole of CO₂(g) for every 2 moles of CO(g) that react. Thus, we get the change in moles for CO₂ related to CO by: Δn(CO₂) = -0.5 * Δn(CO).
+
+If we substitute these relationships into the mole balances, we get:
+
+Δn(Zn) = Δn(CO)
+Δn(CO₂) = -0.5 * Δn(CO)
+
+Now use these relationships to relate the partial pressures:
+
+p_(Zn) = p_(CO)
+p_(CO₂) = -0.5 * p_(CO)
+
+Solve for p_(Zn) to get:
+
+p_(Zn) = p_(CO) - 2 * p_(CO₂)
+
+So, the correct answer is (A) $p_(Zn)$ = $p_(CO)$ + $2*p_(CO_2)$. 
+
+Answer: [(A)]

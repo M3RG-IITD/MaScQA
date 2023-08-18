@@ -1,0 +1,20 @@
+The saturation magnetization (I) can be calculated using the formula:
+I = (𝑁𝜇^2𝑆)/ (3𝑘𝐵𝑇)
+where,
+N = Avogadro's number
+𝜇 = magnetic moment of an Fe atom in Am2 (given as 2 𝜇𝐵 = 2 x 9.273 × 10^(-24) A m^2)
+S = number of Fe atoms per unit cell of BCC structure (S = 2)
+k = Boltzmann constant
+T = temperature in Kelvin
+The lattice parameter of BCC iron is given as 0.287 nm. We can convert it into meters by multiplying with 10^(-9) as 1 nm = 10^(-9) m.
+
+Substituting the given values, we get:
+I = [(6.022 × 10^23)/(0.287 × 10^(-9))^3] x (2 x 9.273 × 10^(-24))^2 x 2 / (3 x 1.3807 × 10^(-23) x 300)
+I = 1737.06 A/m
+
+Converting A/m into kAm-1 and rounding off to one decimal place, we get:
+I = 1.7 kAm-1
+
+Therefore, the saturation magnetization of Fe in kAm-1 rounded off to one decimal place is 1.7.
+
+Answer: [1.7]

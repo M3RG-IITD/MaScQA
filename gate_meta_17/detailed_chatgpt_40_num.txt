@@ -1,0 +1,18 @@
+The specific energy consumption can be calculated using the following formula:
+
+Specific energy consumption = (voltage × current × 3600) / (cathodic current efficiency × 65)
+
+where:
+
+- voltage = 3.5V
+- current = 400A
+- cathodic current efficiency = 90%
+- 65 = atomic weight of Zn
+- 3600 = conversion factor from hours to seconds (since current is given in amperes and not milliamperes)
+
+Substituting the given values, we get:
+
+Specific energy consumption = (3.5 × 400 × 3600) / (0.9 × 65)
+Specific energy consumption = 113934.46 kJ/kg (rounded to two decimal places)
+
+Therefore, the specific energy consumption is 113934.46 kJ/kg (answer up to two decimal places).

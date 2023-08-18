@@ -1,0 +1,21 @@
+To find the resolved shear stress on the (1 1 -1) [101] slip system, we need to first determine the Schmid factor for this system. 
+
+The Schmid factor represents the probability of a particular slip system being activated in response to a tensile stress applied along a certain crystallographic direction. It is calculated as the dot product of the slip system and the tensile stress direction, divided by the product of their magnitudes. 
+
+The slip direction [101] can be written as a vector (1 0 1) and the slip plane (1 1 -1) can be written as a normal vector (1 1 -1). Therefore, the Schmid factor for this system is:
+
+$$
+\cos(\theta) = \frac{\mathbf{s} \cdot \mathbf{t}}{||\mathbf{s}|| \, ||\mathbf{t}||} = \frac{(1 \ 0 \ 1) \cdot (3 \ 2 \ 1)}{\sqrt{2} \ \sqrt{14}} \approx 0.56
+$$
+
+where $\mathbf{s}$ is the slip direction and $\mathbf{t}$ is the tensile stress direction [321]. 
+
+Next, we need to determine the resolved shear stress, which is calculated as the product of the Schmid factor and the applied tensile stress:
+
+$$
+\tau_{\text{resolved}} = \text{Schmid factor} \times \text{applied tensile stress} = 0.56 \ \text{MPa} \times 10 \ \text{MPa} = 5.60 \ \text{MPa}
+$$
+
+Rounding off to two decimal places, the final answer is:
+
+- The resolved shear stress on the (1 1 -1) [101] slip system is 5.60 MPa.

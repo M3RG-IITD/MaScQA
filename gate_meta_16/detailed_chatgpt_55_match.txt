@@ -1,0 +1,15 @@
+Let's first understand the stress states associated with each deformation process:
+
+- Wire Drawing: involves pulling a metal wire through a small orifice, which leads to an increase in its length and a decrease in its diameter. This process involves tension stress as the material is being stretched.
+- Forging: involves shaping a metal by hammering it while heated. This process involves compression stress as the material is being squished.
+- Stretch Forming: involves stretching a metal sheet over a die to create a particular shape. This process involves tension stress as the material is being stretched.
+- Cutting: involves removing a portion of a metal to create a desired shape. This process involves shear stress as the material is being sliced.
+
+Now, let's match these with the stress states listed in Column II:
+
+- Wire Drawing: Tension stress - matches with option C (P-2)
+- Forging: Compression stress - matches with option Q (Q-1)
+- Stretch Forming: Tension stress - matches with option R (R-3)
+- Cutting: Shear stress - matches with option S (S-4)
+
+Therefore, the correct answer is (C) P-2; Q-1; R-3; S-4.

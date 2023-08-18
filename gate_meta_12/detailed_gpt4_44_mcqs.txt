@@ -1,0 +1,42 @@
+To solve this problem, we will use the Griffith's criterion for the fracture of brittle materials, which states that the critical stress for fracture is given by:
+
+σ_c = Y * K_c / (π*a)^0.5
+
+where:
+
+- σ_c is the critical stress for fracture (fracture stress)
+- Y is a constant that depends on the geometry of the crack
+- K_c is the fracture toughness of the material (a material property)
+- a is the crack length
+
+Since we are considering the same material, K_c and Y remain constant. Thus, the relationship between fracture stress and crack length can be written as:
+
+σ_c ∝ 1 / (a^0.5)
+
+Now we have the values for the fracture stress and crack length for two different cases:
+
+Case 1: 
+Crack length, a1 = 1 µm
+Fracture stress, σ_c1 = 200 MPa
+
+Case 2: 
+Crack length, a2 = 4 µm
+Fracture stress, σ_c2 = ?
+
+We can now form the proportion:
+
+σ_c1 / σ_c2 = (a2^0.5) / (a1^0.5)
+
+Plugging in the given values:
+
+200 / σ_c2 = (4^0.5) / (1^0.5)
+
+200 / σ_c2 = 2 / 1
+
+σ_c2 = 200 / 2
+
+σ_c2 = 100 MPa
+
+So, the fracture stress for the same material having a crack length of 4 µm is:
+
+Answer: (C) 100 MPa

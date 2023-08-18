@@ -1,0 +1,1 @@
+A FCC crystal with a lattice parameter of 0.3615 nm is used to measure the wavelength of monochromatic X-rays. The Bragg angle (θ) for the reflection from (111) planes is 21.68°. The wavelength of X-rays (in nm, rounded off to three decimal places) is 

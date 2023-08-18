@@ -1,0 +1,5 @@
+Match the scientist pairs listed in Group I with phenomena listed in Group II:
+Group I: [P. Hall-Petch, Q. Nabarro-Herring, R. Lomer-Cottrell, S. Frank-Read]
+Group II: [1. Dislocation reaction product, 2. Diffusional creep, 3. Dislocation source, 4. Grain boundary strengthening]
+
+Options: (A) P-1, Q-2, R-3, S-4 (B) P-1, Q-2, R-4, S-3 (C) P-4, Q-2, R-1, S-3 (D) P-4, Q-1, R-2, S-3

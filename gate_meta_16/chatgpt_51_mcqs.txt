@@ -1,0 +1,18 @@
+The elastic modulus of a composite material can be calculated using the rule of mixtures. For a transversely loaded composite, the rule of mixtures can be written as:
+
+$E_{transverse} = E_{matrix} \times \left( 1 - V_f \right) + E_{fiber} \times V_f$
+
+where $E_{matrix}$ and $E_{fiber}$ are the elastic moduli of the polymer matrix and the glass fiber, respectively, and $V_f$ is the volume fraction of the glass fiber.
+
+Substituting the given values, we get:
+
+$E_{transverse} = 3.5 \times \left( 1 - 0.4 \right) + 70 \times 0.4$
+
+$E_{transverse} = 2.1 + 28$
+
+$E_{transverse} = 30.1$ GPa
+
+Therefore, the correct answer is option (C) 30.1. 
+
+The answer is:
+- (C) 30.1

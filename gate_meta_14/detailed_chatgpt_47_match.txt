@@ -1,0 +1,17 @@
+P: Tungsten is a transition metal and is known to crystallize in a body-centered cubic (BCC) lattice structure. 
+
+Q: Nickel is also a transition metal and is known to crystallize in a face-centered cubic (FCC) lattice structure. 
+
+R: Magnesium is an alkaline earth metal and is known to crystallize in a hexagonal close-packed (HCP) lattice structure. 
+
+S: Polonium is a metalloid and is known to crystallize in a simple cubic lattice structure. 
+
+Therefore, the correct matching is: (A) P-2, Q-1, R-4, S-3. 
+
+Explanation: 
+- Tungsten (P) is a transition metal and is known to crystallize in a BCC structure (option 3 is eliminated). 
+- Nickel (Q) is a transition metal and is known to crystallize in an FCC structure (option 2 is eliminated). 
+- Magnesium (R) is an alkaline earth metal and is known to crystallize in a HCP structure (option 1 is eliminated). 
+- Polonium (S) is a metalloid and is known to crystallize in a simple cubic structure (option 4 is eliminated).
+
+Therefore, the only option that matches each element with its corresponding crystal structure is (A) P-2, Q-1, R-4, S-3.

@@ -1,0 +1,18 @@
+To answer this question, let's first understand what earing defect is and then associate it with the correct metal forming process among the given options.
+
+Earing defect:
+Earing is a common defect that occurs during the deep drawing process of sheet metal forming. It is characterized by the formation of undesired wrinkles or flanges around the perimeter of the drawn cup or part. This happens due to the anisotropic properties of the sheet metal, i.e., the difference in the material's properties in different directions. Earing can affect the quality and appearance of the drawn part and also leads to material wastage.
+
+Now, let's analyze each of the given options:
+
+(A) Deep drawing: As mentioned above, the earing defect is associated with the deep drawing process. In deep drawing, a sheet metal blank is drawn around a forming die with the help of a punch. The material flows radially inward into the die cavity and forms a cup-like shape. Due to the anisotropy in the material properties, it causes the earing defect.
+
+(B) Rolling: Rolling is a metal forming process in which a metal stock is compressed between two or more opposing rolls to reduce its thickness and make it uniform. Earing doesn't occur in this process.
+
+(C) Forging: Forging is a metal forming process that involves shaping metal using compressive forces. The metal is heated to a specific temperature and then hammered, pressed, or extruded into the desired shape. Earing doesn't occur in this process.
+
+(D) Wire drawing: Wire drawing is a metal forming process used to reduce the cross-sectional area of a wire by pulling it through one or more tapered dies. Earing doesn't occur in this process.
+
+Since the earing defect is associated with the deep drawing process, the correct answer is:
+
+[A]

@@ -1,0 +1,32 @@
+From the given information, we can assume that the flow rate of the air remains constant. Also, as there are no friction losses, the Bernoulli's equation can be applied between sections A and B.
+
+Bernoulli's equation:
+$$P_A+\frac{1}{2}\rho V_A^2+\rho gh_A=P_B+\frac{1}{2}\rho V_B^2+\rho gh_B$$
+
+Since the fluid is incompressible, the mass flow rate will be constant throughout the venturimeter. Therefore, we can use the continuity equation to find the velocity at section A
+
+Continuity equation:
+$$Av_A=Av_B$$
+where $A$ represents cross-sectional area and $v$ represents velocity.
+
+Rearranging the above equation, we get:
+$$v_A=\frac{A_B}{A_A}v_B=\frac{1}{2}v_B$$
+
+Using this velocity in the Bernoulli's equation, we get:
+$$P_A+\frac{1}{2}\rho\left(\frac{1}{2}v_B\right)^2+\rho gh_A=P_B+\frac{1}{2}\rho v_B^2+\rho gh_B$$
+
+As the venturimeter is open to the atmosphere, we can assume that the pressure at sections A and B is atmospheric pressure i.e. $P_A=P_B$. Simplifying the above equation, we get:
+
+$$\rho g(h_A-h_B)=\frac{3}{8}\rho v_B^2$$
+
+The air-over-water manometer indicates the difference in pressure between sections A and B. Therefore, the height difference, H, is given by:
+$$H=\frac{\rho g(h_A-h_B)}{\rho_{water}}=\frac{\rho g}{\rho_{water}}(h_A-h_B)=\frac{\frac{1}{2}\rho v_B^2}{\rho_{water} g}$$
+
+Substituting the given values, we get:
+$$H=\frac{\frac{1}{2}(1 kg/m^3)\left(\frac{10^{-3}m^3}{s}\right)^2}{(1000 kg/m^3)(9.8 m/s^2)}=0.051\ m=51\ mm$$
+
+Therefore, the height of the air-over-water manometer is 51 mm (rounded off to the nearest integer).
+
+The answer is:
+
+- 51

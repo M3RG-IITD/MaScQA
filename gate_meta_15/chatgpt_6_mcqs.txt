@@ -1,0 +1,3 @@
+Since hydrophobic mineral particles tend to ascend with air bubbles over hydrophilic mineral particles, we need to identify which mineral between P and Q is more hydrophobic. From the figure, we can observe that the water droplet on the surface of mineral P has a higher contact angle compared to the water droplet on the surface of mineral Q. This indicates that mineral P is more hydrophobic than mineral Q. Thus, the correct statement is:
+
+(A) Mineral P ascends with air bubbles preferentially over mineral Q.

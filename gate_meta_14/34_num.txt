@@ -1,0 +1,1 @@
+An electrolytic refining cell for copper consists of an alloy with activity of copper $a_(Cu)$ = 0.8 as the anode, and pure copper as the cathode. What is the absolute value of the cell potential (in millivolts) at 25°C, given that copper is divalent? Faraday constant is 96500 C/mol and the universal gas constant is 8.314 J/(mol.K).

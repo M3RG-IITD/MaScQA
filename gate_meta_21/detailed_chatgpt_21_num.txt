@@ -1,0 +1,63 @@
+We can use Bragg's Law to solve this problem. 
+
+Bragg's Law states that for a given set of crystal planes separated by distance "d", constructive interference (reflection) will occur when the following condition is satisfied:
+
+2d sin(θ) = nλ
+
+where:
+
+- θ is the Bragg angle
+- n is an integer (1, 2, 3, etc.), which represents the order of the reflection (first, second, third, etc.)
+- λ is the wavelength of the incident X-rays.
+
+For a FCC crystal, the (hkl) planes are given by the following equation:
+
+h^2 + k^2 + l^2 = n^2
+
+where h, k, and l are the Miller indices of the plane.
+
+For the first reflection, we know that θ = 30°. We also know that for the first order of reflection (n=1), the Miller indices can be (111), (200), (220), etc.
+
+Let's use the (111) plane as an example:
+
+From the equation for the (hkl) planes of a FCC crystal, we can see that for the (111) plane, h=k=l=1. Therefore, the distance between adjacent (111) planes can be calculated using the following equation:
+
+d = a / sqrt(3)
+
+where a is the lattice constant (distance between adjacent atoms in the FCC crystal).
+
+For the second reflection (n=2), we are looking for the Bragg angle (θ) for a set of crystal planes that are twice as far apart as the (111) planes. Therefore, the Miller indices for this reflection can be (222), (400), (440), etc.
+
+Let's use the (222) plane as an example:
+
+From the equation for the (hkl) planes of a FCC crystal, we can see that for the (222) plane, h=k=l=2. Therefore, the distance between adjacent (222) planes can be calculated using the following equation:
+
+d' = a / sqrt(2)
+
+where d' is the distance between adjacent (222) planes.
+
+Now, we can use Bragg's Law to find the Bragg angle (θ) for the second order of reflection:
+
+2d' sin(θ') = 2λ
+
+Substituting the values for d' and λ, we get:
+
+2(a / sqrt(2)) sin(θ') = 2λ
+
+Simplifying, we get:
+
+sin(θ') = λ / (a / sqrt(2))
+
+We know the value of λ for X-rays is typically around 1 angstrom (10^-10 meters). We can assume a lattice constant for the FCC crystal, such as a = 5 angstroms.
+
+Substituting these values, we get:
+
+sin(θ') = 1 / (5 / sqrt(2)) = 0.2828
+
+Taking the inverse sine of both sides, we get:
+
+θ' = sin^-1(0.2828) = 16.4°
+
+Therefore, the Bragg angle (θ) for the second reflection (n=2) is approximately 16.4°.
+
+Answer: [16.4]

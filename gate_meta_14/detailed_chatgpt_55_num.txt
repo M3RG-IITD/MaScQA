@@ -1,0 +1,55 @@
+Given:
+
+Weight fraction of glass fiber = 60 %
+
+Weight fraction of epoxy = (100 - 60) % = 40 %
+
+Elastic modulus of glass fiber ($E_g$) = 72.5 GPa
+
+Elastic modulus of epoxy matrix ($E_m$) = 2.4 GPa
+
+Density of glass fiber ($\rho_g$) = $2.58 g/cm^3$
+
+Density of epoxy matrix ($\rho_m$) = $1.14 g/cm^3$
+
+To find:
+
+Elastic modulus of composite along the fiber direction
+
+Solution:
+
+Let us first find the volume fractions of glass fiber and epoxy matrix in the composite.
+
+The volume fraction of glass fiber ($V_g$) can be calculated as:
+
+$V_g$ = Weight fraction of glass fiber / Density of glass fiber
+
+       = 0.60 / 2.58 
+
+       = 0.2326
+
+Similarly, the volume fraction of epoxy matrix ($V_m$) can be calculated as:
+
+$V_m$ = Weight fraction of epoxy matrix / Density of epoxy matrix
+
+       = 0.40 / 1.14 
+
+       = 0.3509
+
+The volume fractions of glass fiber and epoxy matrix add up to 1, as expected.
+
+The elastic modulus along the fiber direction for the composite is given by the rule of mixtures as:
+
+$E_{composite}$ = $V_g$ $E_g$ + $V_m$ $E_m$
+
+Substituting the given values, we get:
+
+$E_{composite}$ = (0.2326 x 72.5) + (0.3509 x 2.4)
+
+                     = 16.7485 + 0.84216
+
+                     = 17.5907 GPa
+
+Therefore, the elastic modulus of the composite along the fiber direction is 17.5907 GPa.
+
+Answer: The elastic modulus of the composite along the fiber direction is 17.5907 GPa.

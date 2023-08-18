@@ -1,0 +1,45 @@
+
+
+To determine the slip system that is most favorable for slip in Zn (hcp) at room temperature, we need to consider the Schmid factor for each of the given slip systems. The Schmid factor is a measure of the resolved shear stress on a slip plane in a given direction and is given by:
+
+$$\text{Schmid factor} = \frac{\text{resolved shear stress}}{\text{shear stress}}$$
+
+The slip system with the highest Schmid factor will be the most favorable for slip.
+
+First, we need to determine the slip planes and directions for each of the given slip systems:
+
+(A) {11̅00} 〈112̅0〉: Slip plane = {11̅00}, slip direction = 〈112̅0〉
+(B) {11̅00} 〈0002: Slip plane = {11̅00}, slip direction = 〈0002〉
+(C) {0001} 〈112̅0〉: Slip plane = {0001}, slip direction = 〈112̅0〉
+(D) {101̅1̅} 〈112̅3: Slip plane = {101̅1̅}, slip direction = 〈112̅3〉
+
+Next, we need to calculate the resolved shear stress on each slip system. The resolved shear stress is given by:
+
+$$\text{resolved shear stress} = \sigma \cos\phi \cos\lambda$$
+
+where $\sigma$ is the applied stress, and $\phi$ and $\lambda$ are the angles between the slip plane/direction and the stress axis. For simplicity, we will assume that the applied stress is uniaxial and aligned with the c-axis of the hcp lattice.
+
+Using the given c/a ratio of 1.856, we can calculate the angle between the c-axis and the basal plane (which contains the slip planes for slip systems A, B, and C):
+
+$$\tan\theta = \frac{c}{a} = 1.856 \Rightarrow \theta = \tan^{-1}(1.856) \approx 60.1^\circ$$
+
+Therefore, the angle between the c-axis and the basal plane is $90^\circ - 60.1^\circ = 29.9^\circ$.
+
+For slip system D, the slip plane is not a basal plane, so we need to calculate the angle between the slip plane and the c-axis:
+
+$$\cos\alpha = \frac{\mathbf{a}_c \cdot \mathbf{n}}{|\mathbf{a}_c||\mathbf{n}|}$$
+
+where $\mathbf{a}_c$ is the c-axis vector and $\mathbf{n}$ is the normal vector to the slip plane. Using the Miller indices for the slip plane {101̅1̅}, we can determine the normal vector to be $\mathbf{n} = \frac{1}{\sqrt{3}}\begin{pmatrix}1\\0\\-1\end{pmatrix}$. The c-axis vector is simply $\mathbf{a}_c = \begin{pmatrix}0\\0\\1\end{pmatrix}$. Plugging in these values, we get:
+
+$$\cos\alpha = \frac{\begin{pmatrix}0\\0\\1\end{pmatrix} \cdot \frac{1}{\sqrt{3}}\begin{pmatrix}1\\0\\-1\end{pmatrix}}{|\begin{pmatrix}0\\0\\1\end{pmatrix}||\frac{1}{\sqrt{3}}\begin{pmatrix}1\\0\\-1\end{pmatrix}|} = \frac{-1}{\sqrt{3}} \Rightarrow \alpha \approx 131.8^\circ$$
+
+Therefore, the angle between the slip plane and the basal plane is $131.8^\circ - 90^\circ = 41.8^\circ$.
+
+Now we can calculate the Schmid factor for each slip system. Since the applied stress is uniaxial and aligned with the c-axis, the angle between the stress axis and the slip plane/direction is simply the angle between the c-axis and the slip plane/direction.
+
+(A) {11̅00} 〈112̅0〉: $\phi = 29.9^\circ$, $\lambda = 30^\circ$, Schmid factor = $\frac{\sigma}{2}\cos\phi\cos\lambda \approx 0.433\sigma$
+(B) {11̅00} 〈0002: $\phi = 29.9^\circ$, $\lambda = 90^\circ$, Schmid factor = $\frac{\sigma}{2}\cos\phi\cos\lambda \approx 0.25\sigma$
+(C) {0001} 〈112̅0〉: $\phi = 0^\circ$, $\lambda = 30^\circ$, Schmid factor = $\frac{\sigma}{2}\cos\phi\cos\lambda = 0$
+(D) {101̅1̅} 〈112̅3: $\phi = 41.8^\circ$, $\lambda = 45^\circ$, Schmid factor = $\frac{\sigma}{2}\cos\phi\cos\lambda \approx 0.183\sigma$
+
+Therefore, the slip system that is most favorable for slip in Zn (hcp) at room temperature is slip system A, {11̅00} 〈112̅0〉.

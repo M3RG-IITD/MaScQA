@@ -1,0 +1,17 @@
+Since the reaction is already at its equilibrium at temperature less than $T_1$, there is no net change in the amount of $A$ and $AO_2$ for temperature increasing. Therefore, $\Delta G$ of the reaction must remain 0. 
+
+For the reaction:
+$$A(s) + O_2(g) → AO_2(s)$$ 
+we can write the Gibbs-Helmholtz equation as 
+$$\Delta G = \Delta H - T\Delta S$$
+where $\Delta H$ is the enthalpy change and $\Delta S$ is the entropy change.
+
+Since the reaction is exothermic ($\Delta H<0$), at a low temperature, the magnitude of the $T\Delta S$ term is lower than $\Delta H$ and thus $\Delta G$ is negative (i.e., the reaction is feasible). 
+
+As the temperature increases, the magnitude of the $T\Delta S$ term also increases, and at some point, it becomes equal to $\Delta H$. At this temperature, $\Delta G$ becomes zero, and this is the temperature where the reaction reaches equilibrium. Beyond this temperature, the $T\Delta S$ term is larger than $\Delta H$, and $\Delta G$ is positive, indicating that the reaction is not feasible.
+
+Now, we can think about the possible $\Delta G$ vs. $T$ plots.
+
+At temperatures below $T_1$, $\Delta G$ is negative constant, and as we increase the temperature above $T_1$, $\Delta G$ must remain negative since reaction is not feasible above $T_2$, so the $\Delta G$ vs. $T$ plot decreases.
+
+Among the given options, only (B) shows the correct decrease in $\Delta G$ with increasing temperature. Therefore, the answer is (B).

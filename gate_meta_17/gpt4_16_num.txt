@@ -1,0 +1,25 @@
+Using the Griffith's criterion, we can find the fracture strength (σ) of this brittle material with the given crack length (a), Young's modulus (E) and surface energy (γ).
+
+Griffith's criterion is expressed as:
+
+σ = (2 * γ * E) / (π * a)
+
+We first convert the given values to SI units:
+
+Young's modulus (E): 60 GPa = 60 * 10^9 Pa
+Surface energy (γ): 0.5 J/m² = 0.5 N/m
+Crack length (a): 2µm = 2 * 10^(-6)m
+
+Substitute these values into the expression above:
+
+σ = (2 * 0.5 N/m * 60 * 10^9 Pa) / (π * 2 * 10^(-6)m)
+
+σ ≈ 1.897 * 10^10 Pa
+
+Now, convert the fracture strength back to MPa:
+
+Fracture strength (σ) ≈ 1.897 * 10^10 Pa * (1 MPa / 10^6 Pa) ≈ 18,970 MPa ≈ 18.97 GPa
+
+The fracture strength of this brittle material is approximately 18.97 GPa.
+
+Answer: [18.97]

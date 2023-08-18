@@ -1,0 +1,39 @@
+Homogeneous nucleation is the formation of crystals from a supercooled or supersaturated liquid. In this process, the critical nucleus is the minimum size required for the nucleation, and the surface energy or interfacial energy is the energy required to create the surface area between the liquid and the solid phases.
+
+Let the surface energy of the nucleus be denoted by σ and the critical radius of the nucleus be denoted by r*. According to classical nucleation theory, the free energy change per unit volume for nucleation at undercooling ΔT is given by:
+
+ΔG = 4/3 π r*^3 ΔGv + 4π r*^2 σ ΔT
+
+Where ΔGv is the change in Gibbs energy when a molecule is added to the nucleus.
+
+Taking the derivative of this expression with respect to r* and setting it to zero gives:
+
+dΔG/dr* = 4π r*^2 ΔGv + 8π r* σ ΔT = 0
+
+Solving for r* gives:
+
+r* = 2σΔT/ΔGv
+
+Now, if the surface energy of the nucleus increases by 20%, the new surface energy can be denoted by 1.2σ. Using the above equation for the critical radius and substituting 1.2σ for σ gives:
+
+r*' = 2(1.2σ)ΔT/ΔGv
+
+Simplifying gives:
+
+r*' = 2.4σΔT/ΔGv
+
+The percentage increase in r* is therefore:
+
+[(r*' - r*)/r*] x 100%
+
+Substituting the expressions for r* and r*' gives:
+
+[(2.4σΔT/ΔGv - 2σΔT/ΔGv)/(2σΔT/ΔGv)] x 100%
+
+Simplifying gives:
+
+(0.4/2) x 100% = 20%
+
+Therefore, the corresponding increase in the critical radius of the nucleus is 20%.
+
+Answer: [20]

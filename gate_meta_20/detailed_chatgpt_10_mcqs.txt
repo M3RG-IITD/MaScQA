@@ -1,0 +1,50 @@
+This is a problem of adiabatic flame temperature calculation where we burn a hydrocarbon with oxygen, assuming no heat loss to surrounding and chemical equilibrium among products. Let's solve this problem step by step.
+
+Step 1: Write the balanced chemical equation for the combustion of $C_3H_8$
+
+$C_3H_8 + 5 O_2 \rightarrow 3 CO_2 + 4 H_2O$
+
+Step 2: Calculate the enthalpy of combustion ($\Delta H_{comb}$) of $C_3H_8$
+
+$\Delta H_{comb} = \Delta H_{f,CO_2} + 3\Delta H_{f,H_2O} -\Delta H_{f,C_3H_8}$
+where $\Delta H_{f}$ is the standard enthalpy of formation of respective species.
+
+From standard thermodynamic tables, we get:
+$\Delta H_{f,CO_2}=-393.5$ kJ/mol
+$\Delta H_{f,H_2O}=-241.8$ kJ/mol
+$\Delta H_{f,C_3H_8}=-103.8$ kJ/mol
+
+$\implies \Delta H_{comb} = (-393.5\times3)+(-241.8\times4)-(-103.8)=-2220$ kJ/mol
+
+Step 3: Calculate the theoretical adiabatic flame temperature ($T_{ad}$)
+
+$T_{ad}=\frac{-\Delta H_{comb}}{C_{p,prod}}+T_{in}$
+where $C_{p,prod}$ is the specific heat capacity of the products at constant pressure and $T_{in}$ is the initial temperature of the reactants.
+
+Since the combustion is adiabatic, no heat is lost to surroundings, so $T_{in}=300$ K. Also, we assume that the products are in chemical equilibrium, so we need to know the products' composition to calculate $C_{p,prod}$.
+
+From stoichiometry, 1 mole of $C_3H_8$ generates 3 moles of $CO_2$ and 4 moles of $H_2O$.
+
+Therefore, the mole fractions of $CO_2$ and $H_2O$ are $x_{CO_2}=\frac{3}{3+4}=\frac{3}{7}$ and $x_{H_2O}=\frac{4}{3+4}=\frac{4}{7}$, respectively.
+
+From standard thermodynamic tables, we get:
+$C_{p,CO_2}=37.11+10.16\times10^{-3}T-1.87\times10^{-6}T^2+1.52\times10^{-9}T^3$ J/(mol.K) and
+$C_{p,H_2O}=32.24+0.192\times10^{-2}T+1.055\times10^{-5}T^2-3.595\times10^{-9}T^3$ J/(mol.K)
+
+Using the mole fractions and $C_{p}$ values, we can calculate the weighted average $C_{p,prod}$:
+
+$C_{p,prod}=(x_{CO_2}\times C_{p,CO_2})+(x_{H_2O}\times C_{p,H_2O})=(\frac{3}{7}\times37.11+\frac{4}{7}\times32.24)=34.62$ J/(mol.K)
+
+Now, we can calculate $T_{ad}$:
+
+$T_{ad}=\frac{-\Delta H_{comb}}{C_{p,prod}}+T_{in}=\frac{-(-2220\times10^3)}{34.62\times10^3}+300=5975$ K
+
+This is the adiabatic flame temperature when $C_3H_8$ is burned with stoichiometric amount of oxygen, i.e., when the mixture contains exactly enough oxygen to react with all the fuel.
+
+Step 4: Calculate the adiabatic flame temperature when $C_3H_8$ is burnt with excess oxygen
+
+When $C_3H_8$ is burned with excess oxygen, some of the oxygen will be left unreacted. However, this won't affect the adiabatic flame temperature because the temperature depends only on the initial amounts of fuel and oxygen and assuming that the combustion is complete.
+
+Therefore, the adiabatic flame temperature when $C_3H_8$ is burnt with excess oxygen will also be 5975 K.
+
+Answer: (A) Equal to 5975K irrespective of the amount of excess oxygen.

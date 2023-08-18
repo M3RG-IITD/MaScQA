@@ -1,0 +1,13 @@
+Green sand casting is a widely used process for producing metal castings. It involves pouring molten metal into a mold made of a mixture of sand, clay, and moisture. The gating system is a critical component of the casting process, as it controls the flow of molten metal into the mold cavity. Let us go through each option mentioned and determine whether it is part of the gating system or not.
+
+(A) Runner: The runner is the horizontal channel that connects the pouring basin and the sprue to the mold cavity. The purpose of the runner is to control and direct the flow of the molten metal from the sprue (vertical channel) to the mold cavity. Therefore, the runner is a part of the gating system.
+
+(B) Sprue: The sprue is the vertical channel through which molten metal is poured from the pouring basin to the runner system. The sprue helps to transport the molten metal throughout the mold, and it is also involved in the gating system.
+
+(C) Riser: Risers are reservoirs of molten metal that are positioned near or above the mold cavity in a casting. They serve as a source of additional molten material to compensate for shrinkage as the metal solidifies within the mold cavity. Although risers play a crucial role in preventing shrinkage and producing sound castings, they are not part of the gating system itself, as their primary purpose is to supply extra molten metal to the casting rather than controlling the flow of molten metal directly.
+
+(D) Pouring basin: The pouring basin is the small reservoir or funnel into which the molten metal is first poured. It serves as a means for collecting the molten metal and channeling it into the sprue. The pouring basin is an essential part of the gating system since it helps control the flow of molten metal from the beginning of the process.
+
+From the above discussion, it is clear that (C) Riser is not a part of the gating system in green sand casting.
+
+Answer: [(C) Riser]

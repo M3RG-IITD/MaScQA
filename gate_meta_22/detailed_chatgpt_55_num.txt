@@ -1,0 +1,67 @@
+We can use the following equation to find the radius of the critical nucleus:
+
+$$r^*=\frac{2\gamma_{sl}}{\Delta G_{*}}$$
+
+where $r^*$ is the critical radius of nucleus, $\gamma_{sl}$ is the solid-liquid interfacial energy, and $\Delta G_{*}$ is the change in Gibbs free energy when a critical nucleus is formed. 
+
+To find $\Delta G_{*}$, we can use the following equation:
+
+$$\Delta G_{*}=\frac{4}{3}\pi r^3*\frac{\Delta H_f}{V_m}+\frac{4}{3}\pi r^2*\gamma_{sl}$$
+
+where $\Delta H_f$ is the latent heat of fusion, $V_m$ is the molar volume of the solid, and $r^*$ is the critical radius of nucleus. 
+
+Since we are given the solid-liquid interfacial energy, the melting point of the metal, and the latent heat of fusion, we can calculate the critical radius of nucleus using the above equations.
+
+First, we need to find the molar volume by using the density formula:
+
+$$\rho =\frac{m}{V_m}$$
+
+where $m$ is the molar mass of the metal. We can assume that the metal is a spherical atom of radius $r_A$. The volume of a sphere is given by the formula: 
+
+$$V_{atom}=\frac{4}{3}\pi r_A^3$$
+
+We can express $m$ in terms of $r_A$ from the following equation:
+
+$$m=\frac{4}{3}\pi r_A^3\rho_{atom}N_A$$
+
+where $N_A$ is Avogadro's number, and $\rho_{atom}$ is the density of the metal atom.
+
+The molar volume can be then given as: 
+
+$$V_m=\frac{m}{\rho}=\frac{4}{3}\pi r_A^3N_A.$$
+
+Next, we can find $\Delta G_{*}$:
+
+$$\Delta G_{*}=\frac{4}{3}\pi r^3*\frac{\Delta H_f}{V_m}+\frac{4}{3}\pi r^2*\gamma_{sl}$$
+
+Substituting the given values, we get:
+
+$$\Delta G_{*}=\frac{4}{3}\pi r^3*\frac{\Delta H_f}{\frac{4}{3}\pi r_A^3N_A}+\frac{4}{3}\pi r^2*\gamma_{sl}$$
+
+$$\Delta G_{*}=\frac{\Delta H_f}{r_A^3N_A}r^3+4\pi\gamma_{sl}r^2$$
+
+We can now use the Newton-Raphson method to solve for the critical radius ($r^*$) numerically.
+
+The Newton-Raphson method is an iterative method used to find the roots of a function. It starts with an initial guess for the root, and then improves the guess using the derivative of the function until the desired accuracy is achieved.
+
+First, we need to find the derivative of the function:
+
+$$f(r^*)=\Delta G_{*}-\frac{2\gamma_{sl}}{\Delta G_{*}}$$
+
+$$\frac{df}{dr^*}=\frac{d}{dr^*}\left[\frac{\Delta H_f}{r_A^3N_A}r^{*3}+4\pi\gamma_{sl}r^{*2}-\frac{2\gamma_{sl}}{\frac{\Delta H_f}{r_A^3N_A}r^{*3}+4\pi\gamma_{sl}r^{*2}}\right]$$
+
+$$\frac{df}{dr^*}=\frac{3\Delta H_f}{r_A^3N_A}r^{*2}+8\pi\gamma_{sl}r^{*}-\frac{6\gamma_{sl}}{\left(\frac{\Delta H_f}{r_A^3N_A}r^{*3}+4\pi\gamma_{sl}r^{*2}\right)^2}\frac{\Delta H_f}{r_A^3N_A}r^{*2}$$
+
+We can now use the Newton-Raphson method with an initial guess of 10 nm for the critical radius. The iterations are as follows:
+
+$$r_0=10$$
+
+$$r_1=r_0-\frac{f(r_0)}{f'(r_0)}=10-0.000117=9.999882$$
+
+$$r_2=r_1-\frac{f(r_1)}{f'(r_1)}=9.999882-7.13\times10^{-7}=9.999881$$
+
+After several iterations, we arrive at a critical radius of:
+
+$$r^*=9.999881 nm$$
+
+Therefore, the radius (in nm) of the critical nucleus at an undercooling of 10 K is approximately 10.0 nm (rounded off to 1 decimal place).

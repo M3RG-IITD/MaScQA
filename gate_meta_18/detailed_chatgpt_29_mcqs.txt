@@ -1,0 +1,47 @@
+We can use the Griffith's criterion to determine whether the fibre will undergo brittle fracture or not. According to the criterion, a material will undergo brittle fracture if the following condition is satisfied:
+
+2 γ_s / E >= (π * a)^0.5
+
+where γ_s is the surface energy, E is the elastic modulus, and a is the half-length of a surface flaw.
+
+Assuming that the flaws have a range of lengths, we can take the average flaw length as the half-length, i.e., a = 5 micron / 2 = 2.5 micron.
+
+Substituting the given values, we get:
+
+2 * 0.3 J/m^2 / (70 * 10^9 Pa) >= (π * 2.5 * 10^(-6) m)^0.5
+
+Simplifying this expression, we get:
+
+1.29 * 10^(-6) >= 6.28 * 10^(-6)
+
+This condition is not satisfied, which means that the fibre will not undergo brittle fracture.
+
+Now, we need to determine whether the fibre will undergo plastic deformation or elastic deformation. For this, we can use the stress-strain relation:
+
+σ = E * ε
+
+where σ is the applied tensile stress, E is the elastic modulus, and ε is the strain.
+
+The strain ε can be calculated from the diameter change as:
+
+ε = (Δd / d)
+
+where Δd is the diameter change and d is the original diameter.
+
+We can assume that the diameter change at the point of fracture is about 10%. Therefore, Δd = 5 micron * 0.1 = 0.5 micron.
+
+Substituting the given values, we get:
+
+ε = (0.5 micron / 5 micron) = 0.1
+
+Using the stress-strain relation, we get:
+
+ε = σ / E
+
+Solving for σ, we get:
+
+σ = E * ε = (70 * 10^9 Pa) * 0.1 = 7 GPa
+
+Therefore, the fibre will undergo plastic deformation, but not fracture.
+
+Answer: (B) The fibre will undergo plastic deformation, but not fracture

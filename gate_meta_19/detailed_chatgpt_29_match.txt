@@ -1,0 +1,28 @@
+Column I: 
+
+(P) Peritectic: A type of phase transition in which a solid and a liquid combine to form a new solid phase.
+
+(Q) Monotectic: A type of phase transition in which a liquid phase is separated into two liquid phases upon cooling.
+
+(R) Eutectoid: A type of phase transition in which a single solid phase transforms into two different solid phases upon cooling.
+
+(S) Syntectic: A type of phase transition in which two solid phases combine to form a new solid phase upon cooling.
+
+Column II:
+
+1. γ → α + β: Eutectoid reaction in which a gamma solid phase transforms into alpha and beta solid phases upon cooling.
+
+2. L1 + L2 → α: Syntectic reaction in which two liquid phases, L1 and L2, combine to form a new solid phase, alpha, upon cooling.
+
+3. L1 → L2 + α: Monotectic reaction in which a liquid phase, L1, separates into two liquid phases, L2 and alpha, upon cooling.
+
+4. L + α →β: Peritectic reaction in which a liquid phase, L, combines with a solid phase, alpha, to form a new solid phase, beta, upon cooling.
+
+To match each phase transformation with its corresponding reaction, we can use the definitions above:
+
+- Peritectic corresponds to reaction 4 (L + α →β)
+- Monotectic corresponds to reaction 3 (L1 → L2 + α)
+- Eutectoid corresponds to reaction 1 (γ → α + β)
+- Syntectic corresponds to reaction 2 (L1 + L2 → α)
+
+Therefore, the answer is (A) P-4, Q-3, R-1, S-2.

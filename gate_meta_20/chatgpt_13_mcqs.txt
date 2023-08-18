@@ -1,0 +1,59 @@
+To solve this question, we need to use vector algebra. 
+
+(a) To check if X, Y, and Z are mutually perpendicular, we need to find the dot product between each pair of vectors. If the dot product is zero, then the vectors are perpendicular. 
+
+X dot Y = (-1)(-1) + (-1)(2) + (1)(1) = 0
+
+X dot Z = (-1)(1) + (-1)(0) + (1)(1) = 0
+
+Y dot Z = (-1)(1) + (2)(0) + (1)(1) = 0
+
+Therefore, X, Y, and Z are mutually perpendicular, and statement (A) is TRUE.
+
+(b) To check if X, Y, and Z are coplanar, we need to find the scalar triple product. If it is zero, then the vectors are coplanar. 
+
+X dot (Y cross Z) = (-1)(-1)(1) - (-1)(1)(1) + (-1)(2)(-1) = 0
+
+Therefore, X, Y, and Z are coplanar, and statement (B) is TRUE.
+
+(c) To find the angle between X and the normal to the plane containing Y and Z, we need to find the normal vector N to the plane and then take the dot product of X and N. 
+
+N = Y cross Z = (-1)(1)i - (-1)(1)j + (-1)(-2)k = -3i + j - k
+
+|N| = sqrt((-3)^2 + 1^2 + (-1)^2) = sqrt(11)
+
+cos(theta) = X dot N / (|X| |N|)
+
+|X| = sqrt((-1)^2 + (-1)^2 + 1^2) = sqrt(3)
+
+X dot N = (-1)(-3) + (-1)(1) + (1)(-1) = 1
+
+cos(theta) = 1 / (sqrt(3) sqrt(11)) = sqrt(11/33)
+
+theta = arccos(sqrt(11/33)) ≈ 47.2°
+
+Therefore, statement (C) is FALSE.
+
+(d) To find the angle between Z and the normal to the plane containing X and Y, we follow the same steps as in (c). 
+
+N = X cross Y = (1)(-1)i + (1)(-1)j + (-1)(-1)k = -i - j - k
+
+|N| = sqrt((-1)^2 + (-1)^2 + (-1)^2) = sqrt(3)
+
+cos(theta) = Z dot N / (|Z| |N|)
+
+|Z| = sqrt(1^2 + 0^2 + 1^2) = sqrt(2)
+
+Z dot N = (1)(-1) + (0)(-1) + (1)(-1) = -2
+
+cos(theta) = -2 / (sqrt(2) sqrt(3)) = -sqrt(6/3) = -sqrt(2)
+
+theta = arccos(-sqrt(2)) ≈ 135.0°
+
+Therefore, statement (D) is FALSE.
+
+The correct answers are:
+- X, Y and Z are mutually perpendicular. (A) TRUE
+- X,Y and Z are coplanar. (B) TRUE
+- X makes an angle of 30° with the normal to the plane containing Y and Z. (C) FALSE
+- Z makes an angle of 60° with the normal to the plane containing X and Y. (D) FALSE

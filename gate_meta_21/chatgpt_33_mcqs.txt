@@ -1,0 +1,5 @@
+Since the system is in steady-state, the rate of heat flow across any section of the interface should be the same. Therefore,
+$$\frac{T_1-300}{0.5}=\frac{400-T_1}{1}\ \text{and}\ \frac{400-T_1}{1}=\frac{500-400}{0.5+0.25}$$
+Solving these equations, we get $T_1=200K$ and thermal contact resistance $= 0.25KW^{-1}$. 
+
+Therefore, the correct answer is (C) 200K, 0.25 K $W^{-1}$.

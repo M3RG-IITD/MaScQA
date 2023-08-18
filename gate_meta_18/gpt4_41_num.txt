@@ -1,0 +1,29 @@
+To find the fraction of load borne by the reinforcement, we need to find the total longitudinal modulus of the composite and then the longitudinal modulus of the reinforcement.
+
+Under iso-strain condition, the rule of mixtures for longitudinal modulus can be expressed as:
+
+E_c = V_f * E_f + V_m * E_m
+
+Where:
+E_c = longitudinal modulus of the composite
+V_f = volume fraction of fibers (0.25)
+E_f = Young's modulus of fibers (250 GPa)
+V_m = volume fraction of the matrix (1 - V_f = 0.75)
+E_m = Young's modulus of the matrix (2.5 GPa)
+
+Now, let's calculate E_c:
+
+E_c = 0.25 * 250 + 0.75 * 2.5
+E_c = 62.5 + 1.875
+E_c = 64.375 GPa
+
+Now we have the total modulus, we need to find out the fraction of load borne by the reinforcement (fiber). Assuming equal strain for both fiber and matrix, we can find the load fraction using the reciprocal of their stiffness:
+
+Load_fraction = (V_f * E_f) / E_c
+Load_fraction = (0.25 * 250) / 64.375
+Load_fraction = 62.5 / 64.375
+Load_fraction ≈ 0.97 (rounded off to two decimal places)
+
+So, the fraction of load borne by the reinforcement is approximately 0.97. In the list format, the answer is:
+
+[0.97]

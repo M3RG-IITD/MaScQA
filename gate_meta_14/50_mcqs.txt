@@ -1,0 +1,2 @@
+Two phases 𝛼 and 𝛽 are in thermodynamic equilibrium. If 𝑥 and 𝑦 are the only components present in the phases 𝛼 and 𝛽 and if $(𝜇_𝑖)^j represents the chemical potential of component 𝑖 in phase j, then the condition for equilibrium is
+(A) $(𝜇_𝑥)^𝛼 = $(𝜇_𝑦)^𝛽 and $(𝜇_𝑥)^𝛽 = $(𝜇_𝑦)^𝛼 (B) $(𝜇_𝛽)^𝑥 = $(𝜇_𝛼)^𝑦 and $(𝜇_𝛼)^𝑥 = $(𝜇_𝛽)^𝑦 (C) $(𝜇_𝑥)^𝛼 = $(𝜇_𝑥)^𝛽 and $(𝜇_𝑦)^𝛽 = $(𝜇_𝑦)^𝛼 (D) $(𝜇_𝑥)^𝛼 = $(𝜇_𝑦)^𝛼 and $(𝜇_𝑥)^𝛽 = $(𝜇_𝑦)^𝛽

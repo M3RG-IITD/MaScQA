@@ -1,0 +1,13 @@
+Phosphorus is a major impurity in steelmaking and needs to be removed to produce high-quality steel. The two primary routes for phosphorus removal are BOF (basic oxygen furnace) steelmaking and EAF (electric arc furnace) steelmaking. In the BOF steelmaking process, phosphorus is removed by oxidizing it to form P2O5, which reacts with added lime to form a phosphate slag, which is then removed from the steel.
+
+Answer:
+The factor that is NOT desirable for effective phosphorus removal in BOF steelmaking process is (D) Lower temperature.
+
+Explanation:
+The removal of phosphorus is influenced by several process parameters, and among those, temperature plays a critical role in the BOF process. In general, a higher temperature is desirable for effective phosphorus removal because it increases the rate of oxidation of phosphorus and other impurities. At higher temperatures, the reaction rates increase, and this results in faster removal of phosphorus from the steel.
+
+Many researchers have shown that the temperature has a positive relationship with the phosphorus removal efficiency in the BOF process. For example, a higher temperature of around 1700°C has been found to increase the phosphorus removal rate significantly. In contrast, lowering the temperature can reduce the phosphorus removal rate.
+
+Hence, among the given options, lower temperature is the factor that is NOT desirable for effective phosphorus removal in BOF steelmaking process. 
+
+Therefore, the correct answer is (D) Lower temperature.

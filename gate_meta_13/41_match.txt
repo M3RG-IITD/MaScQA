@@ -1,0 +1,5 @@
+Match the unit operation in Group I with its corresponding principle in Group II:
+Group I: [(P) Jigging, (Q) Tabling, (R) Heavy media separation, (S) Flotation]
+Group II: [(1) Modification of surface tension, (2) Difference in density, (3) Differential initial acceleration, (4) Differential lateral movement]
+
+Options: (A) P-3, Q-4, R-2, S-1 (B) P-2, Q-3, R-1, S-4 (C) P-4, Q-2, R-3, S-1 (D) P-1, Q-3, R-2, S-4

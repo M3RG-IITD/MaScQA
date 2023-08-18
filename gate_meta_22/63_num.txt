@@ -1,0 +1,1 @@
+Given the stress tensor, the maximum shear stress(in Mpa) is?(round off to the nearest integer). 

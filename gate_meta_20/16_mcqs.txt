@@ -1,0 +1,5 @@
+The indenter used in Rockwell hardness measurements on C scale in
+(A) diamond cone
+(B) 10 mm steel ball
+(C) diamond pyramid
+(D) 1/16 in.steel ball

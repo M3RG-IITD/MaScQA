@@ -1,0 +1,27 @@
+We can use Bragg's law to solve this problem:
+
+nλ = 2dsinθ
+
+where n is the order of the peak (in this case, n = 1), λ is the wavelength of the X-rays, d is the interplanar spacing of the crystal lattice (in this case, for BCC iron, d = a/√3, where a is the lattice parameter), and θ is the Bragg angle (in degrees).
+
+Plugging in the values we know:
+
+n = 1
+d = 0.287 nm / √3 ≈ 0.166 nm
+θ = 68.7°
+
+We can convert θ to radians:
+
+θ (in radians) = 68.7° * π/180 ≈ 1.199 radians
+
+Now we can rearrange Bragg's law to solve for λ:
+
+λ = 2dsinθ / n
+
+Plugging in the values we know:
+
+λ = 2 * 0.166 nm * sin(1.199) / 1 ≈ 0.091 nm
+
+Rounding off to three decimal places, the wavelength of X-rays is 0.091 nm.
+
+Answer: [0.091]

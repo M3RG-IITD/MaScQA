@@ -1,0 +1,20 @@
+The volumetric strain can be calculated using the equation:
+
+volumetric strain = - lateral strain / Poisson's ratio 
+
+The lateral strain can be calculated using the Poisson's ratio and the axial strain:
+
+lateral strain = Poisson's ratio * axial strain 
+
+Given that the axial strain is 0.02 and Poisson's ratio is 0.3, we can calculate the lateral strain:
+
+lateral strain = 0.3 * 0.02 = 0.006
+
+Substituting these values in the equation for volumetric strain:
+
+volumetric strain = - 0.006 / 0.3 = -0.02
+
+Rounding off to three decimal places, the volumetric strain is -0.020.
+
+Therefore, the answer is:
+-0.020

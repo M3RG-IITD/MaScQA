@@ -1,0 +1,1 @@
+The question is incomplete as it does not provide values for the Avrami parameters k and n, and also does not give the fraction transformed at the second measurement time. Therefore, it is not possible to calculate the fraction transformed in 300 seconds.

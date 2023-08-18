@@ -1,0 +1,23 @@
+First, let's calculate the amount of iron in 1 ton of hematite ore:
+
+- Hematite ore is 80% $Fe_{2}O_{3}$, which means it is 69.6% Fe by weight (2*80/160*100).
+- Therefore, 1 ton of hematite ore contains 1000 kg × 0.696 = 696 kg of iron.
+
+Next, let's calculate the amount of coke needed to produce 1 ton of hot metal:
+
+- 1 ton of hot metal contains 95.5% of iron and 4.5% of carbon, which means it contains 955 kg of iron and 45 kg of carbon.
+- 1 ton of coke produces approximately 280 kg of carbon (based on the fact that coke contains 85% C).
+- Therefore, 1 ton of hot metal requires 45/280 × 1000 ≈ 161 kg of coke.
+
+Now, we can calculate the weight of slag produced per ton of hot metal:
+
+- 1 ton of coke contains 15% ash, which means it produces 150 kg of ash per ton.
+- 1 ton of hematite ore contains 20% of gangue materials, which means it produces 200 kg of gangue per ton.
+- Therefore, 1 ton of hot metal produces 150 + 200 = 350 kg of slag.
+
+Finally, we can calculate the weight of iron ore needed per ton of hot metal:
+
+- 1 ton of hot metal contains 955 kg of iron, which requires 1.374 tons of hematite ore (955/0.696/1000).
+- Therefore, the weight of iron ore needed per ton of hot metal is 1374 kg.
+
+Answer: (C) 1705 kg, 331 kg

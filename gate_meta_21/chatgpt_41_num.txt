@@ -1,0 +1,37 @@
+The solidification time in a casting is given by the Chvorinov's rule as:
+
+$t = \frac{C_w V}{A}$
+
+where $t$ is the solidification time, $C_w$ is the Chvorinov's constant (assumed to be the same for both castings since they are made of the same material), $V$ is the volume of the casting, and $A$ is the surface area through which heat is transferred during solidification.
+
+For the spherical casting,
+
+$V = \frac{4}{3}\pi r^3 = \frac{4}{3}\pi (6 \text{ cm})^3 \approx 904.78 \text{ cm}^3$
+
+$A = 4\pi r^2 = 4\pi (6 \text{ cm})^2 \approx 452.39 \text{ cm}^2$
+
+For the cubical casting,
+
+$V = (\text{edge length})^3 = (12 \text{ cm})^3 = 1728 \text{ cm}^3$
+
+$A = 6(\text{edge length})^2 = 6(12 \text{ cm})^2 = 864 \text{ cm}^2$
+
+Substituting these values into the formula for solidification time and solving for $t$,
+
+$t_{\text{cubic}} = \frac{C_w V_{\text{cubic}}}{A_{\text{cubic}}} = \frac{C_w (1728 \text{ cm}^3)}{864 \text{ cm}^2} \approx 3.56 \times C_w \text{ minutes}$
+
+Since the solidification time for the spherical casting is given as 60 minutes, we can use this information to find the value of $C_w$:
+
+$t_{\text{spherical}} = \frac{C_w V_{\text{spherical}}}{A_{\text{spherical}}} = \frac{C_w (904.78 \text{ cm}^3)}{452.39 \text{ cm}^2} = 60 \text{ minutes}$
+
+$C_w = \frac{60 \text{ minutes} \times 452.39 \text{ cm}^2}{904.78 \text{ cm}^3} \approx 0.030 \text{ min/cm}^2$
+
+Substituting this value of $C_w$ into the equation for $t_{\text{cubic}}$,
+
+$t_{\text{cubic}} = \frac{0.030 \text{ min/cm}^2 \times 1728 \text{ cm}^3}{864 \text{ cm}^2} \approx 0.060 \times 1728 \text{ minutes} \approx 103.68 \text{ minutes}$
+
+Rounding off to the nearest integer, the time required to solidify in the cubical casting is 104 minutes.
+
+Therefore, the answer is:
+
+- 104

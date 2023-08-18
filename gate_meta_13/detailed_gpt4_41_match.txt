@@ -1,0 +1,18 @@
+To solve this question, we need to understand the principles behind each unit operation in Group I and then match it with the corresponding principle in Group II.
+
+(P) Jigging: Jigging is a method of separating particles in a fluid based on their density. The fluid is pulsated, causing the denser particles to settle at the bottom while the lighter particles settle on top. This separation is due to the different initial acceleration of the particles. Therefore, the corresponding principle of Jigging is (3) Differential initial acceleration.
+
+(Q) Tabling: Tabling is a method used to separate particles in a fluid based on their size and shape. The particles are transported over an inclined table with varying speed, causing them to move along different paths. This results in a separation of particles based on their differential lateral movement. Therefore, the corresponding principle of Tabling is (4) Differential lateral movement.
+
+(R) Heavy media separation: Heavy media separation is a method of separating particles based on their difference in density. A dense medium (e.g., a solution of water and finely ground heavy particles) is used to create a fluid with a desired specific gravity. Particles with a density higher than the medium will sink, while particles with a lower density will float. The separation is achieved through the difference in density of the particles. Therefore, the corresponding principle of Heavy media separation is (2) Difference in density.
+
+(S) Flotation: Flotation is a method of separating particles based on the modification of their surface properties. In this process, a reagent is added to the fluid that selectively binds to the surface of particles with specific properties (e.g., hydrophobicity). The particles with the modified surface properties then attach to air bubbles, which rise to the surface and are removed as froth. Therefore, the corresponding principle of Flotation is (1) Modification of surface tension.
+
+Based on the above explanations, we can match the unit operations in Group I with their corresponding principles in Group II as follows:
+
+(P) Jigging - (3) Differential initial acceleration
+(Q) Tabling - (4) Differential lateral movement
+(R) Heavy media separation - (2) Difference in density
+(S) Flotation - (1) Modification of surface tension
+
+Therefore, the correct option is (A) P-3, Q-4, R-2, S-1. Answer: [A].

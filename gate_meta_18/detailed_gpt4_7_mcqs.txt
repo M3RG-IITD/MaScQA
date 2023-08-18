@@ -1,0 +1,25 @@
+Upset forging is a manufacturing process that decreases the length of the workpiece while increasing its cross-sectional area. In this process, a metal piece is placed in a die, and a compressive force is applied vertically to deform it. Friction plays a crucial role in this process, as it affects how the axial compressive stress is distributed throughout the material.
+
+To determine which profile represents the axial compressive stress during upset forging, let us discuss how the axial compressive stress varies throughout the material and how friction affects it.
+
+1. At the free surface of the workpiece: Here, friction does not have any significant impact on the axial compressive stress. The stress distribution will be relatively uniform along the free surface because no material is opposing the applied force.
+
+2. Friction zone (between the top die and workpiece): As the top die applies a compressive force on the workpiece, friction develops between the two surfaces. The frictional force opposes the deformation of the material, and due to this opposition, the axial compressive stress increases gradually as we move towards the center of the workpiece.
+
+3. Center of the workpiece: At the center, the axial compressive stress reaches its maximum value. Since the material is confined by both sides and cannot deform freely in the center, higher stress is experienced in this region. As we move towards the bottom die, the effect of friction decreases, and the axial compressive stress starts to reduce.
+
+4. Friction zone between the bottom die and the workpiece: Similar to the friction zone at the top die, the axial compressive stress begins to decrease further due to the reduction in frictional effects.
+
+5. At the bottom die: In this region, axial compressive stress is again relatively uniform because no material is opposing the applied force.
+
+From this information, we can conclude that the axial compressive stress distribution should display the following characteristics:
+
+1. Relatively uniform stress at the free surface
+2. Gradual increase in stress due to friction as we move towards the center 
+3. Maximum stress at the center of the workpiece
+4. Gradual decrease in stress as we move from the center towards the bottom die
+5. Relatively uniform stress at the bottom die
+
+Considering the mentioned characteristics, the correct profile representing the axial compressive stress during upset forging, considering friction, should be:
+
+(D) S

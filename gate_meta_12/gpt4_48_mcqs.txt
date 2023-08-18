@@ -1,0 +1,35 @@
+First, we need to find the velocity v of liquid Al. We can use the Reynold's number formula:
+Re = (ρ_(Al)*v*D)/μ_(Al)
+
+where Re = Reynold's number = 5*10^5, D = 2R (Diameter of the steel ball).
+
+Rearrange the formula to solve for v:
+
+v = (Re * μ_(Al))/(ρ_(Al) * D)
+
+Now we have f, ρ_(Al), and R, but we need to find D to calculate the force. We will use the density formula to relate the volume and mass of the steel ball, and from that, we can find the radius of the steel ball:
+
+Mass = ρ_(steel) * Volume
+Volume = Mass/ρ_(steel)
+
+Since the steel ball is a sphere:
+Volume = (4/3) * π * R^3
+
+Solving for R gives us:
+
+R^3 = (3 * Mass)/(4 * π * ρ_(steel))
+R = (3 * Mass/(4 * π * ρ_(steel)))^(1/3)
+
+Now we can find the value of D by substituting this equation for R in the D = 2R formula:
+
+D = 2 * (3 * Mass/(4 * π * ρ_(steel)))^(1/3)
+
+Now we can solve for v:
+
+v = (Re * μ_(Al))/(ρ_(Al) * D) = (5 * 10^5 * 1*(10^(-3))) / (2360 * (2*(3 * Mass)/(4 * π * 7200))^(1/3))
+
+Finally, we substitute all the values in the force equation and solve for the force:
+
+F = f * π * R^2 * (ρ_(Al) * v^2 /2) = 0.2 * π * ((3 * Mass)/(4 * π * 7200))^(2/3) * (2360 * ((5 * 10^5 * 1*(10^(-3))) / (2360 * (2*(3 * Mass)/(4 * π * 7200))^(1/3)))^2 /2)
+
+Unfortunately, we still do not have enough information to solve for the force exerted on the steel ball. The information given is insufficient.

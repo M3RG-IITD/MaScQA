@@ -1,0 +1,2 @@
+Given: Gas constant R = 8.314 J $mol^(-1)K^(-1)$, and Faraday’s constant F = 96500 C $mol^(-1)$. What is the voltage required to electrolytically refine impure copper of activity $𝑎_(𝐶𝑢)$ = 0.9 (Raoultian standard state) to pure copper at 300 K
+(A) 1.36 mV (B) 2.72 mV (C) 0 mV (D) 5.44 mV

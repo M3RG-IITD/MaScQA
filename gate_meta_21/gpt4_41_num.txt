@@ -1,0 +1,52 @@
+To solve this problem, we can use Chvorinov's rule, a principle used to determine the solidification time of castings. According to Chvorinov's rule:
+
+t = k*(V/A)^n
+
+Where:
+t = solidification time
+k = constant
+V = volume of the casting
+A = surface area of the casting
+n = constant
+
+Since both the casting molds are made of sand, we can assume that the constants k and n are the same for both the molds.
+
+Let's calculate the volume and surface area for both the casting molds.
+
+For the spherical casting:
+Radius, r_sphere = 6 cm
+Volume, V_sphere = (4/3) * π * r^3 = (4/3) * π * 6^3 = 288π cubic cm
+Surface area, A_sphere = 4 * π * r^2 = 4 * π * 6^2 = 144π square cm
+
+For the cubical casting:
+Edge length, L_cube = 12 cm
+Volume, V_cube = L^3 = 12^3 = 1728 cubic cm
+Surface area, A_cube = 6 * L^2 = 6 * 12^2 = 864 square cm
+
+Now, let's apply Chvorinov's rule for both casting molds.
+
+For the spherical casting, we have:
+t_sphere = k * (V_sphere/A_sphere)^n =  k * (288π/144π)^n = 60 minutes (given)
+
+For the cubical casting, we need to find t_cube:
+t_cube = k * (V_cube/A_cube)^n
+
+Since k and n are the same for both casting molds, we can set the equations equal to each other and solve for t_cube:
+
+t_sphere / t_cube = (V_sphere/A_sphere)^n / (V_cube/A_cube)^n
+
+60 / t_cube = (288π/144π)^n / (1728/864)^n
+
+t_cube = 60 * (1728/864)^n / (288π/144π)^n
+
+Assuming n is the same for both cases:
+
+t_cube = 60 * (1728/864) / (288π/144π)
+
+t_cube = 60 * 2
+
+t_cube = 120 minutes
+
+The required time to solidify the cubical casting is 120 minutes when rounded off to the nearest integer.
+
+Answer: [120]

@@ -1,0 +1,2 @@
+Consider a dilute substitutional solid solution of X in a metal A. The powder diffraction pattern of this alloy reveals that all the peaks have shifted to the left when compared to those for pure A (with no splitting of peaks). If such a solute interacts and segregates to an edge dislocation, which of the following positions around the dislocation will it preferentially occupy?
+(A) P (B) Q (C) R (D) S

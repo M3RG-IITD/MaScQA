@@ -1,0 +1,67 @@
+We can use the formula for convective heat transfer rate :    
+
+$q = hA(T_w - T_\infty)$
+
+where, 
+
+$q$ = heat transfer rate in Watts(W)
+ 
+$h$ = convective heat transfer coefficient in \[W.m^(-2).K^(-1)\]
+
+$A$ = surface area for heat transfer in $m^2$
+
+$T_w$ = temperature of the inner wall of the tube in K
+
+$T_\infty$ = temperature of the air in K
+
+For the given problem, we can find $A$ as follows:
+
+Area($A$) = $\pi dL$
+
+where,
+
+$d$ = inner diameter of the tube
+
+$L$ = length of the tube
+
+Given $d = 0.08 m$
+
+We have to find the length ($L$) of the tube.
+
+$q = hA(T_w - T_\infty)$
+
+$\implies q = h\pi d L(T_w - T_\infty)$
+
+We can find $q$ as follows:
+
+mass flow rate($\dot{m}$) = 1.5 $kg.s^(-1)$
+
+specific heat capacity of air($c_p$) = 1080 $J.kg^(-1).K^(-1)$
+
+$\Delta T = \vert T_w - T_\infty \vert$ = $700 - 600$ = 100 K
+
+From the conservation of energy, 
+
+$q = \dot{m}c_p\Delta T$
+
+$\implies q = 1.5\times 1080 \times 100$
+
+$\implies q = 162000 J.s^(-1)$
+
+Now, substituting all the known values back in the equation for $q$: 
+
+$q = h\pi d L(T_w - T_\infty)$
+
+we can solve for $L$ as follows:
+
+$L = \frac{q}{h\pi d (T_w - T_\infty)}$
+
+Substituting the respective numerical values we get,
+
+$L = \frac{162000}{500 \times \pi \times 0.08 \times 100}$
+
+$L \approx$ 8.16 m
+
+Therefore, the length of the tube is 8.16 metres.
+
+Answer: [8.16]

@@ -1,0 +1,61 @@
+Given:
+
+Atomic weight of Fe = 56 g/mol
+
+Atomic weight of $Fe_{2}O_{3}$ = 160 g/mol
+
+Percentage of Fe in hot metal = 95%
+
+Percentage of $Fe_{2}O_{3}$ in iron ore = 95%
+
+Let the amount of iron ore required be x kg.
+
+As per the question, all the iron in the ore goes to hot metal i.e.,
+
+mass of Fe in iron ore = mass of Fe in hot metal
+
+Now, let's calculate the mass of Fe in 1000 kg of hot metal.
+
+Mass of hot metal = 1000 kg
+
+Percentage of Fe in hot metal = 95%
+
+Therefore, mass of Fe in hot metal = (95/100) x 1000 kg = 950 kg
+
+We know that the hot metal is obtained by the reduction of $Fe_{2}O_{3}$ in iron ore.
+
+The molecular weight of $Fe_{2}O_{3}$ = (2 x atomic weight of Fe) + (3 x atomic weight of oxygen)
+
+= (2 x 56) + (3 x 16)
+
+= 112 + 48
+
+= 160 g/mol
+
+Hence, one mole of $Fe_{2}O_{3}$ gives 2 moles of Fe.
+
+So, the mass of Fe in $Fe_{2}O_{3}$ = (2 x atomic weight of Fe) = 2 x 56 = 112 g
+
+Now, let's calculate the mass of iron ore required to get 1 kg of hot metal.
+
+Mass of $Fe_{2}O_{3}$ required to get 2 moles of Fe = atomic weight of $Fe_{2}O_{3}$ = 160 g
+
+Mass of $Fe_{2}O_{3}$ required to get 1 mole of Fe = (160/2) g = 80 g
+
+Mass of $Fe_{2}O_{3}$ required to get 56 g of Fe = (80/2) g = 40 g
+
+Therefore, 40 g of $Fe_{2}O_{3}$ gives 56 g of Fe.
+
+Now, let's calculate the mass of iron ore required to get 950 kg of Fe.
+
+Mass of iron ore required = (Mass of $Fe_{2}O_{3}$ required to get 56 g of Fe) x (Number of times 56 g of Fe is present in 950 kg)
+
+= (40 g) x (950000 g/56 g)
+
+= 678571.43 g
+
+= 678.57 kg (approx.)
+
+Therefore, the amount of iron ore required to produce 1000 kg of hot metal is approximately 678.57 kg.
+
+Answer: [678.57 kg]

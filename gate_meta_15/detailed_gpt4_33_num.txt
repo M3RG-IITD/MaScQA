@@ -1,0 +1,44 @@
+Let's break down the problem step by step.
+
+1. We are given that the hot metal produced contains 95% Fe. We need to produce 1000 kg of hot metal. So, first, we will find out how much Fe is present in 1000 kg of hot metal.
+
+2. Next, we are given that the iron ore charged into the furnace contains 95% $Fe_2O_3$. We will find out how much Fe is present in 1 mole of $Fe_2O_3$.
+
+3. Then, we will determine how many moles of $Fe_2O_3$ are required to produce the required amount of Fe.
+
+4. Finally, we will calculate the mass of iron ore required based on the moles we found in the previous step.
+
+Step 1: Calculate the mass of Fe in 1000 kg of hot metal
+
+Since the hot metal contains 95% Fe, the mass of Fe in 1000 kg of hot metal is:
+
+mass of Fe = 1000 kg * 95% = 1000 kg * 0.95 = 950 kg
+
+Step 2: Calculate the mass of Fe in 1 mole of $Fe_2O_3$
+
+The atomic weight of Fe is 56 g $mol^{-1}$ and the molecular weight of $Fe_2O_3$ is 160 g $mol^{-1}$.
+In the compound $Fe_2O_3$, there are two moles of Fe, so the mass of Fe in 1 mole of $Fe_2O_3$ is 2 * 56 g = 112 g.
+
+Step 3: Calculate the moles of $Fe_2O_3$ required to produce the Fe in the hot metal
+
+Since there are 112 g of Fe in 1 mole of $Fe_2O_3$, we can find the required moles of $Fe_2O_3$ as follows:
+
+moles of $Fe_2O_3$ = (mass of Fe in hot metal) / (mass of Fe in 1 mole of $Fe_2O_3$)
+moles of $Fe_2O_3$ = 950 kg / (112 g/mol * (1 kg/1000 g))
+moles of $Fe_2O_3$ = 950 / (0.112)
+
+Step 4: Calculate the mass of iron ore required
+
+Since the iron ore contains 95% $Fe_2O_3$, we can find the mass of iron ore required:
+
+mass of iron ore = (moles of $Fe_2O_3$ * molecular weight of $Fe_2O_3$) / 0.95
+mass of iron ore = (950 / 0.112 * 160 g $mol^{-1}$ * (1 kg/1000g)) / 0.95
+
+Now let's calculate the mass of iron ore required:
+
+mass of iron ore = (950 / 0.112 * 160 / 1000) / 0.95
+mass of iron ore ≈ 1435 kg
+
+So, approximately 1435 kg of iron ore is required to produce 1000 kg of hot metal.
+
+The correct answer is [1435].

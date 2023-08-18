@@ -1,0 +1,33 @@
+Let's first understand the mechanical properties in Group I and their corresponding microstructural features in Group II:
+
+Group I:
+P. Creep resistance - The ability to withstand slow deformation under high temperatures and prolonged stress.
+Q. Elastic modulus enhancement - Improvement in elastic properties, like stiffness and rigidity.
+R. Superplasticity - The capacity to undergo large uniform deformation without cracking.
+S. Increased strength - Improved resistance to deformation under applied force.
+
+Group II:
+1. Fine-grained two-phase microstructure - Such structures usually lead to increased strength and toughness.
+2. Single crystal - Single crystals exhibit better creep resistance due to the absence of grain boundaries.
+3. Coherent precipitates - These precipitates are known to provide increased strength to the material.
+4. Glass fibers in epoxy - The presence of glass fibers enhances the elastic modulus of the composite material.
+
+Now, let's match the properties from Group I with the appropriate microstructural features from Group II:
+
+P. Creep resistance → 2. Single crystal
+The absence of grain boundaries in single crystals makes them more resistant to creep deformation.
+
+Q. Elastic modulus enhancement → 4. Glass fibers in epoxy
+The elastic modulus of composite materials is enhanced with the addition of glass fibers within the epoxy matrix.
+
+R. Superplasticity → 1. Fine-grained two-phase microstructure
+Fine-grained materials with two-phase microstructures typically exhibit greater superplasticity due to finer grain structure.
+
+S. Increased strength → 3. Coherent precipitates
+The presence of coherent precipitates within the matrix of a material can lead to an increase in the overall strength of the material.
+
+So, the correct matchings are:
+P-2, Q-4, R-1, S-3
+
+Therefore, the correct answer is:
+(C) P-2, Q-4, R-1, S-3

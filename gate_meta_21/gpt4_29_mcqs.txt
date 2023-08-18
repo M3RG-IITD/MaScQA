@@ -1,0 +1,25 @@
+To find the number of degrees of freedom for the reacting system, we can use the formula:
+
+Degrees of freedom (F) = Number of components (C) - Number of independent chemical reactions (R) + Number of phases (P)
+
+In this reaction, we have 4 components (M(s), $CO_2$(g), MO(s), and CO(g)).
+
+There is 1 independent chemical reaction: M(s) + $CO_2$(g) = MO(s) + CO(g).
+
+There are 2 phases in the reacting system:
+1. Solid phase (for M(s) and MO(s))
+2. Gas phase (for $CO_2$(g) and CO(g))
+
+Now, we can calculate the degrees of freedom using the formula:
+
+F = C - R + P
+F = 4 - 1 + 2
+F = 3 + 2
+F = 5
+
+However, we need to consider that equilibrium constant (K) places an additional constraint on the system. So, we must subtract one while calculating the degrees of freedom:
+
+F = 5 - 1
+F = 4
+
+None of the given options match the correct answer. Therefore, either the question is incorrect or the provided options are incorrect.

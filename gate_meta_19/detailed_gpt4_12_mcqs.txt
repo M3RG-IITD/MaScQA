@@ -1,0 +1,21 @@
+To find the correct answer, let's analyze each reaction and identify the Boudouard or carbon gasification reaction.
+
+First, a brief overview of the Boudouard reaction: it occurs when carbon is in contact with carbon dioxide, so it involves the conversion of one carbon species to another, typically at high temperatures.
+
+Now, let's analyze each reaction:
+
+(A) C(s) + (1/2)O2(g) → CO(g)
+In this reaction, solid carbon reacts with oxygen to produce carbon monoxide. This is actually the half-reaction for the formation of carbon monoxide, but it doesn't involve carbon dioxide, so it's not the Boudouard reaction.
+
+(B) C(s) + O2(g) → CO2(g)
+In this reaction, solid carbon reacts with oxygen to produce carbon dioxide. This is the combustion reaction of carbon, but it does not involve carbon dioxide as a reactant, so it's not the Boudouard reaction.
+
+(C) C(s)+ CO2(g) → 2CO(g)
+In this reaction, solid carbon reacts with carbon dioxide to produce two moles of carbon monoxide. This reaction involves both carbon and carbon dioxide and is a true gasification reaction. This is the Boudouard reaction.
+
+(D) CO(g) + (1/2)O2(g) → CO2(g)
+In this reaction, carbon monoxide reacts with oxygen to produce carbon dioxide. This is the half-reaction for the combustion of carbon monoxide, but it doesn't involve the reaction of carbon and carbon dioxide, so it's not the Boudouard reaction.
+
+So, the correct answer for the Boudouard (or carbon gasification) reaction is:
+
+[C]

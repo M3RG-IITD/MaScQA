@@ -1,0 +1,48 @@
+Let's start solving the question step by step.
+
+1. Identify Composite's Components
+We have a carbon-fiber composite with 25% volume fraction of fibers (Vf) in an epoxy matrix. The Young's modulus of fiber (Ef) is 250 GPa, and the Young's modulus of the matrix (Em) is 2.5 GPa.
+
+2. Determine the Rule of Mixtures for Longitudinal Loading (Iso-Strain Condition)
+The Iso-Strain condition means that the strain in the fiber and the matrix are equal. The rule of mixtures for the composite's Young's modulus (Ec) can be expressed as:
+Ec = Vf * Ef + (1 - Vf) * Em
+
+3. Calculate the Composite's Young's Modulus (Ec)
+Now, we can plug the values into the formula:
+Ec = 0.25 * 250 + (1 - 0.25) * 2.5
+
+Ec = 62.5 + 1.875 * 2.5
+Ec = 62.5 + 4.6875
+Ec = 67.1875 GPa
+
+4. Determine the Load Sharing among Fiber and Matrix in Iso-Strain Condition
+We need to find the stress in the fiber (σf) and the stress in the matrix (σm), which can be calculated using:
+σf = Ef * ε
+σm = Em * ε
+
+Now, we know that the strain (ε) in both the fiber and the matrix is equal under the Iso-Strain condition. Therefore, we can express the stress ratio as:
+(σf/σm) = (Ef/Em)
+
+5. Calculate the Stress Ratio (σf/σm)
+Now, we can plug the Young's modulus values into the stress ratio formula:
+(σf/σm) = (250/2.5)
+
+(σf/σm) = 100
+
+6. Calculate the Fraction of Load Borne by the Reinforcement (fiber)
+The total load borne by the composite (σc) is the sum of the loads borne by the fiber (σf) and the matrix (σm):
+σc = σf + σm
+
+The fraction of load borne by the fiber (σf/σc) can be calculated as:
+σf/σc = σf / (σf + σm)
+
+Using the stress ratio we calculated in step 5:
+σf/σc = 100 / (100 + 1)
+
+σf/σc ≈ 0.9901
+
+7. Round off the Answer to Two Decimal Places
+Now we round off the answer:
+σf/σc ≈ 0.99
+
+Answer: The fraction of load borne by the reinforcement (fiber) is approximately [0.99].

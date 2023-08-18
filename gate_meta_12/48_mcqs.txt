@@ -1,0 +1,2 @@
+A steel ball (density $ρ_(steel)$ = 7200 kg/$m^(3)$) is placed in an upward moving liquid Al (density $ρ_(Al)$ = 2360 kg/$m^(3)$, viscosity $μ_(Al)$ = 1*$10^(–3)$ Pa.s and Reynolds number = 5*$10^(5)$). The force (F) exerted on the steel ball is expressed as: F = f π $R^(2)$ ($ρ_(Al)$ $v^2$ /2) where, f is friction factor (=0.2), v is the velocity of liquid Al and R is the radius of steel ball. The force exerted on the steel ball is
+(A) 8.32 N (B) 6.70 N (C) 1.67 N (D) 0.52 N

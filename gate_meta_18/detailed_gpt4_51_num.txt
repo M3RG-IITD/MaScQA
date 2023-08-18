@@ -1,0 +1,47 @@
+To solve this problem, we will use the definition of the Equilibrium constant, K, and its relation to Gibbs free energy change, ΔG°.
+
+1. Since we are given the enthalpy change (ΔH°) and entropy change (ΔS°), we need to find the Gibbs free energy change (ΔG°). The formula for Gibbs free energy change is as follows:
+
+ΔG° = ΔH° - TΔS°
+
+2. The reaction proceeds spontaneously if ΔG° < 0; otherwise, the reaction is non-spontaneous. So at the temperature above which Ag2O decomposes, ΔG° = 0.
+
+ΔH° - TΔS° = 0
+
+Now, we'll rearrange the formula to solve for T:
+
+T = ΔH° / ΔS°
+
+3. Plug in the values given:
+
+T = (-61080 J) / (-132.22 J K^(-1))
+
+T = 461.75 K
+
+4. Round the temperature found:
+
+T = 461.8 K
+
+Note that this is the temperature at which the reaction is at equilibrium.
+
+5. Now, we have to consider the given partial pressure of O_₂ (p_O₂) = 0.3 atm. We need to calculate the equilibium constant Kp corresponding to this temperature. Since ΔG° = 0 at this temperature, we can use the formula:
+
+Kp = e^(-ΔG° / RT)
+
+Since ΔG° = 0, Kp = e^0 = 1.
+
+6. Write the expression for Kp in terms of partial pressure:
+
+Kp = p_O₂^(-1)
+
+7. Now, plug in the given value for p_O₂ and find the temperature above which the reaction is non-spontaneous:
+
+1 = (0.3)^(-1)
+
+0.3 = p_O₂
+
+Since the pressure does not change, the value we calculated for T should be the temperature above which the Ag2O decomposes. 
+
+So, the temperature above which Ag2O decomposes in an atmosphere containing oxygen at a partial pressure p_O₂ = 0.3 atm is 461.8 K.
+
+The final answer is [461.8].

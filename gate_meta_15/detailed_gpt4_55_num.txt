@@ -1,0 +1,38 @@
+Griffith's theory states that the fracture strength of a brittle material is inversely proportional to the square root of the flaw size and directly proportional to the surface energy. Mathematically, this can be expressed as:
+
+$$σ_f = \frac{Y}{\sqrt{a}}$$
+
+where,
+$σ_f$ is the fracture strength,
+$Y$ is a material constant, and
+$a$ is the flaw size.
+
+For a given flaw size, the fracture strengths in mediums P and Q can be related as:
+
+$$\frac{σ_f(P)}{σ_f(Q)} = \frac{Y/(\sqrt{a_{P}})}{Y/(\sqrt{a_{Q}})}$$
+
+Since the flaw size is the same in both cases, we can write:
+
+$$a_P = a_Q$$
+
+We are also given that the surface energy ($𝛾_s$) in medium P is 0.9 J $m^(-2)$ and in medium Q is 0.1 J $m^(-2)$. 
+
+According to Griffith's equation, the material constant Y is proportional to the surface energy:
+
+$$Y_P \propto {{\gamma}_{s_P}}, \quad Y_Q \propto {{\gamma}_{s_Q}}$$
+
+By comparing the constants in the two mediums:
+
+$$\frac{Y_P}{Y_Q} = \frac{{{\gamma}_{s_P}}}{{{\gamma}_{s_Q}}} = \frac{0.9}{0.1} = 9$$
+
+Now, we can express the ratio of the fracture strengths in terms of Y:
+
+$$\frac{σ_f(P)}{σ_f(Q)} = \frac{Y_P}{Y_Q} = 9$$
+
+We know that the fracture strength in medium P is 300 MPa. Therefore, we can find the fracture strength in medium Q:
+
+$$σ_f(Q) = \frac{σ_f(P)}{9} = \frac{300 \text{ MPa}}{9} = 33.33 \text{ MPa}$$
+
+Thus, the fracture strength of the brittle material in medium Q is 33.33 MPa.
+
+Answer: [33.33].

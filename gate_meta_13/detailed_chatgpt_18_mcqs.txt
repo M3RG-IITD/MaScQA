@@ -1,0 +1,11 @@
+Permeability of burden in a blast furnace refers to the ability of gases to flow through the burden or the materials being charged into the furnace. Improving permeability is crucial for efficient operation of the blast furnace.
+
+(A) Fine charge: Fine charge refers to the small particles of raw materials that are charged into the blast furnace. Using fine charges may improve permeability since it allows for easier passage of gases. However, using too much fine charge may lead to the formation of tight structures in the furnace, which block the flow of gases. 
+
+(B) Agglomerated charge: Agglomerated charge refers to raw materials that have been fused together to form bigger particles before being charged into the blast furnace. The use of agglomerated charge improves permeability, since it reduces the amount of small particles in the furnace, which may block the flow of gases.
+
+(C) Oxygen enriched air blast: Oxygen enriched air blast refers to the use of air with a higher oxygen content to improve the efficiency of combustion in the blast furnace. Although it may improve combustion, it does not directly affect the permeability of the burden.
+
+(D) Pulverized coal injection through the tuyeres: Pulverized coal injection (PCI) is the process of injecting coal dust directly into the blast furnace. PCI helps to reduce coke consumption and also improves permeability since the coal particles tend to fill gaps between larger particles in the burden.
+
+Therefore, the correct option is (D) pulverized coal injection through the tuyeres.

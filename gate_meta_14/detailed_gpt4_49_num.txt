@@ -1,0 +1,57 @@
+Given the flow curve equation for the annealed metal:
+
+σ = 200ε^0.25
+
+where σ is the stress in MPa and ε is the true strain.
+
+We are given that the true strain applied on the rod (ε) is 0.3. We will first find the corresponding stress (σ).
+
+Step 1: Find the stress (σ)
+
+Substitute the given value of strain (ε = 0.3) into the flow curve equation:
+
+σ = 200(0.3)^0.25
+
+σ ≈ 149.96 MPa
+
+So, the stress applied on the rod is approximately 149.96 MPa.
+
+Now, we need to calculate the ideal plastic work of deformation per unit volume. The ideal plastic work is given by the product of the stress and the strain.
+
+Step 2: Calculate the ideal plastic work of deformation per unit volume (W)
+
+W = σ * ε
+
+We have found that the stress (σ) is approximately 149.96 MPa and the true strain (ε = 0.3). Substituting these values into the formula:
+
+W = 149.96 * 0.3
+
+W ≈ 44.988 MPa
+
+The ideal plastic work of deformation per unit volume is approximately 44.988 MPa.
+
+Lastly, we need to convert this value to MJ/m^3.
+
+Step 3: Convert MPa to MJ/m^3
+
+1 MPa = 1 N/mm^2 or 1 J/mm^3
+
+We know that 1 mm = 1e-3 m, 
+
+So, 1 J/mm^3 = 1 J / (1e-9 m^3)
+
+1 J/mm^3 = 1e9 J/m^3 = 1e-3 MJ/m^3
+
+Therefore, 1 MPa = 1e-3 MJ/m^3.
+
+Now, we can convert the ideal plastic work of deformation per unit volume to MJ/m^3:
+
+W = 44.988 MPa * (1e-3 MJ/m^3/MPa)
+
+W ≈ 0.044988 MJ/m^3
+
+So, the ideal plastic work of deformation per unit volume is approximately 0.044988 MJ/m^3.
+
+Thus, the correct answer is:
+
+[0.044988]

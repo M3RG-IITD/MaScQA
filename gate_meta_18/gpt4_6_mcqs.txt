@@ -1,0 +1,17 @@
+We need to use the Henry's Law formulation for the gas-liquid equilibrium. For carbon monoxide, we can write the law as:
+
+p(CO) = Kₕ * wt.%C * wt.%O
+
+Where Kₕ is a constant. Based on the given information, we can first find the value of Kₕ:
+
+1 atm = Kₕ * 0.002
+Kₕ = 1/0.002 = 500
+
+Now, when p(CO) = 0.1 atm, we can use the found value of Kₕ to calculate the new value of K:
+
+0.1 atm = 500 * K_new
+K_new = 0.1/500 = 0.0002
+
+So, the new value of K is 0.0002.
+
+Correct answer: [(D) 0.0002]

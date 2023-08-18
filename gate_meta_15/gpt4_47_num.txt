@@ -1,0 +1,33 @@
+We are given the following information:
+
+- The rate of solid-liquid mixture exiting the mold: 35 kg/s
+- Latent heat of fusion (L): 3 × 10^5 J/kg
+- Total rate of heat removal by the mold (Q): 4.2 × 10^6 W
+
+We need to find the mass fraction of solid at the mould exit. Let's denote the mass fraction of solid as X_s and the mass fraction of liquid as X_l.
+
+We can write the equation relating the heat removed and latent heat of fusion as:
+
+Q = (mass of solid) × L
+
+Since the mass of solid is the product of the mass fraction of solid (X_s) and the rate of solid-liquid mixture exiting the mold (35 kg/s):
+
+Q = (X_s × 35) × L
+
+Now, let's solve for X_s:
+
+X_s = Q / (35 × L)
+
+X_s = (4.2 × 10^6) / (35 × 3 × 10^5)
+
+X_s ≈ 0.04
+
+Now we have the mass fraction of solid at the mould exit. Since the sum of mass fractions of solid and liquid is equal to 1:
+
+X_l = 1 - X_s
+X_l = 1 - 0.04
+X_l ≈ 0.96
+
+Thus, the mass fraction of solid at the mould exit is approximately 0.04, or 4%.
+
+Answer: [0.04]

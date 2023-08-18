@@ -1,0 +1,22 @@
+To solve this problem, we will use the rule of mixtures for composite materials. The rule of mixtures states that the elastic modulus of the composite material, E_composite, can be calculated by taking weighted averages of the elastic moduli of the constituents (i.e., the fibers and the matrix).
+
+In this case, the composite material is composed of 40 vol.% glass fiber and 60 vol.% polymer. The corresponding fractions are 0.4 for glass fiber and 0.6 for polymer. Let E_fiber and E_polymer be the elastic moduli of the glass fiber and the polymer, respectively.
+
+Given:
+E_fiber = 70 GPa
+E_polymer = 3.5 GPa
+
+Using the rule of mixtures:
+
+E_composite = f_fiber * E_fiber + f_polymer * E_polymer
+
+We are asked to find the elastic modulus along the transverse direction. Hence:
+
+E_composite_transverse = 0.4 * E_fiber + 0.6 * E_polymer
+E_composite_transverse = 0.4 * 70 GPa + 0.6 * 3.5 GPa
+E_composite_transverse = 28 GPa + 2.1 GPa
+E_composite_transverse = 30.1 GPa
+
+So, the correct answer is (C) 30.1 GPa. 
+
+Answer: [30.1]

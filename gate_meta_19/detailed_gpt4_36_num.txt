@@ -1,0 +1,42 @@
+Let's first represent the triangle formed by the rod, the floor, and the wall. Let A represent the bottom of the rod, B represent the top of the rod and C represent the contact point between the rod and the wall. The rod length AB is 50 cm, BA is the hypotenuse of the right triangle formed as the rod makes contact with the floor and the wall, the distance AC is 30 cm, and BC = 40 cm. 
+
+We can confirm that BC = 40 cm using the Pythagorean theorem:
+AB² = AC² + BC²
+50² = 30² + BC²
+2500 = 900 + BC²
+BC² = 1600
+BC = 40 cm
+
+Let X represent the horizontal distance from the wall to the bottom of the rod when the bottom has been dragged 4 cm further from the wall. The new horizontal distance AX would then be (30 + 4)= 34 cm. Let Y represent the new distance between the top of the rod and the floor when the top starts sliding down. The distance BY would then be (40 - Y) cm.
+
+Given that AB remains constant at 50 cm, we can write the following equation:
+(34)² + (40 - Y)² = 50²
+
+Now, find the derivative with respect to time, t:
+2 * 34 * dX/dt + 2 * (40 - Y) * -dY/dt = 0
+As per the given problem, dX/dt = 4 cm/s, and we need to find dY/dt.
+
+So, the equation would now look like:
+2 * 34 * 4 + 2 * (40 - Y) * -dY/dt = 0
+
+Solve for Y by plugging the new AX value into the Pythagorean equation:
+(34)² + (40 - Y)² = 50²
+1156 = 1600 - 80Y + Y²
+Y² - 80Y + 444 = 0
+
+This is a quadratic equation in the form of Y² - 80Y + 444 = 0. We can use the quadratic formula to find the value of Y:
+(-b ± √(b² - 4ac)) / 2a
+= (80 ± √(80² - 4 * 444)) / 2
+
+The quadratic equation gives us two possible answers for Y. However, since we're only concerned with the top of the rod sliding down, we should take the smaller value:
+Y ≈ 35.70 cm
+
+Now plug the value of Y back into the equation to find dY/dt:
+2 * 34 * 4 + 2 * (40 - 35.70) * -dY/dt = 0
+272 - 8.60 * dY/dt = 0
+dY/dt = 272 / 8.60
+dY/dt = 31.63 cm/s (rounded to two decimal places)
+
+The magnitude of the instantaneous velocity of the top of the rod sliding down the wall is approximately 31.63 cm/s.
+
+The final answer is [31.63].

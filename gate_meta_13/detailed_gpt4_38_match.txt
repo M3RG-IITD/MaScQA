@@ -1,0 +1,24 @@
+Let's understand each powder production technique from Group I and their corresponding shapes from Group II.
+
+Group I:
+
+(P) Reduction: Reduction is a process where metal oxides are converted to their pure elemental form by removing oxygen. In powder metallurgy, metals in the form of powders are produced through the reduction process. The general shape of particles produced through reduction is spongy.
+
+(Q) Gas Atomization: Gas atomization is a process in which liquid metal is forced through a nozzle and then subjected to a high-pressure gas stream to break the liquid into fine droplets that solidify quickly into spherical particles. As a result, the powder particles produced by this process are spherical in shape.
+
+(R) Milling: Milling is a process in which bulk material is mechanically reduced to powders by grinding, crushing, or cutting. In mechanical milling, the shape of the particles produced is generally flaky due to the shearing and tearing action of the milling process.
+
+(S) Electrolysis: Electrolytic methods are used for producing powders of highly reactive metals/alloys. In this process, the metal is deposited from a molten electrolyte solution onto the cathode as a network of fine dendrites. The shape of the particles produced in this process is generally dendritic.
+
+Group II:
+
+(1) Flaky: Produced by the milling process (R)
+(2) Spongy: Produced by the reduction process (P)
+(3) Dendritic: Produced by the electrolysis process (S)
+(4) Spherical: Produced by the gas atomization process (Q)
+
+Now let's match the techniques with their corresponding shapes:
+
+P-2, Q-4, R-1, S-3
+
+Therefore, the correct answer is: (A) P-2, Q-4, R-1, S-3

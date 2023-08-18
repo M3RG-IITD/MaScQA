@@ -1,0 +1,78 @@
+First, let's write down the given information:
+
+Δ(f)G°(1873) = -262300 J/mol for the reaction Mo(s) + O2(g) ⇔ MoO2(s) (ΔfG° stands for standard Gibbs free energy of formation at 1873 K)
+a(MoO2) = 0.5 (activity of MoO2)
+
+Δ(r)G°(1873) = -120860 J/mol for the reaction CO(g) + 0.5O2(g) ⇔ CO2(g) (ΔrG° stands for standard Gibbs free energy change for the reaction at 1873 K)
+
+R = 8.314 J/K/mol (universal gas constant)
+
+The equilibrium constant (K) for a given reaction can be calculated using the equation:
+
+Δ(r)G° = -RT ln(K),
+
+where Δ(r)G° is the standard Gibbs free energy change for the reaction, R is the universal gas constant, T is the temperature in Kelvin, and K is the equilibrium constant.
+
+Let's rearrange the equation to solve for K:
+
+ln(K) = -Δ(r)G° / (RT)
+
+Now, we can plug the given values into the equation to find K:
+
+ln(K) = -(-120860 J/mol) / (8.314 J/K/mol × 1873 K)
+ln(K) = 120860 J/mol / (8.314 J/K/mol × 1873 K)
+ln(K) ≈ 7.71
+
+Now, find K by taking the exponential:
+
+K = e^(7.71) ≈ 2230.43
+
+Now, let's set up the reaction quotient (Q) for the reaction:
+
+Q = (p(CO2)) / (p(CO) × (p(O2))^0.5)
+
+At equilibrium, Q = K. Thus,
+
+2230.43 = (p(CO2)) / (p(CO) × (p(O2))^0.5)
+
+Let's express the partial pressures of CO and CO2 in terms of their mole fractions (x) and the total pressure (P):
+
+p(CO) = x(CO) × P
+p(CO2) = x(CO2) × P
+
+The overall reaction we're analyzing is CO(g) + 0.5O2(g) ⇔ CO2(g). Since 1 mol of CO is reacting with 0.5 mol of O2, we have:
+
+x(CO2) = x(CO) × 0.5.
+
+We can now re-write the expression for Q as follows:
+
+2230.43 = (x(CO2) × P) / (x(CO) × P × (p(O2))^0.5)
+
+We can cancel out the total pressure, P:
+
+2230.43 = x(CO2) / (x(CO) × (p(O2))^0.5)
+
+Now we can substitute x(CO2) = x(CO) × 0.5:
+
+2230.43 = (x(CO) × 0.5) / (x(CO) × (p(O2))^0.5)
+
+Now we want to find the p(CO) / p(CO2) ratio, which is equivalent to x(CO) / x(CO2). To do this, let's solve for x(CO) / x(CO2):
+
+x(CO) / x(CO2) = 0.5 / ((p(O2))^0.5 × 2230.43)
+
+We are given that a(MoO2) = 0.5, which implies that p(O2) is equal to half the standard pressure, since activity is the ratio of partial pressure to standard pressure:
+
+p(O2) = 0.5 atm
+
+Now we can plug this value into the equation for x(CO) / x(CO2):
+
+x(CO) / x(CO2) = 0.5 / ((0.5 atm)^0.5 × 2230.43)
+x(CO) / x(CO2) ≈ 0.5 / (0.7071 × 2230.43)
+
+Now we can calculate the p(CO) / p(CO2) ratio, rounded off to 2 decimal places:
+
+x(CO) / x(CO2) ≈ 0.50 / (0.7071 × 2230.43) ≈ 0.001597 ≈ 0.0016 (rounded to 4 decimal places for accuracy)
+
+The equilibrium p(CO) / p(CO2) ratio for the given reaction at 1873 K is approximately 0.0016 (rounded to 4 decimal places for accuracy).
+
+Answer: [0.0016]

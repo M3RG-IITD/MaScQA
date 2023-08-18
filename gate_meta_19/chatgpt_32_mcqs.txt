@@ -1,0 +1,15 @@
+Based on the Schmid's law, the slip system that has the highest resolved shear stress (RSS) on the plane and the highest Schmid factor (SF) will be activated first. 
+
+The [1 -1 0] tensile axis has slip planes with normal vectors [0 1 1], [1 0 1], and [1 -1 0]. 
+
+(A) (1 -1 -1)[0 -1 1]: The normal vector is [0 -1 1], which does not have any component in the [1 -1 0] tensile axis. Therefore, this slip system will not be activated. 
+
+(B) (-1 -1 1)[0 1 1]: The normal vector is [0 1 1], which has a component of -1 in the [1 -1 0] tensile axis. Therefore, the resolved shear stress (RSS) is |-1/2*1| = 1/2. The SF = cos(45°) * cos(35.26°) = 0.472. 
+
+(C) (-1 -1 1)[1 -1 0]: The normal vector is [1 -1 0], which has a component of -1 in the [1 -1 0] tensile axis. Therefore, the RSS is |-1/√2| = 1/√2. The SF = cos(45°) * cos(45°) = 0.5. 
+
+(D) (-1 -1 1)[1 0 1]: The normal vector is [1 0 1], which does not have any component in the [1 -1 0] tensile axis. Therefore, this slip system will not be activated. 
+
+Thus, the slip system that will be activated first is option (C) (-1 -1 1)[1 -1 0]. 
+
+Answer: (C) (-1 -1 1)[1 -1 0]

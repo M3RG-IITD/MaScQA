@@ -1,0 +1,9 @@
+The correct indenter for Rockwell hardness measurements on the C scale is option (D) 1/16 in. steel ball.
+
+Step-by-step explanation:
+
+Rockwell hardness test measures the hardness of a material based on its ability to resist permanent indentation under load. The test uses an indenter, which is pressed into the surface of a material under a specific load, and then the depth of indentation is measured. Rockwell hardness tests are divided into several scales, depending on the load and the type of indenter used.
+
+The C scale is used for measuring the hardness of hard materials such as steel, and it uses a diamond cone indenter with a 120-degree angle and a load of 150 kgf. However, this is not the correct option given in the question.
+
+The correct indenter for the C scale is a 1/16 in. steel ball, which has a load of 150 kgf and produces a deeper indentation in harder materials. Option (B) 10 mm steel ball is not correct since it is not used in the Rockwell hardness test, and option (A) diamond cone is used in a different Rockwell scale. Option (C) diamond pyramid is used in the Vickers and Knoop hardness tests, but not in the Rockwell hardness test.

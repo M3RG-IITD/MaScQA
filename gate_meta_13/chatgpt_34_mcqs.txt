@@ -1,0 +1,15 @@
+The theoretical fracture strength can be calculated using the following formula:
+
+$\sigma_f = \sqrt{\frac{2 E \gamma}{\pi a_0}}$
+
+Where $\sigma_f$ is the fracture strength, $E$ is the Young’s modulus, $\gamma$ is the surface energy, and $a_0$ is the maximum internal crack length.
+
+Substituting the given values, we get:
+
+$\sigma_f = \sqrt{\frac{2 \times 400 \times 10^9 \times 3.14}{\pi \times 8 \times 10^{-6}}} \approx 412 \text{ MPa}$
+
+Therefore, the answer is (B) 412. 
+
+Answer: 
+
+(B) 412

@@ -1,0 +1,19 @@
+Froth flotation is a process for selectively separating hydrophobic materials from hydrophilic. It is widely used in mineral processing for ore beneficiation.
+
+Step 1: Understand the terms.
+- Hydrophobic: Tending to repel or not to absorb water.
+- Hydrophilic: Having an affinity for, attracting or dissolvable in water.
+- Collector: A chemical substance that increases the hydrophobicity of certain mineral particles, thus enabling them to attach to air bubbles.
+
+Step 2: Analyze the given options.
+(A) Make the surface of the mineral hydrophobic.
+(B) Make the surface of the mineral hydrophilic.
+(C) Stabilize the froth.
+(D) Adjust the pH.
+
+Step 3: Recall the purpose of froth flotation, which is to separate hydrophobic materials from hydrophilic materials. The addition of collectors helps in this process.
+
+Step 4: Determine which option best describes the role of collectors in froth flotation.
+Collectors enhance the hydrophobic properties of certain mineral particles, allowing them to attach to air bubbles and float to the surface. This implies that the primary purpose of adding collectors is to make the surface of the mineral hydrophobic, which matches option (A).
+
+Answer: [(A) make the surface of the mineral hydrophobic.]

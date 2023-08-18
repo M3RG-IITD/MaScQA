@@ -1,0 +1,15 @@
+The correct sequence of precipitation to reach stable equilibrium during ageing of Al-4.5 wt.% Cu alloy is:
+ 
+GP zone → θ' → θ'' → θ
+
+Here is a detailed explanation of each precipitation stage:
+
+1. GP Zone Precipitation: At the initial stage, the atoms start to cluster forming a Guinier Preston Zone (GP zone), which is also known as a metastable phase.
+
+2. Formation of θ' phase: The GP zone then transforms into a coherent and more ordered θ' phase as clusters grow and combine. This phase is still metastable.
+
+3. Formation of θ'' phase: With the passage of time, the coherency between the θ' phase and α-Al matrix is lost, and it transforms into a semi-coherent and less ordered θ'' phase.
+
+4. Formation of θ phase: Eventually, the θ'' phase transforms into the stable θ phase through a process called over-aging. This phase has a coarser morphology and is coherent with the α-Al matrix.
+
+Hence, the correct answer is (A) GP zone → θ' → θ'' → θ.

@@ -1,0 +1,19 @@
+In blast furnace ironmaking, the primary objective is to reduce the iron oxide present in the raw material to metallic iron, along with producing slag and off-gases. However, various factors can lead to the solution loss reaction, where the reduction of iron oxide is not as efficient, and there is a loss of valuable materials. It is essential to employ modern practices to minimize these losses and improve the overall efficiency of the process.
+
+Let's analyze each option given:
+
+(A) High top pressure:
+High top pressure increases the pressure inside the blast furnace, improving the gas-solid contact and enhancing the reduction reactions of iron oxide. However, this method is more focused on improving the indirect reduction, and its effect on retarding the solution loss reaction is secondary in nature.
+
+(B) Bell-less top:
+The bell-less top is a type of charging system used in a blast furnace. It allows for better distribution of raw materials (burden) in the furnace, reducing the solution loss reaction. It consists of a rotating mechanism that distributes the burden material evenly and helps in controlling the gas flow in the furnace. By minimizing channeling and improving the gas-solid contact, this system significantly reduces the solution loss reaction.
+
+(C) Pulverized coal injection (PCI):
+Pulverized coal injection involves injecting fine coal particles into the blast furnace as a replacement for some of the coke required in the process. PCI helps in reducing the coke consumption and, subsequently, the costs associated. It also improves the overall energy efficiency of the furnace. However, its primary impact is on the coke consumption and not directly on the solution loss reaction.
+
+(D) Rotating chute for burden distribution:
+A rotating chute is another method of burden distribution in the blast furnace. Its purpose is similar to the bell-less top, i.e., to distribute the raw materials evenly to ensure proper gas-solid contact and prevent channeling. By doing so, it can help in retarding the solution loss reaction.
+
+In conclusion, among the given modern practices, the one that is primarily used for retarding the solution loss reaction in blast furnace ironmaking is:
+
+Answer: (B) Bell-less top

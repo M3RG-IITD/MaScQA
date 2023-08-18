@@ -1,0 +1,36 @@
+To find the ratio of the surface energy per unit area of the (100) plane to that of the (110) plane, we need to find the surface atom density of each plane along with their nearest-neighbor bond distances. Then we can calculate the surface energy per unit area using the bond energy and surface atom density.
+
+Step 1: Determine surface atom density of the planes
+
+For a BCC unit cell, there is 1 lattice point per unit cell. BCC lattice points are on the corners of the cube and one in the center of the unit cell.
+
+(100) Plane:
+In the (100) plane, the atoms are located at the corners and the center of the square face. There are 4 corner atoms, each of which contributes 1/4 to the surface, and the central atom contributes fully to the surface. Thus, the surface atom density for the (100) plane is 1+4(1/4) = 2 atoms per unit area.
+
+(110) Plane:
+In the (110) plane, there are 3 atoms located at the corner of the rectangle and one located at the midpoint of the diagonal. There are 4 corner atoms, each of which contributes 1/4 to the surface, and the middle atom contributes 1/2 to the surface. Thus, the surface atom density for the (110) plane is 4(1/4) + 1/2 = 1.5 atoms per unit area.
+
+Step 2: Find the bond distances
+
+The nearest-neighbor bond distance in a BCC structure can be found using the formula:
+
+d = √(a²/2)
+
+where d is the nearest-neighbor bond distance and a is the lattice constant.
+
+For the (100) plane, the bond distance is equal to the lattice constant (a). For the (110) plane, there are two distinct bond distances: one along the short diagonal of the rectangle, which is equal to the nearest-neighbor bond distance (d), and one along the long diagonal of the rectangle, which is equal to a.
+
+Step 3: Calculate the surface energy per unit area
+
+Assuming the bond energy per unit length is E (J/m), the surface energy per unit area for both planes can be calculated as follows:
+
+(100) Surface Energy/Area = (2 atoms/area) * (1 * E/atom) = 2E/area
+(110) Surface Energy/Area = (1.5 atoms/area) * (0.5 * E + 0.5 * E)/atom = 1.5E/area
+
+Step 4: Find the ratio of the surface energies per unit area
+
+Now we can find the ratio of the surface energy per unit area of the (100) plane to that of the (110) plane:
+
+(100)/(110) Surface Energy/Area Ratio = (2E/area) / (1.5E/area) = 2/1.5 = 4/3
+
+Answer: The correct ratio of the surface energy per unit area of the (100) plane to that of the (110) plane for a BCC metal is [4/3].

@@ -1,0 +1,19 @@
+First of all, we need to find the liquidus and solidus temperatures for the given composition of 5 wt.% B. From the given phase diagram, we can observe that the eutectic composition occurs at 20 wt.% B and a eutectic temperature of about 600 K. Therefore, for an alloy with 5 wt.% B, the liquidus temperature can be estimated to be 800 K and the solidus temperature can be estimated to be 700 K.
+
+Next, we can use the relation between the critical temperature gradient (G) and the velocity of solidification front (v) as follows:
+
+G = v * D / L
+
+Where D is the diffusivity of B in the liquid and L is the latent heat of fusion of the alloy. The value of L can be estimated from the phase diagram as the difference between the liquidus and solidus temperatures, i.e., L = 800 K - 700 K = 100 K.
+
+Substituting the values given in the problem, we get:
+
+G = (4 * 10^(-3) m/s) * (10^(-9) m^2/s) / (100000 J/m^3)
+
+G = 4 * 10^(-13) K/mm
+
+Rounding off to the nearest integer, we get the critical temperature gradient required to maintain the planar solidification front as 0 K/mm.
+
+Therefore, the correct answer is:
+
+- 0 K/mm

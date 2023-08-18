@@ -1,0 +1,5 @@
+When two phases α and β in an alloy are in thermodynamic equilibrium, the chemical potential of every element in each phase must be the same. This is because, in thermodynamic equilibrium, the Gibbs free energy is minimized, and any movement of atoms or molecules between the phases will result in an increase in the free energy.
+
+Therefore, the correct answer is:
+
+(D) $(μ_i)^(α)$ = $(μ_i)^(β)$

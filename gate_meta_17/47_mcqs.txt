@@ -1,0 +1,2 @@
+For an intrinsic semiconductor, the room temperature electrical conductivity is $10^(-6)Ω^(-1).m^(-1)$. If the electron and hole mobilities are 0.75 and 0.06 $m^(2)V^(-1)s^(-1)$ respectively, the intrinsic carrier concentration (per $m^3$) at room temperature is:
+(A) 5.1* $10^(12)$ (B) 7.7 * $10^(12)$ (C) 8.3 * $10^(12)$ (D) 1.1 * $10^(14)$

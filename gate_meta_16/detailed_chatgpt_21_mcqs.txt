@@ -1,0 +1,9 @@
+The heat-affected zone (HAZ) is the area that surrounds the weld where the temperature has been elevated but has not melted. The width of the HAZ is dependent on the welding process used. 
+
+P: Laser Beam Welding - This method uses a focused beam of light to melt and fuse metal. The heat-affected zone is relatively small compared to other welding processes. 
+
+Q: Submerged Arc Welding - This method uses an arc between a continuously fed wire and the workpiece. The arc is submerged in granular flux to shield the weld from the atmosphere. The heat-affected zone for this welding process is typically larger than that of laser beam welding. 
+
+R: Metal Inert Gas (MIG) Welding - This method uses a wire fed through a gun that melts into the weld. An inert gas is used to shield the weld from the atmosphere. The heat-affected zone for this welding process is typically larger than that of laser beam welding, but smaller than that of submerged arc welding. 
+
+Therefore, the correct answer is (A) P > Q > R

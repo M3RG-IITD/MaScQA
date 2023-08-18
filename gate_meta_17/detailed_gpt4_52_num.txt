@@ -1,0 +1,47 @@
+To find the ratio of resilience to toughness, we need to calculate both values, given the properties of the material.
+
+1. Resilience: It is the ability of a material to absorb energy when deformed elastically, which can be expressed using the modulus of resilience, defined as the area under the stress-strain curve in the elastic region. For an elastic-plastic material, the stress-strain curve follows Hooke's Law up to the yield point, and then there's a horizontal straight line at the yield stress. Using the given values of E and the yield stress, we can find the yield strain.
+
+Formula: Stress = Young's Modulus * Strain
+=> Yield Strain = Yield Stress / Young's Modulus
+
+Yield Strain = 450 MPa / 4.5 GPa
+Yield Strain = 450 * 10^6 N/m^2 / 4.5 * 10^9 N/m^2
+Yield Strain = 0.1
+
+Now we can calculate the resilience by finding the area under the stress-strain curve, which is a triangle in this case.
+
+Resilience = 0.5 * Yield Stress * Yield Strain
+
+Resilience = 0.5 * 450 MPa * 0.1
+Resilience = 0.5 * 450 * 10^6 N/m^2 * 0.1
+Resilience = 22.5 * 10^6 J/m^3
+
+2. Toughness: It is the ability of a material to absorb energy and plastically deform without fracturing. The toughness can be expressed as the area under the stress-strain curve up to the fracture point. The shape of this area is a rectangle with a triangle on top of it.
+
+Rectangle Area = Yield Stress * Yield Strain
+Triangle Area = 0.5 * (Fracture Strain - Yield Strain) * Yield Stress
+
+Fracture Strain = 0.45
+Rectangle Area = 450 MPa * 0.1
+Rectangle Area = 450 * 10^6 N/m^2 * 0.1
+Rectangle Area = 45 * 10^6 J/m^3
+
+Triangle Area = 0.5 * (0.45 - 0.1) * 450 MPa
+Triangle Area = 0.5 * 0.35 * 450 * 10^6 N/m^2
+Triangle Area = 78.75 * 10^6 J/m^3
+
+The total toughness is the sum of these two areas.
+
+Toughness = 45 * 10^6 J/m^3 + 78.75 * 10^6 J/m^3
+Toughness = 123.75 * 10^6 J/m^3
+
+Now we can find the ratio of resilience to toughness.
+
+Resilience/Toughness = (22.5 * 10^6 J/m^3) / (123.75 * 10^6 J/m^3)
+Resilience/Toughness = 22.5 / 123.75
+Resilience/Toughness ≈ 0.182
+
+The ratio of resilience to toughness for this material is approximately 0.182 (rounded to three decimal places).
+
+Answer: [0.182]

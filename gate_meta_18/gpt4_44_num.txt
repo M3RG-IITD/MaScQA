@@ -1,0 +1,30 @@
+To find the width of the fusion zone, we need to find the distance x (in mm) from the weld center where the temperature T equals the melting point, i.e., 1500 K. So let's first set the given equation equal to 1500 and solve for x.
+
+1500 = 2000 * exp(-0.3*x^2)
+
+Now, let's solve for x:
+Divide both sides by 2000:
+
+0.75 = exp(-0.3*x^2)
+
+Take the natural logarithm of both sides:
+
+ln(0.75) = -0.3*x^2
+
+Divide both sides by -0.3:
+
+x^2 = ln(0.75) / (-0.3)
+
+Now, take the square root of both sides:
+
+x = sqrt(ln(0.75) / -0.3)
+
+x ≈ 0.918
+
+Since the distance x can be in both directions from the weld center, the width of the fusion zone is 2x:
+
+Width = 2 * x ≈ 2 * 0.918 ≈ 1.84 mm
+
+So, the width of the fusion zone is approximately 1.84 mm.
+
+Answer: [1.84]

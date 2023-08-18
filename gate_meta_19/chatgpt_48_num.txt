@@ -1,0 +1,25 @@
+The critical radius (𝑟*) is given by the expression:
+
+𝑟* = 2𝛴/((𝜆𝛼)Δ𝑇)
+
+where 𝛴 is the liquid-solid interfacial energy, 𝜆 is the enthalpy of fusion, 𝑎 is the atomic radius of nickel, and Δ𝑇 is the degree of undercooling.
+
+The atomic radius of nickel is not given in the question, but we can use an approximate value of 0.124 nm.
+
+First, we need to find the degree of undercooling:
+
+Δ𝑇 = 𝑇𝑚 − 𝑇
+
+where 𝑇 is the actual temperature and 𝑇𝑚 is the equilibrium melting temperature.
+
+Δ𝑇 = 1728 K - 1673 K = 55 K
+
+Substituting the given values into the expression for 𝑟*, we get:
+
+𝑟* = 2 × 0.5 𝐽. $𝑚^{−2}$ /((2.65 × $10^9$ 𝐽.$𝑚^{−3}$ ) × (0.124 × $10^{−9}$ 𝑚) × 55 K) 
+
+𝑟* = 8.6 nm
+
+Therefore, the critical radius of nickel nucleus during solidification at 1673 K is 8.6 nm (rounded off to one decimal place).
+
+Answer: [8.6]

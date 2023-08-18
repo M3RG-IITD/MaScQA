@@ -1,0 +1,15 @@
+Let's relate the strengthening methods with the typical mechanisms responsible for them.
+
+Group I:
+
+P. Grain size strengthening - This occurs when the grain size in a metallic alloy is reduced, thereby increasing the grain boundary area in the material. This hinders dislocation motion as the grain boundaries act as barriers to dislocation movement. The mechanism responsible for this is Dislocation pileup at grain boundaries. So, P corresponds to 4.
+
+Q. Work hardening - Also known as Strain hardening, is the increase in strength due to plastic deformation at a temperature below the material's recrystallization temperature. The mechanism responsible for work hardening is the Lomer-Cottrell barrier, which results in the formation of sessile dislocations (high energy, immobile) acting as obstacles to further dislocation motion of mobile dislocations. So, Q corresponds to 3.
+
+R. Dispersion strengthening - The method involves dispersing a secondary phase (e.g. nanoparticles or fibers) in a metallic matrix. It increases the strength of the material because dislocations have to navigate around these dispersed secondary particles. The mechanism responsible for this is Orowan looping where the dislocations maneuver around the dispersed material, forming loops. So, R corresponds to 1.
+
+S. Solid solution hardening - In this method, an alloy is formed by dissolving one element into another to form a solid solution, causing lattice distortion and increasing resistance to dislocation motion. The mechanism responsible is the Suzuki interaction, where the solute atoms interact with the strain field created by dislocations, hindering their movement. So, S corresponds to 2.
+
+So, the correct matching is P-4, Q-3, R-1, S-2, which corresponds to option (C). Therefore, the answer is:
+
+[C]

@@ -1,0 +1,27 @@
+To calculate the degrees of freedom (F) in a system at equilibrium, we can use the Gibbs phase rule, which is given by:
+
+F = C - P + 2
+
+where C is the number of components and P is the number of phases.
+
+In this reaction, we have three chemical species: $CaCO_3$(s), CaO(s), and $CO_2$(g). Since CaO and $CaCO_3$ are solids, they are considered separate phases, and since $CO_2$ is a gas, it is considered as another phase. So the total number of phases (P) is 3.
+
+Now we need to determine the number of components (C). In this situation, the components are the different substances that can independently vary in amount. 
+
+The three chemical species in this reaction are in equilibrium with each other, so we can't simply count them as independent components. We should instead identify the minimum number of species that can produce all the other species in the reaction.
+
+In this case, we can choose $CaCO_3$ and $CO_2$ as the independent components, as we can produce CaO from $CaCO_3$ when it dissociates (and vice versa).
+
+So now we have:
+C = 2 (since we chose $CaCO_3$ and $CO_2$ as independent components)
+P = 3 (since we have two solid phases and one gas phase)
+
+We can use the Gibbs phase rule to determine the degrees of freedom (F):
+
+F = C - P + 2
+F = 2 - 3 + 2
+F = 1
+
+Therefore, the degree of freedom F for this reaction is 1.
+
+Answer: [1]

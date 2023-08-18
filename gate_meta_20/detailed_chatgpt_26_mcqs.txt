@@ -1,0 +1,9 @@
+To determine the stability of dislocation Z at positions 1, 2, and 3, we need to consider the forces acting on it. At position 1, dislocation Z is directly above dislocation X, and at position 2, it is between dislocations X and Y. At position 3, it is directly above dislocation Y.
+
+Let's assume that the dislocation line of Z is perpendicular to the page, and the Burgers vector is pointing out of the page. We can draw two slip planes, one for dislocations X and Z, and another for dislocations Y and Z. The two slip planes are separated by a distance h.
+
+Now, let's consider the forces acting on dislocation Z. At position 1, the dislocation experiences an attractive force from dislocation X due to the interaction of their respective elastic fields. This force will tend to pull dislocation Z towards dislocation X, creating an unstable equilibrium. At position 3, dislocation Z experiences a repulsive force from dislocation Y due to the interaction of their respective elastic fields. This force will tend to push dislocation Z away from dislocation Y, creating another unstable equilibrium.
+
+At position 2, however, dislocation Z experiences both an attractive force from dislocation X and a repulsive force from dislocation Y. The two forces will cancel out if they have the same magnitude, creating a stable equilibrium. Therefore, the correct answer is:
+
+(B) Position 1: stable equilibrium; Position 2: unstable equilibrium; Position 3: unstable equilibrium.

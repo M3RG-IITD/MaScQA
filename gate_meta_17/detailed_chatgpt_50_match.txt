@@ -1,0 +1,21 @@
+Both dislocations lie on parallel slip planes and at low temperature the applied stress is also low. Therefore, the dislocation-dislocation interaction energy U is given by:
+
+$U = \frac{\mu b^2}{2\pi} \ln \left( \frac{L}{r}}\right)$
+
+where, b is the burgers vector, $\mu$ is the shear modulus, L is the length of the dislocations and r is the separation between the dislocations.
+
+If the energy is minimized, then the dislocations will be in equilibrium. If the energy is maximized, then the dislocations are in an unstable equilibrium. If the energy is between the minimum and maximum values, then the dislocations experience an attraction or a repulsion depending on their separation.
+
+Using this information, we can analyze the configurations P, Q, R and S as follows:
+
+P: The dislocations are separated by a distance r which is less than L/2. Therefore, there is an attraction between the dislocations.
+
+Q: The dislocations are separated by a distance r which is equal to L/2. Therefore, the dislocations are in a stable equilibrium.
+
+R: The dislocations are separated by a distance r which is greater than L/2 but less than L. Therefore, there is a repulsion between the dislocations.
+
+S: The dislocations are separated by a distance r which is greater than L. Therefore, the dislocations are in an unstable equilibrium.
+
+Thus, the correct matching of Column I and Column II is:
+
+A) P-3, Q-2, R-4, S-1.

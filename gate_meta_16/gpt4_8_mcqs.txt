@@ -1,0 +1,21 @@
+To find the solid phases that can co-exist at thermodynamic equilibrium, we need to consider the reactions that can occur between the solid phases and the gases. For this case, the relevant reactions are:
+
+1. M + O₂ ↔ MO (oxidation of metal M)
+2. MS + O₂ ↔ MO + SO₂ (oxidation of sulfide MS)
+3. M + SO₂ ↔ MSO₄ (formation of sulfate MSO₄)
+
+Now, let's analyze the possible coexistence of the solid phases:
+
+A) M, MS, MO, MSO₄
+- If all four phases coexist, then there must be a reaction between MS and M to form MO and MSO₄; however, this reaction does not exist. Therefore, option A is not possible.
+
+B) M, MO, MSO₄
+- In this case, M and MO can coexist through reaction 1, and M and MSO₄ can coexist through reaction 3. Therefore, option B is possible.
+
+C) MS, MO, MSO₄
+- In this case, MS and MO can coexist through reaction 2, but there is no reaction between MS and MSO₄. Therefore, option C is not possible.
+
+D) M, MSO₄
+- In this case, M and MSO₄ can coexist through reaction 3, but M cannot directly coexist with MS or MO. Therefore, option D is not possible.
+
+Thus, the correct answer is [B].

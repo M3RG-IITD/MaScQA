@@ -1,0 +1,15 @@
+The first step in solving this question is to understand the information presented in the CCT diagram. 
+
+CCT stands for Continuous Cooling Transformation, and it is a plot that describes the transformation of austenite to different microstructures (such as pearlite, martensite, and bainite) as it is cooled at a constant rate. In the diagram given, the horizontal axis represents cooling rate (which decreases from right to left), and the vertical axis represents the percentage of transformation. 
+
+The cooling curve superimposed on the CCT diagram represents the rate at which the steel is cooled during heat treatment. As the curve intersects different phase transformation regions on the CCT diagram, different microstructures will form in the steel.
+
+Now, let's look at the specific diagram given in the question. The cooling curve intersects the pearlite region and the martensite region, but it does not intersect the bainite region. This means that the steel will not form bainite during the heat treatment.
+
+At the highest cooling rate (on the right side of the diagram), the entire steel sample will transform to austenite. As the cooling rate decreases, the austenite will transform to pearlite when the curve intersects the pearlite region. The percentage of pearlite transformation will increase as the cooling rate decreases.
+
+If the cooling rate is slow enough, the curve will intersect the martensite region, and some austenite will transform directly to martensite. However, the percentage of martensite transformation will be relatively low because the cooling rate is not very slow.
+
+At room temperature (RT), the steel will have finished cooling to its final microstructure. Based on the diagram, we can see that the curve passes through the pearlite region but does not intersect the martensite region at RT. This means that at RT, only the pearlite microstructure will be present in the steel. 
+
+Therefore, the correct answer is (A) pearlite only.

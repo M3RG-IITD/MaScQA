@@ -1,0 +1,55 @@
+The given differential equation is: 
+
+$$\frac{d}{dr}\left(r\frac{dT}{dr}\right)=0$$
+
+We need to find the rate of heat loss per unit length through the outer surface of the cylinder. Let's use Fourier's law of heat conduction:
+
+$$\frac{dQ}{dt}=-kA\frac{dT}{dx}$$
+
+where $dQ/dt$ is the rate of heat transfer per unit time, $k$ is the thermal conductivity, A is the surface area through which heat is transferred, and $dT/dx$ is the temperature gradient in the direction of heat transfer.
+
+Since the cylinder is infinitely long, we can assume that heat transfer occurs only in the radial direction. Thus, the surface area A is the lateral surface area of the cylinder: 
+
+$$A=2\pi rh$$
+
+where $h$ is the height of the cylinder. Since the cylinder is hollow, we have:
+
+$$h=\text{outer radius}-\text{inner radius}=0.07-0.05=0.02\text{ m}$$
+
+Also, the temperature gradient $dT/dx$ can be expressed in terms of the temperature gradient in the radial direction using the chain rule:
+
+$$\frac{dT}{dx}=\frac{dT}{dr}\cdot\frac{dr}{dx}=-\frac{dT}{dr}$$
+
+since $dr/dx=1$ for radial distances.
+
+Let's integrate the differential equation to obtain a general solution:
+
+$$r\frac{dT}{dr}=C_1$$
+
+where $C_1$ is a constant of integration. Integrating again gives:
+
+$$T=C_1\ln r+C_2$$
+
+where $C_2$ is another constant of integration.
+
+Using the boundary conditions, we can solve for the constants $C_1$ and $C_2$. At the inner surface ($r=0.05$ m), the temperature is 1473 K. Thus:
+
+$$1473=C_2$$
+
+At the outer surface ($r=0.07$ m), the temperature is 973 K. Using the general solution:
+
+$$973=C_1\ln 0.07+1473$$
+
+Solving for $C_1$ gives:
+
+$$C_1=\frac{973-1473}{\ln (0.07/0.05)}=-504.4\text{ K/m}$$
+
+Now we can calculate the rate of heat loss per unit length through the outer surface of the cylinder. Using Fourier's law with $x=r$ and $A=2\pi rh$, we get:
+
+$$\frac{dQ}{dt}=-kA\frac{dT}{dx}=2\pi khr\frac{dT}{dr}=-2\pi krC_1$$
+
+The minus sign indicates that heat is flowing outwards from the cylinder. Evaluating this expression at $r=0.07$ gives:
+
+$$\frac{dQ}{dt}|_{r=0.07}=-2\pi (2)\cdot 0.07\cdot (504.4)\cdot (2)=\boxed{-226.5\text{ W/m}}$$
+
+Therefore, the rate of heat loss per unit length through the outer surface of the hollow cylinder is approximately -227 W/m.

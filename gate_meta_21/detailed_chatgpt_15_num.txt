@@ -1,0 +1,12 @@
+First, we need to find the value of µ + 2σ using the given values of µ and σ:
+µ + 2σ = 5 + 2(0.5) = 6
+So, P(X ≤ 6) = 0.98
+Now, we can use the fact that the distribution is symmetric to find the value of P(X ≤ 4) which will also be 0.02 (since the total probability of the distribution is 1).
+P(X ≤ 4) = 0.02
+Now, we need to find the percentage of specimens with grain size in the range 5 to 6 µm. We can do this by finding the difference between P(X ≤ 6) and P(X ≤ 5), and then multiplying by 100:
+P(5 ≤ X ≤ 6) = P(X ≤ 6) - P(X ≤ 5)
+P(5 ≤ X ≤ 6) = 0.98 - 0.84
+P(5 ≤ X ≤ 6) = 0.14
+Percentage of specimens with grain size in the range 5 to 6 µm = 0.14 * 100 = 14% (rounded off to nearest integer)
+
+Answer: [14]

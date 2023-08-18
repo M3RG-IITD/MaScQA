@@ -1,0 +1,21 @@
+The requirement for equilibrium at a triple junction can be determined using the Gibbs free energy for the three-phase system. The Gibbs free energy change for a system of three phases (α, β, and γ) is given by:
+
+ΔG = γ_(αβ)*A_(αβγ) + γ_(βγ)*A_(βγα) + γ_(γα)*A_(γαβ)
+
+where γ is the interfacial energy (surface tension) between the two phases and A is the interfacial area between the phases. At equilibrium, the Gibbs free energy change is zero, and therefore the three interfacial energy values are related as:
+
+γ_(αβ)/γ_(βγ) = A_(αβγ)/A_(βγα) = γ_(γα)/γ_(αβ)
+
+For a triple junction, the interfacial angles are related as:
+
+cos($θ_1$) = -(cos($θ_2$) + cos($θ_3$)) / sin($θ_2$)sin($θ_3$)
+
+Using trigonometric identities, this can be simplified to:
+
+sin($θ_1$) = [2sin($θ_2$)sin($θ_3$) - (sin($θ_2$+$θ_3$)] / sin($θ_2$)sin($θ_3$)
+
+By solving the two equations above simultaneously, we can derive the equation for equilibrium at a triple junction:
+
+γ_(αβ)/cos($θ_1$) = γ_(βγ)/cos($θ_2$) = γ_(γα)/cos($θ_3$)
+
+Therefore, the correct answer is (A) $γ_(23)$/cos($θ_1$) = $γ_(13)$/cos($θ_2$) = $γ_(12)$/cos($θ_3$).

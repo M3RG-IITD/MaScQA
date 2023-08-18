@@ -1,0 +1,30 @@
+Let's start by writing the balanced reactions for the production of Fe.
+
+$Fe_2O_3$ + 3C → 2Fe + 3CO
+
+This reaction uses 3 moles of C to produce 2 moles of Fe. So for 1 mole of Fe produced, we use 1.5 moles of C. However, we are given that 2.38 moles of C are used for every mole of Fe produced. Thus, C not only reacts with $Fe_2O_3$ but also with $O_2$
+
+The excess carbon (0.88 moles) reacts with $O_2$ to form a mixture of CO and $CO_2$, with a 1:1 molar ratio.
+
+The reactions with oxygen for producing CO and $CO_2$ can be written as:
+
+1) C + $O_2$ → CO
+2) C + $O_2$ → $CO_2$
+
+Since the molar ratio of CO to $CO_2$ is 1:1, we have:
+0.44 moles of C react with $O_2$ to form CO, and 0.44 moles of C react with $O_2$ to form $CO_2$.
+
+Combining both the reactions gives:
+
+0.44 C + 0.44 $O_2$ → 0.44 CO
+0.44 C + 0.44 $O_2$ → 0.44 $CO_2$
+
+Let's calculate the total number of moles of $O_2$ consumed:
+
+0.44 moles of $O_2$ for CO and 0.44 moles of $O_2$ for $CO_2$. 
+
+Total moles of $O_2$ consumed = 0.44 + 0.44 = 0.88 moles
+
+Therefore, for every mole of Fe produced, 0.88 moles of $O_2$ is consumed.
+
+The correct answer is (C) 0.513.

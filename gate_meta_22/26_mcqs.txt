@@ -1,0 +1,2 @@
+Given: σ = true stress and ϵ = true strain. For a material that undergoes strain hardening, necking instability occurs during tensile testing when 
+(A) 𝑑𝜎/𝑑𝜖 = 0 (B) 𝑑𝜎/𝑑𝜖 = ϵ (C) 𝑑𝜎/𝑑𝜖 = σ (D) 𝑑𝜎/𝑑𝜖 = ∞

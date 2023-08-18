@@ -1,0 +1,21 @@
+To answer this question, let's first discuss the purpose of inclusion modification in ladle metallurgy of steelmaking and then evaluate each of the given options. 
+
+In ladle metallurgy of steelmaking, the main purpose of inclusion modification is to control the chemical composition and cleanliness of the steel. The inclusions present in the steel after the primary steelmaking process can have negative impacts on the mechanical properties, surface quality, and overall performance of the final steel product. Thus, it is necessary to modify these inclusions while the molten steel is still in the ladle.
+
+Now, let's evaluate each option:
+
+(A) Aluminum wire injection:
+Aluminum wire injection is carried out to deoxidize the molten steel and control its final oxygen content. During this process, aluminum reacts with oxygen and forms aluminum oxide (Al2O3) inclusions. Although aluminum wire injection is crucial for deoxidation, it does not serve the primary purpose of inclusion modification in ladle metallurgy.
+
+(B) Calcium wire injection:
+Calcium wire injection is performed primarily for inclusion modification in ladle metallurgy. Calcium reacts with inclusions to form low-melting-point, liquid calcium sulfide (CaS) and low-density calcium aluminate (CaO-Al2O3) inclusions. These modifications improve the inclusions' ability to float and be removed during further refining steps. Moreover, it also helps control the shape, size, and distribution of inclusions, improving steel properties.
+
+(C) Oxygen top blowing:
+Oxygen top blowing is a method used in primary steelmaking to decarburize the molten steel by blowing oxygen onto the surface of the liquid steel. The primary purpose of this process is not to modify inclusions, but rather to reduce the carbon content of the steel.
+
+(D) Oxygen bottom blowing:
+Oxygen bottom blowing is another primary steelmaking process where oxygen is injected from the bottom of the furnace through a porous plug. It helps in efficient mixing of the molten steel, consumption of carbon, and removal of impurities. The primary purpose of this process is also not inclusion modification.
+
+Based on the analysis, the correct answer is:
+
+[B] Calcium wire injection

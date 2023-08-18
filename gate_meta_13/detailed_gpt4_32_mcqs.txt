@@ -1,0 +1,22 @@
+To match the metals in Group I with their corresponding ores in Group II, we can look up the common ores associated with each metal.
+
+(P) Ni - Nickel
+The common ore for nickel is (3) Pentlandite. Pentlandite is a nickel sulfide mineral made up of iron and nickel. 
+
+(Q) Th - Thorium
+The common ore for thorium is (1) Monazite. Monazite is a rare earth phosphate containing a variety of rare earth elements, including thorium.
+
+(R) Pb - Lead
+The common ore for lead is (4) Galena. Galena is a lead sulfide mineral and is the most important ore for extracting lead.
+
+(S) Sn - Tin
+The common ore for tin is (2) Cassiterite. Cassiterite is a tin oxide mineral and the world's primary ore for tin extraction.
+
+So, the correct matchings are:
+
+- P (Ni) corresponds to 3 (Pentlandite)
+- Q (Th) corresponds to 1 (Monazite)
+- R (Pb) corresponds to 4 (Galena)
+- S (Sn) corresponds to 2 (Cassiterite)
+
+Therefore, the correct answer is: (C) P-3, Q-1, R-4, S-2

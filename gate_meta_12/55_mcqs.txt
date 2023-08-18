@@ -1,0 +1,2 @@
+The strain hardening behaviour of an annealed rod during cold rolling is given by σ = 700 $(ε)^0.2$ MPa, where σ is the flow stress at strain ε. If a wire of 5 mm diameter is drawn from the above cold rolled rod of 10 mm diameter, the drawing stress, neglecting the effect of friction and redundant work, is approximately
+(A) 650 MPa (B) 550 MPa (C) 450 MPa (D) 400 MPa

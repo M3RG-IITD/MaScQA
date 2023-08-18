@@ -1,0 +1,19 @@
+For a BCC metal, the surface energy per unit area for the (100) and (110) planes can be represented as:
+
+γ100 = A * (α * a²) and γ110 = A * (β * a²)
+
+Where γ is the surface energy per unit area, A is a proportionality constant, α and β are the number of atoms per unit area on the respective planes, and a is the lattice constant.
+
+For a BCC lattice, the number of atoms per unit area on the (100) and (110) planes can be calculated as:
+
+α = 1 and β = √2 / 2
+
+So the ratio of the surface energy per unit area of the (100) plane to that of the (110) plane is:
+
+(γ100 / γ110) = (A * α * a²) / (A * β * a²)
+
+Cancelling A and a² from both numerator and denominator, we get:
+
+(γ100 / γ110) = (α) / (β) = 1 / (√2 / 2) = √2
+
+Therefore, the ratio of the surface energy per unit area of the (100) plane to that of the (110) plane is [√2].

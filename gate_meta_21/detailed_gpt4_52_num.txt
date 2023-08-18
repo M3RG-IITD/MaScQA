@@ -1,0 +1,48 @@
+The first step is to convert the given quantities into their respective SI units.
+
+Exchange current density, $i_0 = 10^{-9}$ A $cm^{-2}$ (given)
+
+At 25°C (or 298K temperature), $i = 4$ µA $cm^{-2}$ (given)
+
+Let's convert the current density from µA $cm^{-2}$ to A $m^{-2}$:
+
+$i_0 = 10^{-9}$ A $cm^{-2}$ = $10^{-9} \times (10^4)$ A $m^{-2}$ = $10^{-5}$ A $m^{-2}$
+
+$i = 4 \times 10^{-6}$ A $cm^{-2}$ = $4 \times 10^{-6} \times (10^4)$ A $m^{-2}$= $4 \times 10^{-2}$ A $m^{-2}$
+
+Now, we can use the given information about the Tafel slope ($β_c = 0.1$ V per decade of current density) to solve for the corrosion potential.
+
+The Tafel equation for the anodic (corrosion) potential $E_c$ is given by:
+
+$E_c = E_{c0} + \frac{β_c}{nF} * \log_{10}(\frac{i}{i_0})$
+
+Where:
+$E_c$ is the corrosion potential we need to find,
+$E_{c0}$ is the standard redox potential (with reference to standard hydrogen electrode) for iron in the given environment,
+$β_c$ is the Tafel slope ($0.1$ V per decade of current density),
+$n$ is the number of electrons transferred,
+$F$ is the Faraday constant ($96500$ C $mol^{-1}$),
+$i$ is the corrosion current density ($4 \times 10^{-2}$ A $m^{-2}$),
+$i_0$ is the exchange current density ($10^{-5}$ A $m^{-2}$).
+
+To find the standard redox potential for iron, we need to know the half-reaction for the corrosion process. There are various possible reactions for the corrosion of iron in an acid solution, but a common one is: 
+
+$Fe^{2+} + 2e^{-} \rightarrow Fe$
+
+For this reaction, the standard redox potential at 298K and pH 3 is approximately $-0.45$ V.
+
+Now, we can plug in the known values and solve for $E_c$:
+
+$n = 2$ (from the half-reaction)
+
+$E_c = -0.45 + \frac{0.1}{2 \times 96500} * \log_{10}(\frac{4 \times 10^{-2}}{10^{-5}})$
+
+$E_c = -0.45 + \frac{0.1}{193000} * \log_{10}(4 \times 10^3)$
+
+$E_c \approx -0.45 + 0.025$
+
+$E_c \approx -0.424$ V (rounded off to 2 decimal places)
+
+Now we have found the corrosion potential for iron corroding in a dearated acid of pH 3 at 25°C with a corrosion current density of 4 µA $cm^{-2}$.
+
+The corrosion potential (V) is $[-0.424]$.

@@ -1,0 +1,17 @@
+The elastic modulus of a composite along the fiber direction can be calculated using the rule of mixtures:
+
+$$E_c = V_f E_f + V_m E_m$$
+
+where $E_c$ is the elastic modulus of the composite, $V_f$ is the volume fraction of the fiber, $V_m$ is the volume fraction of the matrix, $E_f$ is the elastic modulus of the fiber, and $E_m$ is the elastic modulus of the matrix.
+
+First, we need to calculate the volume fraction of the fiber:
+
+$$V_f = \frac{60}{100} = 0.6$$
+
+Similarly, we can calculate the volume fraction of the matrix:
+
+$$V_m = 1 - V_f = 1 - 0.6 = 0.4$$
+
+Now we can plug in the values for $V_f$, $V_m$, $E_f$, and $E_m$:
+
+$$E_c = 0.6(72.5\text{ GPa}) + 0.4(2.4\text{ GPa}) = 43.5\text{ GPa} + 0.96\text{ GPa} = \boxed{44.46\text{ GPa}}$$

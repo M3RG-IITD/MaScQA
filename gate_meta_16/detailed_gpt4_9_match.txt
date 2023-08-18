@@ -1,0 +1,14 @@
+Let's analyze the entities in Column I and match them with the correct processes in Column II.
+
+P: Xanthate salts - These are chemical compounds used as collectors in the flotation process for extracting minerals from their ores. They help to separate valuable minerals from the gangue by forming a froth, which can be easily removed. Therefore, P matches with 2 (Flotation).
+
+Q: Thiobacillus Ferrooxidans - This is a type of bacteria that plays an essential role in bacterial leaching. It is capable of oxidizing iron and sulfur, which are commonly found in metal sulfide ores, and this process helps to release valuable minerals from the ores. So, Q corresponds to 4 (Bacterial Leaching).
+
+R: Hydrocyclone - A hydrocyclone is a device used for the classification of solid particles in a liquid suspension based on their size, shape, and density. It separates the particles by applying centrifugal force, and lighter particles move towards the center and are removed, while heavier particles are moved to the outer walls and discharge. Thus, R matches with 3 (Classification).
+
+S: Anode effect - This term is related to the electrolytic reduction of alumina (Al2O3) to aluminum (Al) in the Hall-Héroult process. Anode effect occurs when the concentration of alumina in the electrolyte falls below a critical level. At this point, an electrically insulating layer of CO2 and PFCs (perfluorocarbons) forms at the surface, leading to a sudden increase in voltage and a significant drop in current. This phenomenon has an impact on the efficiency of the extraction process. So, S corresponds to 1 (Extraction of Al).
+
+Thus, the correct matching is as follows:
+P-2, Q-4, R-3, S-1
+
+The answer is (B) P-2, Q-4, R-3, S-1.

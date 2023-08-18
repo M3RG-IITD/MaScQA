@@ -1,0 +1,21 @@
+We are given the electrical conductivity σ = $10^(-6) Ω^(-1).m^(-1)$, electron mobility µe = 0.75 $m^2V^(-1)s^(-1)$, and hole mobility µh = 0.06 $m^2V^(-1)s^(-1)$. We need to find the intrinsic carrier concentration n.
+
+The formula for electrical conductivity in an intrinsic semiconductor is: σ = q * n * (µe + µh)
+
+Where q is the charge of an electron, which is approximately 1.6 * $10^(-19)C$
+
+We can rearrange the formula to find the intrinsic carrier concentration n:
+
+n = σ / (q * (µe + µh))
+
+Now we can plug in the given values:
+
+n = (10^(-6) Ω^(-1).m^(-1)) / (1.6 * $10^(-19)C$ * (0.75 $m^2V^(-1)s^(-1)$ + 0.06 $m^2V^(-1)s^(-1)$))
+
+n = (10^(-6)) / (1.6 * $10^(-19)$ * 0.81)
+
+n = 10^(-6) / (1.296 * $10^(-19)$)
+
+n ≈ 7.7 * $10^{12}$ per $m^3$
+
+Therefore, the correct answer is (B) 7.7 * $10^{12}$. Answer: \boxed{[7.7 * 10^{12}]}

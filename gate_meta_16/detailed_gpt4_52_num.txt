@@ -1,0 +1,39 @@
+We will solve this question using the principle of continuity which states that the product of the cross-sectional area and the velocity at any point along a streamline is constant. This can be expressed mathematically as:
+
+A1 * v1 = A2 * v2
+
+where A1 and A2 are cross-sectional areas, and v1 and v2 are velocities at the top and bottom of the sprue, respectively.
+
+We are given the height (h) of the sprue, the top cross-sectional area (A1), and the flow rate (Q) of the molten metal. We can calculate the velocity at the top of the spue using the flow rate (Q) and the cross-sectional area (A1):
+
+v1 = Q / A1
+
+Now, to maintain the melt flow rate constant throughout the sprue, we can use the principle of continuity to find the cross-sectional area at the base of the sprue (A2):
+
+A2 = (A1 * v1) / v2
+
+But, we don't have the velocity at the bottom (v2) yet. To find that, we can use Torricelli's theorem which relates the velocities and heights of a fluid undergoing continuous flow. Torricelli's theorem states that:
+
+v2^(2) = v1^(2) + 2 * g * h
+
+where g is the acceleration due to gravity (approximately 9.81 m/s^2), and h is the height of the sprue. We can rearrange this equation to solve for v2:
+
+v2 = sqrt(v1^(2) + 2 * g * h)
+
+Finally, we can plug in our values to find the cross-sectional area at the base of the sprue (A2):
+
+1. Calculate the velocity at the top of the sprue (v1):
+
+v1 = 4 m^3/s / 2.2 m^2 = 1.8182 m/s
+
+2. Calculate the velocity at the bottom of the sprue (v2):
+
+v2 = sqrt((1.8182 m/s)^(2) + 2 * 9.81 m/s^2 * 0.25 m) = 2.6239 m/s
+
+3. Calculate the cross-sectional area at the base of the sprue (A2):
+
+A2 = (2.2 m^2 * 1.8182 m/s) / 2.6239 m/s = 1.5373 m^2
+
+So, the maximum cross-sectional area at the base of the sprue is approximately 1.5373 m^2.
+
+Answer: [1.5373]

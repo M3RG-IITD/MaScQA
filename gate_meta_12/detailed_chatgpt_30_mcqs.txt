@@ -1,0 +1,29 @@
+The problem can be modeled using the one-dimensional diffusion equation:
+
+$$\frac{\partial c_B}{\partial t} = D\frac{\partial^2 c_B}{\partial x^2}$$
+
+with initial and boundary conditions:
+
+$$c_B(x,0) = \frac{m}{\pi R^2}e^{-x^2/R^2}$$
+
+$$c_B(0,t) = c_B(L,t)$$
+
+where $R$ is the radius of the rods and $L$ is their length. The initial condition assumes that the plated layer is uniformly distributed on the end faces of the rods.
+
+Taking the Laplace transform of both sides of the diffusion equation with respect to time, we get:
+
+$$sC_B(x,s) - \frac{m}{\pi R^2}e^{-x^2/R^2} = D\frac{\partial^2 C_B(x,s)}{\partial x^2}$$
+
+Solving for $C_B(x,s)$, we get:
+
+$$C_B(x,s) = \frac{m}{\pi R^2 s}\frac{1}{\sqrt{1+4D/sR^2}}e^{-x^2/(1+4D/sR^2)R^2}$$
+
+Taking the inverse Laplace transform of $C_B(x,s)$ with respect to $s$ using the convolution theorem, we get:
+
+$$c_B(x,t) = \frac{m}{2\sqrt{\pi D t}}\frac{1}{\sqrt{1+4Dt/R^2}}e^{-x^2/(4Dt/R^2+1)}\text{erf}\left(\frac{x}{2\sqrt{Dt/R^2+1}}\right)$$
+
+where erf is the error function. Since the rods are identical, $c_B(0,t) = c_B(L,t)$, which simplifies the expression to:
+
+$$c_B(x,t) = \frac{m}{2\sqrt{\pi D t}}e^{-x^2/(4Dt/R^2+1)}\text{erf}\left(\frac{x}{2\sqrt{Dt/R^2+1}}\right)$$
+
+Therefore, the correct answer is (B) $c_B$ = (m/2$(π*D*t)^(0.5)$) * erf[-$x^(2)$/4*D*t].

@@ -1,0 +1,1 @@
+Given: The unit energy required to melt the metal is 6 J $mm^(-3)$. Heat transfer factor = 0.6, Melting factor = 0.5. A continous fillet weld is made using a 3000 W welding machine. At a travel speed of 6 mm $s^(-1)$, the cross-sectional area(in $mm^2$) of the weld is?(round off to nearest integer)

@@ -1,0 +1,22 @@
+The slip direction for [110] is [1̅ 10]. The FCC metals have {111} planes as slip planes. We need to find a slip system that has the slip direction parallel to [1̅ 10] and the slip plane as {111}. We can write the Miller indices for {111} as (1 1 1) and it is perpendicular to the slip direction.
+
+(A): (a/2)[-1 1 0](1 1 1)  
+
+The slip direction is [-1 1 0] and it's not parallel to [1̅ 10]. 
+
+(B): a/2 [0 1 1](1 1 -1)  
+
+The slip direction is [0 1 1] and it's not parallel to [1̅ 10]. 
+
+(C): a/2[0 1 1](1 -1 1)  
+
+The slip direction is [0 1 1] which is parallel to [1̅ 10]. The slip plane has the Miller indices of (1 -1 1) which is perpendicular to the slip direction and also corresponds to {111}. Therefore, this is a valid slip system. 
+
+(D): a/2[1 1 0](-1 1 -1) 
+
+The slip direction is [1 1 0] and it's not parallel to [1̅ 10].
+
+Therefore, the slip system that will be activated is (C): a/2[0 1 1](1 -1 1). 
+
+Answer: 
+- a/2[0 1 1](1 -1 1)

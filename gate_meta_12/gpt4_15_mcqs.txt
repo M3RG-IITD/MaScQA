@@ -1,0 +1,28 @@
+Using Bragg's law:
+
+nλ = 2dsinθ
+
+where n is the order of diffraction (let's assume n = 1), λ is the wavelength, d is the interplanar spacing, and θ is the angle of diffraction.
+
+For an fcc lattice, the {hkl} planes spacing is given by:
+
+d = a/sqrt(h^2 + k^2 + l^2)
+
+For {311} planes, h=3, k=1, l=1, therefore:
+
+d = a/sqrt(3^2 + 1^2+ 1^2)
+d = a/sqrt(11)
+
+Now using Bragg's law, we get:
+
+1 * 0.154 nm = 2 * (a/sqrt(11)) * sin(78/2)
+0.154 = 2 * (a/sqrt(11)) * sin(39°)
+
+Solving for the lattice parameter a:
+
+a = (0.154 * sqrt(11)) / (2 * sin(39°))
+a ≈ 0.403 nm
+
+The correct answer is approximately 0.4 nm. Therefore, the answer is:
+
+[B]

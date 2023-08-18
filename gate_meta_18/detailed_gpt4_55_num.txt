@@ -1,0 +1,47 @@
+To calculate the ideal plastic work involved in extruding a cylindrical billet, we first need to determine the volume of the billet before and after extrusion. The volume of a cylindrical solid is given by the formula: 
+
+Volume = π(Diameter/2)² * Length
+
+1. Calculate the initial volume of the billet:
+
+Initial Diameter = 20 mm
+Initial Radius = Initial Diameter / 2 = 20 mm / 2 = 10 mm
+Length = 100 mm
+
+Initial Volume = π(10 mm)² * 100 mm = 1000π mm³
+
+2. Calculate the final volume of the billet:
+
+Final Diameter = 16 mm
+Final Radius = Final Diameter / 2 = 16 mm / 2 = 8 mm
+Length = Final Length (unknown)
+
+Since the volume of the billet remains constant during extrusion, the final volume is equal to the initial volume. Therefore,
+
+Final Volume = 1000π mm³
+
+3. Calculate the final length of the billet:
+
+We know that the volume of the final billet is equal to π(Final Radius)² * Final Length. Using this equation, we can solve for the final length:
+
+1000π mm³ = π(8 mm)² * Final Length
+
+Divide both sides by π(8 mm)²:
+
+Final Length = 1000π mm³ / (π(8 mm)²) = 1000π mm³ / (64π mm²) = 15.625 mm
+
+4. Calculate the deformation ratio:
+
+Deformation ratio, r = Initial Diameter / Final Diameter = 20 mm / 16 mm = 1.25
+
+5. Calculate the plastic work involved:
+
+Plastic work is given by the formula: W = Flow Stress * changed volume * ln(r)
+
+Flow Stress = 40 MPa = 40 * 10^6 Pa (converting MPa to Pa)
+
+The changed volume can be calculated as the difference between initial and final volumes, which is zero in this case. So, no matter what deformation ratio we have, the plastic work involved will be zero:
+
+W = 40 * 10^6 Pa * 0 * ln(1.25) = 0 J
+
+Therefore, the ideal plastic work involved in extruding the cylindrical billet from an initial diameter of 20 mm to a final diameter of 16 mm is [0] J.

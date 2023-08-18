@@ -1,0 +1,2 @@
+Given the strain rate (𝜖̇), dislocation density (𝜌), dislocation velocity (𝑣), which of the following relationship(s) is(are) correct? Assume that Orowan equation for plastic flow due to the dislocation movement is obeyed.
+(A) 𝜖̇ ∝ $𝑣^2$ (B) 𝜖̇ ∝ 𝑣 (C) 𝜖̇ ∝ $𝜌^2$ (D) 𝜖̇ ∝ 𝜌
