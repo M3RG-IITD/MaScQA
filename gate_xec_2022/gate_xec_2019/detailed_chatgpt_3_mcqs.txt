@@ -1,5 +1,0 @@
-When a $Na^+$ ion is substituted by a $Ca^{2+}$ ion in NaCl lattice, the charge balance will not be maintained because the $Ca^{2+}$ ion has a 2+ charge, while the $Na^+$ ion has a 1+ charge. Therefore, an extra positive charge will be created. 
-
-To maintain the charge neutrality of the crystal, one of the anions (Cl‾) will leave its place and move to an interstitial site, creating a Cl‾ interstitial. 
-
-The correct answer is (B) the creation of a Cl‾ interstitial.

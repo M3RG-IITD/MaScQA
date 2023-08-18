@@ -1,2 +1,0 @@
-In carbon fiber reinforced resin composites, for a given fiber volume content, Young’s modulus depends on the orientation of the fiber with respect to the applied load. Which orientation of the fibers will give the maximum value of Young’s modulus?
-(A)transverse (B)longitudinal (C)random (D)both transverse and longitudinal

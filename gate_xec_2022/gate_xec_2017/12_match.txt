@@ -1,5 +1,0 @@
-Match the composites in column I with the most suitable application in Coloumn II:
-Coloumn I: [(P) Exfoliated silicates filled butyl rubber, (Q) Fiber reinforced aluminium alloy, (R)Silicon carbide whiskers reinforced alumina, (S) carbon particles reinforced plastic composites]
-Coloumn II: [(1) Automobile pistons, (2) Contact lenses, (3) Ski boards, (4) Tennis balls, (5) Cutting tool inserts for machining]
-
-Options: (A) P-4; Q-1; R-5; S-3 (B) P-2; Q-3; R-4; S-5 (C) P-3; Q-5; R-5; S-3 (D) P-2; Q-1; R-3; S-5

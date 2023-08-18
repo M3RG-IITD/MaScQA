@@ -1,1 +1,0 @@
-(Given: Planck’s constant, h = 6.6 * $10^(-34)$ J s; mass of electron = 9.1 * $10^(31)$ kg). The speed of an electron is measured to be 300 m $s^(-1)$ with an uncertainty of 0.01%. The fundamental accuracy with which the position of the electron can be determined simultaneously with the speed in the same experiment in mm? (give answer up to 2 decimal places)

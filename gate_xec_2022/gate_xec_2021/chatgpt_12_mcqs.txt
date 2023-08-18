@@ -1,7 +1,0 @@
-As the composite is heated, the layers will expand differently due to differences in thermal expansion coefficients. This will cause the composite to deform. 
-
-Based on the image, it appears that edge XY will bow outwards (option C), while edge YZ will bow inwards (option A).
-
-Correct answer: 
-- Edge XY: bows outwards (option C)
-- Edge YZ: bows inwards (option A)

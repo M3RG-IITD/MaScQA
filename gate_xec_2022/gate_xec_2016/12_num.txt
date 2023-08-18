@@ -1,1 +1,0 @@
-The yield strength of a ferritic steel increases from 120 MPa to 150 MPa when the grain size is decreased from 256 μm to 64 μm. When the grain size is further reduced to 16 μm, the expected yield strength(MPa) is ? 

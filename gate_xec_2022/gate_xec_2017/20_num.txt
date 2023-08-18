@@ -1,1 +1,0 @@
-Give: Charge of an electron: 1.6* $10^(-19)$C. Copper is an FCC metal with lattice paramenter of 3.62 Å.  Hall effect measurement shows electron mobility to be 3.2 * $10^(-3)m^(2)V^(-1)s^(-1)$. Electrical resistivity of copper is 1.7* $10^(-8)$ Ωm. The average number of free electrons per atom in copper is ?

@@ -1,1 +1,0 @@
-(Given: atomic weight of Ti = 47.9; lattice parameter of bcc Ti = 0.332 nm; density of hcp Ti = 4.51 g $cm^(−3)$ ; Avogadro’s number = 6.023 × $10^(23)$). During heating, Ti undergoes allotropic transformation from hcp to bcc at 882 °C. The percent volume change accompanying this transformation is (round off to 1 decimal place) 

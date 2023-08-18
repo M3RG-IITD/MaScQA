@@ -1,5 +1,0 @@
-Match the microscopes listed in Column I with their principle of operation listed in Column II:
-Coloumn I: [P. Scanning Electron Microscope (SEM), Q. Transmission Electron Microscope(TEM), R. Scanning Tunnelling Microscope (STM), S. Atomic Force Microscope (AFM)]
-Coloumn II: [1. van der Waals forces between atoms, 2. electrons to jump across a potential barrier, 3. diffraction of electrons, 4. detection of secondary electrons, 5. photo emission of electrons]
-
-Options: (A) P-2, Q-5, R-3, S-1 (B) P-3, Q-4, R-5, S-2 (C) P-4, Q-3, R-2, S-1 (D) P-4, Q-3, R-5, S-2

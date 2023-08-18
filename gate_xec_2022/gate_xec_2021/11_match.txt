@@ -1,5 +1,0 @@
-Match the heat treatment processes given in Column I with the most suitable outcomes in Column II.
-Column I: [(P) Quenching, (Q) Annealing, (R) Tempering, (S) Carburizing]
-Column II: [(1) hardens the steel, (2) softens the cold worked steel, (3) toughens the steel, (4) hardens the surface of steel]
-
-Options: (A) P-3; Q-2; R-1; S-4 (B) P-2; Q-4; R-3; S-1 (C) P-1; Q-2; R-3; S-4 (D) P-1; Q-3; R-4; S-2

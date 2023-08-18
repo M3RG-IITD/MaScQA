@@ -1,7 +1,0 @@
-The Pilling-Bedworth ratio is defined as the ratio of the atomic radius of the cation to the oxygen ion radius in an oxide compound. The higher the ratio, the more likely the oxide will form protective scales during oxidation at high temperatures. 
-
-Looking at the table, we can see that the Pilling-Bedworth ratio is highest for Ta and W, indicating that they are more likely to form protective oxide scales at high temperatures. 
-
-Therefore, the correct answer is:
-
-- (C) Ta

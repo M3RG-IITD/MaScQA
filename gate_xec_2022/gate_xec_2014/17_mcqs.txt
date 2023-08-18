@@ -1,2 +1,0 @@
-The energy in eV and the wavelength in μm, respectively, of the photon emitted when an electron in a hydrogen atom falls from n = 4 to n = 2 state is
-(A) 3.0, 0.413 (B) 2.55, 0.365 (C) 2.75, 0.451 (D) 2.55, 0.487

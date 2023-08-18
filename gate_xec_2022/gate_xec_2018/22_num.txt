@@ -1,1 +1,0 @@
-Given: Activation energy Q = 148 kJ $mol^(-1)$, Gas constant, R = 8.314 J $mol^(-1)$ $K^(-1)$. Mild steel is carburized at 1300 K for 1 hour to obtain a certain case depth. Keeping the time as 1 hour, the case depth can be doubled by increasing the temperature to what temperature(in K)? (round off to the nearest whole number)

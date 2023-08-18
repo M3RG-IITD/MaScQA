@@ -1,1 +1,0 @@
-A hot pressed ceramic composite material consists of 30 volume % SiC whiskers in an $Al_2O_3$ matrix. The measured bulk density of this composite is 3.65 g $cm^(-3)$. If the theoretical density of SiC is 3.22 g $cm^(-3)$ and that of $Al_2O_3$ is 3.95 g $cm^(-3)$, estimate the porosity (%) of the composite, assuming that the linear rule of mixtures is valid in this case.

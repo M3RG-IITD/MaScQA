@@ -1,8 +1,0 @@
-During deformation of a semi-crystalline polymer with spherulitic morphology, stressed in tension, the amorphous regions elongate in the stress direction, and the crystallites experience bending and stretching of chains. Therefore, the correct option is (C) Amorphous regions elongate in the stress direction, and crystallites experience bending and stretching of chains. 
-
-Detailed explanation:
-In semi-crystalline polymers, the chains can be arranged in both ordered (crystalline) and disordered (amorphous) regions. A spherulitic morphology refers to a semi-crystalline polymer structure that contains spherical crystalline regions with radial orientation, surrounded by amorphous regions. 
-
-During tensile deformation, the stress initially leads to the stretching of amorphous regions. The polymer chains in these regions align along the stress direction and elongate. At the same time, the crystalline regions undergo shear deformation where the chains slide over each other, leading to bending and stretching of chains. 
-
-In the later stages of deformation, as the stress is applied continually, the deformation gradually reaches the crystalline regions as the stresses begin to overcome the resistance offered by the crystals. At this point, the crystalline regions start to deform plastically, with the stress applied mainly along the crystallographic directions.

@@ -1,7 +1,0 @@
-To determine the rotational symmetry element that must be present in the system, we need to count the number of equivalent positions in the lattice that are related by a rotation operation.
-
-Starting from a reference point, we can see that there are six positions that can be reached by rotating the motif by 60 degrees. These positions are all equivalent and can be mapped onto each other by a rotation operation. 
-
-Therefore, the correct answer is:
-
-- (A) Six-fold rotation.

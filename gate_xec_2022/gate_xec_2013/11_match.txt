@@ -1,5 +1,0 @@
-Match the terminologies given in Column I with their relations listed in Column II:
-Column I: [P. domain wall, Q. Fick’s law, R. Matthiessen’s rule, S. Hall-Petch relation, T. Meissner effect]
-Column II: [1. superconductors, 2. mechanical properties, 3. ferromagnetic materials, 4. resistivity of impure metals, 5. diffusion]
-
-Options: (A) P-1, Q-3, R-5, S-2, T-4 (B) P-3, Q-5, R-2, S-4, T-1 (C) P-3, Q- 5, R-4, S-2, T-1 (D) P-3, Q-4, R-3, S-2, T-4

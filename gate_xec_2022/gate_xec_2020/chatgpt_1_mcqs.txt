@@ -1,1 +1,0 @@
-The ratio of the number of backscattered electrons escaping from α-phase to that from β-phase would be less than 1 as backscattering depends on atomic number and mass density and the α-phase has a lower atomic number than the β-phase. Therefore, the correct answer is (A) Less than 1.

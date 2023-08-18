@@ -1,2 +1,0 @@
-An electron makes a transition from the valence band to the conduction band in an indirect band gap semiconductor. Which one of the following is true?
-(A) Energy of the electron decreases. (B) A photon is emitted in the process. (C) A phonon is annihilated in the process. (D) A photon is created in the process.

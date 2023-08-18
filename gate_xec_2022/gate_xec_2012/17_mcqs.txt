@@ -1,2 +1,0 @@
-A plain 0.45 wt.% carbon steel is cooled slowly from 900°C to just below the eutectoid temperature (723°C) so that the following reaction occurs: γ (0.8 wt.% C) ↔ α (0.02 wt.% C) + $Fe_3C$ (6.67 wt.% C). During cooling from 900°C to 723°C, the proeutectoid α forms from γ. Find the volume % of proeutectoid α just below 723°C for the steel. 
-(A) 44.9% (B) 66.1% (C) 55.1% (D) 34.9%

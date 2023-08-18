@@ -1,8 +1,0 @@
-The correct match for the given materials and applications is:
-
-P. Lead Zirconate Titanate (PZT) - 3. actuator
-Q. Zinc Oxide (ZnO) - 4. varistor
-R. Silicon Carbide (SiC) - 1. cutting tool
-S. Zirconia ($ZrO_2$) - 2. thermal barrier coating
-
-So, the correct answer is (D) P-3, Q-4, R-1, S-2.

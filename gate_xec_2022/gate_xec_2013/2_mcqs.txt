@@ -1,2 +1,0 @@
-Which of the following is NOT correct?
-(A) Dislocations are thermodynamically unstable defects. (B) Dislocations can move inside a crystal under the action of an applied stress. (C) Screw dislocations can change the slip plane without climb (D) Burger’s vector of an edge dislocation is parallel to the dislocation line.

@@ -1,1 +1,0 @@
-Calculate the density of copper in kg $m^(-3)$ given that copper has an fcc lattice with a lattice parameter of 0.365 nm. Copper has an atomic weight of 63.54 amu

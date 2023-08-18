@@ -1,5 +1,0 @@
-A Frenkel defect is a defect in the crystal lattice structure of a solid material, characterized by a dislocation of an atom or ion from its original lattice position to an interstitial site, without creating a vacancy in the lattice. Based on this definition, the correct answer is:
-
-(B) One Zn vacancy and one Zn interstitial in ZnO. 
-
-So the answer is [B].

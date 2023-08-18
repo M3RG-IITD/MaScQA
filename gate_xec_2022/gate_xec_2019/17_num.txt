@@ -1,1 +1,0 @@
-Box-S has 2 white and 4 black balls and box-T has 5 white and 3 black balls. A ball is drawn at random, from the box-S and put in box-T. Subsequently, the probability of drawing a white ball from box-T is? (round off to 2 decimal places)

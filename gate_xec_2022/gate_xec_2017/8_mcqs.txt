@@ -1,2 +1,0 @@
-The number of close packed planes in the lattice of an FCC metal is
-(A) 2 (B) 4 (C) 6 (D) 12

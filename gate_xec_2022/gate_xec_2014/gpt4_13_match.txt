@@ -1,6 +1,0 @@
-The correct matches for the given reactions in Column I are:
-(P) L on cooling gives α + β - This is a eutectic reaction (2)
-(Q) L + β on cooling gives γ - This is a peritectic reaction (1)
-(R) α on cooling gives β - This is an eutectoid reaction (4)
-
-So, the correct answer is (B) P-2, Q-1, R-4. Answer: [(B)].

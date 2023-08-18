@@ -1,1 +1,0 @@
-When 3 identical non-interacting spin ½ particles are put in an infinite potential well, the ground state energy of the system is 18 meV. If instead, seven particles are put inside the potential well, the new ground state energy in meV is?

@@ -1,1 +1,0 @@
-Isothermal weight gain per unit area (ΔW/A, where ΔW is the weight gain(in mg) and A is the area (in $cm^2$)) during oxidation of a metal at 600°C follows parabolic rate law, where ΔW/A = 1.0 mg.A$cm^(-2)$ after 100 min of oxidation. The ΔW/A (in mg.$cm^(-2)$) after 500 min at 600°C will be? (round-off to two decimal places). 

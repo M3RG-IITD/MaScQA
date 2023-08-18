@@ -1,2 +1,0 @@
-The electron concentration in an n-type semiconductor is 5 * $1018/m^3$. If the drift velocity of electrons is 100 m/s in an electric field of 500 V/m, calculate the conductivity of the semiconductor.
-(A) 0.16 * $10^(–1)$ S/m (B) 1.60 * $10^(–1)$ S/m (C) 2.50 * $10^(–1)$ S/m (D) 30.05 * $10^(–1)$ S/m 

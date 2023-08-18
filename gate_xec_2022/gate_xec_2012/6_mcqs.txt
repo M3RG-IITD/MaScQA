@@ -1,2 +1,0 @@
-Of the following materials, which is the most suitable for an LED emitting at around 380 nm?
-(A) Direct bandgap material with a small bandgap (B) Indirect bandgap material with a large bandgap (C) Direct bandgap material with a large bandgap (D) Indirect bandgap material with a small bandgap

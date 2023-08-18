@@ -1,5 +1,0 @@
-Match the techniques listed in Column I with the characteristics of the materials measured in Column II.
-Coloumn I : [P. DSC, Q. XRD, R. STM, S. SEM]
-Coloumn II: [1. Density of states, 2. Glass transition temperature, 3. Cathodoluminescence, 4. Crystal structure, 5. Thermal expansion coefficient]
-
-Options: (A) P-2, Q-3, R-4, S-1 (B) P-5, Q-4, R-5, S-1 (C) P-2, Q-4, R-1, S-3 (D) P-3, Q-5, R-4, S-2

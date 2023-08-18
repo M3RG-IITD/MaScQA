@@ -1,9 +1,0 @@
-(P) Exfoliated silicates filled butyl rubber - This composite has good barrier properties, making it suitable for use in contact lenses.
-
-(Q) Fiber reinforced aluminum alloy - This composite is strong and lightweight, and is commonly used in aerospace applications, such as in automobile pistons.
-
-(R) Silicon carbide whiskers reinforced alumina - This composite is extremely strong and hard, making it suitable for use in cutting tool inserts for machining.
-
-(S) Carbon particles reinforced plastic composites - This composite is light and strong, making it suitable for use in ski boards.
-
-Matching the composites in column I with the most suitable application in Coloumn II, the answer is: (A) P-4; Q-1; R-5; S-3

@@ -1,2 +1,0 @@
-Energy Dispersive Spectroscopy (EDS) in a typical scanning electron microscope enables elemental identification by collecting and examining which of the following:
-(A) Secondary electrons from the sample (B) Back scattered electrons from the sample (C) Characteristic X-rays from the sample (D) Diffraction pattern from the sample

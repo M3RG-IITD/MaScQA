@@ -1,2 +1,0 @@
-The dielectric constant of a material at ultraviolet frequencies is mainly due to
-(A) dipolar polarizability (B) ionic polarizability (C) electronic polarizability (D) interfacial polarizability

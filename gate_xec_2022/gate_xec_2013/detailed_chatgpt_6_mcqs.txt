@@ -1,9 +1,0 @@
-
-
-When a metal is cold worked (deformed at a temperature lower than its recrystallization temperature), dislocations get introduced into the crystal lattice. These dislocations make it more difficult for the crystals to slide over one another, which increases the strength of the metal. However, this also reduces ductility - the ability of the metal to deform without breaking.
-
-If the metal is recrystallized (heated to a temperature where the dislocations can move and rearrange), new, strain-free crystals form, and the dislocations introduced by cold working are eliminated.
-
-So, upon recrystallization of a cold worked metal:
-
-Answer: (B) strength decreases but ductility increases.

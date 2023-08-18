@@ -1,2 +1,0 @@
-A plain 0.45 wt.% carbon steel is cooled slowly from 900°C to just below the eutectoid temperature (723°C) so that the following reaction occurs: γ (0.8 wt.% C) ↔ α (0.02 wt.% C) + $Fe_3C$ (6.67 wt.% C). Find the volume % of pearlite for the steel just below 723°C for 0.45 wt.% carbon steel.
-(A) 44.9% (B) 55.1% (C) 40.9% (D) 59.1%

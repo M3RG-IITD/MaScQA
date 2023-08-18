@@ -1,3 +1,0 @@
-The stress ratio for a completely reversed cyclic loading during a fatigue test is (C) -1. 
-
-This is because, in a completely reversed cyclic loading, the minimum stress is equal in magnitude but opposite in sign to the maximum stress. Therefore, the stress ratio (minimum stress/maximum stress) is equal to -1.

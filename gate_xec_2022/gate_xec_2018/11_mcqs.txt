@@ -1,2 +1,0 @@
-Consider the following anodic (oxidation) reaction in an acidic solution: 𝑀𝑔 ⟶ $𝑀𝑔^(+2)$ + $2𝑒^(-)$. If 48250 Coulomb charge is produced during this anodic reaction then the amount of Mg (in g) dissolved into the solution is (Given: Faraday Constant = 96500 C/mole of electrons, Atomic weight of Mg = 24)
-(A) 6 (B) 12 (C) 24 (D) 48

@@ -1,5 +1,0 @@
-Match the characterization techniques in Column I with the options in Column II:
-Column I : [P.Scanning tunneling microscopy, Q. Scanning electron microscopy, R. Transmission electron microscopy, S. Atomic force microscopy]
-Column II : [1. No vacuum required, 2. Backscattered electrons, 3. Photoelectrons, 4. Atomically sharp tip, 5. Sub-Angstrom resolution]
-
-Options: (A) P-4, Q-2, R-5, S-1 (B) P-1, Q-3, R-4, S-5 (C) P-2, Q-4, R-1, S-5 (D) P-5, Q-1, R-2, S-4

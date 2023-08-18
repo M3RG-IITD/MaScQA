@@ -1,9 +1,0 @@
-
-
-The correct answer is (C) P-4, Q-5, R-2, S-1. 
-
-Explanation: 
-- Toughness is the ability to absorb energy up to the point of failure. It is represented by the area under the stress-strain curve, so S corresponds to option 1.
-- Resilience is the ability to absorb energy and recover to the original state. It is represented by the area under the elastic part of the stress-strain curve, so Q corresponds to option 5.
-- Creep is the time dependent permanent deformation under constant load, so R corresponds to option 2.
-- Hardness is the resistance to plastic deformation, so P corresponds to option 4.

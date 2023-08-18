@@ -1,5 +1,0 @@
-Match the following processes and the products obtained:
-Coloumn I : [P: Mechanical attrition, Q: Physical vapour deposition, R: Injection moulding, S: Sintering]
-COloumn II : [1: Thin films, 2: Plastics, 3: Nanoparticles, 4: Rails, 5: Carbide tools]
-
-Options: (A) P-1, Q-2, R-3, S-5 (B) P-3, Q-1, R-2, S-5 (C) P-4, Q-1, R-3, S-2 (D) P-3, Q-4, R-1, S-2
