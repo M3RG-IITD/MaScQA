@@ -1,0 +1,10 @@
+Both creep resistance and tensile strength of a metal can be enhanced by the addition of dispersoids.
+
+Explanation:
+Creep resistance refers to a material's ability to resist deformation over time under a constant load or stress. Tensile strength refers to a material's ability to resist breaking under tension.
+
+Dispersoids are insoluble particles that are added to metals to improve their strength and creep resistance. These particles create barriers to dislocation movement, hindering plastic deformation of the metal. This leads to enhanced tensile strength and creep resistance.
+
+Increasing the grain size of a metal can lead to decreased strength and increased susceptibility to creep. Decreasing the grain size can improve strength but may not have much effect on creep resistance. Annealing can improve the ductility and toughness of a metal but may not directly enhance tensile strength and creep resistance. 
+
+Therefore, the correct option is (C) addition of dispersoids.

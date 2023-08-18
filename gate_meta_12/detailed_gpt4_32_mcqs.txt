@@ -1,0 +1,22 @@
+Let's analyze each statement one by one:
+
+P. Hydrogen electrode is a standard used to measure redox potentials
+- This statement is true. The standard hydrogen electrode (SHE) is a reference electrode which serves as an absolute scale for measuring redox (oxidation and reduction) potentials of various reactions. It is used to create a baseline for comparing and measuring the potentials of other half-cells.
+
+Q. Activation polarization refers to electrochemical processes controlled by reaction sequence at metal-solution interface
+- This statement is true as well. Activation polarization is the overpotential (potential deviation from equilibrium) that occurs during an electrode reaction, and it depends on the kinetics of the charge-transfer reaction at the metal-solution interface. This is an important factor affecting electrochemical reactions, including those involved in corrosion.
+
+R. Potential-pH diagrams can be used to predict corrosion rates of metals
+- This statement is true. Potential-pH (or Pourbaix) diagrams represent the stable species of a metal in different conditions of potential and pH in an aqueous environment. These diagrams can be used to predict the possibility of corrosion, passivation, or immunity for a metal under specific conditions. However, while potential-pH diagrams can provide information about the thermodynamic stability of a metal, they do not directly indicate corrosion rates.
+
+S. Cathodic protection can use sacrificial anodes such as magnesium
+- This statement is also true. Cathodic protection is a technique used to prevent corrosion of a metal surface by making it a cathode in an electrochemical cell. It can be achieved through the use of sacrificial anodes, such as magnesium, which are more easily oxidized (corroded) than the metal surface being protected, thus reducing or preventing corrosion of the target metal.
+
+Considering the above analysis, we can conclude that all the statements P, Q, R, and S are true. However, since we have only four answer options, let's see which option corresponds to our conclusion:
+
+(A) P, Q and R
+(B) Q, R and S
+(C) P, Q and S
+(D) P, R and S
+
+The correct answer is not given in the options, as all the statements are true. The correct combination should be (P, Q, R, and S).

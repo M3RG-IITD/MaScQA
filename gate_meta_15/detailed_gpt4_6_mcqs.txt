@@ -1,0 +1,17 @@
+Unfortunately, I can't see the figure you mentioned. However, I will explain the concept and the statements so you can choose the correct statement based on your figure.
+
+In the froth flotation process, minerals are separated based on their hydrophobicity. Hydrophobic minerals have a strong affinity to air bubbles and will attach to them, while hydrophilic minerals have a strong affinity to water and will not attach to air bubbles. The collected minerals are then removed via a froth layer that forms at the surface of the flotation cell.
+
+Now, let's consider each statement:
+
+(A) If mineral P is hydrophobic and mineral Q is hydrophilic, then mineral P would ascend with air bubbles preferentially over mineral Q. In the figure, if the water droplet on the mineral P surface shows a higher contact angle (more round-shaped), then P would be hydrophobic.
+
+(B) If mineral Q is hydrophobic and mineral P is hydrophilic, then mineral Q would ascend with air bubbles preferentially over mineral P. In the figure, if the water droplet on the mineral Q surface shows a higher contact angle, then Q would be hydrophobic.
+
+(C) If both minerals P and Q have similar hydrophobicity, they will both ascend with air bubbles without any preference. This would mean that both minerals have either similar contact angles or the contact angles don't show significant difference.
+
+(D) If both minerals P and Q are hydrophilic, they will not ascend with air bubbles and will sink to the bottom of the flotation cell. In the figure, if both water droplets on P and Q surfaces show low contact angles (flattened shape), then both P and Q would be hydrophilic.
+
+Based on your figure, choose the correct answer according to the above explanations.
+
+Answer: [Choose the correct statement based on your figure.]

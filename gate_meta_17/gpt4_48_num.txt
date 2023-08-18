@@ -1,0 +1,41 @@
+We are given the following information:
+
+- σ(maximum) = 200 MPa
+- σ(minimum) = 0
+- Initial crack length, a₀ = 1 mm = 0.001 m
+- da/dN = $10^(-12) (ΔK)^3$
+
+To find the length of the crack after one million cycles, we first need to find the stress intensity factor range, ΔK.
+
+ΔK = K(max) - K(min)
+
+Since σ(minimum) = 0, K(min) = 0. Therefore, we only need to find K(max).
+
+K(max) = Y * σ(max) * √(π * a)
+
+where Y is a geometric factor (assumed to be 1 for simplicity) and σ(max) is the maximum stress.
+
+K(max) = 1 * 200 * √(π * 0.001)
+K(max) ≈ 355.67 MPa.m^(1/2)
+
+Now, we can find the crack growth rate, da/dN.
+
+da/dN = $10^(-12) (ΔK)^3$
+da/dN = $10^(-12) (355.67)^3$
+da/dN ≈ 4.498 × 10^(-11)
+
+Since we want to find the length of the crack after one million cycles (N = 10^6):
+
+Δa = (da/dN) * N
+Δa = 4.498 × 10^(-11) * 10^6
+Δa ≈ 0.04498 m
+
+Now we add this growth to the initial crack length:
+
+a₁ = a₀ + Δa
+a₁ = 0.001 + 0.04498
+a₁ ≈ 0.04598 m
+
+The length of the crack after one million cycles will be approximately 0.046 m.
+
+Answer: [0.046]

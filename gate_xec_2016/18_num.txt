@@ -1,0 +1,1 @@
+Given the probability distribution function for a random variable x : Condition if  1 ≤ x ≤ 3 : f(x) = 0.25x, Condition if x is not between 1 and 3 : f(x) = 0. The probability that the random variable x takes a value between 1 and √5 is

@@ -1,0 +1,19 @@
+In a diamond cubic structure, each atom is tetrahedrally bonded to its four nearest neighbors. 
+
+To find the angle between two neighboring tetrahedral bonds in Si, we can consider a Si atom at the center of a tetrahedron with its four neighboring Si atoms at the corners. 
+
+We can draw a line connecting the central Si atom to one of its neighboring Si atoms, and then draw a perpendicular bisector of that line to represent the plane containing the two neighboring tetrahedral bonds. 
+
+Next, we can draw a line from the central Si atom to the midpoint of the line connecting the two neighboring Si atoms. This line represents the bond angle we're looking for. 
+
+Using basic trigonometry, we can find the bond angle by considering a right triangle formed by the central Si atom, the midpoint of the line between the neighboring Si atoms, and one of the neighboring Si atoms. The hypotenuse of the triangle is the distance between the central Si atom and one of its neighbors, which is equal to half the Si-Si bond length in the diamond cubic structure. 
+
+From this triangle, we can find that the bond angle is:
+
+tan⁻¹((½ Si-Si bond length) / (½ Si-Si bond length/√2))
+
+Plugging in the value for the Si-Si bond length (2.35 Å), we get:
+
+bond angle = tan⁻¹((2.35/2) / (2.35/√2)) = 109.5°
+
+Therefore, the answer is (B) 109.5°.

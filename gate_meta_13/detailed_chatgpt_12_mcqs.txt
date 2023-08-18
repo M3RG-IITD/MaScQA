@@ -1,0 +1,9 @@
+Isothermal compressibility (κ) gives the measure of the relative change in volume of a material when subjected to a pressure change while the temperature is constant. It is defined as:
+
+κ = -1/V * (∂V/∂p)$_T$
+
+The negative sign indicates that κ is inversely proportional to the pressure, meaning that as pressure increases, κ decreases, and vice versa. Rearranging the equation, we get:
+
+κ = -1/p * (∂V/∂p)$_T$
+
+Therefore, the correct option is (A) -1/p* (∂V/∂p)$_T$.

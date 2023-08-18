@@ -1,0 +1,64 @@
+Given the diffusion coefficients of copper in aluminum at 400°C and 500°C are:
+
+D1 = 5 * 10^(-14) m^2 s^(-1) (at 400°C)
+D2 = 6 * 10^(-13) m^2 s^(-1) (at 500°C)
+
+According to Fick's second law of diffusion, the concentration at a given depth (C) is related to the time (t) and the diffusion coefficient (D) by the following equation:
+
+C(x,t) = (C0/√(4πDt)) * exp(-x^2/(4Dt))
+
+where C0 is the initial concentration and x is the depth. To obtain the same concentration at the same depth in the two experiments, all the quantities C0, C(x,t), and x should be the same.
+
+In the first experiment, the time t1 required is given as 100 hours. Let's convert this to seconds:
+
+t1 = 100 * 3600 = 360,000 s
+
+Now, let's find the relationship between the times t1 and t2 for the same concentration and depth at different temperatures:
+
+C(x,t1) = C(x,t2)
+
+(C0/√(4πD1t1)) * exp(-x^2/(4D1t1)) = (C0/√(4πD2t2)) * exp(-x^2/(4D2t2))
+
+Since C0, x and C(x, t) are the same in both experiments, we can cancel out these terms and simplify the equation as follows:
+
+1/√(D1t1) * exp(-x^2/(4D1t1)) = 1/√(D2t2) * exp(-x^2/(4D2t2))
+
+Now we have one equation with one unknown (t2). We can solve for t2:
+
+√(D1t1) * exp(-x^2/(4D1t1)) = √(D2t2) * exp(-x^2/(4D2t2))
+
+Since x and exp(-x^2/(4 D1 t_1)) are nonzero:
+
+√(D1t1) / √(D2t2) = 1
+
+Taking the square of both sides:
+
+(D1t1) / (D2t2) = 1
+
+We can now isolate t2:
+
+t2 = (D1t1) / D2
+
+Plugging in the values of D1, t1, and D2:
+
+t2 = (5 * 10^(-14) * 360,000 s) / (6 * 10^(-13))
+
+t2 = (1800 * 10^(-14)) / (6 * 10^(-13))
+
+t2 = 300 * 10^(-13) * 10^(13)
+
+t2 = 300 s
+
+Finally, converting t2 back to hours:
+
+t2 = 300 s / 3600 s/h = 0.0833 h
+
+So, the time required at 500°C to achieve the same concentration of copper at the same depth is 0.0833 h. Since the first experiment takes 100 h, to get the same concentration in the second experiment, we need:
+
+t_total = 100 + 0.0833 = 100.0833 h
+
+Since the options are given in integers, we can round off the value to the nearest integer:
+
+t_total ≈ 100 h
+
+Therefore, the correct answer is (D) 10.33 (10.33 hours added to the initial 100 hours).

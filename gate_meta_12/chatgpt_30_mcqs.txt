@@ -1,0 +1,7 @@
+The situation described in the question is an example of one-dimensional diffusion with symmetry. The correct equation to describe the composition profile $c_B$ along the rod axis x after time t is:
+
+$c_B = \frac{m}{2\sqrt{\pi D t}} \exp \left(\frac{-x^2}{4Dt} \right)$
+
+where D is the diffusion coefficient of B in A.
+
+Therefore, the correct answer is (A) $c_B$ = (m/2$(π*D*t)^(0.5)$) * exp[-$x^(2)$/4*D*t].

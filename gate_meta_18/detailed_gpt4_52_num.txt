@@ -1,0 +1,41 @@
+We can find the wavelength of X-rays in nm using Bragg's Law, which states that:
+
+n * λ = 2 * d * sin(θ),
+
+where:
+n = order of reflection (in our case, n = 1 since it is the first peak),
+λ = wavelength of X-rays in nm,
+d = interplanar spacing of BCC lattice in nm,
+θ = angle of diffraction, which is half of the given angle (2θ) in our problem.
+
+We are given 2θ = 68.7°, so we can calculate θ as follows:
+
+θ = (1/2) * 2θ = (1/2) * 68.7° = 34.35°.
+
+Now, we need to find the interplanar spacing d for the BCC lattice. For a BCC lattice, the relationship between the lattice parameter a and interplanar spacing d is given by:
+
+d = a * sqrt(3) / sqrt(h^2 + k^2 + l^2),
+
+where:
+a = lattice parameter of iron (given as 0.287 nm),
+h, k, and l = Miller indices representing the crystal planes.
+
+For the first peak in a BCC lattice, the Miller indices are (1, 1, 0). Therefore, we have h = 1, k = 1, and l = 0. We can now substitute these values to calculate d:
+
+d = 0.287 * sqrt(3) / sqrt(1^2 + 1^2 + 0^2) = 0.287 * sqrt(3) / sqrt(2).
+
+Now, we can use Bragg's Law to find the wavelength λ:
+
+1 * λ = 2 * (0.287 * sqrt(3) / sqrt(2)) * sin(34.35°).
+
+Rearranging and solving for λ:
+
+λ = 2 * (0.287 * sqrt(3) / sqrt(2)) * sin(34.35°) = 0.115171 nm (rounded to six decimal places).
+
+Now, let's round off the wavelength to three decimal places:
+
+λ = 0.115 nm.
+
+So, the wavelength of X-rays in nm is:
+
+[0.115].

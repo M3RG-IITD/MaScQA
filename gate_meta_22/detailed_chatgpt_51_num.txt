@@ -1,0 +1,39 @@
+First, we need to calculate the initial mass of sulfur in the 100 metric tons of molten steel:
+
+100 metric tons = 100,000 kg
+
+Initial mass of sulfur = 0.015% of 100,000 kg = 15 kg
+
+Next, we need to calculate the final mass of sulfur in the steel after desulfurization:
+
+Final mass of sulfur = 0.0025% of 100,000 kg = 2.5 kg
+
+The amount of sulfur removed from the steel during desulfurization is:
+
+15 kg - 2.5 kg = 12.5 kg
+
+Now, we need to calculate the amount of sulfur that can be removed by 1 metric ton of synthetic slag. This information is given by the desulfurizing capacity of the slag, which is typically expressed as the weight percent of sulfur removed per unit weight of slag (usually 1 metric ton). In this problem, the desulfurizing capacity is not given, so we cannot perform this calculation. Instead, we will assume a typical desulfurizing capacity of 10%.
+
+This means that 1 metric ton of synthetic slag can remove 10% of its weight in sulfur:
+
+10% of 1000 kg = 100 kg
+
+Therefore, 1250 kg of synthetic slag can remove:
+
+100 kg/metric ton × 1250 metric tons = 125,000 kg
+
+of sulfur from the steel. Since the initial mass of sulfur in the steel was 15 kg and the final mass of sulfur after desulfurization was 2.5 kg, the amount of sulfur removed by the synthetic slag is:
+
+15 kg - 2.5 kg = 12.5 kg
+
+This means that the desulfurizing index is:
+
+Desulfurizing index = (mass of sulfur removed by synthetic slag / initial mass of sulfur in steel) × 100%
+Desulfurizing index = (12.5 kg / 15 kg) × 100%
+Desulfurizing index = 83.33%
+
+Rounded off to the nearest integer, the desulfurizing index is 83%.
+
+Therefore, the correct answer is:
+
+- 83

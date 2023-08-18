@@ -1,0 +1,59 @@
+We are given a solid sphere (0.5m radius) enclosed within a large hollow sphere (1m radius), and we are to find the view factor $F_{22}$, which is the fraction of radiation leaving the inner surface of the bigger sphere (surface 2) that is intercepted by the same surface (surface 2).
+
+We can solve this problem using the Enclosure Formula. The Enclosure Formula states that for any two enclosure surfaces i and j, their view factors satisfy:
+
+$A_i F_{ij} + A_j F_{ji} = A_i A_j$
+
+where $A_i$ and $A_j$ represent the areas of surfaces i and j.
+
+In this particular case, the areas of the outer surface of the small sphere (surface 1) and inner surface of the larger sphere (surface 2) are:
+
+$A_1 = 4\pi R_1^2 = 4\pi(0.5)^2 = 4\pi(0.25) = \pi$
+
+$A_2 = 4\pi R_2^2 = 4\pi(1)^2 = 4\pi$
+
+Now let's rewrite the enclosure relation for our surfaces:
+
+$\pi F_{12} + 4\pi F_{21} = \pi \cdot 4\pi$
+
+As the small sphere and large sphere enclose a space between them, the view factors for surface-1 and surface-2 should cover 100% of the radiation exchange, therefore:
+
+$F_{12} + F_{21} = 1$
+
+Substituting $F_{21} = 1 - F_{12}$ into the enclosure formula, we have:
+
+$\pi F_{12} + 4\pi (1 - F_{12}) = \pi \cdot 4\pi$
+
+Now let's solve for $F_{12}$:
+
+$\pi F_{12} + 4\pi - 4\pi F_{12} = \pi \cdot 4\pi$
+
+Combine terms:
+
+$3\pi F_{12} = 4\pi - \pi \cdot 4\pi$
+
+Simplify:
+
+$F_{12} = \frac{4 - 4\pi}{3} \approx 0.294$
+
+Now that we have $F_{12}$, we can find $F_{21}$ using $F_{12} + F_{21} = 1$:
+
+$F_{21} = 1 - F_{12} \approx 1 - 0.294 \approx 0.706$
+
+Finally, we can find $F_{22}$ using the Reciprocity Formula, which states that for any two surfaces i and j, their view factors satisfy:
+
+$A_i F_{ij} = A_j F_{ji}$
+
+In this case, we are looking for $F_{22}$, so we can use the fact that $A_1 F_{12} = A_2 F_{21}$, and rearrange to obtain:
+
+$F_{22} = 1 - \frac{A_1}{A_2} F_{12}$
+
+$F_{22} = 1 - \frac{\pi}{4\pi} \cdot 0.294$
+
+$F_{22} = 1 - \frac{0.294}{4} \approx 1 - 0.0735$
+
+$F_{22} \approx 0.9265$
+
+Therefore, the view factor $F_{22}$, rounded to two decimal places, is approximately 0.93.
+
+Hence, the correct answer inside a list is [0.93].

@@ -1,0 +1,27 @@
+The maximum possible reduction Δh can be determined by using the formula:
+
+Δh = μ * (h - Δh) * R
+
+where μ is the coefficient of friction, h is the original thickness of the plate, Δh is the reduction in thickness, and R is the roll radius.
+
+First, we need to find the roll radius R. The roll diameter is given as 200 mm, so the radius R is half of the diameter:
+
+R = 200 / 2 = 100 mm
+
+Now we can rearrange the formula for Δh:
+
+Δh = μ * (h - Δh) * R
+Δh / μR = h - Δh
+Δh / (0.1 * 100) = 120 - Δh
+Δh = 10 * (120 - Δh)
+
+This is a linear equation in Δh. Let's solve it:
+
+10*Δh + Δh = 1200
+11*Δh = 1200
+Δh = 1200 / 11
+Δh ≈ 109.1
+
+Therefore, the maximum possible reduction Δh in a single pass is approximately 109.1 mm.
+
+Answer: [109.1]

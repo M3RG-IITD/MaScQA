@@ -1,0 +1,6 @@
+Zn is commercially extracted from the mineral sphalerite. 
+
+Explanation: 
+Zinc is mainly extracted from its sulfide ore sphalerite, also known as zinc blende. The chemical formula of sphalerite is ZnS. The process of extracting zinc involves roasting of the zinc sulfide ore which generates zinc oxide, followed by reduction of the zinc oxide with the help of carbon monoxide or carbon. This process is known as the roast-leach-electrowinning (RLE) process.
+
+Therefore, the answer is (A) Sphalerite.

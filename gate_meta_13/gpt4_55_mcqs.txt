@@ -1,0 +1,26 @@
+To calculate the energy of an edge dislocation in a crystal lattice, we use the following formula:
+
+Energy per unit length (E) = (G * b^2) / 2π(1 - ν)
+
+where G is the shear modulus, b is the magnitude of the Burgers vector, and ν is the Poisson's ratio.
+
+For α-Fe, the shear modulus (G) is 70 GPa, and the atomic diameter is 0.25 nm. To find the Burgers vector (b), we should use the following relationship:
+
+b = atomic radius * √2
+
+The atomic radius is half the atomic diameter, so in this case, the atomic radius is 0.25 nm / 2 = 0.125 nm. Thus, the Burgers vector (b) is:
+
+b = 0.125 nm * √2 ≈ 0.177 nm
+
+Now, we need to find the Poisson's ratio (ν) for α-Fe. Poisson's ratio varies for different materials, but for metals, it is typically around 0.3. Therefore, we can assume ν = 0.3 for α-Fe.
+
+Now we can calculate the energy per unit length (E):
+
+E = (70 GPa * (0.177 nm)^2) / 2π(1 - 0.3)
+E = (70 * 10^9 Pa * (0.177 * 10^-9 m)^2) / 2π(0.7)
+E = (70 * 10^9 * 3.13 * 10^-18) / (1.396 * π)
+E = 2.177 * 10^(-9) J/m
+
+The correct answer is (C) 2.2 * 10^(-9) J/m.
+
+Answer: [2.2 * 10^(-9)]

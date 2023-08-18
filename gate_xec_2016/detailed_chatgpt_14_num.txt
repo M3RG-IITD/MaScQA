@@ -1,0 +1,55 @@
+The standard cell potential, $E^°cell$, can be calculated using the following formula:
+
+$$ E^°cell = E^°_cathode - E^°_anode $$
+
+Where, $E^°_cathode$ and $E^°_anode$ are the standard reduction potentials of the cathode and anode half cells, respectively.
+
+Thus, for the given cells, we have:
+
+$$E^°cell = E^°_{Cd^{2+}/Cd} - E^°_{Ni^{2+}/Ni} $$
+
+$$E^°cell = (-0.403) - (-0.250) $$
+
+$$E^°cell = -0.153 V$$
+
+According to the Nernst equation, the cell potential under non-standard conditions can be given by:
+
+$$ Ecell = E^°cell - \frac{RT}{nF}lnQ $$
+
+Where, R is the universal gas constant, T is the temperature in Kelvin, F is Faraday’s constant, n is the number of electrons transferred in the cell reaction, and Q is the reaction quotient.
+
+At equilibrium, the cell potential is zero, so we can write:
+
+$$ 0 = E^°cell - \frac{RT}{nF}lnQ $$
+
+Solving for Q gives:
+
+$$ Q = e^\frac{nF E^°cell}{RT} $$
+
+For the given cell, n = 2 because two electrons are transferred in the following cell reaction:
+
+$$ Cd^{2+} (aq) + Ni (s) \rightarrow Cd (s) + Ni^{2+} (aq)$$
+
+Putting the values in the above formula, we get:
+
+$$ Q = e^\frac{2(-96500)(-0.153)}{(8.31)(298)} $$
+
+$$ Q = 8.35 \times 10^{-4} $$
+
+The reaction quotient, Q, can also be expressed in terms of the concentrations of the species involved in the reaction. For the given cell, the reaction quotient can be written as:
+
+$$ Q = \frac{[Cd^{2+}]}{1} \frac{1}{[Ni^{2+}]} $$
+
+Substituting the value of Q obtained above, we get:
+
+$$ 8.35 \times 10^{-4} = \frac{[Cd^{2+}]}{1} \frac{1}{[Ni^{2+}]} $$
+
+$$ [Ni^{2+}] = \frac{1}{8.35 \times 10^{-4}} [Cd^{2+}] $$
+
+$$ [Ni^{2+}] = 1197 \mu M $$
+
+Therefore, the concentration of $Ni^{2+}$ in the solution is 1197 $\mu M$. 
+
+Answer: 
+
+- 1197 $\mu M$

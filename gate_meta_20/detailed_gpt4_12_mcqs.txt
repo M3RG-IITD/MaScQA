@@ -1,0 +1,17 @@
+First, let's clarify the terms gray surface and black body:
+
+1. A gray surface is an idealized surface with emissivity (ε) constant and less than 1 over all wavelengths. It absorbs and emits radiation following Kirchhoff's law: emissive power = ε * blackbody emissive power.
+
+2. A black body is an idealized surface that absorbs and emits radiation with 100% efficiency (ε = 1) at all wavelengths. It follows the Planck's Law of blackbody radiation.
+
+Now, let's examine the four given options:
+
+a) Two curves with different slopes: This set could represent emission from a gray surface and a black body if the emissive power (E) for each surface followed the appropriate emissivity constants. However, we need to examine other options before concluding.
+
+b) Two curves, one as a constant and the other as logarithmic: A gray surface can have a constant emissivity across all wavelengths, but a black body should never have a constant emissive power. So, this option is unlikely.
+
+c) Two curves that are identical: A gray surface with an emissivity of 1 will have the same emissive power as a black body, but this situation is unique and not applicable to all gray surfaces. So, this option is also unlikely.
+
+d) Two curves with the same slope and different intercepts: A gray surface with a constant emissivity will have proportionally lower emissive power than a black body at all wavelengths. The proportionality would result in the same slope for the two curves, with different intercepts since the gray surface has lower emissive power overall. This option is the most suitable as both a gray surface and a black body maintained at 1000K will have similar curves, just differing in intensity.
+
+So, the correct answer is (D).

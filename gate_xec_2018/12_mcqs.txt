@@ -1,0 +1,2 @@
+An intrinsic semiconductor has conduction electron concentration, n = $10^(12)$ $cm^(-3)$. The mobility of both electrons and holes are identical = 4 * $10^4$ $cm^2$ $V^(-1)$ $s^(-1)$. If a voltage of 100 V is applied on two parallel end faces of the cube (edge length 1 cm) through Ohmic contacts, the current through the cube would be (in mA) (Given: charge of electron = 1.6 * $10^(-19)$ C)
+(A) 640 (B) 1280 (C) 6400 (D) 12800

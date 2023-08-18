@@ -1,0 +1,1 @@
+During isothermal phase transformation (in solid-state), fraction transformed is measured at two different transformation times: Assuming Avrami kinetics [f = 1 – $exp(–kt^(n))$], the fraction transformed in 300 seconds is?

@@ -1,0 +1,13 @@
+The formula unit of $Fe_3O_4$ contains 3 Fe cations and 4 O anions. From the given information, we can determine the distribution of Fe cations on tetrahedral and octahedral sites as follows:
+
+- Tetrahedral sites: 1/8 of 3 = 3/8 Fe cations occupy tetrahedral sites, i.e., 3/8 x 3 = 9/8 Fe cations.
+- Octahedral sites: 1/2 of 3 = 3/2 Fe cations occupy octahedral sites, and remaining 1/2 of 3 = 3/2 Fe cations occupy octahedral sites along with 4 O anions. Therefore, total Fe cations on octahedral sites = 3/2 + 3/2 = 3. 
+
+From the question, we are given that the magnetic moments of Fe cations on octahedral sites are antiparallel with respect to those on tetrahedral sites. Since Fe has a magnetic moment of 2.2 $\mu_B$, the net magnetic moment per formula unit of $Fe_3O_4$ can be calculated as:
+
+Net magnetic moment = (9/8 x 2.2) - (3 x 2.2) = -2.2 $\mu_B$
+
+Therefore, the saturation magnetic moment of $Fe_3O_4$ per formula unit in terms of Bohr magnetons ($\mu_B$) is -2.2 $\mu_B$. 
+
+Answer: 
+-2.2 $\mu_B$

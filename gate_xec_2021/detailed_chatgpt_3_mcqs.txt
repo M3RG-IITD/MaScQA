@@ -1,0 +1,16 @@
+We can determine the most favoured slip system in face centered cubic (FCC) metals by considering the ease with which dislocations move in various crystallographic planes and directions. 
+
+In FCC metals, dislocations tend to move along close-packed planes (i.e. those with the highest atomic packing density). The most densely packed planes in FCC metals are the {111} planes. 
+
+Next, we consider the slip direction. The ideal slip direction is one that requires the least amount of energy to move a dislocation. For FCC metals, the <110> directions are the most energetically favourable slip directions. 
+
+Therefore, the slip system with the highest likelihood of being favoured in FCC metals is (111)[110]. 
+
+To verify the answer options given in the question, we can examine each one to see if it matches the (111)[110] slip system:
+
+(A) (111) [110]: This matches the slip system we determined to be most favourable for FCC metals. 
+(B) (110) [1 -1 1]: This is a valid slip system in FCC metals, but it does not correspond to the most favoured slip system. 
+(C) (1 1 -1) [112]: This is a valid slip system in FCC metals, but it does not correspond to the most favoured slip system. 
+(D) (111) [1 -1 0]: This is a valid slip system in FCC metals, but it does not correspond to the most favoured slip system. 
+
+Therefore, the correct answer is (A) (111) [110].

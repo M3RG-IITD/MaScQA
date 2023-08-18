@@ -1,0 +1,19 @@
+To determine the volume of the hexagonal close-packed (HCP) unit cell, we need to use the following formula:
+
+Volume = $\frac{\sqrt{3}}{2}a^2c$
+
+where a is the lattice constant a and c is the lattice constant c.
+
+Let's plug in the values of the lattice constants provided:
+
+Volume = $\frac{\sqrt{3}}{2}(0.30\,nm)^2(0.56\,nm)$
+
+Now let's compute the result:
+
+Volume ≈ $\frac{\sqrt{3}}{2}(0.09\,nm^2)(0.56\,nm)$
+Volume ≈ $(0.49039)(0.0504\,nm^3)$
+Volume ≈ $0.0247\,nm^3$
+
+So, the volume of the unit cell of this metal is approximately 0.0247 $nm^3$.
+
+Answer: [0.0247]

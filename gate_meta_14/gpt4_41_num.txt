@@ -1,0 +1,17 @@
+To determine the elastic strain recovered when the rod is completely unloaded, we can use the formula:
+
+Strain = Stress / Young's Modulus
+
+Given, Stress = 400 MPa = 400 * 10^6 Pa (converting MPa to Pa) and Young's modulus = 200 GPa = 200 * 10^9 Pa (converting GPa to Pa)
+
+Now, calculate Strain:
+
+Strain = (400 * 10^6 Pa) / (200 * 10^9 Pa)
+Strain = 2 * 10^-3
+
+To convert the strain to percentage, multiply by 100:
+
+Strain (%) = 2 * 10^-3 * 100
+Strain (%) = 0.2 %
+
+The elastic strain that is recovered when the rod is completely unloaded is 0.2%. So, the answer is [0.2].

@@ -1,0 +1,15 @@
+To determine the maximum number of phases present in a three-component system at equilibrium, we can use the Gibbs phase rule which states that:
+
+$$F = C - P + 2$$
+
+where F is the degrees of freedom, C is the number of components, and P is the number of phases.
+
+In this case, we have a three-component system, so C = 3. We are also told that the system is at constant pressure, which means that pressure is not a variable and so we can treat it as a constant. Therefore, F = 0 since we have no variables that we can vary at constant pressure.
+
+Using the Gibbs phase rule, we can rearrange the equation to solve for P:
+
+$$P = C + 2 - F = 3 + 2 - 0 = 5$$
+
+However, we know that the maximum number of phases cannot exceed the number of components, so the correct answer is (B) 2. Therefore, at equilibrium, the maximum number of phases in a three-component system at constant pressure is 2. 
+
+Answer: (B) 2.

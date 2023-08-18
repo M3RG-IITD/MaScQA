@@ -1,0 +1,19 @@
+We can use the Griffith's criterion formula for the theoretical fracture strength of a brittle material:
+
+Fracture strength = (2 * E * γ / π * a)^0.5
+
+Where E is Young's modulus, γ is the surface energy, and a is the internal crack length.
+
+First, convert the given values to the correct units:
+
+Internal crack length (a) = 8 µm = 8 * 10^-6 m
+Young's modulus (E) = 400 GPa = 400 * 10^9 Pa
+Surface energy (γ) = 3.14 J/m^2
+
+Now, plug in the values into the formula:
+
+Fracture strength = (2 * 400 * 10^9 * 3.14 / π * 8 * 10^-6)^0.5 = 412 × 10^6 Pa = 412 MPa
+
+So the correct answer is (B) 412.
+
+Answer: [412]

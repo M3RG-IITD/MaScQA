@@ -1,0 +1,26 @@
+To solve this question, we will use the Griffith's theory of fracture. According to this theory, the fracture stress of a material (σ_f) can be determined by the following equation:
+
+σ_f = √(2γE/πa)
+
+where γ is the surface energy per unit area, E is the Young's modulus, and a is the length of the crack. 
+
+For the given glass plate, we have:
+
+γ = 1 J/m^2
+E = 70 GPa = 70,000 MPa
+a_1 = 5 μm = 5 x 10^-6 m
+a_2 = 3 μm = 3 x 10^-6 m
+
+For the internal crack, we have:
+
+σ_1 = √(2γE/πa_1) = √(2 x 1 x 70,000 / π x 5 x 10^-6) = 25.1 MPa
+
+For the surface crack, we have:
+
+σ_2 = √(2γE/πa_2) = √(2 x 1 x 70,000 / π x 3 x 10^-6) = 34.7 MPa
+
+The fracture stress of the glass plate will be the lower of the two stresses, since a crack propagates at the point of maximum stress. Therefore, the fracture stress is:
+
+σ_f = min(σ_1, σ_2) = 25.1 MPa
+
+Therefore, the fracture stress of the glass plate is 25.1 MPa (option A).

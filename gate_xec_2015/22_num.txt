@@ -1,0 +1,1 @@
+What would be the maximum number of electron-hole pairs that can be generated using a silicon detector irradiated by x-ray of energy 1.54 keV. The band gap of silicon is 1.1 eV.

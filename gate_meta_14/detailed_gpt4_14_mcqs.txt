@@ -1,0 +1,13 @@
+NDT (Non-Destructive Testing) techniques are used to examine the integrity of materials, components, and structures without causing any damage to them. In this case, we want to find the technique that cannot be used to detect an internal crack in a steel shaft.
+
+A) Liquid penetrant inspection: This method involves applying a liquid (penetrant) to the surface of a component. The penetrant seeps into any cracks or defects on the surface, and after a specific dwell time, the excess penetrant is removed, and a developer is applied. Any penetrant in the cracks will be drawn out by the developer, making the defect visible. This method is effective for detecting surface cracks or defects but not internal cracks. 
+
+B) Radiography: This technique involves passing X-rays or gamma-rays through a component, creating an image of its internal structure. Any discontinuities, such as cracks or defects in the material, will cause the absorption, scattering, or reflection of the radiation; this results in different densities on the radiographic film or digital detector, revealing the location of any flaws. Radiography is effective for detecting both surface and internal defects.
+
+C) Ultrasonic testing: This method uses high-frequency sound waves to inspect the internal structure of a component. A transducer sends ultrasonic waves that travel through the material and reflect off any defects, such as cracks or voids, within it. The reflected waves are detected and interpreted by specialized equipment, allowing for the identification and sizing of any internal defects. Ultrasonic testing is an effective method for detecting both surface and internal flaws.
+
+D) X-ray tomography: This technique is a more advanced form of radiography which involves the 3D scanning of a component’s internal structure using x-rays. The technique can reveal hidden features by combining data from multiple x-ray projection images at different angles. Like radiography, X-ray tomography can identify and locate both surface and internal defects.
+
+Out of these NDT techniques, Liquid Penetrant Inspection (A) cannot detect an internal crack in a steel shaft, as it is only suitable for detecting defects on the surface of the material.
+
+Answer: [A]

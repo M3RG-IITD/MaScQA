@@ -1,0 +1,25 @@
+The molecular formula of polyethylene is (CH$_2$)$_n$. The degree of polymerization, n, is 30000.
+
+The molecular weight of polyethylene can be calculated as follows:
+
+Molecular weight = (molecular weight of one unit) x (number of units)
+
+The molecular weight of one unit of polyethylene can be calculated as follows:
+
+Molecular weight of one unit = (number of carbon atoms x atomic weight of carbon) + (number of hydrogen atoms x atomic weight of hydrogen)
+
+= (1 x 12) + (2 x 1)
+
+= 14 g/mol
+
+Since the degree of polymerization is 30000, the number of units is also 30000.
+
+Therefore, the molecular weight of polyethylene is:
+
+Molecular weight = 14 x 30000
+
+= 420000 g/mol
+
+Rounding off to the nearest integer, the average molecular weight of polyethylene is 420000 g/mol.
+
+Answer: [420000]

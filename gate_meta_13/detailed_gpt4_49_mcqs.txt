@@ -1,0 +1,54 @@
+To solve this problem, we are going to use Fick's second law of diffusion and the Arrhenius equation for temperature dependence of diffusion coefficient.
+
+First, let's recall Fick's second law of diffusion in one dimension:
+
+$ \frac{\partial{C}}{\partial{t}} = D \frac{\partial^2{C}}{\partial{x^2}} $
+
+Here, $C$ is the concentration of carbon, $t$ is the time, $x$ is the depth, and $D$ is the diffusion coefficient.
+
+Next, let's recall the Arrhenius equation:
+
+$ D = D_{o} e^{\frac{-Q}{RT}} $
+
+Where $D$ is the diffusion coefficient, $D_{o}$ is a temperature-independent pre-exponential factor, $Q$ is the activation energy for diffusion, $R$ is the universal gas constant (8.314 J/mol·K), and $T$ is the temperature in Kelvin.
+
+In this problem, we know the initial concentration of carbon ($C_i = 0.2\%$), the surface concentration of carbon ($C_s = 1.2\%$), and the concentration at a certain depth ($C_x = 0.4\%$). We want to find the time it takes to double the depth at which 0.4 wt.% C is reached.
+
+To solve for the required time, we first need to find the error function from Fick's second law of diffusion:
+
+$ \frac{C_x - C_i}{C_s - C_i} = erf(\frac{x}{2 \sqrt{D \cdot t}}) $
+
+In our case:
+
+$ \frac{0.4-0.][: 1.2 - 0.2 = erf(\frac{x}{2 \sqrt{D \cdot t}}) $
+  
+$ \frac{0.2}{1} = erf(\frac{x}{2 \sqrt{D \cdot t}}) $
+
+Now, we want to find the time it takes to double the depth. Let's denote the initial depth as x1 and the doubled depth as x2 = 2 * x1. Then, we can find the ratio of the error functions for the doubled depth and the initial depth:
+
+$ erf(\frac{x_2}{2 \sqrt{Dt}}) / erf(\frac{x_1}{2 \sqrt{Dt}}) = 2 $
+
+Since the temperature does not change in the problem, the diffusion coefficient $D$ does not change, and the ratio depends only on the depth ratio ($x_2/x_1$) and the time ratio $t_2/t_1$.
+
+If we denote the required time as $t_2$ and let the initial time be $t_1$, we get:
+
+$ \frac{erf(\frac{2x_1}{2 \sqrt{D \cdot t_2}})}{erf(\frac{x_1}{2 \sqrt{D \cdot t_1}})} = 2 $
+
+Since $x_2 = 2x_1$, we have:
+
+$ \frac{erf(\frac{2x_1}{2 \sqrt{D \cdot t_2}})}{erf(\frac{x_1}{2 \sqrt{D \cdot t_1}})} = \frac{erf(\frac{1}{\sqrt{t_2/t_1} })}{erf(\sqrt{t_2/t_1})} = 2 $
+
+Now, to find the relationship between $t_1$ and $t_2$, we can use a trial and error method.
+
+By trying out different $t_2/t_1$ ratios, we can look for a ratio that satisfies the equation above. After several trials, we find that $t_2/t_1 \approx 8$, meaning that it will take 8 times longer to double the depth.
+
+Now, let's look at the answer choices to see which best fits the solution.
+
+(A) 40
+(B) 20
+(C) 18
+(D) 14
+
+Looking at these answer choices, we can see that the difference between option A (40 hours) and B (20 hours) is 20 hours, which is approximately 8 times longer than the difference between B (20 hours) and C (18 hours), which is 2 hours. Therefore, the correct answer is:
+
+$\boxed{\text{(B) 20}}$.

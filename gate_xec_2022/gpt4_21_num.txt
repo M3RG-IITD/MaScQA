@@ -1,0 +1,27 @@
+To solve this problem, we will first find the fraction of the light coming out of the other side of the glass panel for both the minimum and maximum absorption coefficients using the Beer-Lambert law:
+
+Beer-Lambert law: I = I₀ * e^(-αx)
+
+where I is the intensity of the transmitted light, I₀ is the intensity of the incident light, α is the absorption coefficient, and x is the thickness of the glass.
+
+Let's first convert the glass thickness from 5 mm to cm:
+
+5 mm = 0.5 cm
+
+Now, we'll find the transmitted light fractions for the minimum and maximum absorption coefficients:
+
+Minimum absorption coefficient (α₁ = 0.3 cm⁻¹):
+I₁/I₀ = e^(-α₁x) = e^(-0.3 * 0.5) = e^(-0.15)
+
+Maximum absorption coefficient (α₂ = 1 cm⁻¹):
+I₂/I₀ = e^(-α₂x) = e^(-1 * 0.5) = e^(-0.5)
+
+Now we can find the ratio of the maximum to the minimum fraction of the light coming out of the other side of the glass panel:
+
+Ratio = (I₂/I₀) / (I₁/I₀) = (e^(-0.5)) / (e^(-0.15))
+
+Round this value to two decimal places:
+
+Ratio ≈ 0.79
+
+Therefore, the ratio of the maximum to the minimum fraction of the light coming out of the other side of the glass panel is approximately 0.79. Answer: [0.79].

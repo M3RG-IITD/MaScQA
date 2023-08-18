@@ -1,0 +1,5 @@
+Match the processes in Group I with the objectives in Group II:
+Group I : [P. Vacuum Arc Degassing (VAD), Q. LD, R. COREX, S. Blast Furnace]
+Group II : [1. Primary iron making, 2. Secondary steel making, 3. Direct smelting, 4. Primary steel making]
+
+Options: (A) P-3, Q-4, R-2, S-1 (B) P-4, Q-3, R-1, S-2 (C) P-3, Q-2, R-1, S-4 (D) P-2, Q-4, R-3, S-1

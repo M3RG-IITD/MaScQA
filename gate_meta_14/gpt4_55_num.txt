@@ -1,0 +1,35 @@
+To find the elastic modulus of the composite along the fibre direction, we can use the rule of mixtures. The rule of mixtures states that the elastic modulus of a composite material (E_c) is the sum of the elastic moduli of each component (E_f for the fibre, E_m for the matrix) multiplied by their respective volume fractions (V_f for the fibre, V_m for the matrix).
+
+E_c = E_f * V_f + E_m * V_m
+
+We are given the weight fractions of the glass fibre and epoxy. We need to convert these into volume fractions, which can be done using the densities of each component:
+
+V_f = (wt.% of fibres) * (density of the matrix) / ((density of the fibres) * (1 - wt.% of fibres) + (density of the matrix) * (wt.% of fibres))
+
+V_f = (0.6) * (1.14) / ((2.58) * (1 - 0.6) + (1.14) * (0.6))
+
+V_f = 0.684 / (1.032 + 0.684)
+
+V_f ≈ 0.558
+
+Now that we have the volume fraction of the fibres, we can find the volume fraction of the matrix (V_m):
+
+V_m = 1 - V_f
+
+V_m = 1 - 0.558
+
+V_m ≈ 0.442
+
+Now, using the rule of mixtures, we can find the elastic modulus of the composite:
+
+E_c = E_f * V_f + E_m * V_m
+
+E_c = (72.5 GPa) * (0.558) + (2.4 GPa) * (0.442)
+
+E_c ≈ 40.57 GPa + 1.058 GPa
+
+E_c ≈ 41.628 GPa
+
+So the elastic modulus of the composite along the fibre direction is approximately 41.628 GPa.
+
+[41.628]

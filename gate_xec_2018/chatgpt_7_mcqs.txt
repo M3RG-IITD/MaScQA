@@ -1,0 +1,39 @@
+
+
+Let us label the starting point as $0.$ Then after one jump, the atom is either at $1$ or $-1.$ After two jumps, there are three possibilities: the atom is at $2,$ $0,$ or $-2.$ After three jumps, there are five possibilities: the atom is at $3,$ $1,$ $-1,$ $-3,$ or $3.$ After four jumps, there are seven possibilities: the atom is at $4,$ $2,$ $0,$ $-2,$ $-4,$ $-6,$ or $6.$
+
+In order for the atom to return to the starting point after four jumps, it must be at $0$ after either two or four jumps. We consider the two cases separately:
+
+Case 1: The atom is at $0$ after two jumps.
+
+If the atom is at $0$ after two jumps, then it must have made one jump to the left and one jump to the right. The probability of this happening is $\binom{2}{1} \left( \frac{1}{2} \right)^2 = \frac{1}{2}.$ Then, the atom has to return to the starting point in the next two jumps, regardless of whether it went left or right first. The probability of this happening is again $\frac{1}{2}.$ Therefore, the probability that the atom is at $0$ after four jumps given that it is at $0$ after two jumps is $\frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}.$
+
+Case 2: The atom is not at $0$ after two jumps.
+
+If the atom is not at $0$ after two jumps, then it must have made two jumps in the same direction. The probability of this happening is $\binom{2}{2} \left( \frac{1}{2} \right)^2 = \frac{1}{4}.$ Then, the atom has to return to the starting point in the next two jumps, regardless of the order in which it made the two same-direction jumps. The probability of this happening is $\frac{1}{2}.$ Therefore, the probability that the atom is at $0$ after four jumps given that it is not at $0$ after two jumps is $\frac{1}{4} \cdot \frac{1}{2} = \frac{1}{8}.$
+
+Finally, the desired probability is the sum of the probabilities from Case 1 and Case 2, which is $\frac{1}{4}+\frac{1}{8}=\boxed{\textbf{(C) }0.375}.$
+
+[asy]
+unitsize(0.75 cm);
+
+path p;
+
+p = (-4,0);
+
+for (int i = 1; i <= 8; ++i) {
+  p = p--(2*(i-4),i/2)--(2*(i-4),-i/2);
+}
+
+draw(p,red);
+draw((-5,0)--(5,0));
+label("$0$",(0,-0.5),S);
+label("$1$",(2,-0.5),S);
+label("$-1$",(-2,-0.5),S);
+label("$2$",(4,-0.5),S);
+label("$-2$",(-4,-0.5),S);
+label("$3$",(6,-0.5));
+label("$-3$",(-6,-0.5));
+label("$4$",(8,-0.5));
+label("$-4$",(-8,-0.5));
+[/asy]

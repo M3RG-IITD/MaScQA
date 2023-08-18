@@ -1,0 +1,33 @@
+In a body-centered cubic (bcc) structure, an octahedral void is formed by the center atom and its six surrounding atoms. We can use geometry to find the radius of the interstitial atom that can fit inside the octahedral void without distorting the structure.
+
+Let the radius of the Fe atom be R (0.124 nm) and the radius of the interstitial atom be r. In an octahedral void, the body diagonal of the cube is equal to the sum of the radii of two Fe atoms and the diameter of the interstitial atom:
+
+Body diagonal = 2R + 2r
+
+In a cube, the body diagonal is related to the edge length (a) by:
+
+Body diagonal = a * sqrt(3)
+
+In bcc, the edge length (a) is related to the radius of the Fe atom (R) by:
+
+a = 4R/sqrt(3)
+
+Now, substituting this into the body diagonal formula:
+
+(4R/sqrt(3)) * sqrt(3) = 2R + 2r
+
+After canceling out the sqrt(3) terms, we get:
+
+4R = 2R + 2r
+
+Now, subtract 2R from both sides:
+
+2R = 2r
+
+Finally, we can solve for the radius of the interstitial atom (r):
+
+r = R
+
+Since the radius of the Fe atom is 0.124 nm, the radius of the interstitial atom that can fit inside the octahedral void without distorting the structure is also 0.124 nm. Therefore, the answer is:
+
+[0.124]

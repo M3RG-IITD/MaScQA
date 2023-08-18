@@ -1,0 +1,1 @@
+A metal plate is in a state of plane strain ($ε_(zz)$ = 0) with $σ_(xx)$ = $σ_(yy)$ != 0 and $τ_(xy)$ = $τ_(xz)$ = $τ_(yz)$ = 0. If the Poisson's ratio is 0.3, the ratio of $σ_(zz)/σ_(xx)$ is?(round off to 1 decimal place).

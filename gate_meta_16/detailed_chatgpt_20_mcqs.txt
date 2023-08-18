@@ -1,0 +1,15 @@
+Casting is a process of making a three-dimensional object by pouring the molten metal or another material into a mold and allowing it to solidify. The operation NOT associated with casting is:
+
+**Option D: Calendaring**
+
+Explanation:
+
+1. Gating: It is a casting process that involves creating a passage (gate) through which the molten metal is poured into the mold cavity.
+
+2. Fettling: It is the process of removing excess material (such as flash, burrs, etc.) and giving finishing touches to the casting.
+
+3. Stack Moulding: It is a casting process in which multiple molds are stacked one above the other, and the molten metal is poured into the topmost mold.
+
+4. Calendaring: It is a process of working metal or plastics by passing it through two or more rollers to give it a desired shape and thickness. It is not associated with the casting process.
+
+Therefore, the correct answer is option D: Calendaring.

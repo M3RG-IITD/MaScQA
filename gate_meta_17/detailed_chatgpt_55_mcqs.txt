@@ -1,0 +1,43 @@
+We can use the following equation to predict the average neck size based on the given data:
+
+$d = 2\gamma_{WT}/[(\Delta H_f^* / V)^{1/3} \rho_w]$
+
+where:
+$d$ = average neck size
+$\gamma_{WT}$ = interfacial energy between tungsten and tungsten
+$\Delta H_f^*$ = effective heat of fusion
+$V$ = molar volume
+$\rho_w$ = density of tungsten
+
+First, we need to calculate the effective heat of fusion, which is given by:
+
+$\Delta H_f^* = \Delta H_{f,W} - \Delta H_{f,Ni} - (T_m,W - T_m,Ni)\Delta S_{f,W}$
+
+where:
+$\Delta H_{f,W}$ = heat of fusion of tungsten
+$\Delta H_{f,Ni}$ = heat of fusion of nickel
+$T_m,W$ = melting point of tungsten
+$T_m,Ni$ = melting point of nickel
+$\Delta S_{f,W}$ = entropy of fusion of tungsten
+
+Substituting the given data, we get:
+
+$\Delta H_f^* = 735.8 - 17.48 - (3410 - 1453)\times(23.22/6.022\times10^{23}) = 719.21 J/mol$
+
+Next, we need to calculate the molar volume of tungsten, which is given by:
+
+$V = M/\rho_w$
+
+where:
+$M$ = molar mass of tungsten
+$\rho_w$ = density of tungsten
+
+Substituting the given data, we get:
+
+$V = 183.84/(19.3\times10^3) = 9.52\times10^{-6} m^3/mol$
+
+Finally, we can substitute all the values in the equation for average neck size, and solve for $d$:
+
+$d = 2\times0.52/[(719.21/9.52\times10^{-6})^{1/3}\times19.3\times10^3] = 14.9 µm$
+
+Therefore, the predicted average neck size of sintered tungsten grain is 15 µm (option B).

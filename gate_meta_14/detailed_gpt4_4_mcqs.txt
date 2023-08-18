@@ -1,0 +1,40 @@
+We will first determine the units of dislocation density and stress intensity factor separately and then match the result with the given options.
+
+1. Dislocation density:
+Dislocation density is defined as the total dislocation length per unit volume of the material. The total length of dislocations has units of meters (m) and the volume has units of cubic meters ($m^3$). So, the units for dislocation density will be:
+
+$\frac{m}{m^3}$
+
+By simplifying, we get:
+
+$m^{-2}$
+
+So, the units for dislocation density are $m^{-2}$.
+
+2. Stress intensity factor:
+The stress intensity factor (K) is used to describe the stress state near the tip of a crack in linear elastic fracture mechanics. It has the form:
+
+$K = \sigma \sqrt{\pi a}$
+
+where $\sigma$ is the applied stress with units of Pascals (Pa) or MegaPascals (MPa, since $1\,\text{Pa} = 10^{-6}\,\text{MPa} $), and $a$ is the crack length with units of meters (m). 
+
+Now, let's determine the units for the stress intensity factor:
+
+$[K] = [\sigma] [\sqrt{\pi a}]$
+
+Substituting the units for $\sigma$ and $a$, we get:
+
+$[K] = \text{MPa} \sqrt{m}$
+
+So, the units for the stress intensity factor are $\text{MPa.}m^{1/2}$.
+
+Now, we will match our results with the given options:
+
+Option (A) has $m^2$ for dislocation density, which is incorrect.
+Option (B) has $m^2$ for dislocation density, which is incorrect.
+Option (C) has $m^{-2}$ for dislocation density and MPa.$m^{1/2}$ for stress intensity factor, which is correct.
+Option (D) has $m^{-2}$ for dislocation density, which is correct, but MPa.m for stress intensity factor, which is incorrect.
+
+Therefore, the correct answer is:
+
+[C]

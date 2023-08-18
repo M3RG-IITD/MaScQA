@@ -1,0 +1,11 @@
+Let's analyze the properties and applications of each material in Group I:
+
+P. Iron-Silicon alloy: This alloy is widely used for making transformer cores due to their high magnetic permeability and low hysteresis loss. So, the best match for P in Group II is option 3 (Transformer core).
+
+Q. GaAs (gallium arsenide): GaAs is a compound semiconductor material that is used for producing optoelectronic devices, such as light-emitting diodes (LEDs). Hence, the best match for Q in Group II is option 4 (Light emitting diode).
+
+R. Nichrome: Nichrome is an alloy of nickel and chromium. It has high electrical resistance and is stable at high temperatures. It is commonly used as a heating element in various devices, such as electric heaters and toasters. Therefore, the best match for R in Group II is option 1 (Heating element).
+
+S. Quartz crystals: Quartz crystals generate mechanical vibrations of a precise frequency when subjected to an alternating electric field. They are widely used in ultrasonic generators and frequency control applications, such as quartz clocks and oscillators. The best match for S in Group II is option 2 (Ultrasonic generator).
+
+So, the correct option is (A) P-3, Q-4, R-1, S-2.

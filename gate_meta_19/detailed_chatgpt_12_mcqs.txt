@@ -1,0 +1,17 @@
+The Boudouard reaction is the gas-phase reaction between carbon and carbon dioxide at elevated temperatures, typically above 800°C. The reaction can be written in two different ways:
+
+(A) C(s) + (1/2)O2(g) → CO(g)
+
+or
+
+(C) C(s) + CO2(g) ⇌ 2CO(g)
+
+Option (A) shows the formation of carbon monoxide (CO) from carbon (C) and oxygen (O2) while option (C) shows the reaction of carbon (C) with carbon dioxide (CO2) to form carbon monoxide (CO).
+
+Option (B) shows the combustion of carbon with oxygen to form carbon dioxide, which is not the Boudouard reaction.
+
+Option (D) shows the combustion of carbon monoxide with oxygen to produce carbon dioxide, which is not the Boudouard reaction either.
+
+Therefore, the correct answer is:
+
+- A) C(s) + (1/2)O2(g) → CO(g)

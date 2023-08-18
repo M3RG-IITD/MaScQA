@@ -1,0 +1,35 @@
+Given,
+Initial diameter of the cylindrical specimen, D1 = 30 mm
+Final diameter of the cylindrical specimen after extrusion, D2 = 20 mm
+Flow behavior of the alloy is expressed by the equation, 
+
+𝜎 = 350 𝜖^(0.3) MPa
+
+where 𝜎 is the flow stress and 𝜖 is the true strain.
+To calculate the ideal plastic work per unit volume, we need to determine the true strain that occurs during cold extrusion.
+
+True strain, 𝜖 = ln(D1/D2) = ln(30/20) = 0.4055
+
+Now, we can calculate the flow stress using the given equation as 
+
+𝜎 = 350 𝜖^(0.3) = 350 (0.4055)^(0.3) = 170.5 MPa
+
+The plastic work done per unit volume during cold extrusion can be calculated as 
+
+Wp = ∫𝜎d𝜖
+
+Wp = ∫350 𝜖^(0.3) d𝜖
+
+Wp = [350/1.3] 𝜖^(1.3) + C
+
+where C is the constant of integration. We can determine the value of C using the initial condition that when 𝜖=0, 𝜎=0. Therefore, 
+
+C = 0
+
+Now, substituting the limits of 𝜖 from 0 to 0.4055, we get
+
+Wp = [350/1.3] (0.4055)^(1.3) = 41.87 MJ/m³ ≈ 42 MJ/m³
+
+Therefore, the ideal plastic work of deformation per unit volume is 42 MJ/m³ (rounded off to the nearest integer).
+
+Answer: [42]

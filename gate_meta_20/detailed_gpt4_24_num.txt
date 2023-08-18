@@ -1,0 +1,32 @@
+To solve this problem, we need to use the following formula to find the angle of bite (also known as the angle of wrap or contact angle) in cold-rolling:
+
+tan(α) ≤ μ
+
+where
+α = angle of bite (in degrees)
+μ = coefficient of friction between sheet and roll (given as 0.1)
+
+First, we need to find the angle in radians by taking the inverse tangent (arctan) of both sides:
+
+α ≤ arctan(μ)
+α ≤ arctan(0.1)
+
+Now, we will calculate the arctan(0.1) which will give the value of α in radians:
+
+α ≤ arctan(0.1)
+α ≤ 0.0997 radians
+
+Next, we need to convert this radian value into degrees using the following conversion:
+
+1 radian = 180°/π
+
+α ≤ 0.0997 * (180°/π)
+α ≤ 5.71°
+
+Finally, we round off the angle to one decimal place:
+
+α ≤ 5.7°
+
+So, the angle of bite should be less than or equal to 5.7 degrees for the sheet to be drawn into rolls in cold-rolling.
+
+The final answer: [5.7°]

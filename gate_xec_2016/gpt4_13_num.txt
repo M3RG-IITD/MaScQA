@@ -1,0 +1,30 @@
+First, we need to convert the bandgap energy from eV to Joules. We do that by multiplying the energy value in eV by the charge of an electron.
+
+Eg = 1.8 eV * 1.6 * 10^(-19) C
+Eg = 2.88 * 10^(-19) J
+
+Now we need to find the equivalent energy of a photon with respect to wavelength. We can use the following relation between energy, Planck's constant, and wavelength for a photon:
+
+E = h * c / λ
+
+Where E is the energy, h is Planck's constant, c is the speed of light, and λ is the wavelength.
+
+Now we can solve for λ:
+
+λ = h * c / E
+
+Substituting the given values:
+
+λ = (6.626 * 10^(-34) J s) * (3 * 10^8 m/s) / (2.88 * 10^(-19) J)
+
+λ = 6.882 * 10^(-7) m
+
+Now we need to convert the wavelength to Angstroms (1 Angstrom = 10^(-10) meters):
+
+λ = 6.882 * 10^(-7) m * (10^10 Angstroms / 1 m)
+
+λ = 6882 Angstroms
+
+The threshold value of the wavelength below which this material will absorb radiation is 6882 Angstroms.
+
+Answer: [6882]

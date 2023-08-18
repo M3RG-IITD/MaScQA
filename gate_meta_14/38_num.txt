@@ -1,0 +1,1 @@
+A body starts yielding when it is subjected to a stress state with principal stresses of 250 MPa, 50 MPa and −50 MPa. What is the yield strength of the material, in MPa, if Tresca yield criterion is obeyed?

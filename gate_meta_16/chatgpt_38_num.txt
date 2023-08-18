@@ -1,0 +1,21 @@
+We can calculate the average mould heat flux by integrating the given equation over the length of the mould and dividing by the length. 
+
+First, we need to find the limits of integration. The heat flux is specified as a function of distance below the meniscus, so we need to find the distance at the bottom of the mould. The meniscus is the curved surface of the molten metal where it meets the air, and it will be at the top of the mould. The distance from the meniscus to the bottom of the mould is equal to the mould length.
+
+Therefore, the limits of integration are 0 (at the meniscus) and 0.8 m (at the bottom of the mould). 
+
+The average mould heat flux can be calculated as follows:
+
+\begin{align*}
+\bar{q_m} &= \frac{1}{L_m} \int_0^{L_m} q_m(z) dz\\
+&= \frac{1}{0.8} \int_0^{0.8} [2.67 - 0.33(z/U_c)^{0.5}] \times 10^6 dz \\
+&= \left[ 2.67z - 0.33 \frac{U_c}{2/3} (z/U_c)^{1.5} \right]_0^{0.8} \times 10^6 \\
+&= (2.134 - 0.569) \times 10^6 \\
+&= 1.565 \times 10^6 \; \mathrm{W.m^{-2}} \\
+&= 1.565 \; \mathrm{MW.m^{-2}}
+\end{align*}
+
+Therefore, the average mould heat flux is 1.565 MW.m^(-2). 
+
+Answer: 
+- 1.565 MW.m^(-2)

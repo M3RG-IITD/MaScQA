@@ -1,0 +1,11 @@
+Answer: 
+
+- Conduction
+- Convection
+- Radiation
+
+List of possible heat transfer modes: 
+
+- Conduction 
+- Convection
+- Radiation

@@ -1,0 +1,7 @@
+Solid state metal joining techniques involve joining of metals in the solid-state without melting. Out of the given options,
+- (A) Ultrasonic welding is a solid state metal joining technique in which the metals are joined by the application of high-frequency vibrations under pressure.
+- (B) Friction welding is a solid state metal joining technique in which the metals are joined by the application of heat and pressure caused due to friction between the two metal surfaces.
+- (C) Diffusion bonding is a solid state metal joining technique that involves the application of heat and pressure to the metals in a vacuum to cause diffusion of atoms at the interface, leading to bond formation.
+- (D) Electroslag welding is not a solid state metal joining technique as it involves the melting of the metal and the formation of a slag under a flux which shields the molten metal from atmospheric contamination.
+
+Therefore, the answer is (D) Electroslag welding.

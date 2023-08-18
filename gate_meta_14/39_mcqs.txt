@@ -1,0 +1,2 @@
+Determine the correctness or otherwise of the following Assertion(a) and Reason (r): Assertion (a): Deoxidation and decarburisation of liquid steel are done by vacuum treatment process. Reason (r): Decreased partial pressure of CO(g) promotes deoxidation and decarburisation.
+(A) a is false but r is true (B) a is true but r is false (C) a is true and r is also true, but r is not the reason for a (D) a is true and r is also true, and r is the reason for a

@@ -1,0 +1,40 @@
+Let's assume that we have 'x' wt.% of A in the alloy. Therefore, the wt.% of B in the alloy will be (100 - x).
+
+Now, we know that the wt.% of A in α phase is 70% and the wt.% of A in β phase is 20%. Using the overall ratio of α to β phases, we can write:
+
+(Weight percentage of α phase)/(Weight percentage of β phase) = 4
+
+So, we can assume that the weight percentage of α phase is 4k and the weight percentage of β phase is k (since the ratio is 4:1). Therefore, we have:
+
+4k(0.7) + k(0.2) = x   [Total weight percentage of A in the alloy is x]
+
+Simplifying the above equation, we get:
+
+2.8k + 0.2k = x
+
+3k = x
+
+So, the weight percentage of A in the alloy is 3x and the weight percentage of B in the alloy is (100 - 3x).
+
+Now, using the law of conservation of mass, we can write:
+
+Weight percentage of A in the alloy = Weight percentage of A in α phase + Weight percentage of A in β phase
+
+or
+
+3x = 4k(0.7) + k(0.2)
+
+Simplifying the above equation, we get:
+
+3x = 3k
+
+x = k
+
+So, the weight percentage of A in the alloy is k and the weight percentage of B in the alloy is (100 - k).
+
+Rounding off to the nearest integer, we get:
+
+The wt.% of B in the alloy is 80%.
+
+Hence, the answer is:
+- 80

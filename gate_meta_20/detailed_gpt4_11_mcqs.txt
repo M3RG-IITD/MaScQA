@@ -1,0 +1,59 @@
+First, let's find the time it takes for heat to diffuse through the sphere by using the relation:
+
+$$
+t = \frac{r^{2}}{4\alpha}
+$$
+
+where $t$ is the time taken for heat to diffuse, $r$ is the radius of the sphere, and $\alpha$ is the thermal diffusivity of the sphere.
+
+Given that sphere X reaches 800K in 1 hour and its thermal diffusivity is 100*$10^{-6}m^{2}s^{-1}$, let's find the relation with the radius $r$.
+
+$$
+t = 1 hour = 3600 s
+$$
+
+$$
+3600 = \frac{r^{2}}{4 \times 100 \times 10^{-6}}
+$$
+
+Now, solving for r:
+
+$$
+r^{2} = 3600 \times 4 \times 100 \times 10^{-6}
+$$
+
+$$
+r^{2} = 1440 \times 10^{-3} m^2
+$$
+
+We don't need to find the exact value of $r$, since we are going to use the same relation to find the time taken by sphere Y to reach 800K.
+
+Next, we'll look at the second sphere Y, which has a thermal diffusivity of 25*$10^{-6}m^{2}s^{-1}$. Let's set up the equation to solve for the time $t_{2}$ it takes for the center of the sphere to reach 800K.
+
+$$
+t_{2} = \frac{r^{2}}{4 \times 25 \times 10^{-6}} 
+$$
+
+Knowing that $r^{2} = 1440 \times 10^{-3} m^2$: 
+
+$$
+t_{2} = \frac{1440 \times 10^{-3}}{4 \times 25 \times 10^{-6}} 
+$$
+
+$$
+t_{2} = \frac{1440 \times 10^{-3}}{100 \times 10^{-6}} 
+$$
+
+$$
+t_{2} = 14400 s
+$$
+
+Now, let's convert the time in seconds to hours:
+
+$$
+t_{2} = \frac{14400}{3600} = 4 hours
+$$
+
+Thus, the time required for the center of sphere Y to reach 800K is 4 hours. 
+
+Answer: (C) 4 hours.

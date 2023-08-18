@@ -1,0 +1,2 @@
+Density of states, D(E) in a three dimensional solid varies with energy(E) as
+(A) $E^(1/2)$ (B) $E^(0)$ (C) $E^(-1/2)$ (D) $E^(3/2)$

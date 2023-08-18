@@ -1,0 +1,35 @@
+Given:
+Diameter of cylindrical specimen before extrusion (D1) = 30 mm
+Diameter of cylindrical specimen after extrusion (D2) = 20 mm
+Flow behavior equation: 𝜎 = 350 $𝜖^(0.3)$ MPa
+
+We need to find the ideal plastic work of deformation per unit volume.
+
+Let us assume the height of the cylindrical specimen before extrusion be 'h'
+Volume of cylindrical specimen before extrusion = π(D1/2)^2 * h
+Volume of cylindrical specimen after extrusion = π(D2/2)^2 * h
+Since volume before and after extrusion is same, we can equate the above two equations.
+π(D1/2)^2 * h = π(D2/2)^2 * h
+Simplifying the above equation, we get:
+h = (D1/D2)^2 * h
+
+Now, let us consider an elemental thickness 'dx' of the extruded material.
+Cross-sectional area of the elemental thickness = π(D2/2)²
+Total plastic work of deformation per unit volume = ∫(𝜎*ɛ)dɛ (integrated from 0 to 𝜀f)
+where 𝜎 is the stress and ɛ is the strain.
+
+From the given flow behavior equation, 𝜎 = 350 $𝜖^(0.3)$ MPa
+𝜀f can be easily calculated using the formula for cold extrusion strain:
+𝜀f = ln(D1/D2)
+
+Substituting 𝜎 and 𝜀f in the plastic work equation, we get:
+Total plastic work of deformation per unit volume = ∫0^(ln(D1/D2)) (350 𝜖^(0.3) * 𝜖)d𝜖
+
+Solving the above integral, we get:
+Total plastic work of deformation per unit volume = [35/3 * (e^(3ln(D1/D2)/10) - 1)] mega joules/m^3
+
+Substituting the given values, we get:
+Total plastic work of deformation per unit volume = [35/3 * (e^(3ln(30/20)/10) - 1)] mega joules/m^3
+Total plastic work of deformation per unit volume = 437 mega joules/m^3 (rounded off to the nearest integer)
+
+Therefore, the ideal plastic work of deformation per unit volume is 437 MJ/m^3.

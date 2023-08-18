@@ -1,0 +1,17 @@
+To determine the suitable filler material for brazing of steel sheets, we need to understand what each category of materials entails and their compatibility with the brazing process.
+
+(A) Epoxy Resins:
+Epoxy resins are a type of thermosetting polymer which are used primarily for adhesives and coatings. They possess strong chemical resistance and excellent mechanical performance. However, they do not have the required heat resistance and thermal conductivity needed for the brazing process. When subjected to high temperatures, epoxies can degrade, burn, and release toxic fumes. Thus, epoxy resins are not suitable as a filler.
+
+(B) Near-eutectic Alloys:
+Near-eutectic alloys are a class of alloys that have a composition close to the eutectic point of the system. This eutectic point is the temperature at which the alloy exhibits simultaneous solid and liquid phase during heating or cooling. These alloys have a narrow melting range, which means they melt and solidify at a relatively constant temperature. This feature enables them to provide a strong and uniform bond between materials with minimal distortion during the brazing process. Commonly used near-eutectic brazing alloys consist of silver, copper, or aluminum-based systems. These alloys have good wetting properties, high joint strength, good thermal conductivity, and can create strong bonds between steel sheets.
+
+(C) Refractory Alloys:
+Refractory alloys consist of transition metals such as tungsten and molybdenum that exhibit high melting points, strong resistance to heat, wear, and corrosion. These alloys are not suitable for the brazing of steel sheets due to their high melting points, which can lead to the melting or weakening of steel sheets during the brazing process.
+
+(D) Large Freezing Range Alloys:
+These alloys possess a broad range of temperatures between their melting and solidification points. As a result, they can cause issues during the brazing process, such as incomplete wetting, joint irregularities, and segregation of alloy elements. These adverse effects make them unsuitable as fillers for brazing steel sheets.
+
+In conclusion, the suitable category of materials for brazing of steel sheets is:
+
+[B] Near-eutectic alloys

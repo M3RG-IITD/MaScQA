@@ -1,0 +1,3 @@
+For a material that undergoes strain hardening, necking instability occurs during tensile testing when (C) 𝑑𝜎/𝑑𝜖 = σ.
+
+Answer: [C]

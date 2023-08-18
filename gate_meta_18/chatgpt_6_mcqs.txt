@@ -1,0 +1,17 @@
+According to Henry's law, the amount of dissolved gas is proportional to its partial pressure. Therefore, at a partial pressure of CO of 0.1 atm, the concentration of dissolved O would be 10 times lower than at 1 atm. This means that $wt.\%O = \frac{wt.\%O_{1atm}}{10}$. 
+
+Using the given relation, we can write: 
+
+$wt.\%C_{0.1atm} * wt.\%O_{0.1atm} = K_{0.1atm}$ 
+
+Substituting the values, we get: 
+
+$wt.\%C_{0.1atm} * \frac{wt.\%O_{1atm}}{10} = K_{0.1atm}$ 
+
+Solving for $K_{0.1atm}$ gives:
+
+$K_{0.1atm} = 10 * wt.\%C_{0.1atm} * wt.\%O_{1atm} = 10 * 0.02*0.002=0.0004$
+
+Therefore, the answer is (D) 0.0002. 
+
+Note: It's important to recognize that as the partial pressure of CO decreases, the concentration of dissolved oxygen would also decrease proportionally according to Henry's law. Thus, the value of K would decrease, as can be seen in this problem.

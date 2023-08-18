@@ -1,0 +1,35 @@
+
+
+To solve this problem, we need to use phase transformation diagrams and calculate the volume fractions of the different phases at the given temperature. 
+
+Step 1: Calculate the eutectoid composition of the steel
+
+The eutectoid composition of the steel is the composition at which the eutectoid reaction occurs. Since the steel is 0.45 wt.% carbon, it is not at the eutectoid composition. We can use the lever rule to calculate the eutectoid composition as follows:
+
+$c_{eut} = \frac{w_{Fe_3C}}{w_{Fe_3C} + w_{\alpha}} = \frac{6.67}{6.67 + 93.33} = 0.066$
+
+This means that at the eutectoid temperature, the steel will transform to pearlite, which consists of alternating layers of ferrite (α) and cementite ($Fe_3C$) with a composition of 0.022 wt.% carbon.
+
+Step 2: Determine the initial and final phases
+
+The initial phase is austenite (γ) with a carbon content of 0.8 wt.%. The final phases are ferrite (α) and cementite ($Fe_3C$) with carbon contents of 0.02 wt.% and 6.67 wt.%, respectively.
+
+Step 3: Calculate the fractions of each phase
+
+To calculate the volume % of pearlite, we need to determine the fractions of ferrite and cementite at the given temperature. We can use the lever rule again to do this:
+
+$f_{\alpha} = \frac{w_{\gamma} - w_{\gamma}^{eut}}{w_{\alpha}^{eut} - w_{\gamma}^{eut}} = \frac{0.8 - 0.66}{0.022 - 0.66} = 0.313$
+
+$f_{Fe_3C} = 1 - f_{\alpha} = 0.687$
+
+Therefore, the volume % of pearlite is:
+
+$V_{pearlite} = 2 f_{\alpha} = 2 (0.313) = 0.626$
+
+Step 4: Calculate the volume % of pearlite for the entire steel
+
+The question asks for the volume % of pearlite for the entire steel, not just the transformed portion. Since the steel is initially fully austenitic, the volume % of pearlite for the entire steel is simply:
+
+$V_{pearlite} = 0.626$
+
+Therefore, the correct answer is (D) 59.1%.

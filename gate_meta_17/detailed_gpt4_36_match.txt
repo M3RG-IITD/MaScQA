@@ -1,0 +1,25 @@
+We'll go through each force in Column I and match them with their corresponding expressions in Column II.
+
+(P) Pressure Force:
+Pressure force is given by the product of pressure (P) and area. Since area is proportional to the square of the characteristic length (L), the expression for pressure force becomes:
+Pressure force = P * L^2
+Thus, P corresponds to 4.
+
+(Q) Inertial Force:
+Inertial force is given by the product of mass and acceleration. Mass is proportional to the product of density (ρ), volume (L^3), and characteristic length (L), and acceleration is proportional to the characteristic velocity (U) divided by a time scale L/U. So, the expression for inertial force becomes:
+Inertial force = ρL^3 * U^2/L^2 = ρU^2L^2
+Thus, Q corresponds to 3.
+
+(R) Gravity Force:
+Gravity force is given by the product of mass and acceleration due to gravity (g). As mass is proportional to the product of density (ρ) and volume (L^3), the expression for gravity force becomes:
+Gravity force = ρgL^3
+Thus, R corresponds to 2.
+
+(S) Viscous Force:
+Viscous force is given by the product of dynamic viscosity (µ) and the velocity gradient. Since velocity is U and length scale is L, the velocity gradient becomes U/L. The expression for viscous force becomes:
+Viscous force = µUL
+Thus, S corresponds to 1.
+
+Therefore, the correct matching is (P) Pressure force: 4; (Q) Inertial force: 3; (R) Gravity force: 2; (S) Viscous force: 1.
+
+The answer is [A] P-4; Q-3; R-2; S-1.

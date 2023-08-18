@@ -1,0 +1,25 @@
+The first step is to calculate the atomic weight of Fe and C by using the given values:
+
+Atomic weight of Fe = 55.8
+Atomic weight of C = 12.0
+
+Next, we can use the lattice parameter to calculate the volume of the unit cell:
+
+Volume of the unit cell = (4 Å)^3 = 64 Å^3
+
+To calculate the number of Fe atoms in the unit cell, we can use the fact that the alloy contains 10 atom % C. This means that for every 10 Fe atoms, there is 1 C atom. Therefore, the fraction of Fe atoms in the alloy is 0.9 and the fraction of C atoms is 0.1.
+
+Number of Fe atoms in the unit cell = 0.9 × 4 = 3.6 (since there are 4 atoms in a fcc unit cell)
+Number of C atoms in the unit cell = 0.1 × 4 = 0.4
+
+The mass of the unit cell can be calculated by adding up the masses of all the atoms:
+
+Mass of the unit cell = (3.6 × 55.8) + (0.4 × 12.0) = 211.68
+
+Now, we can use Avogadro's number to calculate the density of the alloy:
+
+Density = (211.68 g) / (6.023 × 10^23 atoms) × (1 cm^3/10^24 Å^3) = 7.86 g/cm^3
+
+Therefore, the density of austenite in g/cm^3 is 7.86 (rounded off to 2 decimal places).
+
+Answer: [7.86]

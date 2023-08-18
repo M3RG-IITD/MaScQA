@@ -1,0 +1,25 @@
+The heat input per unit length of the weld can be calculated using the following formula: 
+
+$H = \frac{V \times I}{S \times E}$
+
+where,
+V = Arc voltage
+I = Welding current
+S = Welding speed 
+E = Arc heat transfer efficiency 
+
+For the first weld, 
+$H_1 = \frac{(18 V) \times (200 A)}{(0.002 m/s) \times (0.65)} = 138461.5 J/m$
+
+For the second weld, since both the welds have identical heat input per unit length, we can equate $H_1$ and $H_2$ and solve for the welding current (I2). 
+
+$H_2 = \frac{(18 V) \times (I_2)}{(0.0022 m/s) \times (0.65)} = 138461.5 J/m$
+
+Solving for I2, we get 
+$I_2 = \frac{(138461.5 J/m) \times (0.0022 m/s) \times (0.65)}{(18 V)} \approx 220 A$
+
+Therefore, the welding current of the second weld is 220 amperes (rounded off to the nearest integer). 
+
+Answer: 
+
+- 220

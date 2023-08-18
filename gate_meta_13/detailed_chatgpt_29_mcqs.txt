@@ -1,0 +1,76 @@
+Given, 
+
+Maximum linear density is along [110] direction.
+
+Let's assume that the element is a simple cubic lattice. In a simple cubic lattice, the only direction with atoms is along the body diagonal, i.e., the [111] direction. Therefore, [110] is perpendicular to the atoms, and hence it has the maximum linear density.
+
+Now, we need to find the packing density of the (100) plane of the element.
+
+For a simple cubic lattice, each atom on the (100) plane has 4 nearest neighbors on the same plane, and 4 nearest neighbors in the layers above and below the plane. 
+
+This can be visualized as follows: 
+
+```
+          Layer above the (100) plane
+                 o o
+          o o  x
+                 o o
+          
+          o o  x   Atoms on the (100) plane
+                o o
+          
+                 o o
+          o o  x
+                 o o
+          
+          Layer below the (100) plane
+```
+          
+Here, `x` represents the atom on the (100) plane, and `o` represents the atoms in the layers above and below the (100) plane.
+
+Therefore, the coordination number of the (100) plane is 8, i.e., each atom on the (100) plane is surrounded by 8 atoms.
+
+Now, we can use the formula for packing density:
+
+$$\text{Packing density} = \frac{\text{Volume occupied by atoms}}{\text{Total volume of unit cell}}$$
+
+For a simple cubic lattice, the volume occupied by atoms is given by:
+
+Volume of 1 atom = (4/3)πr^3  (where r is the atomic radius)
+Volume of 8 atoms (surrounding the central atom on the (100) plane) = 8 × (1/2) × (4/3)πr^3  (since they are shared by 8 adjacent atoms)
+Total volume of atoms on the (100) plane = (1/2) × (4/3)πr^3
+
+Therefore, packing density of the (100) plane is given by:
+
+$$\text{Packing density} = \frac{(1/2) × (4/3)πr^3}{a^2}$$
+(where a is the lattice parameter)
+
+Now, we need to use the fact that the maximum linear density is along the [110] direction. In a simple cubic lattice, the [110] direction is perpendicular to the (100) plane and passes through the center of the atoms in the plane. Therefore, the atomic radius along the [110] direction is equal to the distance between adjacent atoms in the (100) plane, which is a/√2.
+
+Therefore, we have:
+
+$$\frac{\text{Maximum linear density along [110] direction}}{\text{Length of [110] direction in unit cell}} = \frac{1}{\sqrt{2}a}$$
+
+$$\Rightarrow \text{Length of [110] direction in unit cell} = \sqrt{2}a$$
+
+Now, we can substitute this value in the formula for packing density:
+
+$$\text{Packing density} = \frac{(1/2) × (4/3)πr^3}{(\sqrt{2}a)^2} = \frac{1}{2\sqrt{2}} × \frac{4}{3}π\left(\frac{a}{\sqrt{2}}\right)^3 = \frac{2}{3\sqrt{2}}πr^3$$
+
+Therefore, the packing density of the (100) plane is:
+
+$$\text{Packing density} = \frac{2}{3\sqrt{2}}πr^3$$
+
+This is the packing density for a simple cubic lattice. However, we do not know whether the element in question is actually a simple cubic lattice.
+
+But we can compare this value with the options given:
+
+(A) 0.68  (B) 0.74  (C) 0.79  (D) 0.91
+
+Out of these options, only option (B) lies in the range of the packing density for simple cubic lattice:
+
+$$\frac{2}{3\sqrt{2}}π \approx 0.7405$$
+
+Therefore, the answer is:
+
+(B) 0.74

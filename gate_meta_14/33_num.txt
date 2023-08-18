@@ -1,0 +1,1 @@
+What is the theoretical requirement of air (in $m^ 3$ at STP) for the complete combustion of 100 $m^3$ (at STP) of a fuel consisting of pure $CH_4$? Assume that air contains 21 vol.% of oxygen.

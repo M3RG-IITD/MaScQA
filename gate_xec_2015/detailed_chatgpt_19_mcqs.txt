@@ -1,0 +1,29 @@
+The planar density is defined as the number of atoms centered on a plane divided by the area of that plane. 
+
+For an fcc crystal, the (100) plane intersects with one-fourth of the atoms in each corner and one-half of the atoms along each face. Let's denote the edge length of the fcc unit cell by "a". 
+
+The distance between adjacent atoms along a (100) plane is "a" while the width of the plane is "a" as well. Therefore, the area of the plane is:
+
+$Area = a \times a = a^2$
+
+The number of atoms per unit cell on the (100) plane is:
+
+$4\times \frac{1}{4} + 2 \times \frac{1}{2} = 2$
+
+(where the factor of 4 comes from the fact that there are 4 (100) planes per unit cell, and the fractions correspond to the fraction of an atom that lies within the plane)
+
+Thus, the planar density is:
+
+$\frac{2\text{ atoms}}{a^2} $
+
+Now, we can use the fact that the atomic radius (R) can be related to the edge length (a) of the fcc unit cell:
+
+$a = 2\sqrt{2} R$
+
+Substituting this into our expression for planar density, we get:
+
+$\frac{2\text{ atoms}}{(2\sqrt{2}R)^2} = \frac{2}{8R^2} = \frac{1}{4R^2}$
+
+Therefore, the planar density of the (100) plane in an fcc crystal is 1/4 times the inverse square of the atomic radius, which corresponds to answer choice (B). 
+
+Answer: (B) 0.25/$R^2$

@@ -1,0 +1,1 @@
+A ceramic has a fracture toughness ($K_(IC)$) of 1 MPa.$m^(1/2)$. If this ceramic is to be exposed to a maximum stress(σ) of 200 MPa, the maximum value of half crack length 'a'(in micrometer) below which the material does not fail is? (round off to one decimal place). Loading condition for the sampel is shown in the image. Assume geometrical factor f= 1.2.

@@ -1,0 +1,19 @@
+
+
+The correct match is:
+
+(A) P-6, Q-4, R-5, S-1, T-3
+
+Explanation:
+
+P. Y-doped $ZrO_2$ is used as a thermistor.
+
+Q. $UO_2$ is used as nuclear fuel.
+
+R. $Si_3N_4$ is used as an integrated circuit substrate.
+
+S. AlN is used in lasers.
+
+T. Cr doped $Al_2O_3$ is used in a turbine engine.
+
+Therefore, the correct match is (A) P-6, Q-4, R-5, S-1, T-3.

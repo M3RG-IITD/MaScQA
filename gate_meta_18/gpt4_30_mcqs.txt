@@ -1,0 +1,21 @@
+The Gauss divergence theorem states that:
+
+$∮_S (E ∙ 𝑛̂ )dS = \frac{Q_{enclosed}}{\epsilon_0}$
+
+where $Q_{enclosed}$ is the net enclosed charge inside the sphere.
+
+For $F_1$, since the surface encloses both +Q and -Q charges, the net enclosed charge is 0. Therefore, $F_1 = 0$.
+
+For $F_2$, the surface encloses only the +Q charge, so $Q_{enclosed} = Q$. Thus,
+
+$F_2 = \frac{Q}{\epsilon_0}$
+
+For $F_3$, the surface encloses both charges, so the net enclosed charge is again 0, and $F_3 = 0$.
+
+So the ratio of $F_1 : F_2 : F_3 = 0 : \frac{Q}{\epsilon_0} : 0$.
+
+It appears most similar to the option (D) 1 : 1 : 0. However, since the ratios of the fields are in terms of Q and ε0, we can also write the ratio as:
+
+$F_1 : F_2 : F_3 = 0 : 1 : 0$
+
+Thus, the correct answer is (D) 1 : 1 : 0.

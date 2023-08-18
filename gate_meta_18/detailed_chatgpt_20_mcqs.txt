@@ -1,0 +1,13 @@
+The process described in the question is called Ausforming. 
+
+Explanation:
+- The TTT (Time-Temperature-Transformation) curve shows the transformation of austenite as a function of time and temperature. 
+- The nose of the TTT curve represents the minimum time required for 100% transformation of austenite to pearlite. 
+- $M_s$ (Martensite-start) is the temperature at which austenite starts transforming into martensite upon cooling. 
+- Plastically working steel below the nose of the TTT curve and above $M_s$ produces a fine-grained structure of martensite upon quenching. 
+- This process is called Ausforming, or "plastic deformation under an austenite finish-temperature quenching condition". 
+- Martempering involves quenching a steel from above the austenitizing temperature to the martensite start temperature, holding it there until the temperature is uniform throughout the part, and then quenching it to room temperature. 
+- Inter-critical forming involves heating a low-carbon steel above the upper transformation temperature (A3) and then deforming it in the two-phase region (austenite + ferrite) before cooling to produce a mixed microstructure of ferrite and tempered martensite. 
+- Normalizing involves heating a steel to a temperature above the upper transformation temperature (A3) and then cooling it in still air to produce a fine-grained, pearlitic structure. 
+
+Therefore, the answer is (B) Ausforming.

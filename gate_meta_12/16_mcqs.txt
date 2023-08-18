@@ -1,0 +1,2 @@
+If d is the inter-planar spacing of the planes {h k l}, the inter-planar spacing of the planes {nh nk nl}, n being an integer, is
+(A) d (B) d/n (C) nd (D) d/$n^2$

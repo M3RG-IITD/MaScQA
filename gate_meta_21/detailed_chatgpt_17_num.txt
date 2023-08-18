@@ -1,0 +1,37 @@
+We know that for a reversible process at constant pressure, the change in free energy is given by:
+$$
+\Delta G = \Delta H - T\Delta S
+$$
+where $\Delta H$ is the enthalpy change, $T$ is the temperature at which the transformation occurs, and $\Delta S$ is the entropy change.
+
+Given that $(C_p)^{liquid} = (C_p)^{solid}$, we can assume that the entropy change is negligible, and hence:
+$$
+\Delta G = \Delta H
+$$
+
+We are given the enthalpy of melting of Cu as 13400 J/mol. This corresponds to the transformation:
+$$
+Cu_{(s)} \rightarrow Cu_{(l)}
+$$
+To find the free energy change for the reverse process, we need to negate the sign of $\Delta H$:
+$$
+\Delta G = -\Delta H = -13400 \text{ J/mol}
+$$
+
+Now, we need to find the temperature at which this transformation occurs. From the question, we know that the melting point of Cu is 1358 K. At 1358 K, the enthalpy change for this transformation is:
+$$
+\Delta H = 13400 \text{ J/mol}
+$$
+Using the assumption that $(C_p)^{liquid} = (C_p)^{solid}$, we can assume that the enthalpy change is constant over the temperature range of interest. Therefore, at 1058 K, the enthalpy change for this transformation is:
+$$
+\Delta H = 13400 \text{ J/mol}
+$$
+(Note: this assumes that the transformation is still reversible. If the transformation is not reversible, the actual enthalpy change and free energy change may be different.)
+
+Thus, the free energy change for the transformation at 1058 K is:
+$$
+\Delta G = -13400 \text{ J/mol} \approx -13400 \text{ J/mol}
+$$
+Rounding off to the nearest integer, we get the final answer as: 
+
+Answer: [-13400]

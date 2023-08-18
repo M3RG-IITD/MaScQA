@@ -1,0 +1,7 @@
+The $K_{IC}$ value represents the toughness of a material and can be defined as the amount of stress intensity factor that a material can tolerate before it fails. Higher the $K_{IC}$, higher is the resistance of the material to the growth of a crack.
+
+Given that the $K_{IC}$ of alloy X is greater than that of alloy Y but both components are subjected to the same stress during operation under Mode I loading. This means that if there is a crack in each component, the crack in the component made from alloy Y would grow faster than that in the component made from alloy X. Therefore, the component made from alloy Y can tolerate a smaller flaw size compared to that made from X.
+
+Hence, the correct answer is:
+
+(B) Component made from alloy Y can tolerate a larger flaw size compared to that made from X.

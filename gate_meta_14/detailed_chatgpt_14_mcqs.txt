@@ -1,0 +1,11 @@
+Option (A) Liquid Penetrant Inspection can easily detect surface flaws or defects in the material, but it cannot be used to detect internal cracks as it does not penetrate beyond the surface of the material.
+
+Option (B) Radiography uses X-rays or Gamma rays to penetrate through the material and produce an image of the internal structure of the component. It can be used to detect internal cracks in steel shafts.
+
+Option (C) Ultrasonic Testing utilizes high-frequency sound waves to penetrate the material and detect internal flaws by analyzing the reflections of the sound waves. It can be used to detect internal cracks in steel shafts.
+
+Option (D) X-ray tomography works on similar principles to radiography but produces a 3D image of the component. It can also be used to detect internal cracks in steel shafts.
+
+Therefore, the answer is (A) Liquid Penetrant Inspection. 
+
+List: (A) Liquid penetrant inspection

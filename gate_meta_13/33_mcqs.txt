@@ -1,0 +1,2 @@
+The yield strength of a polycrystalline metal increases from 100 MPa to 145 MPa on decreasing the grain size from 64 µm to 25 µm. The yield strength of this metal (in MPa) having a grain size of 36 µm is
+(A) 110 (B) 125 (C) 140 (D) 165

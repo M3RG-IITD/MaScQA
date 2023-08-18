@@ -1,0 +1,15 @@
+The energy barrier for homogeneous nucleation is given by the expression:
+
+ΔG = (16π/3)γ^3/(ΔHv^2)
+
+where γ is the interfacial energy, ΔHv is the latent heat of fusion, and the superscript 2 refers to the squared critical radius.
+
+If γ increases by 10%, the energy barrier would change by:
+
+ΔΔG = (16π/3)(1.1γ)^3/[(ΔHv)^2] - (16π/3)γ^3/(ΔHv^2)
+
+Simplifying this expression and dividing by the original barrier, we get:
+
+ΔΔG/ΔG = 3(1.1^3 - 1)/(1.1^3) ≈ 0.21 = 21%
+
+Therefore, the correct answer is (A) 21%.

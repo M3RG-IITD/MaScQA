@@ -1,0 +1,2 @@
+At a constant atmospheric pressure, the number of phases, P which coexist in a chosen system at equilibrium, is related to the number of components, C in the system and the degree of freedom, F by
+(A) P+F=C-2 (B) P+F=C+2 (C) P+F=C+1 (D) P+F=C-1

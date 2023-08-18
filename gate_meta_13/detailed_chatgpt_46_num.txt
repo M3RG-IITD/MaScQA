@@ -1,0 +1,15 @@
+We can use the equation for critical crack length in Mode I stress:
+
+$a = \frac{K_{1c}^2}{\sigma^2_{max}}$
+
+where $a$ is the critical crack length, $K_{1c}$ is the fracture toughness of the material, and $\sigma_{max}$ is the maximum stress at the crack tip.
+
+Substituting the given values:
+
+$a = \frac{(45 MPa√m)^2}{(400 MPa)^2} = \frac{2025}{160000} m = 0.01265625 m = 12.65625 mm$
+
+Therefore, the critical internal crack length is 12.65625 mm.
+
+Answer: 
+
+- 12.65625 mm.

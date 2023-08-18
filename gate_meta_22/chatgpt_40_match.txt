@@ -1,0 +1,9 @@
+The correct match between dislocation reactions (Column A) to the descriptions (Column B) is:
+(A) P - 3, Q - 2, R - 1
+
+Explanation:
+- Reaction P involves two partial dislocations with a Burgers vector of $a_°$/2 [-1 -1 1] and $a_°$/2 [1 1 1] that merge and form a perfect dislocation with a Burgers vector of $a_°$ [ 0 0 1]. This is a typical dislocation reaction in a BCC metal. (Option A - P - 3)
+- Reaction Q involves two partial dislocations with a Burgers vector of $a_°$/6 [-1 2 -1 ] and $a_°$/6 [1 -1 2] that react and form a stacking fault with a Burgers vector of $a_°$/6 [0 1 1]. This is an energetically unfavorable dislocation reaction in an FCC metal. (Option A - Q - 2)
+- Reaction R involves two partial dislocations with a Burgers vector of $a_°$/6 [1 -2 1] and $a_°$/6[-1 -1 2] that merge and form a Lomer-Cottrell lock with a Burgers vector of $a_°$/2 [0 -1 1]. This is Leading partials merging to form a Lomer-Cottrell lock in an FCC metal. (Option A - R - 1)
+
+Therefore, the correct answer is (A) P - 3, Q - 2, R - 1.

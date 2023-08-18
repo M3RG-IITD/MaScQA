@@ -1,0 +1,33 @@
+Given: 
+- Isothermal weight gain per unit area (ΔW/A) during oxidation at 600°C follows parabolic rate law. 
+- ΔW/A = 1.0 mg.A$cm^(-2)$ after 100 min of oxidation. 
+- We need to find ΔW/A (in mg.$cm^(-2)$) after 500 min at 600°C. 
+
+To solve this problem, we can use the parabolic rate law equation for isothermal oxidation: 
+
+ΔW/A = k*t^(1/2)
+
+where:
+- ΔW/A: Isothermal weight gain per unit area (in mg.$cm^(-2)$)
+- k: rate constant
+- t: time (in min)
+
+We can find the value of the rate constant(k) using the given information: 
+
+ΔW/A = k*t^(1/2)
+
+1.0 = k*(100)^(1/2)
+
+k = 1.0/(100)^(1/2) = 0.1 mg.$cm^(-2)$.min^(-1/2)
+
+Now, we can use this rate constant to find the value of ΔW/A after 500 min of oxidation: 
+
+ΔW/A = k*t^(1/2)
+
+ΔW/A = (0.1 mg.$cm^(-2)$.min^(-1/2))*(500)^(1/2)
+
+ΔW/A = 1.58 mg.$cm^(-2)$
+
+Therefore, the ΔW/A (in mg.$cm^(-2)$) after 500 min at 600°C will be 1.58 (rounded off to two decimal places). 
+
+Answer: [1.58]

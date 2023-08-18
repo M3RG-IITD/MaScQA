@@ -1,0 +1,35 @@
+Given the emf (E) of the cell is 1.2327 V at 873 K, and we are given R, F, the activities of Pb, and $PbCl_2$.
+We can write the Nernst equation for this cell reaction:
+
+E = E° - (RT/nF) * lnQ
+
+where E° is the standard cell potential, R is the gas constant, T is the given temperature in K, n is the number of moles of electrons transferred, F is the Faraday constant and Q is the reaction quotient. In this given cell reaction, we can identify n = 2.
+
+R = 8.314 J.$K^(-1).mol^(-1)$
+T = 873 K
+n = 2
+F = 96500 C.$mol^(-1)$
+
+The reaction quotient Q can be calculated from the given activities:
+Activity of Pb = 0.72
+Activity of $PbCl_2$ = 0.18
+Therefore, Q = 0.72 / 0.18 = 4.
+
+E = E° - (RT/nF) * lnQ
+1.2327 = E° - ((8.314 * 873) / (2 * 96500)) * ln(4)
+1.2327 = E° - (0.03772) * ln(4)
+E° = 1.2327 + 0.03772 * ln(4)
+
+Now, we can calculate Gibbs energy change (ΔG°) using standard cell potential:
+
+ΔG° = -nFE°
+
+ΔG° = -2 * 96500 * (1.2327 + 0.03772 * ln(4))
+ΔG° = -237620.2 + 6950.992 * ln(4) (Now convert from J.$mol^(-1)$ to kJ.$mol^(-1)$)
+ΔG° = -237.62 + 6.95 * ln(4)
+
+After evaluating the last expression, we can arrive at the standard Gibbs energy for the formation of $PbCl_2$(liquid) at 873 K (round off to 1 decimal place).
+
+ΔG° = -218.5 kJ.$mol^(-1)$
+
+Therefore, the standard Gibbs energy of formation of $PbCl_2$(liquid) at 873 K is [-218.5].

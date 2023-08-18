@@ -1,0 +1,21 @@
+First, we need to calculate the mole fractions of each component:
+
+$n_{\text{CaO}} = \frac{55}{40} = 1.375$
+
+$n_{\text{SiO}_2} = \frac{20}{28+2\cdot16} = 0.294$
+
+$n_{\text{Al}_2\text{O}_3} = \frac{15}{2\cdot27 + 3\cdot16} = 0.178$
+
+$n_{\text{MgO}} = \frac{10}{24+16} = 0.208$
+
+Now, we can substitute these values into the equation for $\log C_S$:
+
+$\log C_S = 3.44\times(1.375 + 0.1\times0.208 - 0.8\times0.178 - 0.294) - \frac{9894}{1900} + 2.05$
+
+$\log C_S = 3.44\times0.919 - 5.202 + 2.05 = -0.068$
+
+Finally, we can obtain $C_S$ by taking antilogarithm:
+
+$C_S = 10^{-0.068} = 0.908$
+
+Therefore, the answer is (D) 0.9

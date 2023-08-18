@@ -1,0 +1,27 @@
+First, we need to determine the diffusion coefficient at the carburizing temperature. We can use the Arrhenius equation:
+
+$D = D_o * exp(-Q/RT)$
+
+where R is the gas constant and T is the absolute temperature. Assuming the carburizing temperature is 1000°C, we can convert this to Kelvin:
+
+$T = 1000 + 273 = 1273 K$
+
+Using the given values, we can calculate D:
+
+$D = 2.0 * 10^{-5} * exp(-142000/(8.31*1273)) = 1.57 * 10^{-12} m^2/s$
+
+Next, we need to find the distance that carbon has diffused based on the time taken. Let's assume that the initial depth, x, at which 0.4% C is reached is 0.1 mm. We want to double this distance, so the final distance, x_f, will be 0.2 mm. We can use Fick's second law to calculate the time required:
+
+$x_f = \sqrt{Dt}$
+
+$t = \frac{x_f^2}{D}$
+
+$t = \frac{(0.2*10^{-3})^2}{1.57 * 10^{-12}} = 50.6$ hours
+
+However, this equation gives us the time required to reach 0.4% C at a depth of 0.2 mm, starting from 0.1 mm. To find the time required to double the depth at which 0.4% C is reached, we need to use a correction factor. According to the textbook, the corrected time is given by:
+
+$t_c = t * ln(2) * \frac{1}{ln(x_f/x)}$
+
+$t_c = 50.6 * ln(2) * \frac{1}{ln(0.2/0.1)} = 17.8$ hours
+
+Therefore, the answer is (C) 18.

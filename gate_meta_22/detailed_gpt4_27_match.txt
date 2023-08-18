@@ -1,0 +1,22 @@
+Let's first understand the processes in Column I and the corresponding defects in Column II.
+
+Column I (Processes)
+P - Extrusion: The process of forcing a material through a die (shape) to produce elongated shapes with a constant cross-sectional area.
+Q - Deep drawing: A sheet metal forming process where a flat sheet is progressively shaped into a 3D part by forcing it into a die using a punch.
+R - Forging: The process of shaping a metal piece by applying compressive forces using hammers or presses.
+S - Rolling: The process of reducing the thickness of a material or making it uniform by passing it between two revolving rolls.
+
+Column II (Defects)
+1 - Earing: Formation of a wavy edge on a drawn part due to differences in material properties (typically metal anisotropy) in different directions.
+2 - Cold Shut: A type of discontinuity in metal parts resulting from insufficient bonding between metal surfaces that are in contact.
+3 - Edge Cracking: Surface cracks that occur at the edge of a metal part during forming or rolling due to stress.
+4 - Fir-tree Cracking: A particular type of edge crack formed in the transverse direction during extrusion of certain metals, like lead or tin, having weird periodic patterns.
+
+Now, let's match the processes with the corresponding defects:
+
+(P) Extrusion: Fir-tree cracking is a defect related to extrusion, so P - 4.
+(Q) Deep drawing: Earing is a defect related to deep drawing, so Q - 1.
+(R) Forging: Cold shut is a defect related to forging, so R - 2.
+(S) Rolling: Edge cracking is a defect related to rolling, so S - 3.
+
+Therefore, the correct answer is (D) P - 4, Q - 1, R - 2, S - 3.

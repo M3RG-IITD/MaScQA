@@ -1,0 +1,45 @@
+To find the value of x, we'll first determine the strain energy per unit length for both types of dislocations.
+
+1. Strain energy per unit length for a dislocation with Burgers vector (a/2)〈110〉:
+
+The formula for strain energy (G) per unit length of a dislocation is given by:
+
+G = (Gb²)/(2π(1 - ν))
+
+where G is the shear modulus, b is the magnitude of the Burgers vector, and ν is the Poisson's ratio.
+
+Now let's determine the magnitude of the Burgers vector for (a/2)〈110〉:
+b₁ = (a/2)|〈110〉| = (a/2)√(1² + 1² + 0²) = a√2/2
+
+So, the strain energy per unit length for (a/2)〈110〉 dislocation is:
+G₁ = (G(a√2/2)²)/(2π(1 - ν))
+
+2. Strain energy per unit length for a dislocation with Burgers vector a/6 〈112〉:
+
+Now let's determine the magnitude of the Burgers vector for a/6 〈112〉:
+b₂ = (a/6)|〈112〉| = (a/6)√(1² + 1² + 2²) = a√6/6
+
+So, the strain energy per unit length for a/6 〈112〉 dislocation is:
+G₂ = (G(a√6/6)²)/(2π(1 - ν))
+
+Now, we need to find the 𝑥 such that G₁ = x * G₂:
+
+(G(a√2/2)²)/(2π(1 - ν)) = x * (G(a√6/6)²)/(2π(1 - ν))
+
+Notice that both sides of the equation have (G)/(2π(1 - ν)) as a common factor that cancels out:
+
+(a√2/2)² = x * (a√6/6)²
+
+Now, let's find x:
+
+x = ((a√2/2)²) / ((a√6/6)²)
+x = ((a² * 2) / 4) / ((a² * 6) / 36)
+x = (a² * 2) / (a² * 6 / 9)
+x = (2 * 9) / 6
+x = 18 / 6
+
+So, x = 3.
+
+Thus, the strain energy per unit length of a dislocation with Burgers vector (a/2)〈110〉 is 3 times that of a 𝑎/6 〈112〉 dislocation.
+
+Answer: [3]

@@ -1,0 +1,13 @@
+Body-centered tetragonal (BCT) martensite is a metastable form of steel resulting from the rapid cooling of austenite, the high-temperature parent phase of steel. The lattice parameters, c and a, describe the size and shape of the BCT unit cell, with 'a' being the length of the base edge and 'c' being the height of the tetragonal cell. These parameters are important for determining the physical and chemical properties of the resulting material.
+
+As carbon content increases in Fe-C alloy up to 2 mass% (keeping iron constant), the following effects are observed on the lattice parameters:
+
+1. Carbon atoms occupy the interstitial sites in the iron lattice, distorting the overall crystal structure as they attempt to fit into the small voids. As a result, the base edge (a) tends to increase because carbon atoms in these interstitial sites push the iron atoms away from one another.
+
+2. The height of the tetragonal unit cell (c) also tends to increase with an increase in carbon content. This is because the addition of carbon introduces a greater degree of lattice strain due to the size difference between the carbon atoms and the interstitial sites they occupy. This strain causes the unit cell to elongate along the c-axis, thus increasing the height (c) of the tetragonal cell.
+
+In summary, as the carbon content increases (up to 2 mass%) in the Fe-C alloy, the lattice parameters of BCT martensite change as follows:
+
+- Both c (height) and a (base length) increase.
+
+Therefore, the correct answer is (A) Both c and a increase.

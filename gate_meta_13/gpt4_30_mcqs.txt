@@ -1,0 +1,38 @@
+In an FCC (face-centered cubic) crystal lattice, the first two peaks in the X-ray diffraction pattern correspond to the diffraction planes (111) and (200), respectively.
+
+The interplanar spacing for a given set of crystal planes with Miller indices (h, k, l) can be expressed as:
+
+d_hkl = a / sqrt(h^2 + k^2 + l^2)
+
+Where a is the lattice constant.
+
+For the first peak, the spacing is:
+
+d_111 = a / sqrt(1^2 + 1^2 + 1^2) = a / sqrt(3)
+
+For the second peak, the spacing is:
+
+d_200 = a / sqrt(2^2 + 0^2 + 0^2) = a / sqrt(4) = a / 2
+
+We can find the ratio of d_111 to d_200 by dividing the two equations:
+
+(d_111) / (d_200) = (a / sqrt(3)) / (a / 2)
+
+The lattice constant (a) cancels out, leaving:
+
+R = sqrt(3) / 2 = 1.73 / 2 = 0.866
+
+Since R is the ratio of d_111 to d_200, the inverse of R is the ratio of d_200 to d_111:
+
+1/R = 1 / 0.866 = 1.1547
+
+Now, let's compare this with the given options:
+
+(A) 1.91 
+(B) 1.63 
+(C) 1.41 
+(D) 1.15
+
+The closest option to our calculated value is (D) 1.15. Therefore, the correct answer is:
+
+[(D) 1.15]

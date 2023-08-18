@@ -1,0 +1,46 @@
+To solve this problem, we'll use Chvorinov's Rule, which states that the total solidification time, t, is proportional to the square of the volume-to-surface-area ratio (V / S). In mathematical terms, this can be written as:
+
+t ∝ (V / S)^2
+
+First, we'll find the volume and surface area of both the cube and cylinder castings.
+
+1. Cube casting [Side = a]
+Volume (V_cube) = a^3
+Surface area (S_cube) = 6a^2
+
+Given that the volume is 27 cm^3, we can find the side length.
+27 = a^3
+a = 3 cm
+
+V_cube = 27 cm^3
+S_cube = 6(3^2) = 54 cm^2
+
+2. Cylinder casting [Radius = r, Height = h]
+Volume (V_cyl) = πr^2h
+Surface area (S_cyl) = 2πr(r + h)
+
+Given that radius = 1 cm and height = 6 cm,
+V_cyl = π(1^2)(6) = 6π cm^3
+S_cyl = 2π(1)(1 + 6) = 14π cm^2
+
+Now, we'll apply Chvorinov's Rule.
+
+t_cube / t_cyl = ((V_cube / S_cube)^2) / ((V_cyl / S_cyl)^2)
+
+Given that t_cube = 180 seconds, we'll solve for t_cyl.
+
+180 / t_cyl = ((27 / 54)^2) / ((6π / 14π)^2)
+180 / t_cyl = (0.5^2) / (3/7)^2
+
+Now, we'll cross-multiply and solve for t_cyl.
+
+(180)(3/7)^2 = (t_cyl)(0.5^2)
+(180)(9 / 49) = (t_cyl)(1/4)
+(81 / 49)(4) = t_cyl
+((81 * 4) / 49) = t_cyl
+
+t_cyl ≈ 66.5306 seconds (rounded to one decimal place)
+
+Thus, the total solidification time for the cylinder-shaped casting is approximately 66.5 seconds.
+
+So the answer is: [66.5].

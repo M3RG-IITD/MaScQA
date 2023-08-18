@@ -1,0 +1,66 @@
+We will use the Hall-Petch equation to calculate the yield strength of the steel with a 16 μm grain size. The equation is:
+
+σ_y = σ_0 + k_y*d^(-1/2)
+
+where:
+σ_y is the yield strength
+σ_0 is the friction stress
+k_y is the strengthening constant
+d is the grain size
+
+We have two data points:
+
+1) For a grain size of 256 μm, σ_y1 = 120 MPa
+2) For a grain size of 64 μm, σ_y2 = 150 MPa
+
+Substitute the values into the Hall-Petch equation:
+
+120 = σ_0 + k_y*256^(-1/2)
+150 = σ_0 + k_y*64^(-1/2)
+
+Now we solve for σ_0 and k_y simultaneously:
+
+k_y = 256^(-1/2) * (150 - σ_0)
+k_y = 64^(-1/2) * (120 - σ_0)
+
+Equating both:
+
+256^(-1/2) * (150 - σ_0) = 64^(-1/2) * (120 - σ_0)
+
+Divide both sides by 2:
+
+128^(-1/2) * (150 - σ_0) = 32^(-1/2) * (120 - σ_0)
+
+Now square both sides:
+
+128 * (150 - σ_0)^2 = 32 * (120 - σ_0)^2
+
+Further simplify:
+
+4(150 - σ_0)^2 = (120 - σ_0)^2
+
+Now solve for σ_0:
+
+σ_0 = 90 MPa
+
+Now calculate k_y using one of the data points:
+
+k_y = 256^(-1/2) * (150 - 90)
+
+k_y = 15 MPa*sqrt(μm)
+
+Now we can find the yield strength for a 16 μm grain size:
+
+σ_y3 = σ_0 + k_y*16^(-1/2)
+
+σ_y3 = 90 + 15 * 16^(-1/2)
+
+σ_y3 = 90 + 60
+
+σ_y3 = 150 MPa
+
+So the expected yield strength of the ferritic steel with a 16 μm grain size is 150 MPa.
+
+Therefore, the correct answer is:
+
+[150]

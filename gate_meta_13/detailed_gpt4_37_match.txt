@@ -1,0 +1,20 @@
+Let's discuss each defect in Group I and match it with the corresponding manufacturing process in Group II.
+
+(P) Orange-peel effect: This defect occurs when the surface of a metal sheet becomes uneven and rough, giving it an appearance similar to the surface of an orange peel. This effect is generally observed in deep drawing processes due to the uneven flow of metal during the forming operation.
+
+(Q) Chevron cracking: This type of defect occurs when there are V-shaped fissures or cracks on the surface of a metal piece, usually at the center of the extruded section. This can happen in extrusion processes due to high stresses and temperature variations along the extrusion direction.
+
+(R) Flash: Flash is an excess material that extends out from the main body of a part, typically along the parting lines of a mold or die. It occurs when the material flows into the small clearances between mating dies or molds during a manufacturing process. Flash is commonly observed in forging processes, where pressure forces the material to flow into the small gaps between the forging dies.
+
+(S) Undercut: Undercut is a defect caused by the removal of material below the intended cut or weld line, leading to a weak and incomplete welding joint. It usually occurs during the arc welding process because of improper electrode angles or excessive currents, resulting in excessive heat and melting of the base material.
+
+Now, let's match these defects with the corresponding manufacturing processes:
+
+- (P) Orange-peel effect matches with (2) Deep drawing
+- (Q) Chevron cracking matches with (1) Extrusion
+- (R) Flash matches with (4) Forging
+- (S) Undercut matches with (3) Arc welding
+
+So, the correct option is:
+
+`[(P-2), (Q-1), (R-4), (S-3)]`

@@ -1,0 +1,1 @@
+A bar of Ti with Young’s modulus of 110 GPa and yield strength of 880 MPa is tested in tension. It is noticed that the alloy does not exhibit any strain hardening and fails at a total strain of 0.108. The mechanical energy that is necessary to break the material in MJ/$m^3$ is

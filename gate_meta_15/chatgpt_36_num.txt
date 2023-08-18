@@ -1,0 +1,7 @@
+Since the cumulative size distribution curve is given, we can read off the weight of material that is retained on any particular sieve size. From the graph, we can see that 50% of particles have a size greater than or equal to 400 microns, and 20% of particles have a size greater than or equal to 300 microns but less than 400 microns. 
+
+Therefore, out of the 10 kg of material that was initially present, 5 kg (50% of 10 kg) is retained on the 400 micron sieve, and another 2 kg (20% of 10 kg) passes through the 400 micron sieve but is retained on the 300 micron sieve. 
+
+Therefore, the weight of mineral that is retained on the 300 micron sieve is 2 kg. 
+
+Answer: [2 kg]

@@ -1,0 +1,45 @@
+The given stress tensor is:
+
+```
+| 80 -40   0 |
+| -40  20   0 |
+|   0   0 -20 |
+```
+
+The Tresca criterion states that yielding will occur when the difference between the maximum and minimum principal stresses in a body exceeds a certain value. For a material with yield strength `sigma_y`, this critical difference is `2*sigma_y`.
+
+To find the principal stresses, we need to find the eigenvalues of the stress tensor. The characteristic equation is:
+
+```
+| 80-x   -40     0 |   | x²     0      0   |
+| -40   20-x     0 | * |  0    x²      0   | = 0
+|   0     0   -20-x|   |  0     0   (20+x) |
+```
+
+Expanding this gives:
+
+```
+x^3 - 80x^2 - 800x = 0
+```
+
+One solution is `x = 0`. Dividing the characteristic equation by `x` and applying the quadratic formula to the resulting equation gives the other two solutions:
+
+```
+x = 40 ± 4√70
+```
+
+The maximum and minimum principal stresses are therefore `40 + 4√70` and `-20`, respectively. The difference between these is:
+
+```
+40 + 4√70 - (-20) = 60 + 4√70
+```
+
+This means that the uniaxial tensile yield stress of the material should be less than or equal to:
+
+```
+(1/2) * (60 + 4√70) = 30 + 2√70 ≈ 39
+```
+
+Therefore, the answer is:
+
+- 39

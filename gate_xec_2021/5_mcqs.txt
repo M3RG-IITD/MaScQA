@@ -1,0 +1,5 @@
+Match the different transformations/reactions in Column I with the most suitable information in Column II.
+Column I: [(P) Eutectoid reaction, (Q) Martensitic transformation, (R) Precipitation reaction]
+Column II: [(1) involves no diffusion, (2) one solid phase transforms into two solid phases, (3) occurs in supersaturated solutions]
+
+Options: (A) P-2; Q-3; R-1 (B) P-1; Q-2; R-3 (C) P-2; Q-1; R-3 (D) P-3; Q-2; R-1

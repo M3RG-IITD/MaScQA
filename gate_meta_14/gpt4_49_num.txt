@@ -1,0 +1,27 @@
+To find the ideal plastic work of deformation per unit volume, we first need to find the true stress at the given true strain. We use the given flow curve equation:
+
+σ = 200 * ε^(0.25)
+
+Plugging in ε = 0.3, we get:
+
+σ = 200 * (0.3)^(0.25) ≈ 200 * 0.794 ≈ 158.8 MPa
+
+Next, we need to find the plastic work by integrating the flow curve equation with respect to strain over the range of strain from 0 to ε:
+
+Plastic work = ∫(200 * ε^(0.25)) dε
+
+Integrating this equation over the range of strain from 0 to 0.3:
+
+Plastic work = [ (800/1.25) * ε^(1.25) ] from 0 to 0.3
+
+Plugging in ε = 0.3, we get:
+
+Plastic work = (800/1.25) * (0.3)^(1.25) ≈ 640 * 0.453 ≈ 289.92 J/m³
+
+To convert this value to MJ/m³, divide by 1,000,000:
+
+Plastic work ≈ 289.92 / 1,000,000 ≈ 0.00029 MJ/m³
+
+Therefore, the ideal plastic work of deformation per unit volume is approximately 0.00029 MJ/m³.
+
+Answer: [0.00029]

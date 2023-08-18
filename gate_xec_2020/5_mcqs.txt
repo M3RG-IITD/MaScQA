@@ -1,0 +1,2 @@
+The variation of molar volume($V_m$) of a liquid showing glass transition temperature ($T_g$) while colling from its melting temperature ($T_m$) is depicted by:
+(A) I (B) II (C) III (D) IV

@@ -1,0 +1,45 @@
+In this problem, we need to find the length of the metallic tube. We know that heat transfer occurs entirely by steady state convection. We could calculate the heat transfer using convective heat transfer rate (Q) defined as follows:
+
+Q = h * A * ΔT
+
+Where:
+h = 500 W.m^(-2).K^(-1) (convective heat transfer coefficient)
+A = surface area of the tube (m^2)
+ΔT = 700 K (Temperature of tube wall) - 300 K (Temperature of incoming air) = 400 K
+
+We can find the heat gained by the air using the formula:
+
+Q = m_dot * c * ΔT_air
+
+Where:
+m_dot = 1.5 kg.s^(-1) (mass flow rate of air)
+c = 1080 J.kg^(-1) .K^(-1) (specific heat capacity of air)
+ΔT_air = 600 K (Temperature of the air leaving the tube) - 300 K (Temperature of incoming air) = 300 K
+
+Calculating Q:
+
+Q = 1.5 kg.s^(-1) * 1080 J.kg^(-1).K^(-1) * 300 K = 486000 W
+
+Since heat transfer occurs entirely by steady state convection, the heat transfer in both cases should be equal. So,
+
+486000 W = 500 W.m^(-2).K^(-1) * A * 400 K
+
+Now, let's find the surface area of the tube. The tube has the shape of a cylinder, so the formula for the surface area of the cylinder is:
+
+A = 2 * π * r * L
+
+Where:
+r = inner diameter / 2 = 0.08 m / 2 = 0.04 m
+L = length of the tube (m)
+
+Now let's substitute A in the heat transfer equation and solve for L:
+
+486000 W = 500 W.m^(-2).K^(-1) * 2 * 3.14 * 0.04 m * L * 400 K
+
+Dividing both sides by (500 W.m^(-2).K^(-1) * 2 * 3.14 * 0.04 m * 400 K):
+
+L = 486000 W / (500 W.m^(-2).K^(-1) * 2 * 3.14 * 0.04 m * 400 K) ≈ 1.53 m
+
+So, the length of the tube is approximately 1.53 metres.
+
+Answer: [1.53].

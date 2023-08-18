@@ -1,0 +1,40 @@
+Given the concentration C of a solute in a solid along the x direction follows the expression: 
+C = $a_1 * x^2$ + $a_2 * x$.
+
+We know the diffusion coefficient, D, is given as 3 * $10^{-3} mm^2/s$.
+
+Now, we apply Fick's first law of diffusion, which states that the flux, J, is proportional to the negative gradient of concentration, that is:
+
+J = -D * dC/dx.
+
+First, we need to find the derivative of C with respect to x:
+
+dC/dx = d($a_1 * x^2$ + $a_2 * x$)/dx
+
+Given $a_1 = a_2 = 1$, our expression becomes:
+
+C = $x^2 + x$
+
+Now, we need to derivate C with respect to x:
+
+dC/dx = d($x^2 + x$)/dx = $2x + 1$
+
+Now, let's plug this expression for dC/dx and the value of D into the Fick's first law equation and calculate the flux:
+
+J = -D * dC/dx = - (3 * $10^{-3}$) * (2x + 1)
+
+Now, we need to calculate the magnitude of the flux (J) at x = 2 mm:
+
+J = - (3 * $10^{-3}$) * (2 * 2 + 1) = -(3 * $10^{-3}$) * 5
+
+J = -15 * $10^{-3}$ $atoms.mm^{-2}.s^{-1}$ 
+
+Magnitude of flux is positive, so we have:
+
+|J| = 15 * $10^{-3}$ $atoms.mm^{-2}.s^{-1}$ 
+
+So y = 15 (rounded off to the nearest integer).
+
+The magnitude of the flux at 𝑥 = 2mm is 15 * $10^(-3)atoms.mm^(-2)s^(-1)$.
+
+Answer: [15]

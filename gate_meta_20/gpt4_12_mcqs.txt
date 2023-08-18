@@ -1,0 +1,11 @@
+We cannot see the image that you are referring to. However, we can provide an explanation of the differences between a black body and a gray surface, so you can make an informed decision.
+
+A black body is an idealized object that absorbs all incident radiation and re-emits it after reaching a certain temperature. It emits radiation at all wavelengths or frequencies, and the radiation spectrum follows Planck's Law. The peak wavelength of the emitted radiation is inversely proportional to its temperature and can be found using Wien's displacement law.
+
+A gray surface is an object that does not absorb all incident radiation but absorbs and emits radiation with a constant emissivity value between 0 and 1 (excluding endpoints) for all wavelengths. Its emissivity is less than that of a black body, and the radiation spectrum follows Kirchhoff's Law of Thermal Radiation. For a gray surface, the distribution is similar to the black body but with reduced intensity due to the constant emissivity.
+
+So, on a log-log scale for emission spectra, a black body curve would have a higher intensity, while a gray surface curve would have lower intensity at all wavelengths. Both curves would have a peak wavelength, which can be found using Wien's Displacement Law for a given temperature.
+
+Choose the figure showing two curves, one with a higher intensity and the other with a lower intensity that is shifted downwards, having the same peak wavelength, which represents the black body curve and the gray surface curve, respectively.
+
+[('Answer',)]

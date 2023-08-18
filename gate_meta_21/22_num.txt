@@ -1,0 +1,1 @@
+Given: Eutectoid composition: 0.8 wt.%C. Maximum solubility of carbon in α-Fe: 0.025 wt.% C. A 0.6 wt.% C steel sample is slowly cooled from 900°C to room temperature. The fraction of proeutectoid ferrite in the microstructure is?(round off to 2 decimal places). 

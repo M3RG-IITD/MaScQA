@@ -1,0 +1,21 @@
+To answer this question, let's first understand the concepts involved.
+
+Gas Tungsten Arc Welding (GTAW) process, also known as Tungsten Inert Gas (TIG) welding, is a process that uses a non-consumable tungsten electrode to produce the weld. It is used for welding a wide range of materials, including aluminum alloys.
+
+Direct Current Reverse Polarity (DCRP) refers to the welding setup where the electrode is connected to the positive terminal and the workpiece is connected to the negative terminal. In this mode, the electrons flow from the workpiece to the electrode, generating heat primarily on the workpiece.
+
+Now let's evaluate Assertion (a) and Reason (r):
+
+(a): During welding of aluminium alloys by the gas tungsten arc welding process, direct current reverse polarity (DCRP) mode is used.
+
+This assertion is true. Aluminum has a tenacious oxide layer that has a higher melting temperature than the base metal itself. DCRP mode generates more heat on the workpiece, which helps to break through the oxide layer and achieve proper fusion.
+
+(r): DCRP facilitates breaking up of the oxide film on the workpiece surface.
+
+The reason is also true. As mentioned above, DCRP generates more heat on the workpiece, which helps to break through the oxide layer and achieve proper fusion.
+
+Since both assertion (a) and reason (r) are true and reason (r) is the reason for assertion (a), the correct answer is:
+
+(C) both a and r are true, and r is the reason for a
+
+Overall, aluminum welding often uses the DCRP mode in the GTAW process to facilitate the breakdown of the oxide layer on the workpiece, resulting in a cleaner and stronger weld.

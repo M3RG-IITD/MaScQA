@@ -1,0 +1,51 @@
+In a hexagonal closed packed (hcp) structure, the unit cell consists of a hexagonal prism, with the top and bottom faces being regular hexagons and the lateral faces being rectangles. 
+
+Let's first determine the c/a ratio for an ideal hcp structure.
+
+Step 1:
+In an ideal hcp structure, the spheres (atoms) are in contact with each other along the edge of the hexagon and the height (c) of the prism. If we consider a sphere placed at the center of the hexagon, it would be in contact with the six spheres surrounding it, forming an equilateral triangle.
+
+Step 2:
+Let the radius of the sphere be R. The side length of this equilateral triangle formed by the centers of three adjacent spheres is 2R. Now we can calculate the height (h) of this equilateral triangle using the Pythagorean theorem. 
+
+h² = (2R)² - R²
+h² = 4R² - R²
+h² = 3R²
+h = √3R
+
+Step 3:
+Now, let's look at the height (c) of the hexagonal prism. The height (c) is the distance between two consecutive layers of spheres, making a height of twice the distance between two adjacent spheres. 
+
+c = 2 * (√(2/3) * R) = √(8/3) * R
+
+Step 4:
+The side length (a) of the hexagonal base can be determined as the diameter of the sphere (2R).
+
+a = 2R
+
+Step 5:
+Calculate the c/a ratio:
+
+(c/a) = (√(8/3) * R) / (2R) = √(8/3) / 2 ≈ 1.633
+
+Now let's determine the packing efficiency of an ideal hcp structure.
+
+Step 6:
+The volume of the hexagonal prism, V_prism = area of base * height = (3 * √3 / 2) * a² * c
+
+Step 7:
+In an ideal hcp structure, one unit cell consists of 6 particles. The volume of these particles, V_particles = 6 * (4/3 * π * R³)
+
+Step 8:
+Packing efficiency = (V_particles / V_prism) * 100%
+
+Using the values derived from previous steps, 
+
+Packing efficiency = [(6 * (4/3 * π * R³)) / ((3 * √3 / 2) * a² * c)] * 100%
+= [(6 * (4/3) * π * R³) / ((3 * √3 / 2) * (2R)² * √(8/3) * R)] * 100%
+= [(8 * π * R³) / (2 * √3 * 4 * R² * √(8/3) * R)] * 100%
+= [ (π * R³) / ((4/3) * R³)] * 100%
+
+The packing efficiency is approximately 74%.
+
+So, the correct answer is (B) 1.633 and 74%.

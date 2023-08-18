@@ -1,0 +1,1 @@
+A sieve made of steel wire of diameter 53 µm has an aperture size of 74 µm. Its mesh number is? (round off to the nearest integer). 

@@ -1,0 +1,2 @@
+During decarburization in a steel bath at 1550 °C, the compositions of dissolved C (wt.%C) and dissolved O (wt.%O) follow the relation: (wt.%C)(wt.%O) = K. When the partial pressure of CO ($𝑝_(𝐶𝑂)$) is 1 atm, K = 0.002. If $𝑝_(𝐶𝑂)$ = 0.1 atm, what is the value of K, at the same temperature? Note: Assume Henry’s law is applicable.
+(A) 0.06 (B) 0.002 (C) 0.02 (D) 0.0002

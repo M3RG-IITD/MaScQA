@@ -1,0 +1,35 @@
+First, we need to calculate the terminal velocity of the alumina particle using Stokes law:
+
+$v_t = \frac{2r^2(\rho_p - \rho_f)g}{9\eta}$
+
+where $r$ is the radius of the particle, $\rho_p$ is the density of the particle, $\rho_f$ is the density of the fluid, $\eta$ is the viscosity of the fluid, and $g$ is the acceleration due to gravity.
+
+Converting the diameter of the particle to radius:
+
+$r = 25\times10^{-6}$ m
+
+Plugging in the values:
+
+$v_t = \frac{2(25\times10^{-6})^2((3650-7000) kg/m^3)(9.81 m/s^2)}{9(6\times10^{-3} kg/m/s)} = -0.00406 m/s$
+
+Note that the negative sign here just indicates that the particle is moving in the opposite direction of gravity, i.e. upwards.
+
+Next, we can use the following kinematic equation to calculate the time ($t$) for the particle to travel a distance ($d$) at a constant velocity:
+
+$d = \frac{1}{2}at^2 + v_{t}t$
+
+where $a$ is the acceleration of the particle, which is equal to $g$ in this case since the particle is falling in the opposite direction of gravity.
+
+We can rearrange this equation to solve for $t$:
+
+$t = \frac{-v_t \pm \sqrt{v_t^2 - 4(0.5)(-g)(-d)}}{2(-g)}$
+
+Taking the positive root since time cannot be negative:
+
+$t = \frac{-(-0.00406) + \sqrt{(-0.00406)^2 - 4(0.5)(-9.81)(-2)}}{2(-9.81)} = 53.8$ seconds.
+
+So the time required for the alumina particle to float to the surface from a depth of 2m would be 53.8 seconds (rounded to three significant figures).
+
+Answer: 
+
+- 53.8 s

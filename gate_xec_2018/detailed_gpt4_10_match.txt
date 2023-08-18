@@ -1,0 +1,27 @@
+To match the invariant reactions in Column I with the names in Column II, we need to understand the definitions of the terms in Column II:
+
+(1) Monotectic: A three-phase reaction in which a liquid phase reacts with a solid phase to form another solid phase (L + α ⇄ β).
+
+(2) Peritectoid: A three-phase reaction in which all participating phases are solid (α + β ⇄ γ).
+
+(3) Peritectic: A three-phase reaction in which a liquid phase reacts with a solid phase to form another solid phase (L + α ⇄ β).
+
+(4) Eutectoid: A three-phase reaction in which one solid phase transforms into two other solid phases upon cooling (γ ⇄ α + β).
+
+(5) Eutectic: A three-phase reaction in which a liquid phase transforms into two solid phases upon cooling (L ⇄ α + β).
+
+Now we can match the reactions in Column I with the terms in Column II:
+
+(P) 𝐿 ⇄ 𝛼 + 𝛽: This is a three-phase reaction in which a liquid phase transforms into two solid phases upon cooling. It corresponds to Eutectic (5).
+
+(Q) 𝐿 + 𝛼 ⇄ 𝛽: This is a three-phase reaction in which a liquid phase reacts with a solid phase to form another solid phase. It corresponds to Monotectic (1).
+
+(R) 𝛾 ⇄ 𝛼 + 𝛽: This is a three-phase reaction in which one solid phase transforms into two other solid phases upon cooling. It corresponds to Eutectoid (4).
+
+(S) 𝛼 + 𝛽 ⇄ 𝛾: This is a three-phase reaction in which all participating phases are solid. It corresponds to Peritectoid (2).
+
+So the correct matching is:
+
+P - 5, Q - 1, R - 4, S - 2.
+
+The correct option is (C).

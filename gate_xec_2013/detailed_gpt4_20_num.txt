@@ -1,0 +1,32 @@
+In order to answer this question, we will first establish a clearer understanding of what an isomorphous alloy system is.
+
+An isomorphous alloy system consists of two elements (in this case, A and B) that form a continuous series of solid solutions over the entire range of compositions. The phase diagram for an isomorphous alloy system contains two distinct regions - liquid and solid - separated by a curved boundary. The temperature at which the alloy changes from a liquid to a solid is dependent on the composition of the alloy.
+
+It's important to note that the figure referred to in the question is not provided. However, the critical information needed from the figure is the liquidus and solidus curves in the phase diagram for the A-B alloy system. 
+
+Assuming that the given composition lies on this diagram, we can estimate the weight percentage of the liquid phase in the alloy system.
+
+Here are the step-by-step instructions for solving the problem:
+
+1. Locate the point corresponding to the alloy composition (47 wt% A and 53 wt% B) and the given temperature (1300°C) on the phase diagram. 
+
+2. The point should lie in between the liquidus and solidus curves on the diagram, indicating that the alloy is in a partially liquid and partially solid state at the given temperature and composition.
+
+3. Observe the lever (tie) line connecting the liquidus and solidus temperatures for a given composition. This line represents the proportion of the liquid and solid phases in the alloy.
+
+4. Identify the intersection points between the lever line and the liquidus and solidus curves. The distance between the alloy composition and each of these intersection points is inversely proportional to the weight percentages of the liquid and solid phases.
+
+5. Calculate the ratio of the distances between the alloy composition point and the intersections points on the liquidus and solidus curves. Let's call these distances Ll (distance from liquidus) and Ls (distance from solidus).
+
+Ratio = Ll / (Ll + Ls)
+
+6. Use this ratio to determine the weight percentages of the liquid and solid phases:
+
+Liquid weight percentage = (Ll / (Ll + Ls)) * 100
+Solid weight percentage = (Ls / (Ll + Ls)) * 100
+
+Without the actual diagram, we can't calculate the specific weight percentage of the liquid phase. However, if you were to apply these steps to the necessary diagram, you would be able to determine the correct answer. 
+
+To provide the requested answer format, the correct answer in the list format, assuming you calculated the values, would be:
+
+[liquid_weight_percentage]

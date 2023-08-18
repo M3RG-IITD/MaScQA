@@ -1,0 +1,1 @@
+Assume: $(C_p)^(liquid)$ = $(C_p)^(solid)$. Melting point of Cu is 1358K and its enthalpy of melting is 13400 J $mol^(-1)$. The value of free energy change (in J $mol^(-1)$) for liquid to solid transformation at 1058K is?(round off to nearest integer)

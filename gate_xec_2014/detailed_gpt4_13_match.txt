@@ -1,0 +1,25 @@
+Let's analyze the options in Column II and find out which reaction in Column I corresponds to the given name.
+
+1) Peritectic: A peritectic reaction is a reaction in which a liquid phase (L) reacts with a solid phase (S) on cooling to give a new solid phase. The general reaction can be written as L + S -> S'.
+ 
+2) Eutectic: A eutectic reaction is a reaction in which a liquid phase (L) on cooling transforms into two solid phases (S1 and S2). The general reaction can be written as L -> S1 + S2.
+
+3) Monotectic: A monotectic reaction is a reaction in which a liquid phase (L) on cooling gives a new liquid phase (L') and a solid phase (S). The general reaction can be written as L -> L' + S.
+
+4) Eutectoid: A eutectoid reaction is a reaction in which a solid phase (S) undergoes a transformation to give two new solid phases (S1 and S2) on cooling. The general reaction can be written as S -> S1 + S2.
+
+Now we can analyze the reactions in Column I and match them with the type of reaction in Column II.
+
+(P) L on cooling gives α + β: This reaction corresponds to a liquid phase transforming into two solid phases upon cooling. Thus, this reaction is a Eutectic reaction (2).
+
+(Q) L + β on cooling gives γ: This reaction corresponds to a liquid phase reacting with a solid phase and resulting in a new solid phase upon cooling. Therefore, this reaction is a Peritectic reaction (1).
+
+(R) α on cooling gives β: This reaction does not correspond to any of the given definitions in Column II, so it does not have a match.
+
+So the correct answer is:
+(P) L on cooling gives α + β -> (2) Eutectic
+(Q) L + β on cooling gives γ -> (1) Peritectic
+
+Thus, the correct matching is:
+
+[B] P-2, Q-1, R-4

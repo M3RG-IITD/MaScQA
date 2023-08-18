@@ -1,0 +1,24 @@
+We can assume that the relationship between the yield strength and grain size can be described by the Hall-Petch relationship:
+
+σ_y = σ_o + k_d^(-1/2)
+
+where σ_y is the yield strength, σ_o is the intrinsic (or base) yield strength, d is the grain size, k is a material constant, and the exponent (-1/2) is the Hall-Petch slope.
+
+We can use the given data to find the material constant:
+
+100 MPa = σ_o + k_(64 µm)^(-1/2)
+145 MPa = σ_o + k_(25 µm)^(-1/2)
+
+Subtracting the first equation from the second, we get:
+
+45 MPa = k_(25 µm)^(-1/2) - k_(64 µm)^(-1/2)
+
+Squaring both sides and isolating k, we get:
+
+k = [45 MPa / (1 / 25 µm)^(-1/2) - (1 / 64 µm)^(-1/2)]^2 ≈ 1.353 MPa·µm^(1/2)
+
+Now we can use this constant to find the yield strength for a grain size of 36 µm:
+
+σ_y = σ_o + k_d^(-1/2) = 100 MPa + 1.353 MPa·µm^(1/2)·(36 µm)^(-1/2) ≈ 125.4 MPa
+
+Therefore, the answer is (B) 125.

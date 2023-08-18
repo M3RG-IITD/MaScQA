@@ -1,0 +1,1 @@
+With increasing temperature from 15°C in winter to 45°C in summer, the length of an iron rail track increases by 0.05 cm. Calculate the original length of the iron rail track in cm. (linear thermal expansion coefficient of iron is 11.0 * $10^(-6)$ $K^(-1)$)

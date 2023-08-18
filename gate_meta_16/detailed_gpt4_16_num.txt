@@ -1,0 +1,36 @@
+We have a cubic crystal with lattice parameter 'a'. The Burger's vector (b) of the dislocation is given as (a/2)[1 1 0]. The dislocation line is along the [1 1 2] direction. We are to find the angle between the dislocation line and the Burger's vector.
+
+First, let's express the Burger's vector and the dislocation line vector in terms of their magnitudes and unit vectors:
+
+Burger's vector (b) = (a/2)(i + j)
+Dislocation line vector (t) = i + j + 2k
+
+Now, we need to find the magnitudes of these vectors:
+
+|b| = |(a/2)(i + j)| = (a/2)|1 + 1| = a/√2
+|t| = |i + j + 2k| = √(1^2 + 1^2 + 2^2) = √6
+
+To find the angle between the Burger's vector (b) and the dislocation line vector (t), we can use the dot product formula:
+
+b • t = |b| |t| cos(θ)
+
+where θ is the angle between b and t.
+
+We can find the dot product of b and t:
+
+b • t = ((a/2)i + (a/2)j) • (i + j + 2k) = (a/2)i • (i + j + 2k) + (a/2)j • (i + j + 2k)
+
+b • t = ((a/2)i • i) + ((a/2)i • j) + ((a/2)i • 2k) + ((a/2)j • i) + ((a/2)j • j) + ((a/2)j • 2k)
+
+b • t = (a/2)(1) + 0 + 0 + 0 + (a/2)(1) + 0 = a
+
+Plugging this into the formula for the angle:
+
+a = (a/√2)(√6)(cos(θ))
+cos(θ) = a / (a√(12)/2) = a / (3a) = 1/3
+
+θ = cos^(-1) (1/3) ≈ 70.53°
+
+So, the angle between the Burger's vector and the dislocation line vector in the cubic crystal is approximately 70.53°.
+
+Answer: [70.53°]

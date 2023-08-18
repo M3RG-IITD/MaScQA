@@ -1,0 +1,15 @@
+The passive film in stainless steel forms above the:
+
+Step 1: Understand what the passive film in stainless steel is.
+A passive film is a thin oxide layer that forms on the surface of stainless steel. It forms spontaneously when exposed to an oxidizing environment such as air or water, and it helps protect the steel from corrosion.
+
+Step 2: Know the different potentials mentioned in the answer choices.
+(A) Primary passive potential: The potential above which the formation of the passive film begins on the surface of the metal.
+(B) Breakdown potential: The potential at which the passive film starts to break down, allowing corrosion to occur.
+(C) Trans-passive potential: The potential above which a material starts to show trans-passive behaviour, where the passive film breaks down, and the corrosion rate increases rapidly.
+(D) Pitting potential: The potential at which localized corrosion (such as pitting) begins to occur on the surface of the metal.
+
+Step 3: Analyze which potential corresponds to the formation of the passive film.
+The primary passive potential marks the point where the formation of the passive film begins. When the potential reaches this level, the formation of the oxide layer starts, which helps protect the stainless steel from corrosion. This is the correct answer when considering the passage above.
+
+Answer: The passive film in stainless steel forms above the (A) Primary passive potential.

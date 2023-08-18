@@ -1,0 +1,11 @@
+The driving force for liquid to solid transformation is given by the difference between the temperature of the system and the melting point of the substance, normalized by the melting enthalpy. 
+
+So, 
+
+$Driving force = \frac{(melting~temp - actual~temp)}{melting~enthalpy}$
+
+$Driving~force = \frac{(1356~K - 1353~K)}{13~KJ.mol^(-1)}$
+
+$Driving~force = 0.2~J.mol^(-1)$ (rounded off to one decimal place)
+
+Answer: The magnitude of driving force for liquid to transform to solid is 0.2 $J.mol^(-1)$.

@@ -1,0 +1,19 @@
+We can use the equation ∆G = -RT ln(K) to find the equilibrium constant (K) for the reaction.
+
+Given, ∆G = -8000 J/mol and R = 8.314 J/mol*K, and T = 1200 K.
+
+-8000 = -(8.314)(1200) ln(K)
+K = e^(8000 / (8.314*1200))
+
+Now, we can set up the equilibrium expression for the reaction:
+
+K = [CO2]/[CO]  (since both CO and CO2 have 1 atm)
+
+So the equilibrium ratio, 𝑝(CO_2)/ 𝑝(CO), is equal to the equilibrium constant, K.
+
+K = e^(8000 / (8.314*1200))
+K ≈ 4.24
+
+Therefore, the equilibrium ratio 𝑝(CO_2)/ 𝑝(CO) is approximately 4.24.
+
+Answer: [4.24]

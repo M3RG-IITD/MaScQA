@@ -1,0 +1,11 @@
+The formula to calculate specific energy consumption is:
+
+Specific Energy Consumption = (Voltage x Current x 3600) / (Atomic Weight x Cathodic Current Efficiency)
+
+Plugging in the values:
+
+Specific Energy Consumption = (3.5 x 400 x 3600) / (65 x 0.9)
+Specific Energy Consumption = 356000 / 58.33
+Specific Energy Consumption = 6106.90 kJ/kg (rounded to two decimal places)
+
+Answer: [6106.90]

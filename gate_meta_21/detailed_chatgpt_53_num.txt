@@ -1,0 +1,38 @@
+In a BCC iron crystal, each iron atom has 8 octahedral voids surrounding it. 
+
+Let's consider an octahedral void.
+The distance between the two opposite corner iron atoms in a BCC crystal is given by:
+a = 4r/sqrt(3), where r is the radius of the iron atom.
+
+a = 4(0.124 nm)/sqrt(3) = 0.286 nm
+
+Now, let's find the radius of the interstitial atom (r') that can just fit inside this octahedral void.
+
+The octahedral void can be viewed as two square pyramids with their bases sharing a square face. The distance between opposite vertices of a square face is equal to the edge length of the square (a/2). 
+
+Let the radius of the interstitial atom be 'r' and the edge length of the square be 'd'.
+The distance between opposite vertices of the square face is given by:
+d = sqrt[(r + r')^2 + (r + r')^2]
+
+d = sqrt(2)(r + r')
+
+Since the interstitial atom is assumed to fit without distorting the crystal structure, therefore the edge length of the square face should be equal to the distance between two opposite iron atoms.
+
+d = 0.286 nm
+
+Equating the above two equations,
+
+sqrt(2)(r + r') = 0.286 nm
+
+r + r' = (0.286 nm)/sqrt(2)
+
+r + r' = 0.202 nm
+
+The radius of the Fe atom is subtracted from this value to obtain the radius of the interstitial atom.
+
+r' = (r + r') - r = 0.202 nm - 0.124 nm = 0.078 nm
+
+Therefore, the radius of the interstitial atom that can just fit inside an octahedral void of a BCC iron crystal is 0.078 nm.
+
+The answer is:
+- 0.078 nm

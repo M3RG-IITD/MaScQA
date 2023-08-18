@@ -1,0 +1,35 @@
+To calculate the quantity of slag needed for desulphurization, we need to know the initial amount of sulphur in the steel and the final amount of sulphur after desulphurization. 
+
+Given: 
+Initial weight of steel, w = 1000 kg 
+Initial S content in steel, C1 = 0.03 wt.%
+Final S content in steel, C2 = 0.015 wt.% 
+
+Let x be the weight of slag required for desulphurization. 
+
+We know from the given partition ratio that: 
+
+[(wt.%S)in slag]/[(wt.%S) in steel] = 50 
+
+Or, [(wt.%S)in slag] = 50 x [(wt.%S) in steel] 
+
+At the initial state, the weight of S in the steel, ws1 = w x C1 
+And the weight of S in the slag, wslag1 = x x [(wt.%S)in slag] 
+
+At equilibrium, the total weight of S remains constant. Therefore, 
+
+(ws1 - ws2) = (wslag2 - wslag1) 
+
+Where ws2 = w x C2 and wslag2 = x x [(wt.%S)in slag] 
+
+Substituting the values and simplifying, we get: 
+
+x = ws1 - ((ws1 - ws2)/(1 + [(wt.%S)in slag])) 
+
+Plugging in the values, we get: 
+
+x = 1000 x 0.03 - ((1000 x 0.03 - 1000 x 0.015)/(1 + 50)) 
+
+x = 25 kg (rounded off to the nearest integer) 
+
+Therefore, the quantity of slag needed for desulphurization is 25 kg.

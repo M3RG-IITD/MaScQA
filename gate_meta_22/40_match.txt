@@ -1,0 +1,5 @@
+Find the correct match between dislocation reactions (Column A) to the descriptions (Column B) 
+Column A: [(P) $a_°$/2 [-1 -1 1] + $a_°$/2 [1 1 1] = $a_°$ [ 0 0 1], (Q) $a_°$/6 [-1 2 -1 ] + $a_°$/6 [1 -1 2] = $a_°$/6 [0 1 1], (R) $a_°$/6 [1 -2 1] + $a_°$/6[-1 -1 2] = $a_°$/2 [0 -1 1] ]
+Column B: [(1) Leading partials merging to form a Lomer-cottrell lock in an FCC metal, (2) Energetically unfavorable dislocation reaction in an FCC metal, (3) Typical dislocation reaction in a BCC metal]
+
+Options: (A) P - 3, Q - 2, R - 1 (B) P - 3, Q - 1, R - 2 (C) P - 2, Q - 3, R - 1 (D) P - 2, Q - 1, R - 3 

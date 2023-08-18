@@ -1,0 +1,25 @@
+To determine the microstructure of the quenched steel sheet, we should first examine what happens during heating and quenching of a 0.2 wt.% plain carbon steel. 
+
+Step 1: Understand the steel's composition
+Plain carbon steel refers to steel with primarily iron and carbon content. Given a 0.2 wt.% carbon steel sheet, we know that there is 0.2% by weight of carbon in the steel, and the remainder is primarily iron and other alloying elements in small amounts.
+
+Step 2: Analyze the heating process
+During the heating process, the steel is stated to be equilibrated in the inter-critical region. This region lies between the eutectoid temperature and the upper critical temperature (A3 temperature), and usually ranges from about 727°C (the eutectoid temperature) to roughly 910°C (the A3 temperature). At this point, the steel consists of two phases: austenite (γ) and ferrite (α).
+
+Step 3: Examine the quenching process
+Instant water quenching is the rapid cooling of steel from the inter-critical region. This rapid cooling results in the formation of a particular phase called martensite. This process is called martensitic transformation. However, due to the inter-critical region, the amount of austenite converted to martensite depends on the temperature and carbon content of the steel.
+
+Step 4: Evaluate which microstructure contains martensite
+Given the following options: (A) fully martensite, (B) proeutectoid ferrite + martensite, (C) martensite + pearlite, and (D) martensite + austenite, we notice that all of them contain martensite, making it difficult to determine the correct answer. We need to examine which option has the appropriate additional phase changes subjected to the inter-critical region heating and rapid quenching.
+
+Option (A): Fully martensite - If the 0.2 wt.% plain carbon steel were fully martensitic, it would have to be heated and quenched from above the A3 temperature to allow complete austenization followed by quenching. However, the steel is in the inter-critical region, meaning that it contains some ferrite as well.
+
+Option (B): Proeutectoid ferrite + martensite - This microstructure involves the proeutectoid phase (ferrite) followed by austenite to martensite transformation. It suggests the carbon steel experienced an inter-critical region, which would cause a ferrite and martensite coexistence.
+
+Option (C): Martensite + pearlite - Pearlite is a lamellar mixture of ferrite and cementite (Fe3C) and occurs during the eutectoid reaction at 727°C. With the inter-critical region heating and rapid quenching, the formation of pearlite is highly unlikely.
+
+Option (D): Martensite + austenite - Due to the rapid quenching, a significant amount of austenite transforms into martensite. However, it is possible that some retained austenite remains since not all of the austenite may have sufficient time to transform. Nonetheless, the steel has 0.2% carbon content, and generally, a higher carbon content is required to have retained austenite.
+
+Based on the above analysis, the correct answer is:
+
+(B) proeutectoid ferrite + martensite

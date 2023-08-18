@@ -1,0 +1,5 @@
+With reference to the stress intensity factor, find the correct match of nomenclature (Column A) with the mode of deformation applied to the crack (Column B). 
+Column A: [(P) Mode I, (Q) Mode II, (R) Mode III]
+COlumn B: [(X) Forward shear mode, (Y) Parallel shear mode, (Z) Crack opening mode ]
+
+Options: (A) P - Z, Q - Y, R - X (B) P - Z, Q - X, R - Y (C) P - Y, Q - X, R - Z (D) P - Y, Q - Z, R - X

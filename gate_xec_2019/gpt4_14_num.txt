@@ -1,0 +1,44 @@
+To find the partial pressure of hydrogen required to stop the corrosion of nickel, we can use the Nernst equation:
+
+E = E₀ - (RT/nF) * ln(Q)
+
+In this equation:
+- E is the cell potential
+- E₀ is the standard cell potential
+- R is the universal gas constant (8.314 J K^(−1)mol^(−1))
+- T is the temperature in Kelvin (298 K)
+- n is the number of moles of electrons transferred (2 for nickel)
+- F is Faraday's constant (96500 C mol^(−1))
+- Q is the reaction quotient, which represents the ratio of the concentrations of the products and reactants in the reaction
+
+We want to find the partial pressure of hydrogen (P(H2)) such that the corrosion of nickel stops. This happens when the cell potential (E) equals zero. To find the reaction quotient (Q), we need to consider the concentration of H+ ions:
+
+[H+] = 10^(-pH) = 10^(-4) M
+
+Next, we need to determine the concentration of nickel ions (Ni2+) in the solution:
+
+[Ni2+] = 0.06 M (assuming complete dissociation of nickel chloride)
+
+Now we can find the reaction quotient (Q) for the reduction reaction of 2H+ + 2E- → H2:
+
+Q = ([H2] / ([H+]^2))
+
+Since the concentration of the gas is proportional to its partial pressure, we can write Q in terms of P(H2):
+
+Q = (P(H2) / ([H+]^2))
+
+Now we can use the Nernst equation to find the partial pressure of hydrogen. Setting E to 0 and rearranging the equation, we get:
+
+0 = E₀ - (RT/2F) * ln(P(H2) / ([H+]^2))
+
+P(H2) = (([H+]^2) * exp((2F * E₀)/(RT)))
+
+Substitute the known values:
+
+P(H2) = ((10^(-8)) * exp((2 * 96500 * (-0.25))/(8.314 * 298)))
+
+P(H2) = 2.405 * 10^(-5) atm
+
+Rounding off to the nearest integer, the partial pressure of hydrogen required to stop the corrosion of nickel is approximately 0 atm. However, note that this value is very low and not very meaningful in practice.
+
+The correct answer inside a list is: [0]

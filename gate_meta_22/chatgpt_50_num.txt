@@ -1,0 +1,14 @@
+The formula to calculate the spacing between dislocations is:
+
+Spacing between dislocations = lattice parameter / sin(misorientation angle / 2)
+
+Substituting the given values, we get:
+
+Spacing between dislocations = 0.143 / sin(2°/2)
+                                 = 0.143 / sin(1°)
+                                 = 0.143 / 0.017452
+                                 = 8.19 nm (rounded off to 2 decimal places)
+
+Therefore, the spacing between the dislocations that form the tilt boundary is 8.19 nm. 
+
+Answer: [8.19]

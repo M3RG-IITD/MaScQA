@@ -1,0 +1,29 @@
+First, we need to determine the principal stresses by finding the eigenvalues of the stress tensor. The characteristic equation is:
+
+det(σ - λI) = 0
+
+where σ is the stress tensor, λ is the eigenvalue, and I is the identity matrix. Substituting the values from the stress tensor, we get:
+
+det(σ - λI) = det([40-λ, 10, 20; 10, -20-λ, -10; 20, -10, -20-λ])
+
+Expanding this determinant, we get:
+
+(40-λ)[(-20-λ)(-20-λ)-(-10)(-10)] - 10[10(-20-λ)-(-10)(20)] + 20[10(-10)-20(20-λ)] = 0
+
+Simplifying this expression, we get:
+
+λ^3 + 60λ^2 - 1120λ = 0
+
+Factoring out λ, we get:
+
+λ(λ+80)(λ-14) = 0
+
+Therefore, the principal stresses are σ1 = 80 MPa, σ2 = -14 MPa, and σ3 = 0 MPa.
+
+Now we can apply the Tresca Criterion, which states that yielding occurs when the difference between any two principal stresses is equal to or greater than the yield strength of the material. The maximum difference between any two principal stresses is:
+
+σ1 - σ2 = 80 - (-14) = 94 MPa
+
+Therefore, the uniaxial tensile yield stress of the body should be less than or equal to 94 MPa. Rounded to the nearest integer, the answer is 94 MPa.
+
+Answer: [94]

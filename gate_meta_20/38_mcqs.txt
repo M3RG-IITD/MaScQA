@@ -1,0 +1,2 @@
+Determine the correctness or otherwise of the following Assertion [a] and the Reason [r]. Assertion [a]: The rate of homogenization in a dilute substitutional solid solution of B in A is controlled by the diffusivity of B. Reason [r]: Atomic migration cannot occur along dislocations and grain boundaries. 
+(A) Both [a] and [r] are true and [r] is the correct reason for [a] (B) Both [a] and [r] are true but [r] is not the correct reason for [a] (C) Both [a] and [r] are false (D) [a] is true but [r] is false

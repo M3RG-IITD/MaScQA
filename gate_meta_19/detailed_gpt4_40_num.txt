@@ -1,0 +1,33 @@
+To solve this problem, we will first use the given information to determine the mole fraction of zinc in the solution, and then apply Henry's Law to find the partial pressure of zinc in equilibrium with the liquid lead.
+
+Step 1: Convert the mole percentage of zinc to a mole fraction
+0.03 mole % = 0.03/100 = 0.0003 moles of zinc
+
+Step 2: Apply Henry's Law with the given Henry's law coefficient 
+Henry's Law states that the partial pressure of a solute in a solution is proportional to the mole fraction of the solute, with the proportionality constant being the Henry's Law constant, which in this case is the Raoultian scale coefficient $(γ_(zb))°$ for zinc at infinite dilution.
+
+The equation for Henry's Law is:
+$P_{zn} = x_{zn} * (p_{zn})° * (γ_{zb})°$
+
+where
+$P_{zn} = $ partial pressure of zinc in equilibrium
+$x_{zn} = $ mole fraction of zinc in the solution (0.0003)
+$(p_{zn})° = $ vapor pressure of pure zinc (0.027 atm)
+$(γ_{zb})° = $ Henry's law coefficient (8.55)
+
+Step 3: Calculate the partial pressure of zinc
+$P_{zn} = (0.0003) * (0.027) * (8.55)$
+$P_{zn} = 6.534 * 10^{-5} atm$
+
+Step 4: Convert the partial pressure from atm to torr
+1 atm = 760 torr
+$P_{zn} (torr) = P_{zn} (atm) * 760$
+$P_{zn} (torr) = 6.534 * 10^{-5} * 760$
+$P_{zn} (torr) = 0.04965764$
+
+Step 5: Round off the value of partial pressure to two decimal places
+$P_{zn} (torr) = 0.05$ (rounded off to two decimal places)
+
+So, the partial pressure of zinc in equilibrium with liquid lead containing 0.03 mole % zinc at 900K is 0.05 torr.
+
+The correct answer is [0.05].

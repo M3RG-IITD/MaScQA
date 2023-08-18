@@ -1,0 +1,18 @@
+Using Griffith's theory, the fracture stress can be calculated using the formula:
+
+σ_f = (√(2 γ E))/a
+
+where 
+γ = surface energy per unit area
+E = Young's modulus
+a = crack length
+
+For the internal crack, a = 5 μm
+σ_f = (√(2 x 1 x 10^(-3) x 70 x 10^9))/5 x 10^(-6) = 21.0 MPa (approx)
+
+For the surface crack, a = 3 μm
+σ_f = (√(2 x 1 x 10^(-3) x 70 x 10^9))/3 x 10^(-6) = 24.3 MPa (approx)
+
+Therefore, the fracture stress for the surface crack is approximately 24.3 MPa. 
+
+Answer: [24.3]

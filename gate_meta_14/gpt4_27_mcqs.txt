@@ -1,0 +1,37 @@
+We are given the true strain (ε) and the change in gauge length (ΔL).
+
+True strain (ε) = 0.405
+Change in gauge length (ΔL) = 5 mm
+
+We know that:
+
+True strain = ln(L_final / L_initial)
+
+Where L_final is the final gauge length and L_initial is the initial gauge length. 
+
+To find the final gauge length, we need to determine the initial gauge length. We can rearrange the true strain formula to get:
+
+L_initial = L_final / e^ε
+
+Now, we know that:
+
+L_final - L_initial = ΔL
+L_initial = L_final - ΔL
+
+Substitute this into the formula above:
+
+L_final - ΔL = L_final / e^ε
+
+Rearrange to solve for L_final:
+
+L_final * (1 - e^ε) = ΔL
+L_final = ΔL / (1 - e^ε)
+
+Now plug in the given values and solve for L_final:
+
+L_final = 5 / (1 - e^0.405)
+L_final ≈ 12
+
+So the final gauge length of the specimen is approximately 12 mm. The correct answer is (B) 12.
+
+The answer is: [(B) 12]

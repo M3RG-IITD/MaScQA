@@ -1,0 +1,33 @@
+We know that the magnetic moment per atom can be given as:
+
+$\mu = \frac{M}{n}$
+
+where $\mu$ is the magnetic moment per atom, $M$ is the saturation magnetization and $n$ is the number of atoms per unit volume.
+
+We need to first calculate the number of iron atoms per unit volume. For a simple cubic lattice (which is a good approximation for iron), the number of atoms per unit volume can be calculated as:
+
+$n = \frac{1}{V}$
+
+where $V$ is the volume of the unit cell. For a simple cubic lattice, the volume of the unit cell can be calculated as:
+
+$V = a^3$
+
+where $a$ is the lattice parameter.
+
+Substituting the given values, we get:
+
+$n = \frac{1}{(0.287 \times 10^{-9})^3}$
+
+$n = 1.073 \times 10^{29}$ atoms/m$^3$
+
+Now, we can calculate the magnetic moment per atom:
+
+$\mu = \frac{M}{n}$
+
+$\mu = \frac{1700 \times 10^3}{1.073 \times 10^{29}}$
+
+$\mu = 1.584 \times 10^{-23}$ Am$^2$
+
+Rounding off to 1 decimal place, the answer is:
+
+[1.6]

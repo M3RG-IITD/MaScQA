@@ -1,0 +1,47 @@
+To solve this problem, we first need to find the value of the Sieverts' law constant, $K_N$ at temperature T = 1873 K. Then, we can use this value to find the equilibrium concentration of dissolved nitrogen in liquid iron.
+
+Step 1: Calculate the value of $K_N$ using the given function:
+
+$log_{10}K_N = \frac{-518}{T} - 1.063$
+
+Substitute the temperature value, T = 1873 K:
+
+$log_{10}K_N = \frac{-518}{1873} - 1.063$
+
+$log_{10}K_N ≈ -0.276 - 1.063$
+
+$log_{10}K_N ≈ -1.339$
+
+Now, find $K_N$ by taking the antilog (inverse of logarithm) of $log_{10}K_N$:
+
+$K_N = 10^{-1.339}$
+
+$K_N ≈ 0.0455 \ atm^{-1/2}$
+
+Step 2: Find the partial pressure of Nitrogen ($P_N$) in the atmosphere:
+
+The atmospheric pressure (P) is 1 atm, and the air contains approximately 79% Nitrogen (N) and 21% Oxygen (O). So, we need to find the partial pressure of Nitrogen in the atmosphere:
+
+$P_N = 0.79 * P$
+
+$P_N = 0.79 * 1 \ atm$
+
+$P_N = 0.79 \ atm$
+
+Step 3: Calculate the equilibrium concentration of dissolved nitrogen in liquid iron using Sieverts' law:
+
+Sieverts' law states that the solubility of a gas (in this case, Nitrogen) in a liquid (liquid iron) is proportional to the square root of the gas's partial pressure:
+
+$\%\ h_N = K_N * \sqrt{P_N}$
+
+Substitute the values of $K_N$ and $P_N$:
+
+$h_N = 0.0455 * \sqrt{0.79}$
+
+$h_N ≈ 0.0455 * 0.889$ (rounded to three decimal places)
+
+$h_N ≈ 0.0405$ (rounded to three decimal places)
+
+Thus, the equilibrium concentration of dissolved nitrogen in pure liquid iron when exposed to atmospheric air at 1873 K is approximately 0.0405 wt.%.
+
+Answer: [0.0405]

@@ -1,0 +1,13 @@
+
+
+(B) P-3, Q-1, R-2, S-5
+
+Explanation:
+
+- Mechanical attrition is a process of crushing and grinding solids into fine particles, which results in the formation of nanoparticles. Hence, P-3.
+- Physical vapor deposition is used to create thin films by the process of condensation of a vaporized material onto a substrate. Therefore, Q-1.
+- Injection moulding is a process used to manufacture plastic products. Hence, R-2.
+- Sintering is a process used in the manufacturing of hard materials, such as carbide tools, by heating the powdered material until the particles stick together. Therefore, S-5.
+- Rails are not specifically produced by any of these processes.
+
+Thus, the correct answer is (B) P-3, Q-1, R-2, S-5.

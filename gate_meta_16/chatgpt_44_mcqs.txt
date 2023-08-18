@@ -1,0 +1,7 @@
+There are two polypropylene materials given in the image with different crystallinities and densities. However, we need to find the density of "totally amorphous" polypropylene. Amorphous materials are those that have no long-range order to their molecular arrangement. Therefore, it means that the material is not crystalline at all. 
+
+Looking at the image, we can see that the density of the material decreases as the crystallinity decreases. The highest density given in the options is 956 $kg.m^{-3}$. Therefore, we can eliminate options A, B, and C since they correspond to materials with non-zero crystallinity. The only option left is (D) 956 $kg.m^{-3}$, which corresponds to a material with zero crystallinity, i.e., an amorphous material. 
+
+Thus, the correct answer is:
+
+- (D) 956 $kg.m^{-3}$

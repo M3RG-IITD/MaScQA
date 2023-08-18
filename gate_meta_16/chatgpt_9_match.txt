@@ -1,0 +1,10 @@
+The correct answer is:
+
+(B) P-2, Q-4, R-3, S-1
+
+Explanation:
+
+- Xanthate salts are used in the flotation process (2).
+- Thiobacillus Ferrooxidans is a bacterium used in bacterial leaching (4).
+- Hydrocyclone is used in the classification process (3).
+- Anode effect is a phenomenon observed during the extraction of aluminum (1).

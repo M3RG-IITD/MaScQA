@@ -1,0 +1,13 @@
+To estimate the volume fraction of α phase, we need to use the grid superimposed on the microstructure. We can count the number of grid points that intersect with the α phase particles and divide that by the total number of grid points.
+
+Counting the grid points, we find that there are a total of 45 points that intersect with the α phase particles.
+
+Counting the total number of grid points, we find that there are a total of 100 points.
+
+Therefore, the estimated volume fraction of α phase is:
+
+45/100 = 0.450
+
+Rounded to three decimal places, the answer is:
+
+[0.450]

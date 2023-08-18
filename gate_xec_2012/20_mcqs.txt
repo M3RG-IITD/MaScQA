@@ -1,0 +1,2 @@
+A 20 kN tensile load is applied axially to a steel bar of crosssectional area 8 $cm^2$ and 1m length. The Young’s modulus of steel ($E_(steel)$) is 200 GPa, and of aluminium ($E_(Al)$) is 70 GPa. The Poisson’s ratio (ν) can be taken as 0.3. Calculate the final area of the steel bar after the deformation under the applied load of 20 kN.
+(A) 7.9 $cm^2$ (B) 9.7 $cm^2$ (C) 7.0 $cm^2$ (D) 8.1 $cm^2$

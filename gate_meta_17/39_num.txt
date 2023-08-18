@@ -1,0 +1,1 @@
+A solution contains $10^(-3)$ M of $Fe^(+3)$ at 25°C. The solubility product of $Fe(OH)_3$ is $10^(-39)$. Assuming activity equals concentration, the minimum pH at which $Fe^(+3)$ will precipitate as $Fe(OH)_3$ is?(answer up to two decimals places)

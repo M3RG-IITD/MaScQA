@@ -1,0 +1,15 @@
+To answer this question, let's look at each technique one by one.
+
+(A) Ultrasonic Welding:
+Ultrasonic welding is a solid-state joining process that uses ultrasonic vibrations to create a solid-state weld between two metal pieces without melting the metal. It is often used to join thin sheets or wires, and it's especially useful for joining dissimilar metals. This technique doesn't involve melting, so it can be considered a solid-state metal joining technique.
+
+(B) Friction Welding:
+Friction welding is a solid-state joining process in which heat is generated through mechanical friction between a rotating part and a stationary part. The heat generated raises the temperature of the contact region to the point that plastic deformation occurs, which creates a bond between the two metal parts. Once again, no melting of metal occurs in this process. So, this can also be considered a solid-state metal joining technique.
+
+(C) Diffusion Bonding:
+Diffusion bonding is a solid-state joining process that involves holding two metal surfaces together at an elevated temperature and pressure for an extended period. The atoms of each metal interdiffuse at the interface, creating a bond without melting the metal. This is another example of a solid-state metal joining technique.
+
+(D) Electroslag Welding:
+Electroslag welding is a process in which an electric current is passed through a consumable electrode and a conductive flux, producing high heat and an electric arc. This heat melts both the electrode and the base material, forming a weld pool that solidifies to join the metal parts. Since this process involves melting the metal, it's not considered a solid-state metal joining technique.
+
+Answer: The correct answer is [D].

@@ -1,0 +1,46 @@
+
+
+We can use the rule of mixtures to solve for the volume fraction of fibers in the composite:
+
+E_composite = V_fiber * E_fiber + V_matrix * E_matrix 
+
+where:
+- E_composite is the Young's modulus of the composite
+- V_fiber is the volume fraction of fibers
+- E_fiber is the Young's modulus of the fiber (SiC)
+- V_matrix is the volume fraction of matrix (Ti)
+- E_matrix is the Young's modulus of the matrix (Ti)
+
+We are given:
+- E_composite = 185 GPa
+- E_fiber = 360 GPa
+- E_matrix = 110 GPa
+
+Substituting these values, we get:
+
+185 GPa = V_fiber * 360 GPa + V_matrix * 110 GPa
+
+We also know that the volume fractions of fibers and matrix add up to 1:
+
+V_fiber + V_matrix = 1
+
+We can use this expression to solve for one of the volume fractions in terms of the other:
+
+V_matrix = 1 - V_fiber
+
+Substituting this into the first equation, we get:
+
+185 GPa = V_fiber * 360 GPa + (1 - V_fiber) * 110 GPa
+
+Simplifying this equation, we get:
+
+185 GPa = 250 GPa * V_fiber + 110 GPa
+
+75 GPa = 250 GPa * V_fiber
+
+V_fiber = 0.3 or 30%
+
+Therefore, the volume fraction of fibers in the composite is 30%.
+
+Answer:
+- 30%

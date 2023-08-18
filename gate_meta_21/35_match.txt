@@ -1,0 +1,5 @@
+Match the terms(in Column I) with the unit process (in Column II)
+Column I: [(P) Submerged Entry Nozzle, (Q) Electric Heating, (R) Raceway Zone, (S) Oxygen Lancing]
+Column II: [1. Ladle Furnace, 2. Continuous Casting, 3. L D Convertor, 4. Blast Furnace]
+
+Options: (A) P-2, Q-1, R-4, S-3 (B) P-4, Q-1, R-2, S-3 (C) P-4, Q-3, R-1, S-2 (D) P-2, Q-3, R-4, S-1

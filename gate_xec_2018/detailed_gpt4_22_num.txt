@@ -1,0 +1,52 @@
+To solve this problem, we will use the Arrhenius equation, which relates the rate constant (k) of a chemical reaction to its activation energy (Q) and temperature (T):
+
+k = A * exp(-Q / (R * T))
+
+where A is the pre-exponential factor and exp is the exponential function.
+
+We are given that the case depth doubles when the temperature is increased. This implies that the rate constant of the carburization process doubles as well.
+
+Let k1 be the rate constant at 1300 K and k2 be the rate constant at the new temperature T2.
+
+Since the case depth doubles, we can write:
+
+k2 = 2 * k1
+
+Now let's use the Arrhenius equation for both temperatures:
+
+k1 = A * exp(-Q / (R * 1300))
+k2 = A * exp(-Q / (R * T2))
+
+Since k2 = 2 * k1:
+
+A * exp(-Q / (R * T2)) = 2 * A * exp(-Q / (R * 1300))
+
+We can then cancel out the pre-exponential factor (A):
+
+exp(-Q / (R * T2)) = 2 * exp(-Q / (R * 1300))
+
+Now, we will take the natural logarithm (ln) of both sides:
+
+ln(exp(-Q / (R * T2))) = ln(2 * exp(-Q / (R * 1300)))
+
+This simplifies to:
+
+-Q / (R * T2) = ln(2) - Q / (R * 1300)
+
+Now we can isolate T2:
+
+T2 = Q / (R * (ln(2) - Q / (R * 1300)))
+
+Plugging in the given values for Q and R, we get:
+
+T2 = 148000 / (8.314 * (ln(2) - 148000 / (8.314 * 1300)))
+
+T2 ≈ 1352.88 K
+
+Rounding off to the nearest whole number, we get:
+
+T2 ≈ 1353 K
+
+So, the case depth can be doubled by increasing the temperature to 1353 K.
+
+The correct answer is [1353].

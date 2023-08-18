@@ -1,0 +1,34 @@
+To find the wavelength of the X-rays, we'll use Bragg's Law:
+
+nλ = 2d * sin(θ)
+
+where n is the order of reflection (usually 1 for X-ray diffraction), λ is the wavelength, d is the interplanar spacing, and θ is the Bragg angle.
+
+First, let's find the interplanar spacing (d) using the lattice parameter (a) for a FCC crystal:
+
+For a (111) plane in a FCC crystal, the formula for d is:
+
+d = a/(√(h^2 + k^2 + l^2))
+
+where h, k, and l are the plane indices (1, 1, and 1 in this case).
+
+d = 0.3615 / (√(1^2 + 1^2 + 1^2))
+d = 0.3615 / (√3)
+d = 0.3615 / 1.732
+d ≈ 0.2086 nm
+
+Now we can use Bragg's Law to find the wavelength:
+
+λ = (2d * sin(θ))/n
+
+We'll assume n = 1 (first order reflection):
+
+λ = (2 * 0.2086 * sin(21.68°))/1
+λ ≈ 2 * 0.2086 * 0.3704
+λ ≈ 0.1544 nm
+
+So, the wavelength of the X-rays is approximately 0.154 nm. We'll round off to three decimal places:
+
+λ ≈ 0.154 nm
+
+The correct answer is [0.154].

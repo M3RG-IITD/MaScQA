@@ -1,0 +1,3 @@
+The technique that is not applicable for detecting internal flaws in a ceramic material is the liquid penetration test since ceramics are porous and would absorb the liquid, making it difficult to detect flaws that are deeper within the material. Therefore, the correct answer is:
+
+(A) 1 and 3

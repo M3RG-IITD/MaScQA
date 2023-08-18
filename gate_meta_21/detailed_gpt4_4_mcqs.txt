@@ -1,0 +1,16 @@
+Unfortunately, I cannot provide a solution as I'm not able to view images. However, I can give you a definition of the 'center split' defect in a rolling operation and how to determine which one is the center split in a given image.
+
+Center split (or center crack) defect occurs in the rolling operation when the metal sheet gets divided into two longitudinal sections along its center. This separation or crack happens due to tensile stress at the centerline of the metal sheet. The reasons behind this include improper center line of the rolled material, incorrect roll profile, or uneven material flow during the rolling process.
+
+If you have an image with various rolling defects marked as (A), (B), (C), and (D), look for the one where a long, straight crack or split is seen in the center of the longitudinal section of the metal sheet. This defect should longitudinally divide the metal while appearing like the metal is tearing apart from the center.
+
+To find the correct answer:
+
+1. Carefully examine each option (A), (B), (C), and (D) in the image.
+2. Look for a defect that matches the description of a 'center split.'
+3. Note the letter corresponding to the defect that matches the 'center split' description.
+
+Here is a placeholder list for the answer:
+['X']
+
+Replace 'X' with the letter you find to be the correct answer based on the instructions above.

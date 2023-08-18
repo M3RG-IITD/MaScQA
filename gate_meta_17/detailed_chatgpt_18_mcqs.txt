@@ -1,0 +1,7 @@
+The Frank-Read source is a mechanism for the generation of dislocations in a crystal by cross-slip, which involves the nucleation and propagation of a stacking fault. The stress required to operate a Frank-Read source of length L is given by:
+
+$\tau = \frac{Gb}{L}$
+
+where G is the shear modulus, b is the magnitude of the Burgers vector, and $\tau$ is the resolved shear stress required for slip to occur.
+
+Therefore, the correct option is (A) Gb/L.

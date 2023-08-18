@@ -1,0 +1,40 @@
+Given data, 
+Ambient temperature, T∞ = 298 K
+Emissivity of steel, ε = 0.8
+Convective heat transfer coefficient, h = 4.6 W/m2.K
+Stefan- Boltzmann constant, σ = 5.7 × 10^(-8) W/m2.K4
+Area of the slab, A = 1 × 1 = 1 m2
+Thickness of slab, L = 0.1 m
+Temperature of slab, T1 = 1298 K
+
+Now, we need to find the rate of heat loss from the top surface of the slab by radiation and convection. 
+
+Let q̇ be the rate of heat loss. 
+
+Heat loss by radiation: 
+
+q̇ rad = εσA(T1^4-T∞^4)
+
+Substituting the given values, 
+
+q̇ rad = 0.8 × 5.7 × 10^(-8) × 1 × (1298^4-298^4)
+q̇rad = 861.51 W
+
+Heat loss by convection: 
+
+q̇ conv = hA(T1-T∞)
+
+Substituting the given values, 
+
+q̇ conv = 4.6 × 1 × (1298-298)
+q̇ conv = 4608 W
+
+Hence, the total initial rate of heat loss from the top surface of the slab by radiation and convection is given by 
+
+q̇ = q̇ rad + q̇ conv
+q̇ = 861.51 + 4608
+q̇ = 5469.51 W
+
+Therefore, the initial rate of heat loss from the top surface of the slab by radiation and convection is 5469.51 KW. 
+
+Answer: [5469.51]

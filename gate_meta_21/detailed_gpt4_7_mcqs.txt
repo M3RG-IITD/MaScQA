@@ -1,0 +1,27 @@
+To answer this question, we need to analyze each statement and determine whether it is true or false for the uniaxial tensile stress-strain behavior of polycrystalline aluminum.
+
+(A) True stress is always higher than the engineering stress.
+
+True stress is the actual stress that takes into account the changes in the cross-sectional area of the material during deformation. True stress is calculated using the following equation:
+
+True stress (σ) = Engineering stress (σe) × (1 + strain (ε))
+
+Since strain is always positive during a tensile test, the true stress will always be greater than the engineering stress. So, this statement is TRUE.
+
+(B) At the ultimate stress point on the true stress-strain curve, dσ/dε = 0
+
+The ultimate stress point represents the maximum stress the material can withstand before necking or failure starts to occur. At this point, the slope of the true stress-strain curve (dσ/dε) is not zero. Instead, it represents the material's hardening response to deformation. So, this statement is FALSE.
+
+(C) Resilience is the area under the elastic region of the engineering stress-strain curve.
+
+Resilience represents the capacity of a material to absorb energy when deformed elastically and to return it upon unloading. It is described as the area under the elastic part of the stress-strain curve. So, this statement is TRUE.
+
+(D) Maximum true stress does not correspond to the maximum load.
+
+The maximum true stress corresponds to the stress on the material when it reaches the maximum load before necking or failure starts to occur. However, the engineering stress at the maximum load (also called ultimate tensile strength) is not equal to the maximum true stress due to the changing cross-sectional area. So, this statement is TRUE.
+
+Therefore, the FALSE statement is:
+
+(B) At the ultimate stress point on the true stress-strain curve, dσ/dε = 0
+
+The correct answer is [B].

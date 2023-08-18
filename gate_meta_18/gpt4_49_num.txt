@@ -1,0 +1,22 @@
+First, let's find the volume $V$, surface area $A$, and mass $m$ of the droplet.
+
+- Diameter $d = 1$ mm $= 1 \times 10^{-3}$ m
+- Radius $r = \frac{d}{2} = 0.5 \times 10^{-3}$ m
+- Volume $V = \frac{4}{3}\pi r^3 = \frac{4}{3}\pi (0.5 \times 10^{-3})^3$ m$^3$
+- Surface area $A = 4\pi r^2 = 4\pi (0.5 \times 10^{-3})^2$ m$^2$
+- Mass $m = \rho V = 2700\times \frac{4}{3}\pi (0.5 \times 10^{-3})^3$ kg
+
+Next, we'll use the gas-droplet convective heat transfer coefficient to determine the rate of heat transfer.
+
+- Heat transfer rate $q = hA \Delta T = 200 \times 4\pi (0.5 \times 10^{-3})^2 \times (900 - 300)$ W
+
+Now we'll find how much heat $Q$ must be removed to solidify the droplet.
+
+- Heat of fusion $L_f = 4000$ kJ $kg^(-1) = 4000 \times 10^3$ J $kg^(-1)$
+- Heat $Q = mL_f$
+
+Finally, we'll find the time $t$ it takes to transfer this much heat.
+
+- $t = \frac{Q}{q}$
+
+Plug in the values and calculate the time $t$.

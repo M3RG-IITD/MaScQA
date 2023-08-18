@@ -1,0 +1,27 @@
+We can use the equation for the terminal velocity of a sphere in a fluid (Stokes law), which is given by:
+
+$$v = \frac{2}{9} \frac{(𝜌_p - 𝜌_f)gD^2}{18𝜇}$$
+
+where:
+$v$ = terminal velocity of the inclusion
+$𝜌_p$ = density of the inclusion (2500 kg/m³)
+$𝜌_f$ = density of the liquid steel (7900 kg/m³)
+$g$ = acceleration due to gravity (9.8 m/s²)
+$D$ = diameter of the inclusion (50 micrometers = 50 × 10⁻⁶ m)
+$𝜇$ = viscosity of the liquid steel (0.0079 Pa s)
+
+Plugging in the values:
+
+$$v = \frac{2}{9} \frac{(2500 - 7900)(9.8)(50 \times 10^{-6})^2}{18(0.0079)}$$
+
+$$v = - \frac{2}{9} \frac{(5400)(9.8)(50 \times 10^{-6})^2}{18(0.0079)}$$
+
+$$v \approx -7.762 \times 10^{-5} \, \text{m/s}$$
+
+Since the answer should be given in mm/s, we convert the final result as follows:
+
+$$v \approx -7.762 \times 10^{-5} \, \text{m/s} \times \frac{1000 \, \text{mm}}{1 \, \text{m}} \approx -0.0776 \, \text{mm/s}$$
+
+To two decimal places, the terminal velocity of the spherical inclusion is approximately -0.08 mm/s. The negative sign indicates that the inclusion is rising (moving upwards) in the liquid steel.
+
+So the answer is: [-0.08]

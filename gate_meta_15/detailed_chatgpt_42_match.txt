@@ -1,0 +1,12 @@
+P. Iron-Silicon alloy - 3. Transformer core
+Q. GaAs - 4. Light emitting diode
+R. Nichrome - 1. Heating element
+S. Quartz crystals - 2. Ultrasonic generator
+
+Explanation: 
+- Iron-Silicon alloys have high magnetic permeability and low coercivity. They are used in transformer cores.
+- GaAs (Gallium Arsenide) is a semiconductor material used in the production of LEDs (Light Emitting Diodes) of various colors.
+- Nichrome is an alloy of nickel and chromium that resists oxidation and is used in heating elements due to its high electrical resistance.
+- Quartz crystals have piezoelectric properties, meaning they can convert mechanical energy into electrical energy and vice versa. They are used in ultrasonic generators.
+
+Therefore, the correct option is (A) P-3, Q-4, R-1, S-2.

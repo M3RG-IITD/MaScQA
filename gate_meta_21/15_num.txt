@@ -1,0 +1,1 @@
+Given: For the symmetric distribution: Probability P(X ≤ µ + 2σ) = 0.98. The grain size (X) of annealed specimens follows a symmetric distribution with a mean (µ) of 5µm and a standard deviation (σ) of 0.5 µm. The percentage of specimens with grain size in the range 5 to 6 µm is expected to be?(round off to nearest integer) 

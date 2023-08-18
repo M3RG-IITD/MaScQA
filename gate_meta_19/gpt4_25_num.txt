@@ -1,0 +1,26 @@
+To solve this problem, we can use the principle of volume conservation. The volume of the plate before and after rolling is the same, so:
+
+Initial width * Initial thickness = Final width * Final thickness
+
+Assuming no change in width, we have:
+
+100 cm * 5 cm = 100 cm * 3 cm
+
+Initial volume = Final volume
+
+Now, let's consider the velocities of the plate entering and exiting the rolling process. Since the volume is conserved, the product of the cross-sectional area and the velocity should be the same before and after the process.
+
+Initial area * Initial velocity = Final area * Final velocity
+
+(100 cm * 5 cm) * 10 cm/s = (100 cm * 3 cm) * Final velocity
+
+500 cm²/s = 300 cm² * Final velocity
+
+Now, solve for the final velocity:
+
+Final velocity = 500 cm²/s / 300 cm²
+Final velocity = 5/3 cm/s ≈ 1.7 cm/s (rounded off to one decimal place)
+
+So, the exit velocity of the plate is approximately 1.7 cm/s.
+
+Answer: [1.7]

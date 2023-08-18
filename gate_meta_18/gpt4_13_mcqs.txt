@@ -1,0 +1,20 @@
+To find the room temperature electrical conductivity (σ), we can use the formula:
+
+σ = q * (n * μ_e + p * μ_h)
+
+where
+q = charge of an electron = 1.6 * 10^(-19) C
+n = electron concentration = 1 * 10^16 m^(-3)
+p = hole concentration = 1 * 10^16 m^(-3)
+μ_e = electron mobility = 0.1 m^2.V^(-1).s^(-1)
+μ_h = hole mobility = 0.2 m^2.V^(-1).s^(-1)
+
+Plugging the values into the formula:
+
+σ = (1.6 * 10^(-19)) * ((1 * 10^16) * 0.1 + (1 * 10^16) * 0.2)
+σ = (1.6 * 10^(-19)) * (0.3 * 10^16)
+σ = 4.8 * 10^(-4) (Ω.m)^(-1)
+
+So, the room temperature electrical conductivity is (D) 4.8 * 10^(-4) (Ω.m)^(-1).
+
+Answer: [4.8 * 10^(-4)]

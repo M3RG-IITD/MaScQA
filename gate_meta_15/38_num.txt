@@ -1,0 +1,1 @@
+Configurational entropy due to ideal mixing in a binary A-B system is expressed as: $∆S_(mix)$ = -R*( $X_(A)*ln[X_(A)]$ +   $X_(B)ln[X_(B)]$) where $X_A$ and $X_B$ are mole fractions of A and B respectively. $∆𝑆_(mix)$ is maximum at what $X_A$?

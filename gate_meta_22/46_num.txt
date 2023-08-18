@@ -1,0 +1,1 @@
+From high temperature tensile testing, the flow stress (measured at the same value of strain) of an alloy was found to be 50 MPa at a strain rate of 0.1 $s^(-1)$ and 70 MPa at a strain rate of 10$s^(-1)$. The strain rate sensitivity parameter is? (round off to 3 decimal places).

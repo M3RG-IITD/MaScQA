@@ -1,0 +1,6 @@
+P. Creep resistance: 1. Fine grained two-phase microstructure
+Q. Elastic modulus enhancement: 4. Glass fibres in epoxy
+R. Superplasticity: 2. Single crystal
+S. Increased strength: 3. Coherent precipitates
+
+Therefore, the correct answer is (A) P-3, Q-4, R-2, S-1.

@@ -1,0 +1,10 @@
+The correct answer is:
+
+(D) P-4, Q-1, R-2, S-3
+
+Explanation:
+
+- Aluminium wire feeding is used for deoxidation of liquid steel, which is the removal of oxygen. Therefore, P corresponds to 4.
+- Calcium treatment is used for inclusion modification, which is the alteration or removal of non-metallic particles in the liquid steel. Therefore, Q corresponds to 1.
+- Argon rinsing is used for mixing of liquid steel, which is promoting the homogeneity and uniformity of the composition. Therefore, R corresponds to 2.
+- Lime powder injection is used for de-sulphurization, which is the removal of sulfur from the liquid steel. Therefore, S corresponds to 3.

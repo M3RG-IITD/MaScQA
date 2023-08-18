@@ -1,0 +1,8 @@
+The correct match between Column I and Column II is:
+
+(P) Pb(Zr,Ti)$O_3$ - (2) Piezoelectric ceramic
+(Q) Ni$_(50)Ti_(50)$ - (1) Shape memory alloy
+(R) GaAs - (4) Optoelectronic semiconductor
+(S) $YBa_2Cu_3O_7$ - (3) High temperature superconductor
+
+So, the correct option is (D). Answer: [P-2, Q-1, R-4, S-3].

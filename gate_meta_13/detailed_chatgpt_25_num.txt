@@ -1,0 +1,18 @@
+The formula for heat input is:
+
+Heat Input = (Voltage x Current x 60) / Welding Speed 
+
+where,
+
+Voltage = 20 V
+Current = 200 A
+Welding Speed = 0.01 m/s
+
+Substituting these values in the formula, we get:
+
+Heat Input = (20 x 200 x 60) / 0.01
+Heat Input = 24,000,000 kJ/m
+
+Therefore, the heat input in kJ per unit length is 24,000,000 kJ/m.
+
+Answer: [24,000,000]

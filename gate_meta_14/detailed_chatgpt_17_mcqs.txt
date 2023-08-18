@@ -1,0 +1,14 @@
+The stress amplitude is the difference between the maximum stress and the minimum stress divided by two. 
+
+Stress amplitude = (Max stress - Min stress) / 2
+
+In this case, the maximum stress is 400 MPa in tension and the minimum stress is 300 MPa in compression. 
+
+Therefore, stress amplitude = (400 - (-300)) / 2
+                        = 700 / 2
+                        = 350 MPa
+
+The stress amplitude is 350 MPa. 
+
+Answer: 
+- Stress amplitude = 350 MPa.

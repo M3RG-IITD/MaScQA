@@ -1,0 +1,37 @@
+To calculate the density of the given sintered sample, we can use the Archimedes' principle. Based on Archimedes' principle, when an object is submerged in a fluid, it experiences a buoyant force equal to the weight of the fluid displaced. In this case, the fluid is water.
+
+The steps to calculate the density are as follows:
+
+1. Calculate the buoyant force (loss of weight) in water.
+2. Calculate the volume of the sample using the buoyant force and the density of water.
+3. Calculate the density of the sample using its mass in air and the volume obtained in step 2.
+
+Step 1: Calculate buoyant force (loss of weight) in water
+
+Buoyant force = Mass in air - Apparent mass in water
+Buoyant force = 2.67 g - 1.67 g
+Buoyant force = 1.00 g
+
+Step 2: Calculate the volume of the sample
+
+The weight of water displaced is equal to the buoyant force. We can use the formula:
+
+Weight of water = Volume of water * Density of water
+
+Since the density of water is given as 1.00 g $cm^{-3}$, we can find the volume of the sample using the buoyant force.
+
+Volume of sample = Weight of water / Density of water
+Volume of sample = 1.00 g / 1.00 g $cm^{-3}$
+Volume of sample = 1.00 $cm^3$
+
+Step 3: Calculate the density of the sample
+
+Now, we can calculate the density of the sample using its mass in air and the volume obtained in step 2.
+
+Density of sample = Mass in air / Volume of sample
+Density of sample = 2.67 g / 1.00 $cm^3$
+Density of sample = 2.67 g $cm^{-3}$
+
+However, the answer should be given up to 2 decimal places. Therefore, the density of the sample is 2.67 g $cm^{-3}$.
+
+The final answer is [2.67].

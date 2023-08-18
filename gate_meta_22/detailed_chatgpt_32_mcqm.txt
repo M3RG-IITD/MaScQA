@@ -1,0 +1,17 @@
+Creep is defined as the slow, time-dependent deformation of a material under a constant load or stress. It is a common problem in materials used at high temperatures. Therefore, to achieve better creep resistance in a material for high temperature application, the following characteristics/attributes are desirable:
+
+1. Fine grain size: Materials with a fine grain size are generally more resistant to creep than those with a coarse grain size. This is because fine-grained materials have a higher number of grain boundaries, which act as barriers to the movement of dislocations and thus inhibit creep.
+
+2. High melting point: A high melting point is desirable because it indicates that the material can withstand high temperatures without melting or softening, which would lead to increased deformation.
+
+3. Cold worked microstructure: Cold working can increase the strength and hardness of a material, making it more resistant to creep. This is because cold working introduces dislocations, which can hinder the movement of other dislocations and thus impede creep.
+
+Therefore, the desirable characteristic(s)/attribute(s) for achieving better creep resistance in a material for high temperature application are:
+
+- Fine grain size
+- High melting point
+- Cold worked microstructure
+
+The crystal structure of the material is not directly related to creep resistance, so B is not a correct answer. Therefore, the correct answer is:
+
+- (A), (C), and (D)

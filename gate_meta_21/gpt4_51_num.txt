@@ -1,0 +1,42 @@
+We can use Fick's second law of diffusion to find the depth (x) below the surface at which the carbon concentration is 0.6 wt.% C. The equation is:
+
+C(x, t) = Co + (Cs - Co) * (erf(x / (2 * sqrt(D * t))))
+
+where:
+C(x, t) is the concentration at a depth x and time t
+Co is the initial concentration (0.1 wt.%)
+Cs is the surface concentration (1.1 wt.%)
+D is the diffusivity (1.6 * 10^(-11) m^2/s)
+t is the time (9 hours)
+erf is the error function
+
+We are given the following values:
+Co = 0.1 wt.%
+Cs = 1.1 wt.%
+C(x, t) = 0.6 wt.%
+t = 9 hours = 32400 seconds (since 1 hour = 3600 seconds)
+
+Now we can plug these values into the equation and solve for x:
+
+0.6 = 0.1 + (1.1 - 0.1) * erf(x / (2 * sqrt(1.6 * 10^(-11) * 32400)))
+
+0.5 = erf(x / (2 * sqrt(1.6 * 10^(-11) * 32400)))
+
+To find the inverse error function, we use:
+
+erf^(-1)(0.5) = x / (2 * sqrt(1.6 * 10^(-11) * 32400))
+
+x = 2 * sqrt(1.6 * 10^(-11) * 32400) * erf^(-1)(0.5)
+
+Using a calculator or software to find the inverse error function:
+
+x ≈ 2 * sqrt(1.6 * 10^(-11) * 32400) * 0.4769
+x ≈ 0.0007445 meters
+
+Since the answer should be given in millimeters:
+
+x ≈ 0.7445 mm
+
+Rounding to 2 decimal places, the depth below the surface at which the carbon concentration is 0.60 wt.% C after 9 hours is approximately 0.74 mm.
+
+Answer: [0.74]

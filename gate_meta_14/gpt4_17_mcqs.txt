@@ -1,0 +1,11 @@
+The stress amplitude is given by the formula:
+
+Stress amplitude = (Maximum stress - Minimum stress) / 2
+
+In this case, the maximum stress is 400 MPa, and the minimum stress is -300 MPa (compression is negative). So,
+
+Stress amplitude = (400 - (-300)) / 2 = (400 + 300) / 2 = 700 / 2 = 350 MPa
+
+The stress amplitude is 350 MPa.
+
+The correct answer is [350].

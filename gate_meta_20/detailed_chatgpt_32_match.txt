@@ -1,0 +1,9 @@
+(P) Blast furnace iron making process - (3) Carbothermic reduction - The iron ore is reduced to iron by heating it with coke (carbon) in a blast furnace.
+
+(Q) Hall-Heroult's process - (4) Fused salt electrolysis - This process is used for the production of aluminum. In this process, aluminum oxide is dissolved in molten cryolite and then electrolyzed.
+
+(R) Basic oxygen furnace steel making process - (2) Oxidation - This process is used for making steel. Oxygen is blown into the molten iron to remove impurities and adjust the carbon content.
+
+(S) Kroll's process - (1) Metallothermic reduction - This process is used to produce titanium. In this process, titanium tetrachloride is reduced with magnesium metal.
+
+Therefore, the correct option is (C) P-3, Q-4, R-2, S-1.

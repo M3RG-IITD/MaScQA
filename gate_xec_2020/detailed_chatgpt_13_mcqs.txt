@@ -1,0 +1,15 @@
+The number of Schottky defects per mole of KCl at 300°C can be calculated using the following formula:
+
+$$n = N_A exp\left(\frac{-Q}{RT}\right)$$
+
+where $n$ is the number of defects per mole of KCl, $N_A$ is Avogadro's number, $Q$ is the activation energy for Schottky defect formation, $R$ is the universal gas constant, and $T$ is the temperature in Kelvin.
+
+Substituting the given values into the formula, we have:
+
+$$n = (6.023 \times 10^{23}) exp\left(\frac{-250000}{(8.314)(573)}\right)$$
+
+Simplifying this expression, we get:
+
+$$n = 1.52 \times 10^{16}$$
+
+Therefore, the number of Schottky defects per mole of KCl at 300°C under equilibrium condition is (B) 1.52 * $10^(16)$.

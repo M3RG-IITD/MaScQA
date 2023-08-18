@@ -1,0 +1,5 @@
+Match the entities in Column I with the corresponding processes in Column II. 
+Column I: [[P] Xanthate salts, [Q] Thiobacillus Ferrooxidans, [R] Hydrocyclone, [S] Anode effect]
+Column II: [[1] Extraction of Al, [2] Flotation, [3] Classification, [4] Bacterial Leaching ]
+
+Options: (A) P-4, Q-2, R-3, S-1 (B) P-2, Q-4, R-3, S-1 (C) P-3, Q-4, R-1, S-2 (D) P-4, Q-1, R-2, S-3

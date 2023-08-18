@@ -1,0 +1,29 @@
+We are given the following information:
+
+1. Intrinsic charge concentration of Si (n_i): 1.45 × 10^(10) cm^(-3)
+2. Charge of an electron (e): 1.6 × 10^(-19) C
+3. Drift mobility of electron in n-type Si (μ_n): 1350 cm^2V^(-1)s^(-1)
+4. Concentration of doped phosphorous atoms (N_D): 10^(16) cm^(-3)
+
+We are asked to calculate the electrical conductivity (σ) in Ω^(-1)m^(-1).
+
+First, let's find the concentration of free electrons (n) in the n-type Si crystal. Since it's an n-type semiconductor, we can assume that the number of free electrons is approximately equal to the number of doped phosphorous atoms.
+
+n ≈ N_D = 10^(16) cm^(-3)
+
+Now, let's calculate the electrical conductivity (σ) using the formula:
+σ = n * e * μ_n
+
+Substitute the given values:
+σ = (10^(16) cm^(-3)) * (1.6 × 10^(-19) C) * (1350 cm^2V^(-1)s^(-1))
+
+We need to convert the conductivity from cm^(-1) to m^(-1). There are 100 cm in 1 m, so the conversion factor will be 100.
+
+Conductivity (σ) in Ω^(-1)m^(-1) = (10^(16) * 1.6 * 10^(-19) * 1350 * 100) Ω^(-1)m^(-1)
+
+Calculate the result and round off to the nearest integer:
+σ ≈ 2160 Ω^(-1)m^(-1)
+
+So, the electrical conductivity of the n-type Si crystal doped with 10^(16)cm^(−3) phosphorous atoms is approximately 2160 Ω^(-1)m^(-1).
+
+The final answer is: [2160].

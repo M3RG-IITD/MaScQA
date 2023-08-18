@@ -1,0 +1,1 @@
+The stress required for Orowan dislocation bypass is 200 MPa in an alloy when the interprecipitate spacing is 500 nm. In the same alloy, if the inter-precipitate spacing is reduced to 200 nm, the stress required (in MPa) is?

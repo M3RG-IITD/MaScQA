@@ -1,0 +1,5 @@
+Match the sintering processes in column I with the most suitable products in column II.
+Coloumn I: [(P) Solid state sintering, (Q) Liquid phase sintering, (R) Spark plasma sintering, (S) Laser sintering]
+Coloumn II: [(1) Carbon nanotube products, (2) Mixture of Cu and Zn powder products, (3) Iron powder products, (4) 3D printed products]
+
+Options: (A) P-4; Q-1; R-2; S-3 (B) P-3; Q-2; R-1; S-4 (C) P-3; Q-2; R-4; S-1 (D) P-2; Q-3; R-1; S-4

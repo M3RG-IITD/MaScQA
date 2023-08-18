@@ -1,0 +1,1 @@
+Given: $V_∞$ is the free stream velocity. Water flows over a plate of finite length. At x = $x_1$ from the leading edge, the velocity of the flow is $V_x$ = 0.5y - $0.5*y^(3)$. The thickness, δ(in meter) of the boundary layer at x = $x_1$ is?(round off to 2 decimal places). 

@@ -1,0 +1,13 @@
+Column I describes the process, and column II describes the product obtained. We need to match the correct process with the product obtained. 
+
+1. Mechanical attrition - This process involves the grinding of materials into small particles. This process is used to produce nanoparticles. Hence, P-3.
+
+2. Physical vapour deposition - This process involves the deposition of a thin film of material onto a substrate. Hence, Q-1.
+
+3. Injection moulding - This process is used to manufacture plastic products. Hence, R-2.
+
+4. Sintering - This process involves the heating of materials to form a denser product. This process is used to manufacture rails. Hence, S-4.
+
+5. Carbide Tools - Carbide tools are made of a very hard and tough material. This material is produced by mixing and sintering tungsten carbide powder with a binder metal. Hence, P-4 and S-5.
+
+Hence, the correct answer is option (C) P-4, Q-1, R-3, S-2.

@@ -1,0 +1,2 @@
+A long oil pipeline made of steel is suspected to have developed a scale on the inner surface due to corrosion. Which of the following non-destructive techniques is the most suitable for detecting and quantifying such a defect?
+(A) Dye penetrant test (B) Magnetic particle inspection (C) Ultrasonic inspection (D) Acoustic emission

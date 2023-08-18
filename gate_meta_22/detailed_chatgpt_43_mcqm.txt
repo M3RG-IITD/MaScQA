@@ -1,0 +1,12 @@
+(A) Among all radiation emitted by an ideal black body at room temperature, the most intense radiation falls in the visible light spectrum: This statement is FALSE. An ideal black body at room temperature emits most of its radiation in the infrared region, not in the visible light spectrum. Therefore, option (A) is incorrect.
+
+(B) The total emissive power of an ideal black body is proportional to the square of its absolute temperature: This statement is TRUE. According to Stefan-Boltzmann law, the total emissive power of an ideal black body is proportional to the fourth power of its absolute temperature. Therefore, option (B) is correct.
+
+(C) The emissive power of an ideal black body peaks at a wavelength λ which is inversely proportional to its absolute temperature: This statement is TRUE. According to Wien's displacement law, the wavelength at which the emissive power of an ideal black body is maximum is inversely proportional to its absolute temperature. Therefore, option (C) is correct.
+
+(D) The radiant energy emitted by an ideal black body is greater than that emitted by the non-black body at all temperatures above 0 K: This statement is TRUE. An ideal black body is a perfect emitter and absorbs all radiation incident on it. Therefore, the radiant energy emitted by an ideal black body is always greater than or equal to that emitted by a non-black body. Therefore, option (D) is correct.
+
+Correct options: 
+- (B) The total emissive power of an ideal black body is proportional to the square of its absolute temperature 
+- (C) The emissive power of an ideal black body peaks at a wavelength λ which is inversely proportional to its absolute temperature 
+- (D) The radiant energy emitted by an ideal black body is greater than that emitted by the non-black body at all temperatures above 0 K

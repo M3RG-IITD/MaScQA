@@ -1,0 +1,15 @@
+To determine the fastest diffusing element in iron at 1100°C, we need to consider the diffusion coefficients of the elements. The diffusion coefficient is influenced by factors such as atomic size, temperature, and crystal structure. It describes how fast atoms of one element can diffuse (move) within another element.
+
+For elements A, B, C, and D, we need to compare their diffusion coefficients with respect to iron.
+
+(A) Ni (Nickel) - Ni has a similar atomic radius and shares the same crystal structure (FCC) with iron. Its self-diffusion coefficient in iron is around 2.1 x 10^(-14) m²/s at 1100°C.
+
+(B) Co (Cobalt) - Co also has a similar atomic radius to iron and shares the same crystal structure (HCP). Its self-diffusion coefficient in iron is around 6.2 x 10^(-15) m²/s at 1100°C.
+
+(C) Cr (Chromium) - Cr has a slightly larger atomic radius compared to iron and has a different crystal structure (BCC). Its self-diffusion coefficient in iron is around 1.2 x 10^(-17) m²/s at 1100°C.
+
+(D) C (Carbon) - C has a much smaller atomic radius compared to iron and has a completely different crystal structure (diamond cubic). Its self-diffusion coefficient in iron is around 2.5 x 10^(-12) m²/s at 1100°C.
+
+Comparing the diffusion coefficients, we see that carbon (C) has the highest value, which means it diffuses the fastest in iron at 1100°C.
+
+So, the correct answer is (D) C.

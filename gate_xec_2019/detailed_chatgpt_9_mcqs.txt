@@ -1,0 +1,33 @@
+We can start with using the formula:
+
+energy of a photon = hc/λ
+
+where λ is the wavelength of the photon, h is Planck's constant and c is the velocity of light.
+
+The energy gap of Ge is given as 0.67 eV. This means that a photon with at least 0.67 eV of energy can excite an electron in Ge across the energy gap.
+
+Using the conversion factor given for 1 eV in joules, we can convert the energy gap to joules:
+
+0.67 eV * 1.6 * $10^(-19)$ J/eV = 1.072 * $10^(-19)$ J
+
+We can now use this energy value in the formula for energy of a photon:
+
+1.072 * $10^(-19)$ J = hc/λ
+
+Rearranging, we get:
+
+λ = hc / 1.072 * $10^(-19)$ J
+
+Plugging in the values for h and c, we get:
+
+λ = (6.63 * $10^(-34)$ J s) * (3 * $10^(8)ms^(-1)$) / 1.072 * $10^(-19)$ J
+
+λ = 1.857 * $10^(-6)$ m
+
+Converting this to micrometers, we get:
+
+λ = 1.857 * $10^(6)$ μm
+
+Therefore, the maximum wavelength of radiation to which Ge is opaque is approximately 1.8 μm.
+
+Answer: (B) 1.8 μm

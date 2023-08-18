@@ -1,0 +1,21 @@
+To find the planar atomic density in the (110) plane, we need to first determine the spacing between (110) planes in an iron crystal.
+
+Assuming that the (110) planes are parallel to each other, the spacing d between adjacent (110) planes can be determined using the following formula:
+
+$d = \frac{a}{\sqrt{h^2 + k^2 + l^2}}$
+
+where a is the lattice parameter and hkl are the Miller indices of the crystal plane of interest. For the (110) plane in iron, h = 1, k = 1 and l = 0, so we have:
+
+$d = \frac{0.287}{\sqrt{1^2 + 1^2 + 0^2}} = 0.161 nm$
+
+Now, the planar atomic density N (i.e. the number of atoms per unit area) in the (110) plane can be determined using the following formula:
+
+$N = \frac{1}{d^2}$
+
+Substituting d = 0.161 nm, we get:
+
+$N = \frac{1}{0.161^2} = 38.2 nm^{-2}$
+
+Therefore, the planar atomic density in the (110) plane of a BCC iron crystal is 38.2 $nm^{-2}$ (rounded up to 2 decimal places). 
+
+Answer: [38.2]

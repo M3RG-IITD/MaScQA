@@ -1,0 +1,27 @@
+1. Let's first analyze the given information. We are given that the grain size (X) follows a symmetric distribution with mean (µ) = 5µm and standard deviation (σ) = 0.5µm. We are also given P(X ≤ µ + 2σ) = 0.98.
+
+2. Since the distribution is symmetric, we know that P(X ≥ µ - 2σ) = P(X ≤ µ + 2σ). In other words, 98% of the specimens have a grain size within 2 standard deviations from the mean.
+
+3. We're asked to find the percentage of specimens with grain size in the range of 5 to 6 µm. This range can be represented as (µ to µ + σ).
+
+4. To find this percentage, we'll first find the probability of specimens with grain size in the range (µ - σ) to (µ + σ), which corresponds to the range of 4.5µm to 5.5µm. This is because, for a symmetric distribution, the probability is equal for both sides of the mean.
+
+5. Since we know that P(X ≤ µ + 2σ) = 0.98, and by symmetry P(X ≥ µ - 2σ) = 0.98, we can write:
+
+P(µ - 2σ < X < µ + 2σ) = 0.98
+
+6. For a symmetric distribution, the probability within 1 standard deviation on either side of the mean is roughly 68%. Therefore:
+
+P(µ - σ < X < µ + σ) ≈ 0.68
+
+7. Now we're ready to find the percentage of specimens with grain size in the range of 5 to 6 µm. Since this range is halfway between (µ - σ) to (µ + σ), we can divide the probability P(µ - σ < X < µ + σ) by 2:
+
+P(5µm < X < 6µm) ≈ 0.68 / 2
+P(5µm < X < 6µm) ≈ 0.34
+
+8. Finally, convert the probability to a percentage and round off to the nearest integer:
+
+Percentage ≈ 0.34 * 100
+Percentage ≈ 34%
+
+Answer: [34].

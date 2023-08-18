@@ -1,0 +1,12 @@
+Creep resistance is the ability of a material to withstand deformation over time under stress at high temperatures. 
+
+The answer is (A) Small grain size. 
+
+Explanation: 
+
+- Small grain size: Materials with small grain size have more grain boundaries which impede the movement of dislocations and therefore increase creep resistance.
+- Fine dispersoid size: Dispersoids are particles added to metals to improve their mechanical properties. Fine dispersoid size improves strength, but it does not necessarily improve creep resistance. In fact, if the dispersoids are too fine, they can coarsen at high temperatures and decrease creep resistance.
+- Low stacking fault energy: Stacking fault energy is related to the ease with which dislocations move in the crystal lattice. Low stacking fault energy means that dislocations can move more easily, which decreases creep resistance.
+- High melting point: A high melting point indicates that a material can withstand high temperatures without melting, but it does not necessarily improve creep resistance. 
+
+Therefore, the correct answer is (A) Small grain size.

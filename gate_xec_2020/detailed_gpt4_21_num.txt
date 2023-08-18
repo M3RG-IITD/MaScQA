@@ -1,0 +1,34 @@
+To solve this problem, we first need to understand the parabolic rate law for oxidation. The parabolic rate law states that the weight gain per unit area (ΔW/A) due to oxidation varies with the square root of the oxidation time (t), as shown by the following equation:
+
+ΔW/A = K × √t
+
+where K is the rate constant. 
+
+We are given that ΔW/A = 1.0 mg.$cm^(-2)$ after 100 min of oxidation. We can use this information to find the rate constant K.
+
+1.0 mg.$cm^(-2)$ = K × √100 min
+
+Solving for K:
+
+K = 1.0 mg.$cm^(-2)$ / √100 min
+K = 1.0 mg.$cm^(-2)$ / 10 min^0.5
+K = 0.1 mg.$cm^(-2)$.min^(-0.5)
+
+Now that we have the rate constant K, we can calculate ΔW/A after 500 min of oxidation.
+
+ΔW/A = K × √t
+ΔW/A = 0.1 mg.$cm^(-2)$.min^(-0.5) × √500 min
+
+Calculating the value:
+
+ΔW/A = 0.1 mg.$cm^(-2)$.min^(-0.5) × √500 min
+ΔW/A = 0.1 mg.$cm^(-2)$.min^(-0.5) × 22.36 min^0.5
+ΔW/A = 2.236 mg.$cm^(-2)$
+
+Rounding off to 2 decimal places, we get:
+
+ΔW/A = 2.24 mg.$cm^(-2)$
+
+So, the weight gain per unit area (ΔW/A) after 500 min at 600°C will be approximately 2.24 mg.$cm^(-2)$.
+
+The final answer is [2.24].

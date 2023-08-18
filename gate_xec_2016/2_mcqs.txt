@@ -1,0 +1,2 @@
+Which of the following rotational symmetry is forbidden in a perfectly periodic 3-dimensional lattice?
+(A) 1-fold (B) 3-fold (C) 5-fold (D) 6-fold

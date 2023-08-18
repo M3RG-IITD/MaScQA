@@ -1,0 +1,23 @@
+Recrystallization is a process by which a deformed material is heated to a certain temperature, causing new strain-free grains to nucleate and grow, replacing the deformed microstructure. Based on this, the correct statement is:
+
+(B) Higher the recovery, higher is the recrystallization temperature
+
+Explanation:
+
+(A) Higher the amount of cold work, lower is the recrystallization temperature:
+
+This statement is true because a higher amount of cold work leads to a higher dislocation density in the material, which makes it easier for new strain-free grains to nucleate and grow during recrystallization. This reduces the temperature required for recrystallization.
+
+(B) Higher the recovery, higher is the recrystallization temperature:
+
+This statement is incorrect. Recovery is a process by which some of the dislocations introduced during deformation are removed. This process reduces the dislocation density in the material, making it harder for new grains to nucleate and grow during recrystallization. Thus, higher recovery leads to a lower recrystallization temperature.
+
+(C) Higher the temperature of cold work, higher is the recrystallization temperature:
+
+This statement is true because a higher temperature of cold work leads to a higher initial grain size and a lower dislocation density. This makes it harder for new grains to nucleate and grow during recrystallization, requiring a higher temperature for recrystallization.
+
+(D) Finer the initial grain size, higher is the recrystallization temperature:
+
+This statement is also true because a finer initial grain size means a higher dislocation density, which makes it easier for new grains to nucleate and grow during recrystallization. Thus, a coarser initial grain size requires a higher temperature for recrystallization.
+
+Therefore, the correct answer is (B) Higher the recovery, higher is the recrystallization temperature.

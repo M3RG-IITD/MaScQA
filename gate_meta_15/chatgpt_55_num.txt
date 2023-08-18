@@ -1,0 +1,17 @@
+Using Griffith's theory, the fracture strength ($\sigma_f$) of a brittle material is given by:
+
+$\sigma_f = \sqrt{\frac{2E \gamma_s}{\pi a}}$
+
+where $E$ is the Young's modulus, $\gamma_s$ is the surface energy, and $a$ is the flaw size.
+
+Since the material and the flaw size are the same in both mediums, the only difference is in the surface energy. Therefore, we can use the ratio of surface energies to find the ratio of fracture strengths, as follows:
+
+$\frac{\sigma_{f,Q}}{\sigma_{f,P}} = \sqrt{\frac{\gamma_{s,Q}}{\gamma_{s,P}}} = \sqrt{\frac{0.1}{0.9}} \approx 0.333$
+
+where $\sigma_{f,Q}$ and $\sigma_{f,P}$ are the fracture strengths in medium Q and medium P, respectively.
+
+Therefore, the fracture strength in medium Q is approximately:
+
+$\sigma_{f,Q} \approx 0.333 \times 300 \text{ MPa} = 100 \text{ MPa}$
+
+Answer: [100]

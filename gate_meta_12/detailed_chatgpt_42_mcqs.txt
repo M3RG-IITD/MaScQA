@@ -1,0 +1,29 @@
+The correct equation for the angle of contact (θ) is:
+
+θ = $cos^{-1}$[(γαδ - γβδ)/γαβ]
+
+where γαδ is the surface tension between air and substrate, γβδ is the surface tension between droplet and substrate, and γαβ is the surface tension between air and droplet.
+
+Step-by-step explanation:
+
+1. Identify the surface tensions: 
+
+γαδ is the surface tension between air and substrate, which is the horizontal line in the figure labeled as δ. 
+
+γβδ is the surface tension between droplet and substrate, which is the vertical line in the figure labeled as β. 
+
+γαβ is the surface tension between air and droplet, which is the curved surface of the droplet labeled as βα. 
+
+2. Plug in the values: 
+
+θ = $cos^{-1}$[(γαδ - γβδ)/γαβ]
+
+θ = $cos^{-1}$[(20 mN/m - 30 mN/m)/50 mN/m]
+
+θ = $cos^{-1}$[-0.2]
+
+3. Solve for θ: 
+
+Using a calculator, we find that the angle of contact is approximately 103.13 degrees. 
+
+Therefore, the correct answer is (A) θ = $cos^(-1)$[$γ_(αδ)$ - $γ_(βδ)$/$γ_(αβ)$].

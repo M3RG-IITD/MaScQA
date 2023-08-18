@@ -1,0 +1,20 @@
+To find the modulus of elasticity for the composite in the direction of fibre alignment, we will use the Rule of Mixtures for continuous aligned fibre composites. The equation is as follows:
+
+E_comp = E_fibre * V_fibre + E_resin * V_resin
+
+where 
+E_comp is the modulus of elasticity of the composite
+E_fibre is the modulus of elasticity of the CF (170 GPa)
+V_fibre is the volume fraction of the CF (30% = 0.3)
+E_resin is the modulus of elasticity of the resin (3.0 GPa)
+V_resin is the volume fraction of the resin (70% = 0.7)
+
+Now, we can plug in the values and calculate E_comp:
+
+E_comp = (170 GPa * 0.3) + (3.0 GPa * 0.7)
+E_comp = 51 GPa + 2.1 GPa
+E_comp = 53.1 GPa
+
+So, the modulus of elasticity for this composite in the direction of fibre alignment is 53.1 GPa.
+
+Answer: [53.1]

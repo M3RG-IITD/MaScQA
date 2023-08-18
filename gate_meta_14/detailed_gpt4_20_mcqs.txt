@@ -1,0 +1,26 @@
+To identify the type of invariant reaction, we need to understand the basic definitions of the terms.
+
+(A) Eutectic: 
+This is an invariant reaction where a liquid solution becomes two solid phases at a specific temperature and composition. It can be represented as:
+liquid → solid 1 + solid 2
+
+(B) Eutectoid: 
+This is an invariant reaction where a solid solution changes into two different solid phases at a specific temperature and composition. It can be represented as:
+solid 1 → solid 2 + solid 3
+
+(C) Peritectic: 
+This is an invariant reaction where a liquid phase and a solid phase 1 react to form a different solid phase 2 at a specific temperature and composition. It can be represented as:
+liquid + solid 1 → solid 2
+
+(D) Peritectoid: 
+This is an invariant reaction where two solid phases react to form a third solid phase at a specific temperature and composition. It can be represented as:
+solid 1 + solid 2 → solid 3
+
+Now, let's analyze the given invariant reaction:
+liquid 1 + solid 1 ⇌ solid 2
+
+In this given reaction, a liquid phase and a solid phase react to form a different solid phase. It matches the definition of a peritectic reaction (C).
+
+Thus, the type of the invariant reaction is peritectic.
+
+The correct answer is [C].

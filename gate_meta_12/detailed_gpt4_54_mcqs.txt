@@ -1,0 +1,59 @@
+Step 1: Determine the initial and final cross-sectional areas of the rod.
+
+Let's denote the initial cross-sectional area of the annealed rod as A₀ and the final cross-sectional area after the 50% reduction in area as A₁.
+
+Given that there is a 50% reduction in area, we can write:
+
+A₁ = 0.5 * A₀
+
+Step 2: Determine the relation between initial and final lengths of the rod.
+
+Since the volume of the annealed rod remains constant during the cold rolling process, we can denote the initial length of the rod as L₀ and the final length as L₁. 
+
+Let's assume the rod has a uniform shape along its length, so the volume of the rod can be expressed as:
+
+V = A * L
+
+Since the volume remains constant, we can write:
+
+A₀ * L₀ = A₁ * L₁
+
+Step 3: Calculate the true strain (ε).
+
+Now we will find the true strain (ε) using the initial and final lengths of the rod. The true strain can be expressed as:
+
+ε = ln(L₁ / L₀)
+
+Using the relation between the initial and final cross-sectional areas found in step 1, we can rewrite the relation between initial and final lengths as:
+
+A₀ * L₀ = (0.5 * A₀) * L₁
+
+Dividing both sides of the equation by A₀:
+
+L₀ = 0.5 * L₁
+
+From this relation, we can express the ratio of the final to the initial length:
+
+L₁ / L₀ = 2
+
+Now we can substitute this into the equation for true strain:
+
+ε = ln(2)
+
+ε ≈ 0.693
+
+Step 4: Calculate the flow stress (σ) after 50% reduction in area.
+
+Now that we know the true strain, we can use the given equation for the strain hardening behavior of the annealed rod to calculate the flow stress:
+
+σ = 700 * (ε)^0.2
+
+Substitute ε = 0.693:
+
+σ = 700 * (0.693)^0.2
+
+σ ≈ 609 MPa
+
+So the flow stress after a 50% reduction in the area of the annealed rod on cold rolling is approximately 609 MPa.
+
+Answer: C) 609 MPa

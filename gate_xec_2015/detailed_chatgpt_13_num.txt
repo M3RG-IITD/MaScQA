@@ -1,0 +1,34 @@
+First, we need to determine the thickness of the germanium crystal layer required to absorb 80% of the incident radiation:
+
+We know that the intensity of the incident radiation (I0) is equal to the intensity of the transmitted radiation (I) multiplied by the absorption coefficient (α) raised to the power of the thickness (d) of the material through which the radiation passes:
+
+I = I0 * e^(-αd)
+
+We also know that we want to absorb 80% of the incident radiation, which means that we want the intensity of the transmitted radiation (I) to be 20% of the intensity of the incident radiation (I0):
+
+I = 0.2I0
+
+Substituting this into the previous equation, we get:
+
+0.2I0 = I0 * e^(-αd)
+
+Dividing both sides by I0, we get:
+
+0.2 = e^(-αd)
+
+Taking the natural logarithm of both sides, we get:
+
+ln 0.2 = -αd
+
+Solving for d, we get:
+
+d = -ln 0.2 / α
+
+d = -ln 0.2 / 3.3 * $10^5$ $m^(-1)$         (Converting µm to meters)
+
+d = 7.79 µm
+
+Therefore, the thickness of the germanium crystal layer required to absorb 80% of the incident radiation is 7.79 µm.
+
+Answer: 
+- 7.79 µm

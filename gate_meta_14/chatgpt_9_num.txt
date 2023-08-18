@@ -1,0 +1,23 @@
+We know that the strain rate is defined as the rate at which the specimen is being stretched per unit time. Mathematically, 
+
+Strain rate = Change in length / (Original length * Change in time) 
+
+Given, 
+
+Crosshead speed = 6 mm/min = Change in length / Change in time 
+
+Therefore, 
+
+Change in length = Crosshead speed * Change in time = 6 * 5 * $10^(-3)$ = 0.03 mm/s 
+
+Also, 
+
+Strain rate = 5 * $10^(-3)s^(-1)$ = Change in length / (Original length * Change in time) 
+
+Therefore, 
+
+Original length = Change in length / (Strain rate * Change in time) = (0.03) / (5 * $10^(-3)$ * 1) = 6 mm 
+
+Hence, the initial gauge length of the specimen is 6 mm.
+
+Answer: [6]

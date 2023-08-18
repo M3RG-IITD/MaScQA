@@ -1,0 +1,27 @@
+We can use the Arrhenius equation to solve this problem:
+
+k = A * exp(-Ea/RT)
+
+where k is the rate constant, A is the pre-exponential factor, Ea is the activation energy, R is the gas constant (8.314 J/mol·K), and T is the temperature in Kelvin.
+
+To triple the rate constant, we need to multiply it by 3. Therefore, we can write:
+
+3k = A * exp(-Ea/RT)
+
+Dividing this equation by the original Arrhenius equation will eliminate the pre-exponential factor:
+
+3k / k = (A * exp(-Ea/RT)) / (A * exp(-Ea/RT))
+
+3 = exp(-Ea/RT) / exp(-Ea/(8.314*300))
+
+Simplifying and solving for T:
+
+ln(3) = -Ea/R * (1/T - 1/300)
+
+T = (-Ea/R) / (ln(3)/300 - 1/300)
+
+Plugging in the values given in the problem:
+
+T = (-8.314 kJ/mol) / (ln(3)/300 - 1/300) = 600.5 K
+
+Therefore, the answer is (C) 600.5 K.

@@ -1,0 +1,17 @@
+We'll analyze each option in detail and determine the correct answer.
+
+A) Larger Band Gap:
+A larger band gap means that more energy is required to stimulate an electron from the valence band to the conduction band. The larger band gap of GaAs makes it less sensitive to temperature variations and enables it to perform well at high temperatures. This property is advantageous for certain applications, but it is not directly related to low power consumption.
+
+B) More than one element:
+The fact that GaAs has more than one element in its composition (gallium and arsenide) is not a direct factor in determining its advantages over silicon in low power applications. The combination of these elements might result in improved properties, but the presence of more than one element is not the reason behind low power consumption.
+
+C) Higher electron mobility:
+Electron mobility is a measure of how quickly electrons can move through the material in response to an electric field. GaAs has a higher electron mobility than silicon, which means that electrons can move faster through the material, with less resistance. This results in faster switching times and lower power consumption in integrated circuits. Faster switching times and lower power requirements are indeed beneficial for low power applications.
+
+D) Higher hole mobility:
+Hole mobility is a measure of how quickly holes (positive charge carriers) can move through a material in response to an electric field. Whereas higher electron mobility helps in increasing the switching speeds and lowering power consumption, higher hole mobility is not a direct property that would cause GaAs to be preferred over silicon for low power consumption.
+
+Therefore, the correct answer is (C) higher electron mobility, as it directly impacts low power consumption in integrated circuits.
+
+Answer: [C]

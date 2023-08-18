@@ -1,0 +1,1 @@
+From tensile test of a particular alloy the following values were obtained. The material exhibits linear work hardening as shown in the figure. If the cylindrical specimen had a dimension of diameter 10 mm and length 50 mm, find the length of the specimen at the yield point, in mm.

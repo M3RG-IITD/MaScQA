@@ -1,0 +1,8 @@
+The correct matching between the phenomena in Group I and the mechanisms in Group II is:
+
+P. Fatigue - 2. Slip band extrusion and intrusion
+Q. Creep - 1. Grain boundary sliding
+R. Strain hardening - 4. Dislocation interaction
+S. Yield point phenomenon - 3. Cottrell atmosphere
+
+So the correct answer is: [(C)].

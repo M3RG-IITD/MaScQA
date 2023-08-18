@@ -1,0 +1,15 @@
+Nickel is an important alloying element in steels due to its excellent chemical and physical properties that improve the overall performance of the material. With respect to the role of nickel as an alloying element in steels, the correct statement(s) are:
+
+(A) It increases the $M_s$ temperature: Nickel is an element that increases the $M_s$ (martensite start) temperature of steels. This is due to its ability to promote the formation of austenite, which in turn raises the temperature at which the martensitic transformation occurs.
+
+(B) It is an austenite stabiliser: Nickel is an austenite stabilizer, meaning that it helps to stabilize the austenite phase of steels at high temperatures. This is important because austenite is a high-temperature phase that is easily formed during heat treatment, and it provides many desirable properties such as good ductility and toughness.
+
+(C) It decreases the $M_s$ temperature: This is an incorrect statement. As mentioned earlier, nickel increases the $M_s$ temperature of steels by promoting the formation of austenite.
+
+(D) It is a carbide former: This is an incorrect statement. Nickel is not a carbide former, meaning that it does not readily combine with carbon to form carbides. However, it can help to stabilize existing carbides and prevent them from coarsening, which can improve the strength and toughness of steels.
+
+Therefore, the correct statements are (A) It increases the $M_s$ temperature and (B) It is an austenite stabiliser. 
+
+Answer: 
+- It increases the $M_s$ temperature 
+- It is an austenite stabiliser

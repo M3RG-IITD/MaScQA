@@ -1,0 +1,11 @@
+To determine which manufacturing process is not used for producing fine-grained metals, we need to understand what each process entails:
+
+(A) Electrodeposition: involves depositing metal ions onto a substrate using an electric current. This process can be used to produce thin films and coatings, but it is not typically used for producing bulk metals with fine grains.
+
+(B) Czochralski method: a crystal growth technique used to produce single crystals of metals. This process is not typically used for producing fine-grained metals.
+
+(C) Equi-Channel Angular Pressing (ECAP): a process used to refine the grain size of metals by repeatedly pressing and folding the metal. This process is commonly used for producing fine-grained metals.
+
+(D) Sintering of milled powders: a process used to form solid shapes from powdered metals by heating the powder to a temperature below its melting point. This process can be used to produce fine-grained metals.
+
+Therefore, the answer is (B) Czochralski method.

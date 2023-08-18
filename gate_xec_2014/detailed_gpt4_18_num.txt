@@ -1,0 +1,19 @@
+To find the weight of gallium to be mixed with arsenic to form 1 kg of gallium arsenide (GaAs), we need to first find the mass fractions of gallium and arsenic in GaAs.
+
+1. Find the molar mass of GaAs:
+M(GaAs) = M(Ga) + M(As) = 69.72 g/mol + 74.92 g/mol = 144.64 g/mol
+
+2. Calculate the mass fractions of gallium and arsenic in GaAs:
+Mass fraction of Ga = M(Ga) / M(GaAs) = 69.72 g/mol / 144.64 g/mol ≈ 0.4819
+Mass fraction of As = M(As) / M(GaAs) = 74.92 g/mol / 144.64 g/mol ≈ 0.5181
+
+3. To find the mass of gallium and arsenic needed to form 1 kg of GaAs, multiply the mass fractions by the total desired mass (1 kg or 1000 g):
+Mass of Ga = (0.4819)(1000 g) ≈ 481.9 g
+Mass of As = (0.5181)(1000 g) ≈ 518.1 g
+
+4. Convert the mass of gallium to kg:
+Mass of Ga = 481.9 g * (1 kg / 1000 g) = 0.4819 kg
+
+The weight in kilograms of gallium needed to be mixed with arsenic to obtain 1.0 kg of gallium arsenide (GaAs) is approximately 0.4819 kg.
+
+The answer is [0.4819].

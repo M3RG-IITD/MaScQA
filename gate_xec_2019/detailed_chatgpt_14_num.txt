@@ -1,0 +1,69 @@
+The overall corrosion reaction for nickel can be written as follows:  
+
+Ni(s) $\rightarrow$ Ni$^{2+}$(aq) + 2e$^{-}$
+ 
+The standard reduction potential for the above reaction is given as -0.25 V. The standard electromotive force (emf) of this reaction will be 
+
+$\Delta G°=-nFE°_{cell}$ 
+
+where, $n$ = number of electrons transferred = 2 
+
+$F$ = Faraday’s constant = 96500 C $mol^(−1)$ 
+
+$E°_{cell}$ = standard reduction potential = -0.25 V 
+
+Later, $K_{eq}$ can be calculated by using the formula: 
+
+$\Delta G°=-RT \ln K_{eq}$
+
+where, 
+
+$R$ = Universal gas constant = 8.314 J $K^(−1)mol^(−1)$ 
+
+$T$ = Temperature = 298 K 
+
+Substituting the given values, we can calculate the equilibrium constant, $K_{eq}$. 
+
+$K_{eq}$ = $\exp(-\frac{\Delta G°}{RT})$ 
+
+The value of equilibrium constant $K_{eq}$ thus obtained can be used to calculate the concentration of nickel ions $(Ni^{2+})$ and hence the partial pressure of hydrogen which is required to stop the corrosion of nickel. 
+
+The concentration of $Ni^{2+}$ at equilibrium is given by the expression, 
+
+$[Ni^{2+}]= \frac{K_{eq}.[H^+]^2}{[HCl]}$
+
+where [HCl] = 0.06 M (as nickel chloride is assumed to be completely dissociated)
+
+Assuming that the partial pressure of hydrogen used here is directly proportional to $H^+$ and considering the pH of the solution, 
+
+$H^+$ = 10$^{-4}$ M 
+
+Substituting the above values, we get, 
+
+$[Ni^{2+}]$ = $\frac{\exp(-\frac{\Delta G°}{RT}).(10^{-4})^2}{0.06}$ 
+
+$[Ni^{2+}]$ = 5.93 × 10$^{-14}$ M 
+
+The number of moles of nickel that will have to be converted to its ion, $Ni^{2+}$, in order to react with the given hydrogen is 2 to balance the equation. Hence, the number of moles of nickel that will be protected by one mole of hydrogen will be 0.5. 
+
+So, the required moles of hydrogen will be equal to the number of moles of nickel ions $(Ni^{2+})$ at equilibrium. 
+
+$n(H_2)$ = 0.5 × $[Ni^{2+}]$ 
+
+$n(H_2)$ = 2.965 × 10$^{-15}$ 
+
+Now, using the ideal gas law, PV = nRT, we can calculate the partial pressure $(P)$ of hydrogen. 
+
+$P$ = $\frac{n(H_2)RT}{V}$ 
+
+Here, V is the volume of the solution, for which let us assume 1 liter. 
+
+Substituting the values, we get, 
+
+$P$ = $\frac{(2.965×10^{-15})(8.314)(298)}{1}$ 
+
+$P$ = $6.22×10^{-14}$ atm 
+
+Rounding it off to the nearest integer, we get the final answer as: 
+
+[Answer]: 0 atm

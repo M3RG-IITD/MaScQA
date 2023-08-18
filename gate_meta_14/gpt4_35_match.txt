@@ -1,0 +1,8 @@
+The correct matchings are:
+
+P. Babbit: Main elements are Sn-Sb-Cu, so P-4
+Q. Muntz metal: Main elements are Cu-Zn, so Q-3
+R. Invar: Main elements are Fe-Ni, so R-1
+S. Inconel: Main elements are Ni-Cr-Fe, so S-2
+
+The correct answer is inside the list: [D].

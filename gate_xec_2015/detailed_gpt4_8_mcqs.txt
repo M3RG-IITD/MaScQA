@@ -1,0 +1,19 @@
+The eutectic reaction is a reaction where a liquid solution of two or more components forms two or more solid phases at the eutectic temperature and composition. This reaction occurs at a specific temperature and composition, resulting in the minimum melting point of the combined components in a system. 
+
+Now, let's analyze each reaction:
+
+(A) S1 ⇔ S2 + S3:
+This reaction represents a solid phase, S1, changing into two other solid phases, S2 and S3. This does not involve a liquid phase or the simultaneous formation of two or more solid phases from the liquid phase. Therefore, this reaction is not a eutectic reaction.
+
+(B) L ⇔ S1 + S2:
+This reaction represents a liquid phase, L, undergoing solidification and forming two solid phases, S1 and S2 concurrently. This reaction fits the definition of a eutectic reaction as it involves a liquid phase and the formation of two or more solid phases.
+
+(C) L1 + S1 ⇔ L2 + S2:
+This reaction represents an exchange between a liquid phase L1 and a solid phase S1 with another liquid phase, L2, and another solid phase, S2. This reaction does not fit the definition of a eutectic reaction, as it doesn't involve the simultaneous formation of two or more solid phases from a single liquid phase.
+
+(D) L1 + S1 ⇔ S2 + S3:
+This reaction represents a liquid phase L1 and a solid phase S1 changing into two other solid phases, S2 and S3. Although it involves a liquid phase and the formation of two solid phases, it does not involve the simultaneous formation of two or more solid phases from a single liquid phase. Therefore, this reaction is not a eutectic reaction.
+
+So, the only reaction that fits the definition of a eutectic reaction is:
+
+Answer: [B]

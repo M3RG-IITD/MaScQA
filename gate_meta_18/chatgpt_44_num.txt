@@ -1,0 +1,21 @@
+From the given temperature profile, we can set up the equation:
+
+1500 = 2000 * exp(-0.3*$x^2$)
+
+Simplifying this equation, we get:
+
+0.75 = exp(-0.3*$x^2$)
+
+Taking the natural logarithm of both sides, we get:
+
+ln(0.75) = -0.3*$x^2$
+
+Solving for x, we get:
+
+x = sqrt(ln(0.75)/(-0.3))
+
+x ≈ 4.02 mm (rounded to two decimal places)
+
+Therefore, the width of the fusion zone is approximately 8.04 mm (twice the value of x).
+
+Answer: [8.04 mm]

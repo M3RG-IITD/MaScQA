@@ -1,0 +1,19 @@
+A typical rolling defect refers to a flaw or imperfection that occurs during the process of rolling metals, such as steel or aluminum. Rolling is a process where metal is passed through a series of rollers to reduce its thickness and achieve a uniform thickness throughout. Various defects can develop during this process if proper precautions and measures are not taken.
+
+Let's analyze each given option:
+
+(A) Buckling:
+Buckling is a structural instability that occurs when a component or structure is subjected to compressive stresses. It is more tied to instability in structures like beams, columns, and plates, and not very typical in rolling processes.
+
+(B) Edge cracking:
+Edge cracking occurs when the edges of the rolled metal develop cracks or fractures during the rolling process. These cracks can be due to excessive tensile stresses, excessive roll pressure, or non-uniform deformation of the metal. Edge cracking is a typical defect that can occur during the rolling process.
+
+(C) Cold shut:
+Cold shut is a casting defect that occurs when two portions of metal flow together but do not completely fuse, resulting in a discontinuity or weak bond in the casting. This defect is typically associated with the metal casting process rather than the rolling process.
+
+(D) Porosity:
+Porosity is the presence of small voids or cavities within a material. This defect is more commonly found in castings, where gas or air can become trapped during the solidification process. Porosity is not a typical defect that occurs during the rolling process.
+
+From the given options, the correct answer is:
+
+[ (B) Edge cracking ]

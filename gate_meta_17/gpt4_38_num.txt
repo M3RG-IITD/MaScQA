@@ -1,0 +1,35 @@
+To find the adiabatic flame temperature, we start by writing the heat balance of the reaction :
+
+ΔH_reaction + Σ n*C_p(T - T_ref)_products = Σ n*C_p(T - T_ref)_reactants
+
+where ΔH_reaction is the enthalpy change of the reaction, n is the number of moles of each species, C_p is the heat capacity, T is the temperature, and T_ref is the reference temperature (298 K).
+
+For the stoichiometric combustion of CO, the balanced chemical equation is:
+
+CO + 1/2 O_2 → CO_2
+
+We are given that ΔH°_(298) (CO → CO_2) = -282,000 kJ.(kg-mol CO)^(-1). Since the adiabatic flame temperature (T) is what we want to find, we can write the heat balance equation as:
+
+ΔH_reaction + n*C_p(T - T_ref)_CO2 = 0
+
+We have ΔH_reaction = -282,000 kJ.(kg-mol CO)^(-1), n = 1 kg-mol.h^(-1) (molar flow rate of CO), and C_p(CO_2) = 44 kJ.(kg-mol K)^(-1).
+
+Substituting the given values, we get:
+
+-282,000 + 1*44*(T - 298) = 0
+
+Solve for T:
+
+44*(T - 298) = 282,000
+
+T - 298 = 282,000/44
+
+T = 298 + (282,000/44)
+
+T ≈ 298 + 6,409.09
+
+T ≈ 6,707.09 K
+
+The adiabatic flame temperature for the combustion of CO with stoichiometric oxygen is approximately 6,707.09 K.
+
+Answer: [6707.09].

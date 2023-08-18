@@ -1,0 +1,27 @@
+The anodic current density $(i_a)$ can be calculated using the Tafel equation:
+$$i_a = i_{corr} e^{\frac{\alpha_a F}{RT}\eta}$$
+
+where $i_{corr}$ is the corrosion current density, $\alpha_a$ is the anodic Tafel slope, $F$ is the Faraday constant, $R$ is the gas constant, $T$ is the temperature in Kelvin, and $\eta$ is the overpotential.
+
+The corrosion current density can be calculated using the diffusion-limited current density $(i_{dl})$:
+$$i_{corr} = i_{dl} = \frac{2nFAD_o}{RT}C_{\text{oxygen}}$$
+
+where $n$ is the number of electrons transferred in the corrosion reaction (for iron, $n=2$), $A$ is the surface area, and $D_o$ is the diffusion coefficient of the oxidant. $C_\text{oxygen}$ is the concentration of dissolved oxygen.
+
+The diffusion layer thickness $(\delta)$ is given by:
+$$\delta = \sqrt{\frac{D_o}{\pi \cdot i_{dl}}}$$
+
+Substituting $i_{dl}$ in the above equation, we get:
+$$\delta = \sqrt{\frac{RT}{2nFA\pi D_o C_{\text{oxygen}}}}$$
+
+Substituting $i_{corr}$ and $\delta$ in the Tafel equation, we get:
+$$i_a = \frac{2nFAD_o}{RT}C_{\text{oxygen}}e^{\frac{\alpha_a F}{RT}\eta}\frac{1}{\sqrt{\frac{RT}{2nFA\pi D_o C_{\text{oxygen}}}}}$$
+
+Simplifying the above equation, we get:
+$$i_a = \frac{2nFAD_o}{RT}\sqrt{\frac{2nFA\pi D_o C_{\text{oxygen}}}{RT}}C_{\text{oxygen}}e^{\frac{\alpha_a F}{RT}\eta - \frac{RT}{2nFA\pi D_o C_{\text{oxygen}}}}$$
+
+Substituting the given values, we get:
+$$i_a = \frac{2\times2\times96500\times10^{-6}\times10^{-4}\times\sqrt{\frac{2\times2\times96500\times10^{-6}\times\pi\times2.42\times10^{-5}\times15}{298}}}{8.314\cdot 298}e^{\frac{0.06\times96500}{8.314\cdot298}\times0.12 - \frac{8.314\cdot298}{2\times2\times96500\cdot\pi\cdot0.06\times2.42\times10^{-5}\times15}}$$
+
+Simplifying the equation, we get:
+$$i_a = \boxed{1.623 \ A.cm^{-2}}$$

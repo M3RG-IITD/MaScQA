@@ -1,0 +1,17 @@
+The driving force for sintering is proportional to the particle surface curvature, which is inversely proportional to the particle radius. So, we can write:
+
+$∆G_1 ∝ \frac{1}{R_1}$
+
+and
+
+$∆G_2 ∝ \frac{1}{R_2} = \frac{1}{0.1 R_1} = \frac{1}{R_1 / 10}$
+
+To find the relation between $∆G_1$ and $∆G_2$, we can write:
+
+$\frac{∆G_2}{∆G_1} = \frac{\frac{1}{R_2}}{\frac{1}{R_1}} = \frac{\frac{1}{R_1 / 10}}{\frac{1}{R_1}} = \frac{R_1}{R_1 / 10} = 10$
+
+So, $∆G_2 = 10 ∆G_1$
+
+Therefore, α = 10.
+
+The correct answer is [10].

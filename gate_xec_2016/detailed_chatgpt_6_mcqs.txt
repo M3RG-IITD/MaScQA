@@ -1,0 +1,15 @@
+To find the number of elements in a tensor of rank 4, we need to consider four indices. Let's assume the tensor dimensions as $n_1 \times n_2 \times n_3 \times n_4$. 
+
+Then the number of elements in the tensor is given by the product of all the dimensions, i.e., 
+
+$$n_1 \times n_2 \times n_3 \times n_4$$
+
+Therefore, the number of elements in a tensor of rank 4 is the product of its 4 dimensions.
+
+Mathematically, we can represent it as:
+
+Number of elements $= \prod\limits_{i=1}^4 n_i$
+
+So, the answer to the question is:
+
+- Number of elements in a tensor of rank 4 is $\prod\limits_{i=1}^4 n_i$

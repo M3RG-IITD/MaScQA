@@ -1,0 +1,20 @@
+We can use the Orowan equation to solve this problem. The Orowan equation relates the shear stress required to bow a dislocation line to the dislocation length and precipitate spacing:
+
+τ = (Gb) / L
+
+where τ is the shear stress, G is the shear modulus, b is the Burgers vector, and L is the spacing between precipitates. We can rearrange this equation to solve for L:
+
+L = (Gb) / τ
+
+If the shear stress τ is proportional to 1 / L, then we can set up a proportion:
+
+100 MPa / τ2 = 0.2 µm / 0.5 µm
+
+Now, we need to solve for τ2, the shear stress required to bow the dislocation line when the spacing between the precipitates is increased to 0.5 µm:
+
+τ2 = (0.2 µm * 100 MPa) / 0.5 µm
+τ2 = 20 MPa
+
+Thus, the shear stress required to bow the dislocation would be 20 MPa when the spacing between precipitates is increased to 0.5 µm. Rounded off to the nearest integer, the answer is 20.
+
+Answer: [20]

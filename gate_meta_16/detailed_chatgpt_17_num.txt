@@ -1,0 +1,32 @@
+To find the resilience, we need to determine the area under the elastic portion of the stress-strain curve. Resilience is defined as the ability of a material to absorb energy when it is deformed elastically and then, upon unloading, to have this energy recovered.
+
+Step-by-step solution:
+
+1. We can see that the elastic portion of the curve is a straight line. Let's find the equation of this line.
+
+ 
+
+The equation of the line is:
+
+σ = (E × ε) + σ0
+
+where:
+E = slope of the line = (500 MPa - 0 MPa) / (0.02 - 0 MPa) = 25,000 MPa
+ε = strain = stress/E = 225 MPa / 25,000 MPa = 0.009
+σ0 = y-intercept = 0 MPa
+
+Therefore, the equation of the line is:
+
+σ = (25,000 MPa) × ε + 0 MPa
+
+2. The area under the elastic portion of the curve is given by:
+
+Resilience = (1/2) × σ × ε
+
+= (1/2) × (25,000 MPa) × (0.009)
+
+= 112.5 MPa
+
+Therefore, the resilience of the material is 112.5 MPa.
+
+Answer: [112.5] MPa

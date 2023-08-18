@@ -1,0 +1,34 @@
+
+
+Given, 
+
+Specific surface area of titania nanoparticles = 125 $m^2$ $g^{−1}$ 
+
+Density of titania = 4.23 g $cm^{−3}$ 
+
+
+We know that, 
+
+ Specific surface area = Surface area / mass 
+
+ Surface area of a sphere = 4πr^2 
+
+ Mass of the sphere = Density * Volume * (4/3)πr^3 
+
+So, combining the above equations we get, 
+
+ Specific surface area = 3 / (density * diameter) 
+
+which gives, 
+
+ Diameter of the titania nanoparticle = 3 / (density * specific surface area) 
+
+ Substituting the values, we get 
+
+ Diameter of the titania nanoparticle = 3 /(4.23 * 125) nm 
+
+   = 0.0181 nm 
+
+Therefore, the diameter of the titania nanoparticle is 0.0181 nm.
+
+Answer: [0.0181 nm]

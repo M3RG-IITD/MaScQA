@@ -1,0 +1,16 @@
+Diffusion-controlled oxidation kinetics is characterized by a parabolic rate law, meaning that the adherent oxide layer thickness, ∆x, increases with time, t, as the square root of t. 
+
+The rate equation for this process can be written as: 
+
+∆x² = kt
+
+where k is the rate constant. 
+
+Now let's analyze the given curves: 
+
+- Curve P: This curve shows a linear increase in ∆x with t, which does not match the parabolic rate law of diffusion-controlled oxidation kinetics. 
+- Curve Q: This curve shows a constant rate of increase in ∆x with t, which also does not match the parabolic rate law. 
+- Curve R: This curve shows a parabolic increase in ∆x with t, which matches the parabolic rate law of diffusion-controlled oxidation kinetics. 
+- Curve S: This curve shows an exponential increase in ∆x with t, which does not match the parabolic rate law. 
+
+Therefore, the correct answer is (C) R.

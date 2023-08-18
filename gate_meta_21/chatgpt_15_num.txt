@@ -1,0 +1,24 @@
+We know that the distribution is symmetric, therefore P(X ≤ µ + 2σ) = 0.98 is equivalent to P(X ≥ µ - 2σ) = 0.98. 
+
+µ = 5 µm, σ = 0.5 µm 
+
+So we have: 
+
+P(5µm ≤ X ≤ 6µm) = P(X ≤ 6µm) - P(X < 5µm) 
+
+We can standardize the values and use the standard normal distribution table to find the probabilities: 
+
+P(X ≤ 6µm) = P((X-5µm)/0.5µm ≤ (6µm - 5µm)/0.5µm) = P(Z ≤ 2) = 0.9772 
+
+P(X < 5µm) = P((X-5µm)/0.5µm < (5µm - 5µm)/0.5µm) = P(Z < 0) = 0.5 
+
+Therefore, 
+
+P(5µm ≤ X ≤ 6µm) = 0.9772 - 0.5 = 0.4772 
+
+Rounding off to the nearest integer, we get:
+
+The percentage of specimens with grain size in the range 5 to 6 µm is expected to be 48%. 
+
+Answer: 
+- 48%

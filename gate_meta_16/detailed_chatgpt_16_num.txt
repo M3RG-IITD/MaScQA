@@ -1,0 +1,29 @@
+The unit vector along the dislocation line is given by:
+
+u = [1 1 2]/sqrt(1^2 + 1^2 + 2^2) = [1/3 1/3 2/3]
+
+The unit vector along the Burgers vector is given by:
+
+b = (a/2)[1 1 0]/sqrt(1^2 + 1^2 + 0^2) = (a/2√2)[1 1 0]
+
+The angle θ between two vectors is given by:
+
+cosθ = (u·b)/(|u||b|)
+
+where · represents dot product, and | | represents magnitude.
+
+Substituting the values, we get:
+
+cosθ = ([1/3 1/3 2/3]·[a/2√2 a/2√2 0])/(√(1/3^2 + 1/3^2 + 2/3^2) √(a^2/8 + a^2/8))
+
+cosθ = (a/3√2)/(a/2√2)
+
+cosθ = 2/3
+
+Taking inverse cosine, we get:
+
+θ = cos⁻¹(2/3) = 48.19°
+
+Therefore, the angle between the dislocation line and its Burger’s vector is 48.19 degrees.
+
+Answer: [48.19°]

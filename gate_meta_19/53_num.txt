@@ -1,0 +1,1 @@
+Use the image. If the solid-solid interfacial energy $(𝛾_(𝑆𝑆))$ is 0.87 𝐽. $𝑚^(−2)$ and solid-liquid interfacial energy $(𝛾_(𝑆𝐿))$ is 0.5 𝐽. $𝑚^(−2)$ , the dihedral angle (𝜙, in degree, rounded off to one decimal place) during sintering is

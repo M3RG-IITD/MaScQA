@@ -1,0 +1,2 @@
+Use the image. Consider the following stress state imposed on a material: If the material responds elastically with a volumetric strain 𝛥 = 3.5 × $10^(−4)$ , what is its bulk modulus?
+(A) 150 GPa (B) 350 GPa (C) 200 GPa (D) 400 GPa

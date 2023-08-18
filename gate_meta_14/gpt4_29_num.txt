@@ -1,0 +1,25 @@
+To find the activity of Q in the alloy, we need to first find the activity coefficient of Q ($γ_Q$) using the given equation and then calculate the activity using the formula: activity of Q = $𝑥_𝑄 * 𝛾_𝑄$
+
+Given the composition 𝑥_𝑅 = 0.6, we can find the mole fraction of Q (𝑥_𝑄) which is given by:
+
+𝑥_𝑄 = 1 - 𝑥_𝑅 = 1 - 0.6 = 0.4
+
+Now, let's calculate the activity coefficient of Q using the given equation:
+
+ln $γ_Q$ = 0.6*$(𝑥_𝑅)^2$ - 0.2*$(𝑥_𝑅)^3$
+ln $γ_Q$ = 0.6*(0.6)^2 - 0.2*(0.6)^3
+ln $γ_Q$ = 0.6*0.36 - 0.2*0.216
+ln $γ_Q$ = 0.216 - 0.0432
+ln $γ_Q$ ≈ 0.1728
+
+Now, to find $γ_Q$, we take the exponent:
+
+$γ_Q = e^{0.1728} ≈ 1.188$
+
+Finally, we calculate the activity of Q using the formula:
+
+activity of Q = 𝑥_𝑄 * 𝛾_𝑄 = 0.4 * 1.188 ≈ 0.4752
+
+So, the activity of Q in the alloy is approximately 0.4752.
+
+The correct answer is [0.4752].

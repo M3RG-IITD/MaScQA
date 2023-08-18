@@ -1,0 +1,23 @@
+
+
+To solve this question, we must first understand the definitions of the properties given in Column I and the options given in Column II:
+
+- Toughness (P): The ability of a material to absorb energy before fracture.
+- Resilience (Q): The ability of a material to store energy when deformed elastically and release it when the load is removed.
+- Creep (R): The time-dependent permanent deformation of a material under a constant load or stress.
+- Hardness (S): The resistance of a material to plastic deformation, usually by indentation.
+
+- Option 1: Resistance to plastic deformation. This refers to hardness.
+- Option 2: Time-dependent permanent deformation under constant load. This refers to creep.
+- Option 3: Total elongation at failure. This refers to toughness.
+- Option 4: Area under the stress-strain curve. This refers to resilience.
+- Option 5: Area under the elastic part of the stress-strain curve. This refers to resilience.
+
+Now, we can match the properties in Column I with the options in Column II:
+
+- Toughness (P) corresponds to option 3, which is the total elongation at failure.
+- Resilience (Q) corresponds to options 4 and 5, which are the area under the stress-strain curve and the area under the elastic part of the stress-strain curve, respectively. Both options refer to the ability of a material to store and release energy when deformed elastically.
+- Creep (R) corresponds to option 2, which is the time-dependent permanent deformation under constant load.
+- Hardness (S) corresponds to option 1, which is the resistance to plastic deformation.
+
+Therefore, the correct answer is (C) P-4, Q-5, R-2, S-1.

@@ -1,0 +1,5 @@
+
+
+The answer is: 
+
+- (D) Burger’s vector of an edge dislocation is parallel to the dislocation line.

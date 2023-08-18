@@ -1,0 +1,11 @@
+Let's match the nondestructive techniques in Column I with the underlying phenomena in Column II:
+
+(P) Dye penetrant test: This test is based on the principle of capillary action, where a liquid penetrant is applied to the surface of a material to detect defects such as cracks or porosity. The liquid is drawn into the defects by capillary action, and an indication is made visible by a developer. So, P matches with 2.
+
+(Q) Radiography: Radiography involves the use of X-rays or gamma rays to inspect the internal structure of materials. The radiation is passed through the material, and the differences in absorption allow for the detection of defects or variations in thickness. So, Q matches with 1.
+
+(R) Eddy current test: This test utilizes the principle of electromagnetic induction to identify defects or material properties in conductive materials. An alternating current is induced into the test material, generating localized eddy currents. The presence of defects or changes in material properties will affect the flow of these currents, allowing for their detection. So, R matches with 4.
+
+(S) Ultrasonic inspection: Ultrasonic inspection uses high-frequency sound waves to detect defects or discontinuities in materials. The sound waves are transmitted into the material, and any reflections or changes in the propagation of the waves indicate the presence of a defect. So, S matches with 3.
+
+Thus, the correct matching is: P-2, Q-1, R-4, S-3. The right answer is (C).

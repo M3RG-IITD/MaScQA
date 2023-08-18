@@ -1,0 +1,27 @@
+To understand which metal deforms by twinning mode during low strain rate deformation, we should know about crystal structures, deformation mechanisms, and their dependency on environmental factors such as temperature and strain rate.
+
+Step 1: Understand crystal structures of given metals
+
+Each of the given metals (Fe, Mg, Al, and Ni) has a specific crystal structure which affects its mechanical behavior:
+A - Iron (Fe) has a BCC (Body-Centered Cubic) structure at room temperature.
+B - Magnesium (Mg) has an HCP (Hexagonal Close Packed) structure.
+C - Aluminum (Al) has an FCC (Face-Centered Cubic) structure.
+D - Nickel (Ni) has an FCC (Face-Centered Cubic) structure.
+
+Step 2: Understand deformation mechanisms
+
+There are two primary mechanisms by which metals deform: slip and twinning. 
+
+Slip is the movement of dislocations (line defects) within a crystal lattice, causing plastic deformation. Slip happens more frequently in metals with higher crystallographic symmetry and a greater number of slip planes (i.e., FCC and BCC structures).
+
+Twinning is a deformation mechanism where a portion of a crystal reorients itself to be a mirror image of the original crystal, sharing a twin boundary. Twinning occurs more in metals with a lower crystallographic symmetry and fewer slip planes (i.e., HCP structures).
+
+Step 3: Relate crystal structures to deformation mechanisms 
+
+In general, metals with FCC and BCC structures tend to deform primarily by slip, while metals with HCP structures tend to deform by twinning. This is because HCP structures have fewer available slip planes compared to FCC and BCC structures, making slip more difficult and twinning more likely. 
+
+Step 4: Identify the metal that deforms by twinning at low strain rates and room temperature
+
+Since Magnesium (Mg) has an HCP structure, and HCP metals tend to deform by twinning, the correct answer is:
+
+[(B) Mg]

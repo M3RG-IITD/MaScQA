@@ -1,0 +1,15 @@
+To determine which experiment will exhibit a spike in the DSC thermogram, we need to consider the processes that occur during each experiment and how they affect the heat flow into or out of the system.
+
+(A) Heating 10 mg of pure Cu from 323 K to 673 K: This is a simple heating experiment, where the temperature of the system is increased. As the temperature increases, the heat flow should also increase, but there is no phase change or other significant process occurring that would cause a spike in the DSC thermogram. We do not expect to see a spike in this experiment.
+
+(B) Cooling pure water from 323 K to 278 K: This experiment involves cooling water from above its freezing point to below its freezing point. At the freezing point, we expect to see a spike in the DSC thermogram as heat is released during the phase change from liquid to solid. However, in this experiment, the water is cooled below the freezing point, so there is no phase change during the experiment. We do not expect to see a spike in this experiment.
+
+(C) Heating pure ice from 263 K to 284 K: This experiment involves heating ice from below its freezing point to above its melting point. At the melting point, we expect to see a spike in the DSC thermogram as heat is absorbed during the phase change from solid to liquid. We would expect to see a downward spike in this case.
+
+(D) Cooling a Pb-Sn alloy at the eutectic composition from 323 K to 273 K: This experiment involves cooling a Pb-Sn alloy (at a specific composition where the melting point is lower than for either pure metal) from above its melting point to below its melting point. At the melting point, we expect to see a spike in the DSC thermogram as heat is released during the phase change from liquid to solid. We would expect to see an upward spike in this case.
+
+Therefore, the experiment where we expect to see a spike in the DSC thermogram is (D) Cooling a Pb-Sn alloy at the eutectic composition from 323 K to 273 K. 
+
+The correct answer is: 
+
+- (D) Cooling a Pb-Sn alloy at the eutectic composition from 323 K to 273 K

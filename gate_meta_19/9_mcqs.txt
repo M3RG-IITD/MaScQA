@@ -1,0 +1,2 @@
+[BOF: Basic Oxygen Furnace; LF: Ladle Furnace; VD: Vacuum Degassing; CC: Continuous Casting].The correct sequence of steelmaking operations is?
+(A) BOF → LF → VD → CC (B) CC → BOF → LF → VD (C) VD → CC → BOF → LF (D) LF → BOF → VD → CC

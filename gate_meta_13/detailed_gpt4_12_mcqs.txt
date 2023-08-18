@@ -1,0 +1,27 @@
+We are given four options and need to find the correct expression for the isothermal compressibility of a material.
+
+The isothermal compressibility (β) of a material is a measure of how much its volume changes with pressure under constant temperature conditions. It is defined as the fractional change in volume per unit change in pressure, at constant temperature:
+
+β = -(1/V) * (∂V/∂p)$_T$
+
+Now let's evaluate each option:
+
+(A) -1/p * (∂V/∂p)$_T$
+
+This expression doesn't account for the volume V in the denominator. Therefore, option A is not correct.
+
+(B) 1/p * (∂V/∂p)$_T$
+
+Option B also doesn't have the term 1/V in the expression, so it is not correct.
+
+(C) -1/V * (∂V/∂p)$_T$
+
+This expression matches the definition of isothermal compressibility given above. The negative sign indicates that an increase in pressure causes a decrease in volume, which is expected for most materials.
+
+(D) 1/V * (∂V/∂p)$_T$
+
+Option D has the right denominator, but the positive sign would indicate that an increase in pressure causes an increase in volume. This is not the typical behavior for most materials, so option D is not correct.
+
+Therefore, the correct answer is:
+
+[C]

@@ -1,0 +1,27 @@
+The energy of the edge dislocation can be calculated using the formula:
+
+$E = \mu b^2 \ln \left(\frac{R}{r_0}\right)$
+
+where $E$ is the energy per unit length of the dislocation, $\mu$ is the shear modulus, $b$ is the magnitude of the Burgers vector, $R$ is the radius of curvature of the dislocation, and $r_0$ is a cut-off distance for the interaction between the dislocation and lattice atoms. 
+
+Since this is an edge dislocation, the Burgers vector is given by the lattice spacing in the direction perpendicular to the dislocation line, which is equal to the atomic diameter, $b = 0.25 \text{ nm}$. 
+
+To find the radius of curvature, we need to know the applied stress $\sigma$ and the dislocation density $\rho$. The dislocation density is typically on the order of $10^{10} - 10^{12} \text{ m}^{-2}$ in metals. The stress can be estimated using the applied force, $F$, and the cross-sectional area, $A$, of the sample.
+
+$F = \sigma A$
+
+$A = \pi r^2$
+
+$F = \sigma \pi r^2$
+
+$\sigma = \frac{F}{\pi r^2}$
+
+Assuming a typical value of $\rho = 10^{11} \text{ m}^{-2}$ and a force of 1 N applied to a sample with a diameter of 1 mm, we can estimate the radius of curvature as:
+
+$R = \frac{1}{\rho} \sqrt{\frac{\mu b^2}{\sigma}} = \frac{1}{10^{11}}\sqrt{\frac{(70 \times 10^9 \text{ Pa}) (0.25 \times 10^{-9} \text{ m})^2}{\frac{1 \text{ N}}{\pi (0.5 \times 10^{-3} \text{ m})^2}}} \approx 2.2 \text{ }\mu\text{m}$
+
+Taking a reasonable value of $r_0 = 0.1b = 0.025 \text{ nm}$, we can calculate the energy per unit length as:
+
+$E = \mu b^2 \ln \left(\frac{R}{r_0}\right) \approx (70 \times 10^9 \text{ Pa}) (0.25 \times 10^{-9} \text{ m})^2 \ln \left(\frac{(2.2 \times 10^{-6} \text{ m})}{(0.025 \times 10^{-9} \text{ m})}\right) \approx 2.2 \times 10^{-9} \text{ J/m}$
+
+Therefore, the answer is (C) 2.2 * $10^(-9)$.

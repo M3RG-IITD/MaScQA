@@ -1,0 +1,167 @@
+We are given the molar volume, isothermal compressibility, isobaric expansivity, and R. We can use these values along with the Dulong-Petit law to find the ratio of heat capacities $C_p/C_v$ at 500K.
+
+Dulong-Petit law states that for a monoatomic solid, the molar heat capacity at constant volume $C_v$ is approximately 3R. Therefore, we have
+
+$C_v = 3R$
+
+We can use the isobaric expansivity to relate the change in volume to the change in temperature at constant pressure. The definition of isobaric expansivity is given by
+
+$\beta =\frac{1}{V}\frac{dV}{dT}|_p$
+
+We can use this to write
+
+$\frac{dV}{V}=\beta.dT$
+
+Integrating this relation between initial temperature $T_1$ and final temperature $T_2$, we get
+
+$ln(\frac{V_2}{V_1})=\beta(T_2-T_1)$
+
+We can use the molar volume to relate the volume to the amount of substance n. The molar volume is given by
+
+$V_m=\frac{V}{n}$
+
+Therefore, we can write
+
+$ln(\frac{V_{m2}}{V_{m1}})=\beta(T_2-T_1)$
+
+At constant pressure, the molar heat capacity $C_p$ is related to the molar heat capacity at constant volume $C_v$ through the relation
+
+$C_p-C_v=R$
+
+Therefore, we have
+
+$C_p= C_v+R$
+
+Using the above relation and the ideal gas law, we can write the molar volume $V_m$ as
+
+$V_m=\frac{RT}{P}$
+
+Therefore, we have
+
+$\frac{dV_m}{V_m} = \frac{dT}{T} - \frac{dP}{P}$
+
+Since the pressure is constant, we have $dP=0$, and thus
+
+$\frac{dV_m}{V_m} = \frac{dT}{T}$
+
+Integrating this relation between initial temperature $T_1$ and final temperature $T_2$, we get
+
+$ln(\frac{V_{m2}}{V_{m1}})=ln(\frac{T_2}{T_1})$
+
+Combining the above two relations, we get
+
+$\beta(T_2-T_1) = ln(\frac{T_2}{T_1})$
+
+We can rearrange this relation to get
+
+$\frac{T_2}{T_1} = e^{\beta(T_2-T_1)}$
+
+Since we are interested in finding the ratio of heat capacities at 500K, we have $T_1=500K$ and $T_2=501K$. Substituting these values into the above relation, we get
+
+$\frac{501}{500} = e^{\beta}$
+
+Solving for $\beta$, we get
+
+$\beta = ln(\frac{501}{500}) \approx 1.998 * 10^{-4} K^{-1}$
+
+Using the value of $\beta$, we can find the fractional change in volume between 500K and 501K as
+
+$\frac{\Delta V}{V} = \beta(T_2-T_1) \approx 3.996 * 10^{-7}$
+
+The molar heat capacity at constant volume $C_v$ is given by
+
+$C_v = \frac{dU}{dT}|_v$
+
+where U is the internal energy. For an ideal gas, the internal energy depends only on the temperature, and thus
+
+$dU = nC_vdT$
+
+Using the relation $dU = nC_vdT$ and the ideal gas law $PV=nRT$, we can write
+
+$dU = C_v\frac{PdV}{T}$
+
+Since the change in volume is very small compared to the initial volume, we can approximate the pressure as constant and write
+
+$dU \approx C_v\frac{P\Delta V}{T}$
+
+The work done by the gas during a temperature change is given by
+
+$W=P\Delta V$
+
+Therefore, we can write
+
+$dU \approx C_v\frac{W}{T}$
+
+The heat added to the gas during a temperature change is given by
+
+$Q=\Delta U+W$
+
+Therefore, we can write
+
+$dQ=dU+PdV\approx C_v\frac{W}{T}+PdV$
+
+Using the isothermal compressibility, we can relate the change in pressure to the change in volume at constant temperature. The definition of isothermal compressibility is given by
+
+$\kappa = -\frac{1}{V}\frac{dV}{dP}|_T$
+
+We can use this to write
+
+$\frac{dV}{V}=-\kappa dP$
+
+Integrating this relation between initial pressure $P_1$ and final pressure $P_2$, we get
+
+$ln(\frac{V_{m1}}{V_{m2}})=\kappa(P_2-P_1)$
+
+At constant temperature, the molar heat capacity $C_p$ is given by
+
+$C_p=\frac{dQ}{dT}|_P$
+
+Therefore, we have
+
+$dQ = C_pdT$
+
+Using the above relation and the ideal gas law, we can write the heat added to the gas dQ as
+
+$dQ=C_pdT = \frac{C_p}{R}(PV)dT$
+
+Using the above relation and the relation $dQ = C_v\frac{W}{T}+PdV$, we can write
+
+$\frac{C_p}{R}(PV)dT = C_v\frac{W}{T}-P\kappa VdP$
+
+Since the process is at constant pressure, we have $dP=0$, and thus
+
+$\frac{C_p}{R}(PV)dT = C_v\frac{W}{T}$
+
+The work done by the gas during a temperature change is given by
+
+$W=P\Delta V$
+
+Using the isothermal compressibility relation $ln(\frac{V_{m1}}{V_{m2}})=\kappa(P_2-P_1)$, we can write
+
+$\Delta V=V_1(1-e^{-\kappa \Delta P})$
+
+Substituting this relation into the above equation, we get
+
+$\frac{C_p}{R}(PV)dT = C_v\frac{V_1\Delta P}{T}(1-e^{-\kappa \Delta P})$
+
+Using the ideal gas law $PV=nRT$ and the relation $C_p=C_v+R$, we can write
+
+$C_p=\frac{5}{2}R+\frac{R}{1-\frac{R}{C_v}}$
+
+Substituting the given values of molar volume and isothermal compressibility, we get
+
+$C_p \approx 31.888 J K^{-1} mol^{-1}$
+
+Using the relation $C_p-C_v=R$, we can write
+
+$C_v = C_p-R \approx 23.574 J K^{-1} mol^{-1}$
+
+Therefore, we have
+
+$C_p/C_v = \frac{31.888 J K^{-1} mol^{-1}}{23.574 J K^{-1} mol^{-1}} \approx 1.351$
+
+Rounding off to 3 decimal places, we get the final answer as
+
+$C_p/C_v \approx 1.351$
+
+Therefore, the ratio of heat capacities $C_p/C_v$ at 500K is approximately 1.351.

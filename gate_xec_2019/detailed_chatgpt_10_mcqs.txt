@@ -1,0 +1,73 @@
+We can use the following formula to relate the number-average molecular weight ($M_n$) to the degree of polymerization ($DP$) for a copolymer:
+
+$M_n = DP \times \frac{f_1M_1 + f_2M_2}{f_1 + f_2}$
+
+where $f_1$ and $f_2$ are the mole fractions of the two repeat units and $M_1$ and $M_2$ are their respective molar masses. 
+
+Since one of the repeat units is ethylene ($C_2H_4$), its molar mass is:
+
+$M_1 = 2\times$atomic weight of C $+$ 4 $\times$ atomic weight of H
+
+$M_1 = 2\times 12 + 4 \times 1 = 28$ g/mol
+
+Let's assume the other repeat unit is (X). We can write its molar mass as:
+
+$M_2 = a \times (\text{atomic weight of C}) + b \times (\text{atomic weight of H}) + c \times (\text{atomic weight of F}) + d \times (\text{atomic weight of Cl})$
+
+where $a$, $b$, $c$, and $d$ are the number of carbon, hydrogen, fluorine, and chlorine atoms in the repeat unit (X). We don't know these values yet, so let's assume them to be $a$, $b$, $c$, and $d$ for now. 
+
+We can then plug in the given values and solve for the unknown repeat unit (X):
+
+$10^5 =$ 2210 $\times \frac{f_1 \times 28 + f_2 \times (a \times 12 + b \times 1 + c \times 19 + d \times 35.5)}{f_1 + f_2}$
+
+We can simplify this expression a bit by noting that $f_1 + f_2 = 1$ and that $f_1 = \frac{DP_1}{DP_1 + DP_2}$, where $DP_1$ and $DP_2$ are the degree of polymerization of the two repeat units. Substituting these values, we get:
+
+$10^5 =$ 2210 $\times \frac{\frac{1}{2210} \times 28 + f_2 \times (a \times 12 + b \times 1 + c \times 19 + d \times 35.5)}{\frac{1}{2210} + f_2}$
+
+Simplifying further:
+
+$10^5 = 28 + 2210f_2(a \times 12 + b \times 1 + c \times 19 + d \times 35.5)$
+
+$2210f_2(a \times 12 + b \times 1 + c \times 19 + d \times 35.5) = 10^5 - 28$
+
+$2210f_2(a \times 12 + b \times 1 + c \times 19 + d \times 35.5) = 99972$
+
+So we have one equation with four variables ($a$, $b$, $c$, and $d$), which means we need more information to solve for them. That information comes from the fact that one of the repeat units is ethylene. We can write the copolymer as follows:
+
+$\text{-(CH}_2\text{-CH}_2\text{)-}_n\text{-(X)-}_n$
+
+where n is the degree of polymerization, and X is the unknown repeat unit. 
+
+To satisfy the alternating copolymer requirement, X must have a double bond that can react with the double bond in ethylene during polymerization. The only answer choice that satisfies this requirement is (A) $−\text{CH}_2\text{-CH}(\text{CH}_3)\text{-}$, which has a double bond between the C and the first CH$_3$ group. 
+
+Now we can write out the structure of the copolymer:
+
+$\text{-(CH}_2\text{-CH}_2\text{)-}_n\text{-(CH}_2\text{-CH}(\text{CH}_3)\text{-)-}_n$
+
+and use the given atomic weights to calculate the molar mass of the repeat unit (X):
+
+$M_2 = 3 \times (\text{atomic weight of C}) + 8 \times (\text{atomic weight of H})$
+
+$M_2 = 3 \times 12 + 8 \times 1 = 44$ g/mol
+
+Now we can substitute the values of $M_1$ and $M_2$, and solve for $f_2$:
+
+$10^5 =$ 2210 $\times \frac{\frac{1}{2210} \times 28 + f_2 \times 44}{\frac{1}{2210} + f_2}$
+
+Simplifying:
+
+$10^5 = 28 + 44f_2$
+
+$f_2 = \frac{10^5 - 28}{44} \approx 2269$
+
+So the mole fraction of the repeat unit (X) is:
+
+$f_2 = \frac{DP_2}{DP_1 + DP_2}$
+
+$2269 = \frac{DP_2}{2210 + DP_2}$
+
+$DP_2 = 2269 \times 2210 / (1 - 2269) \approx 5865430$
+
+Since $DP_2$ is much larger than $DP_1$, we can assume that X is the dominant component in the copolymer.
+
+Therefore, the correct answer is (A) $−\text{CH}_2\text{-CH}(\text{CH}_3)\text{-}$.

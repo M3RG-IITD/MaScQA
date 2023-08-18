@@ -1,0 +1,23 @@
+We know that the energy gap of Germanium (Ge) is given: Eg = 0.67 eV.
+
+To find the maximum wavelength of radiation, we can use the relation between energy and wavelength: Eg = (hc) / λ
+
+First, we need to convert the energy gap from eV to Joules: Eg in Joules = 0.67 eV * 1.6 * 10^(-19) J/eV = 1.072 * 10^(-19) J.
+
+Now we can rearrange the formula to find λ:
+
+λ = (hc) / Eg
+
+Substitute the given values of h, c, and Eg:
+
+λ = (6.63 * 10^(-34) J s * 3 * 10^(8) ms^(-1)) / (1.072 * 10^(-19) J)
+
+λ = 1.86 * 10^(-6) m
+
+To convert this to micrometers, we multiply by 10^6:
+
+λ = 1.86 * 10^(-6) m * 10^6 = 1.86 μm.
+
+Now, looking at the given options, we can see that option (B) 1.8 μm is the closest to our calculated value. So, the correct answer is:
+
+[B]

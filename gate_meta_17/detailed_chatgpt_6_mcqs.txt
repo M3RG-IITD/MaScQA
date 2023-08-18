@@ -1,0 +1,3 @@
+The concentration difference (ΔC) is defined as the difference between the saturation concentration of Al in liquid steel at the given temperature (C*) and the bulk concentration of dissolved Al in liquid steel (C_b).
+Thus, the correct answer is:
+(A) C*- $C_b$

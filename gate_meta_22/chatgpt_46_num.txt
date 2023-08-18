@@ -1,0 +1,17 @@
+The strain rate sensitivity parameter is defined as the ratio of the relative change in flow stress to the relative change in strain rate. Mathematically, it can be represented as:
+
+$$ m = \frac{\partial \ln \sigma}{\partial \ln \dot{\varepsilon}} $$
+
+where $m$ is the strain rate sensitivity parameter, $\sigma$ is the flow stress, and $\dot{\varepsilon}$ is the strain rate.
+
+Using the given data, we can calculate the strain rate sensitivity parameter as follows:
+
+$$ m = \frac{\ln (\sigma_2 / \sigma_1)}{\ln (\dot{\varepsilon_2}/\dot{\varepsilon_1})} $$
+
+where $\sigma_1 = 50$ MPa, $\sigma_2 = 70$ MPa, $\dot{\varepsilon_1} = 0.1$ $s^{-1}$, and $\dot{\varepsilon_2} = 10$ $s^{-1}$.
+
+Plugging in the values, we get:
+
+$$ m = \frac{\ln (70/50)}{\ln (10/0.1)} = \frac{\ln 1.4}{\ln 100} \approx \boxed{0.576} $$
+
+Therefore, the strain rate sensitivity parameter, rounded off to 3 decimal places, is 0.576.

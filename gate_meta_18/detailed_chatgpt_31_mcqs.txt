@@ -1,0 +1,18 @@
+To match the stress-strain curves with their respective materials, we need to analyze the curves and identify key characteristics. 
+
+Curve P appears to be a ductile material as it undergoes large deformations before failure. It also has a very low elastic modulus, indicating a low stiffness. 
+
+Curve Q appears to be brittle as it undergoes very little deformation before sudden fracture. The material also has a high elastic modulus, indicating high stiffness. 
+
+Curve R has a moderate amount of ductility as it undergoes some deformation before failure. The material also has a moderate elastic modulus. 
+
+Curve S has the highest ductility of all the curves as it undergoes the most deformation before failure. The material also has a very low elastic modulus. 
+
+Matching the key characteristics of each curve to the materials listed in the box, we get: 
+
+(A) P-1, Q-2, R-3, S-4 
+(B) P-3, Q-1, R-4, S-2 
+(C) P-3, Q-2, R-4, S-1 
+(D) P-2, Q-3, R-4, S-1 
+
+Therefore, the correct answer is (A) P-1, Q-2, R-3, S-4.

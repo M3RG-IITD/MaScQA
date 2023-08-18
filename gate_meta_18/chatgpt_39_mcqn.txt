@@ -1,0 +1,25 @@
+
+
+The energy barrier for homogeneous nucleation of a spherical solid from the liquid is given by the expression:
+
+$$\Delta G = \frac{16\pi}{3}\gamma^3\frac{\Delta T^2}{T_m^2}$$
+
+where $\gamma$ is the interfacial energy, $\Delta T$ is the degree of supercooling, and $T_m$ is the melting temperature of the solid.
+
+If the interfacial energy increases by 10%, the new value of $\gamma$ is:
+
+$$\gamma' = \gamma + 0.1\gamma = 1.1\gamma$$
+
+Substituting this into the expression for $\Delta G$ gives:
+
+$$\Delta G' = \frac{16\pi}{3}(1.1\gamma)^3\frac{\Delta T^2}{T_m^2}$$
+
+Dividing $\Delta G'$ by $\Delta G$ and expressing the result as a percentage gives:
+
+$$\frac{\Delta G' - \Delta G}{\Delta G} \times 100\% = \frac{\frac{16\pi}{3}(1.1\gamma)^3\frac{\Delta T^2}{T_m^2} - \frac{16\pi}{3}\gamma^3\frac{\Delta T^2}{T_m^2}}{\frac{16\pi}{3}\gamma^3\frac{\Delta T^2}{T_m^2}} \times 100\%$$
+
+Simplifying this expression gives:
+
+$$\frac{\Delta G' - \Delta G}{\Delta G} \times 100\% = \frac{(1.1)^3 - 1}{1} \times 100\% \approx 33\%$$
+
+Therefore, the energy barrier for homogeneous nucleation of a spherical solid from the liquid will change by approximately 33%. The answer is (B).

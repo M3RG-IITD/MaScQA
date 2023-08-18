@@ -1,0 +1,37 @@
+The true strain, ε, is given by:
+
+ε = ln (L_f / L_i)
+
+where L_f is the final gauge length and L_i is the initial gauge length.
+
+We are given that ε = 0.405 and ΔL = L_f - L_i = 5 mm.
+
+We can rearrange the equation for true strain to get:
+
+L_f = L_i * e^ε
+
+Substituting the given values, we get:
+
+L_f = L_i * e^0.405
+
+We can solve for L_i by using the equation:
+
+ΔL = L_f - L_i
+
+Substituting the known values, we get:
+
+5 mm = L_i * (e^0.405 - 1)
+
+Solving for L_i:
+
+L_i = 5 mm / (e^0.405 - 1)
+
+L_i ≈  10 mm (to three significant figures)
+
+Therefore, the final gauge length of the specimen is:
+
+L_f = L_i * e^0.405
+
+L_f ≈  15 mm (to three significant figures)
+
+The correct answer is (C) 15.

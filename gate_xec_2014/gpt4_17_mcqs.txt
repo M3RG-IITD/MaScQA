@@ -1,0 +1,31 @@
+To solve this problem, we can use the Rydberg formula for the energy difference between two energy levels of the hydrogen atom:
+
+ΔE = -13.6 eV * (1/nf^2 - 1/ni^2)
+
+where nf and ni are the final and initial energy levels, respectively. In this case, nf = 2 and ni = 4.
+
+ΔE = -13.6 * (1/2^2 - 1/4^2)
+ΔE = -13.6 * (1/4 - 1/16)
+ΔE = -13.6 * (12/64)
+ΔE = -2.55 eV
+
+So, the energy difference is 2.55 eV (since energy is emitted, the value is positive).
+
+Now, we can use the relationship between energy and wavelength for a photon:
+
+E = (hc) / λ
+
+where E is the energy in electronvolts (eV), h is the Planck's constant (4.1357 × 10^(-15) eV·s), c is the speed of light (3 × 10^8 m/s), and λ is the wavelength in meters.
+
+We know that E = 2.55 eV, so we can solve for λ:
+
+2.55 eV = (4.1357 × 10^(-15) eV·s * 3 × 10^8 m/s) / λ
+λ = (4.1357 × 10^(-15) * 3 × 10^8) / 2.55
+λ = 4.8733 × 10^(-7) m
+
+To convert the wavelength to μm, we divide by 10^(-6):
+
+λ = 4.8733 × 10^(-7) / 10^(-6)
+λ = 0.487 μm
+
+So, the correct answer is (D) 2.55 eV and 0.487 μm: [2.55, 0.487]

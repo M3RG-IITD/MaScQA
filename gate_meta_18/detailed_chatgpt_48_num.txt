@@ -1,0 +1,31 @@
+The entropy of mixing can be calculated using the formula:
+
+$\Delta S_{mix} = -R\sum_{i}x_i\ln{x_i}$
+
+where $x_i$ is the mole fraction of the i-th component, and R is the gas constant.
+
+For this problem, we can find the mole fractions of Au and Ag as follows:
+
+Mole fraction of Au, $x_{Au} = 2/5 = 0.4$
+
+Mole fraction of Ag, $x_{Ag} = 3/5 = 0.6$
+
+Therefore, the entropy of mixing can be calculated as:
+
+$\Delta S_{mix} = -R(x_{Au}\ln{x_{Au}} + x_{Ag}\ln{x_{Ag}})$
+
+Substituting the values:
+
+$\Delta S_{mix} = -8.314(0.4\ln{0.4} + 0.6\ln{0.6})$
+
+$\Delta S_{mix} = -8.314(0.4(-0.916) + 0.6(-0.511))$
+
+$\Delta S_{mix} = -8.314(-0.638) = 5.309$
+
+Rounding off to one decimal place, the total entropy of mixing is:
+
+$\Delta S_{mix} = 5.3 J K^{-1}$
+
+Therefore, the correct answer is:
+
+- 5.3 J K^{-1}

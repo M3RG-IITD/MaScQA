@@ -1,0 +1,1 @@
+Given: Assume Avrami exponent n = 2. During heat treatment of a cold worked metal, recrystallization is 20% complete after 100s. The transformation (in %) in 400s is? (answer up to two decimal places)

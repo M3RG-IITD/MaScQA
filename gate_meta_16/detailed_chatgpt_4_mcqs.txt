@@ -1,0 +1,15 @@
+The correct statement of the first law of thermodynamics is:
+
+(A) dE = δQ - δW
+
+Here's an explanation of each variable:
+
+- dE represents the change in internal energy of a system.
+- δQ represents the heat added to or removed from a system.
+- δW represents the work done on or by a system.
+
+The equation dE = δQ - δW simply states that the change in internal energy of a system is equal to the heat added to or removed from the system minus the work done on or by the system. If heat is added to a system and work is done on the system, the internal energy of the system will increase. If heat is removed from the system and work is done by the system, the internal energy of the system will decrease.
+
+Therefore, the correct answer is:
+
+- A) dE = δQ - δW

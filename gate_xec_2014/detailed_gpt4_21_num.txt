@@ -1,0 +1,42 @@
+To solve this problem, we'll use Bragg's Law, which relates the angle of reflection to the interplanar distance (d-spacing) and the wavelength of the radiation. Bragg's Law is given by:
+
+nλ = 2d * sinθ
+
+where:
+- n is the order of reflection (in this case, n = 1 for first order)
+- λ is the wavelength of the radiation (in this case, λ = 0.1542 nm)
+- d is the interplanar distance
+- θ is the angle of reflection (the value we want to calculate)
+
+First, we need to find the interplanar distance (d-spacing) for the (113) set of planes in a face-centered cubic (FCC) lattice. To do this, we'll use the formula for d-spacing in a cubic lattice:
+
+d = (a) / sqrt(h^2 + k^2 + l^2)
+
+where:
+- a is the lattice parameter (in this case, a = 0.392 nm)
+- h, k, and l are the Miller indices for the set of planes (in this case, h = 1, k = 1, and l = 3)
+
+Plug in the values into the d-spacing formula:
+
+d = (0.392 nm) / sqrt((1)^2 + (1)^2 + (3)^2)
+d = (0.392 nm) / sqrt(1 + 1 + 9)
+d = (0.392 nm) / sqrt(11)
+d ≈ 0.1181 nm
+
+Now that we have the d-spacing, we can use Bragg's Law to find θ:
+
+1 * (0.1542 nm) = 2 * (0.1181 nm) * sinθ
+
+Rearrange the equation to solve for sinθ:
+
+sinθ = (0.1542 nm) / (2 * 0.1181 nm)
+sinθ ≈ 0.6531
+
+Now, to find the angle θ, we need to take the inverse sine (arcsin) of the sinθ value:
+
+θ = arcsin(0.6531)
+θ ≈ 40.687°
+
+So, the expected diffraction angle for the first order reflection from the (113) set of planes in a face centered cubic Pt lattice using monochromatic radiation of wavelength 0.1542 nm is approximately 40.687°.
+
+Answer: [40.687]

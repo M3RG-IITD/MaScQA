@@ -1,0 +1,33 @@
+Given: 
+
+Linear thermal expansion coefficient, $\alpha_{||}$ parallel to graphite layers $= 0.8 \times 10^{-6} K^{-1}$
+
+Linear thermal expansion coefficient, $\alpha_{\perp}$ perpendicular to graphite layers $= 29 \times 10^{-6} K^{-1}$
+
+Change in temperature, $\Delta T = 1100 - 900 = 200 K$
+
+We can calculate the coefficient of volume expansion $(\beta)$ from the given linear expansion coefficients using the following formula:
+
+$$\beta = 3\alpha_{\perp} - 2\alpha_{||}$$
+
+Substituting the given values, we get:
+
+$$\beta = 3(29 \times 10^{-6}) - 2(0.8 \times 10^{-6}) = 87.4 \times 10^{-6} K^{-1}$$
+
+The percentage increase in volume can be calculated using the formula:
+
+$$\frac{\Delta V}{V_0} = \beta \Delta T$$
+
+where $V_0$ is the initial volume of the graphite sample.
+
+Substituting the values, we get:
+
+$$\frac{\Delta V}{V_0} = 87.4 \times 10^{-6} \times 200 = 17.48 \times 10^{-3}$$
+
+Converting to percentage, we get:
+
+$$\frac{\Delta V}{V_0} \times 100 = 1.75\%$$
+
+Answer: 
+
+The percentage increase in the volume of graphite when heated from 900 K to 1100 K is 1.75%.

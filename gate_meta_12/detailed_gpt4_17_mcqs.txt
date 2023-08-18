@@ -1,0 +1,25 @@
+First, let's discuss how resistivities of both pure metals and intrinsic semiconductors vary with temperature.
+
+**Pure metals:**
+
+For pure metals, resistivity arises mainly due to the interaction of the metal ions with the free electrons. As temperature increases, the metal atoms vibrate more, and the free electrons experience more scattering due to these vibrating atoms, which in turn offer higher resistance to the flow of electrons. Hence, the electrical resistivity of pure metals increases with temperature. This behavior can be described by the following empirical relationship:
+
+$$ρ_m(T) = ρ_{m0}(1 + α(T - T_0))$$
+
+Here, $ρ_m$ is the resistivity at temperature $T$, $ρ_{m0}$ is the resistivity at reference temperature $T_0$, and $α$ is the temperature coefficient of resistivity, which is positive for metals.
+
+**Intrinsic semiconductors:**
+
+On the other hand, resistivity in semiconductors arises due to the presence of few charge carriers at room temperature. As temperature increases, more electron-hole pairs are generated due to the thermal energy, which contributes to the conduction process. So, the number of charge carriers (both electrons and holes) increases with temperature. This leads to a decrease in the electrical resistivity of intrinsic semiconductors with temperature. This behavior can be expressed by the following equation:
+
+$$ρ_s(T) = \frac{1}{n(T)eμ(T)}$$
+
+Here, $ρ_s$ is the resistivity at temperature $T$, $n(T)$ is the number of charge carriers at temperature $T$, $e$ is the charge of an electron, and $μ(T)$ is the mobility of charge carriers at temperature $T$. As $n(T)$ increases with temperature, the resistivity of intrinsic semiconductors decreases.
+
+Now, based on the above discussion, we can answer the question.
+
+As the temperature increases, the electrical resistivity of pure metals ($ρ_m$) increases, and the electrical resistivity of intrinsic semiconductors ($ρ_s$) decreases. This matches with option (C), where $ρ_m$ increases and $ρ_s$ decreases.
+
+Therefore, the correct answer is:
+
+[C]

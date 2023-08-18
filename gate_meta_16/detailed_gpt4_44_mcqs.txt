@@ -1,0 +1,65 @@
+To solve the problem, we can use the equation relating the density, crystallinity, and amorphous densities of a polymer:
+
+$\rho = \rho_c * x_c + \rho_a * (1 - x_c)$
+
+Where:
+- $\rho$ is the density of the polypropylene sample
+- $\rho_c$ is the density of 100% crystalline polypropylene
+- $x_c$ is the crystallinity of the polypropylene
+- $\rho_a$ is the density of 100% amorphous polypropylene
+
+From the image, we have the following information:
+
+1. Sample 1: Density ($\rho_1$) = 905 kg.m^(-3), Crystallinity ($x_{c1}$) = 0.4
+2. Sample 2: Density ($\rho_2$) = 841 kg.m^(-3), Crystallinity ($x_{c2}$) = 0.2
+
+To find the density of totally amorphous polypropylene, or $\rho_a$, we can set up two equations using the given density and crystallinity values:
+
+1. $\rho_1 = \rho_c * x_{c1} + \rho_a * (1 - x_{c1})$
+2. $\rho_2 = \rho_c * x_{c2} + \rho_a * (1 - x_{c2})$
+
+First, we need to find a relationship between $\rho_c$ and $\rho_a$. We can do that by subtracting the second equation from the first equation:
+
+$\rho_1 - \rho_2 = \rho_c * x_{c1} + \rho_a * (1 - x_{c1}) - (\rho_c * x_{c2} + \rho_a * (1 - x_{c2}))$
+
+Substituting values of $\rho_1, \rho_2, x_{c1}, x_{c2}$:
+
+$905 - 841 = \rho_c * 0.4 + \rho_a * (1 - 0.4) - (\rho_c * 0.2 + \rho_a * (1 - 0.2))$
+
+Simplify the equation:
+
+$64 = 0.2\rho_c + 0.6\rho_a - 0.8\rho_a$
+
+Combine the $\rho_a$ terms:
+
+$64 = 0.2\rho_c - 0.2\rho_a$
+
+Now we need to get $\rho_a$:
+
+$\rho_a = \rho_c - 320$
+
+Now we can use any of the initial equations to find the value of $\rho_c$. Let's use the first one:
+
+$905 = \rho_c * 0.4 + (\rho_c - 320) * (1 - 0.4)$
+
+Distribute the terms:
+
+$905 = 0.4\rho_c + 0.6\rho_c - 192$
+
+Combine the $\rho_c$ terms and simplify:
+
+$905 + 192 = \rho_c$
+
+$\rho_c = 1097$
+
+Now, we can find the value of amorphous density $\rho_a$ using the derived equation:
+
+$\rho_a = \rho_c - 320$
+
+$\rho_a = 1097 - 320$
+
+$\rho_a = 777$ kg.m^(-3)
+
+Based on the given options, however, there may be a mistake in the question or the image since none of the given options match the calculated amorphous density value. But, based on the calculations and equations, the density of totally amorphous poly-propylene (in $kg.m^(-3)$) should be 777 kg.m^(-3).
+
+Please verify the data provided in the image, as there might be an error in the given inputs or the available options.

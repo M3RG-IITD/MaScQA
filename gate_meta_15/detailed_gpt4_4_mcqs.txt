@@ -1,0 +1,15 @@
+An intensive property is a physical quantity whose value does not depend on the size or amount of material in a system. These properties are characteristic of the material and can be used to identify it. On the other hand, an extensive property depends on the size or amount of material in the system and cannot be used to uniquely identify a material.
+
+Now let's analyze each given property:
+
+A) Volume: Volume is an extensive property, as it depends on the amount or size of the material. The volume of a substance will become greater with the presence of more material.
+
+B) Gibbs free energy: Gibbs free energy (G) is also an extensive property. The Gibbs free energy of a substance depends on the amount of the material present, as well as the temperature and pressure. The value of G can be expressed in terms of enthalpy (H), entropy (S), and temperature (T) as G = H - TS. Since both enthalpy and entropy are extensive properties, G will also be extensive.
+
+C) Chemical potential: Chemical potential (μ) can be defined as the partial derivative of Gibbs free energy with respect to the amount of a component in a system, at constant temperature and pressure. Chemical potential is an intensive property as it represents the response of the Gibbs free energy to a change in the amount of a component. Since it does not depend directly on the quantity of the substance, it is an intensive property.
+
+D) Entropy: Entropy (S) is an extensive property as it depends on the amount of material in the system. The entropy of a system is related to the total number of microstates (∆S = k*ln(ΔW)) that a system can assume, where k is Boltzmann's constant and ΔW represents the number of microstates. The more material that is present in a system, the more microstates are available and thus, the greater the entropy of the system.
+
+So, among the given properties, the only intensive property is:
+
+[Chemical potential (C)]

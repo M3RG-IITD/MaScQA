@@ -1,0 +1,21 @@
+Using the formula for diffusion, $D=\frac{Dt}{x^2}$, where $D$ is the diffusion coefficient, $t$ is time, and $x$ is distance, we can find the time required at 500°C.
+
+Let's assume that the distance to which copper diffuses is the same in both experiments. Then, we can set up an equation using the two diffusion coefficients:
+
+$5\times10^{-14}=\frac{t_1}{x^2}$ 
+
+$6\times10^{-13}=\frac{t_2}{x^2}$ 
+
+We want to find $t_2$, the time required at 500°C, when we know $t_1$, the time required at 400°C. Rearranging the first equation, we get:
+
+$t_1=5\times10^{-14}x^2$ 
+
+Substituting this into the second equation, we get:
+
+$6\times 10^{-13}=\frac{5\times10^{-14}x^2}{t_2}$ 
+
+Solving for $t_2$, we get:
+
+$t_2=\frac{5}{6}\times\frac{x^2}{10^{-14}}=8.33$ hours (approximately)
+
+Therefore, the answer is (B) 8.33.

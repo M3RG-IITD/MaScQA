@@ -1,0 +1,25 @@
+To find the elastic modulus of the composite material, we can use the Rule of Mixtures, a weighted average of the elastic modulus of each material based on their volume fractions.
+
+Let's denote the elastic modulus of the composite material as E_c.
+
+E_c = V_A * E_A + V_B * E_B
+
+where V_A and V_B are the volume fractions of A and B, respectively, and E_A and E_B are their respective elastic moduli.
+
+Given, E_A = 200 GPa and E_B = 100 GPa. Also, the volume percentage of material B is 25%, therefore V_B = 25/100 = 0.25. Since the composite material is made up only of materials A and B, then V_A = 1 - V_B = 1 - 0.25 = 0.75.
+
+Now, plug in these values into the Rule of Mixtures formula:
+
+E_c = (0.75 * 200 GPa) + (0.25 * 100 GPa)
+
+Simplify the expression:
+
+E_c = (150 GPa) + (25 GPa)
+
+Finally, add the terms:
+
+E_c = 175 GPa
+
+The elastic modulus of the composite material is 175 GPa (rounded to one decimal place).
+
+The correct answer is [175].

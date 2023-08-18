@@ -1,0 +1,23 @@
+To solve this question, we can use Henry's law, which states that the amount of a gas dissolved in a liquid is directly proportional to the partial pressure of the gas above the liquid. In this case, we can consider the steel to be the liquid and the nitrogen gas to be the gas above it.
+
+According to Henry's law, we can write:
+
+(ppm of nitrogen in steel) / (1 mbar) = 14 ppm / 1 mbar
+
+Solving for the ppm of nitrogen in steel, we get:
+
+(ppm of nitrogen in steel) = 14 ppm
+
+Now, if the pressure is lowered to 0.7 mbar, we can use Henry's law again to find the new equilibrium nitrogen content. We can write:
+
+(ppm of nitrogen in steel) / (0.7 mbar) = x ppm / 1 mbar
+
+where x is the new equilibrium nitrogen content in ppm. Solving for x, we get:
+
+x = (0.7 mbar / 1 mbar) * (14 ppm)
+
+x = 9.8 ppm
+
+Therefore, the equilibrium nitrogen content at a pressure of 0.7 mbar and a temperature of 1873 K is 9.8 ppm.
+
+Answer: [9.8 ppm]

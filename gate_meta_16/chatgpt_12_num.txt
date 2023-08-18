@@ -1,0 +1,11 @@
+The radius of the octahedral void in a face-centered cubic lattice is given by:
+
+$r = \frac{\sqrt{2}}{4}a$
+
+where $a$ is the lattice parameter. 
+
+Substituting the given values, we get:
+
+$r = \frac{\sqrt{2}}{4}(0.3571\text{ nm}) \approx \boxed{0.126\text{ nm}}$
+
+So, the radius of the octahedral void in γ-Fe is approximately 0.126 nm.

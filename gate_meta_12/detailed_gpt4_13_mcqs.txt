@@ -1,0 +1,17 @@
+In steelmaking, the Linz-Donawitz (LD) converter, or Basic Oxygen Furnace (BOF), is used for converting pig iron into steel by blowing a stream of oxygen into the molten metal to remove impurities. During this process, the various impurities are removed in the following order:
+
+Step 1: Remove Carbon (C)
+When oxygen is blown into the molten metal, carbon is the first impurity to be removed as it reacts with oxygen to form carbon dioxide (CO2) and carbon monoxide (CO) gases, which then escape from the molten metal.
+
+Step 2: Remove Silicon (Si)
+After carbon removal, the next impurity to react with oxygen and get removed is silicon, as it forms silicon dioxide (SiO2). Silicon dioxide, being a solid, accumulates on the surface of the molten metal and then can be separated as slag.
+
+Step 3: Remove Manganese (Mn)
+During the process, manganese is oxidized, and since it has a higher affinity for oxygen than iron, it gets removed before phosphorous. Like silicon dioxide, manganese oxide combines with silica to form slag, which can be separated from the liquid metal.
+
+Step 4: Remove Phosphorous (P)
+Phosphorous is the last impurity to be removed, as it reacts with oxygen to form phosphorus pentoxide (P2O5). Phosphorus pentoxide also combines with other elements to form slag that is separated from the molten metal.
+
+Based on this information, the correct answer is:
+
+[A]

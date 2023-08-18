@@ -1,0 +1,16 @@
+The overall reaction that occurs in the blast furnace is:
+$$Fe_2O_3 + 3C \rightarrow 2Fe + 3CO$$
+From the reaction, the stoichiometry is such that for every mole of hematite, we need 3 moles of coke.
+Let's assume we are producing 1 metric ton (1000 kg) of liquid iron. Then the amount of hematite required is:
+$$\frac{1000 \text{ kg}}{55.85 \text{ g/mol}} \times \frac{0.9 \times 2}{0.1 \times 2 + 0.9 \times 2} = 21569.68 \text{ moles}$$
+The amount of coke required is:
+$$1000 \text{ kg} \times \frac{0.9}{12.01 \text{ g/mol}} = 74854.29 \text{ moles}$$
+So, we need 3 times more moles of coke than hematite. Therefore, the volume of gases produced by the combustion of 74854.29 moles of coke is given by:
+$$V = 74854.29 \text{ moles} \times 3 \frac{\text{mol of gas}}{\text{mol of coke}} \times 22.4 \frac{\text{L}}{\text{mol}} = 50298.86 \text{ L}$$
+The blast furnace top gas contains 22% CO and 18% $CO_2$ by volume. Therefore, the volume of CO and $CO_2$ in the gas is:
+$$V_{CO} = 0.22 \times 50298.86 \text{ L} = 11065.75 \text{ L}$$
+$$V_{CO_2} = 0.18 \times 50298.86 \text{ L} = 90537.80 \text{ L}$$
+The balance nitrogen makes up the remaining volume:
+$$V_{N_2} = (1-0.22-0.18) \times 50298.86 \text{ L} = 29695.30 \text{ L}$$
+Therefore, the total volume of blast furnace top gas is:
+$$V_{total} = V_{CO} + V_{CO_2} + V_{N_2} = 130299.85 \text{ L} \approx \boxed{130300 \text{ L}}$$

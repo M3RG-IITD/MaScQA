@@ -1,0 +1,24 @@
+To find the atomic packing fraction of diamond cubic structure, we need to consider the atoms in the unit cell and the space they occupy.
+
+Step 1: Draw the structure of the diamond cubic unit cell, which consists of two interpenetrating face-centered cubic lattices.
+
+Step 2: Each corner atom of a diamond cubic unit cell is shared between eight adjacent unit cells. Since there are eight corners in a unit cell, the total number of corner atoms accounted for in a unit cell is 1/8 x 8 = 1 atom.
+
+Step 3: Each face-centered atom is shared between two adjacent unit cells. Since there are six face-centered atoms in a unit cell, the total number of face-centered atoms accounted for in a unit cell is 1/2 x 6 = 3 atoms.
+
+Step 4: The total number of atoms in a diamond cubic unit cell is the sum of corner and face-centered atoms, which is equal to 1 + 3 = 4 atoms.
+
+Step 5: The volume of the unit cell is determined by the cube formed by the diagonal between the atoms, which has a length of 4r. Thus, the volume of the unit cell is V = (4r)^3 = 64r^3.
+
+Step 6: The volume occupied by the atoms can be determined by summing the volumes of each atom in the unit cell. Each corner atom occupies 1/8 of the space within a unit cell and each face-centered atom occupies 1/2 of the space within a unit cell. Therefore, the volume occupied by the atoms in a unit cell is:
+
+V_atom = 1/8 x 4/3πr^3 + 3 x 1/2 x 4/3πr^3
+V_atom = 2/3πr^3
+
+Step 7: Finally, the packing fraction is given by the ratio of the volume occupied by the atoms to the total volume of the unit cell:
+
+packing fraction = V_atom / V
+packing fraction = (2/3πr^3) / (64r^3)
+packing fraction = 0.34
+
+Therefore, the atomic packing fraction of diamond cubic structure is 0.34.

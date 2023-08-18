@@ -1,0 +1,22 @@
+We can use the formula:
+
+$\Delta G = RT\ln{\frac{a_{Si(1\%wt)}/C_{Si(1\%wt)}}{a_{Si(liq)}/C_{Si(liq)}}}$
+
+where $a_{Si}$ is the activity of Si and $C_{Si}$ is the concentration of Si (in mol/L).
+
+Since Si is dissolved in Fe, we can assume that the total concentration of Si in the liquid is equal to the concentration of Fe, which is given as 100 wt.% (or 1 kg/kg). Thus, $C_{Si(liq)} = 0.01~\text{kg/kg}$.
+
+Similarly, the concentration of Si in the 1 wt.% solution is given as 0.01 kg/kg, so $C_{Si(1\%wt)} = 0.0001~\text{kg/kg}$.
+
+The activity coefficient of Si at infinite dilution is given as $10^{-3}$, so we can assume that $a_{Si(liq)} \approx 1$, since Si is not very soluble in Fe.
+
+For the 1 wt.% solution, we can use the formula for dilute solutions, which gives:
+
+$a_{Si(1\%wt)} = \gamma_{Si(1\%wt)}\times C_{Si(1\%wt)} \approx \gamma_{Si(1\%wt)}\times 0.0001~\text{kg/kg}$
+
+Thus,
+
+$\Delta G = RT\ln{\frac{a_{Si(1\%wt)}/C_{Si(1\%wt)}}{a_{Si(liq)}/C_{Si(liq)}}} = RT\ln{\frac{\gamma_{Si(1\%wt)}}{C_{Si(liq)}\times 10^{-3}}} = (8.314~\text{J/mol K})\times (1873~\text{K})\times\ln{\frac{\gamma_{Si(1\%wt)}}{C_{Si(liq)}\times 10^{-3}}} \approx \boxed{-22.7~\text{kJ/mol}}$
+
+Answer: 
+-22.7 kJ/mol

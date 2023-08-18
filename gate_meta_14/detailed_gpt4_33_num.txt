@@ -1,0 +1,44 @@
+To find the theoretical requirement of air for the complete combustion of 100 m³ of pure $CH_4$, we need to consider the balanced chemical equation for the complete combustion of methane:
+
+$CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O$
+
+From this equation, we can see that 1 mole of methane (CH₄) requires 2 moles of oxygen (O₂) for the complete combustion of methane.
+
+Now we need to find the moles of methane in 100 m³ (at STP). At Standard Temperature and Pressure (STP), 1 mole of any gas occupies 22.41 L or 0.02241 m³ (1L = 0.001 m³). 
+
+Let's find the number of moles (n) of methane in 100 m³ (V):
+ 
+n = V / 0.02241
+
+where n is the number of moles, V is the volume in m³ and 0.02241 m³ is the molar volume of gas at STP.
+ 
+n = 100 / 0.02241 
+n ≈ 4464 moles (rounded to the nearest whole number)
+
+Now, we know that 1 mole of CH₄ requires 2 moles of O₂. So, 4464 moles of CH₄ will require:
+
+2 * 4464 moles of O₂ = 8928 moles of O₂
+
+Now we need to find the volume of oxygen required at STP. Using the previously mentioned relation, we can find the volume (V) of O₂:
+
+V = n * 0.02241
+
+where n is the number of moles of O₂, and 0.02241 m³ is the molar volume of gas at STP.
+
+V = 8928 * 0.02241
+V ≈ 200 m³ (rounded to the nearest whole number)
+
+But air contains only 21 vol.% of O₂. Therefore, to get 200 m³ of pure O₂, we need to calculate the volume of air required:
+
+Let x be the volume of air required to provide 200 m³ of O₂:
+
+0.21 * x = 200
+
+To find the value of x, we divide both sides by 0.21:
+
+x = 200 / 0.21
+x ≈ 952.38 m³
+
+So, the theoretical requirement of air (at STP) for the complete combustion of 100 m³ (at STP) of a fuel consisting of pure CH₄ is approximately 952.38 m³.
+
+Answer: [952.38]

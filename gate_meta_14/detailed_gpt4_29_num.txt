@@ -1,0 +1,39 @@
+Given that the activity coefficient of Q, $𝛾_Q$ in a liquid Q-R alloy can be represented by the equation:
+
+ln $𝛾_Q$ = $0.6*(x_R)^2$ - 0.2*$(x_R)^3$
+
+We are asked to find the activity of Q in an alloy of composition $x_R = 0.6$ at the same temperature.
+
+First, we will substitute the given value of the composition, $x_R = 0.6$, into the equation for ln $𝛾_Q$:
+
+ln $𝛾_Q$ = $0.6*(0.6)^2$ - 0.2*$(0.6)^3$
+
+Now, let's simplify the equation by performing the exponentiations and multiplications:
+
+ln $𝛾_Q$ = $0.6*(0.36)$ - 0.2*$(0.216)$
+ln $𝛾_Q$ = $0.216$ - $0.0432$
+ln $𝛾_Q$ = $0.1728$
+
+Now that we have the natural logarithm of the activity coefficient, we can find the activity coefficient itself by taking the exponent of both sides of the equation:
+
+$𝛾_Q = e^{0.1728}$
+
+Calculating the exponent for $0.1728$ gives:
+
+$𝛾_Q ≈ 1.18856$
+
+The activity of Q in an alloy is defined as the product of its activity coefficient and its mole fraction:
+
+$A_Q = 𝛾_Q * x_Q$
+
+Since $x_R = 0.6$, we can find the mole fraction of Q as:
+
+$x_Q = 1 - x_R = 1 - 0.6 = 0.4$
+
+Now we can find the activity of Q:
+
+$A_Q = 1.18856 * 0.4 ≈ 0.475424$
+
+Therefore, the activity of Q in an alloy of composition $x_R = 0.6$ at the same temperature is approximately 0.475424.
+
+Answer: [0.475424]

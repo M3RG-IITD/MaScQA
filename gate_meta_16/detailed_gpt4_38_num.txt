@@ -1,0 +1,53 @@
+To find the average mould heat flux, we first need to integrate the given expression of $q_m(z)$ with respect to the distance below the meniscus (z), and then divide it by the mould length $L_m$.
+
+The given expression for mould heat flux is:
+
+$q_m(z) = [2.67 - 0.33(z/U_c)^{0.5}] * 10^6$
+
+Casting speed ($U_c$) = 0.2 $m.s^{-1}$. We can use this value in the expression:
+
+$q_m(z) = [2.67 - 0.33(z/0.2)^{0.5}] * 10^6$
+
+Now, we need to find the integral of q_m(z) with respect to z and compute it within the limits of 0 and $L_m = 0.8$ m.
+
+$\int_{0}^{0.8} q_m(z)dz = \int_{0}^{0.8} [2.67 - 0.33(z/0.2)^{0.5}] * 10^6 dz$
+
+Let's compute this integral:
+
+$= 10^6 * \int_{0}^{0.8} [2.67 - 0.33(z/0.2)^{0.5}] dz$
+
+Now, we split the integral into two parts:
+
+$= 10^6 * [\int_{0}^{0.8} 2.67 dz - 0.33\int_{0}^{0.8} (z/0.2)^{0.5} dz]$
+
+Calculate the integrals:
+
+$= 10^6 * [2.67z - 0.33 * (2/3) * 0.2 * (z/0.2)^{3/2}\Big|_0^{0.8}]$
+
+Evaluate the expression within the limits 0 and 0.8:
+
+$= 10^6 * [2.67(0.8) - 0.33 * (2/3) * 0.2 * (0.8/0.2)^{3/2}]$
+
+$= 10^6 * [2.136 - 0.22(0.8)^{3/2}]$
+
+$= 10^6 * [2.136 - 0.22(2)]$
+
+$= 10^6 * [2.136 - 0.44]$
+
+$= 10^6 * 1.696$
+
+Now, to find the average mould heat flux, divide the integral by the mould length ($L_m$ = 0.8 m):
+
+$\text{Average mould heat flux} = \frac{10^6 * 1.696}{0.8}$
+
+$= \frac{1.696 * 10^6}{0.8}$
+
+$= 2.12 * 10^6$ W/m^2
+
+Since 1 MW = 10^6 W, we can express the answer in MW/m^2:
+
+$= 2.12$ MW/m^2
+
+Thus, the average mould heat flux is $2.12$ MW/m^2.
+
+Answer: [2.12]

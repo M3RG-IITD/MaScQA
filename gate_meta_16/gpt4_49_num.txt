@@ -1,0 +1,46 @@
+To find the tensile stress required for initiating slip on the (111) slip plane, we need to first find the Schmid factor (SF) for the given system. The Schmid factor is defined as the dot product of the applied stress direction and the slip direction, multiplied by the dot product of the applied stress direction and the slip plane normal.
+
+For the FCC (Face Centered Cubic) metal crystal:
+
+Applied stress direction: [100]
+Slip direction (typical for FCC): <110>
+Slip plane normal (typical for FCC): {111}
+
+Now, let's first find the angle (β) between the applied stress direction [100] and the slip direction <110>.
+
+Dot product of [100] and <110>:
+[1, 0, 0] • [1, 1, 0] = 1 * 1 + 0 * 1 + 0 * 0 = 1
+The magnitudes of [100] and <110>:
+||[100]|| = √(1² + 0² + 0²) = 1
+||<110>|| = √(1² + 1² + 0²) = √2
+
+With the dot product and magnitudes in hand, we can compute the angle between these vectors using the formula:
+
+cos(β) = (dot product of [100] and <110>)/(||[100]|| ||<110>||)= 1/(1*√2) = √2/2
+
+Now, let's find the angle (α) between the stress direction [100] and the slip plane normal {111}.
+
+Dot product of [100] and {111}:
+[1, 0, 0] • [1, 1, 1] = 1 * 1 + 0 * 1 + 0 * 1 = 1
+The magnitude of {111}:
+||{111}|| = √(1² + 1² + 1²) = √3
+
+With the dot product and magnitudes in hand, we can compute the angle between these vectors using the formula:
+
+cos(α) = (dot product of [100] and {111} ) / (||[100]|| ||{111}||) = 1 / (1*√3) = √3/3
+
+Now, we can calculate the Schmid factor (SF) using the formula:
+
+SF = cos(α) * cos(β) = (√3/3) * (√2/2)
+
+The tensile stress (σ) required for initiating slip can be obtained from the formula:
+
+σ = (critical resolved shear stress) / SF = 6 MPa / ((√3/3) * (√2/2))
+
+After calculating, we obtain the tensile stress required for initiating slip on the (111) slip plane:
+
+σ = 6 * (2/√2) * (3/√3) = 12 MPa
+
+So, the tensile stress required for initiating slip is 12 MPa.
+
+Answer: [12]

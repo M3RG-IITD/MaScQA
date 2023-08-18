@@ -1,0 +1,11 @@
+The Ellingham diagram shows the standard free energy change (∆𝐺°) of a metal’s oxidation reaction as a function of temperature. The general equation for the reaction is: 𝑥𝑀(𝑠) + $𝑂_2$(𝑔) → $𝑀_{x}O_2$(𝑠).
+
+The slope of the line on the Ellingham diagram is positive because the value of ∆𝐻° for the reaction is positive. This means that the reaction is endothermic (absorbs heat), and as the temperature increases, more energy is required for the reaction to proceed. As a result, the ∆𝐺° value increases with temperature, resulting in a positive slope.
+
+Therefore, the correct option is (C) ∆H° is positive. 
+
+To summarize:
+- The positive slope of the Ellingham diagram indicates that the ∆𝐺° is increasing with temperature.
+- This is due to the endothermic nature of the reaction, indicated by the positive ∆𝐻° value.
+- Options (A) and (B) are incorrect because the value of ∆S° does not affect the slope of the Ellingham diagram.
+- Option (D) is incorrect because a negative ∆H° value would result in a negative slope on the Ellingham diagram.

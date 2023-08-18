@@ -1,0 +1,17 @@
+Step 1: Understanding the question.
+We are asked to identify a typical rolling defect from the given options.
+
+Step 2: Understanding the options.
+(A) Buckling: This defect occurs when the metal strip develops a series of waves across its width due to uneven roll pressure, temperature or thickness control. Buckling can cause product quality problems and equipment damage if not corrected early.
+(B) Edge cracking: This defect occurs when the edges of a metal strip fracture during rolling. Edge cracks may occur due to uneven heating, low ductility or excessive deformation during reduction.
+(C) Cold shut: This defect refers to a surface or subsurface interface defect in a metal caused by incomplete fusion of the metal during the rolling process. It generally looks like a line running straight or with a wavy shape in the same direction as the rolling direction.
+(D) Porosity: This defect results from air or gas trapped inside the metal during the rolling process. Porosity can affect the mechanical properties of the material and cause it to fail under load.
+
+Step 3: Identifying the correct answer.
+From the given options, (A) Buckling, (B) Edge cracking, (C) Cold shut and (D) Porosity are all common rolling defects that can reduce the quality of the rolled product. However, the typical rolling defect is (A) Buckling as it can happen due to several factors such as uneven roll pressure, temperature or thickness control. It is also common in various metal forming processes and can be a significant quality issue.
+
+Step 4: Writing the answer.
+The correct answer is (A) Buckling.
+
+Therefore, the correct answer is:
+(A) Buckling.

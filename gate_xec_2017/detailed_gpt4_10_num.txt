@@ -1,0 +1,43 @@
+To find the density of the totally crystalline PE, we need to determine the mass of the ethylene repeat units in the unit cell and then divide it by the unit cell volume. 
+
+1. First, let's find the molar mass of the ethylene repeat units:
+Each ethylene repeat unit contains:
+
+- 2 carbon atoms (with an atomic weight of 12.01 g/mol for carbon)
+- 4 hydrogen atoms (with an atomic weight of 1.008 g/mol for hydrogen)
+
+Molar mass of ethylene repeat unit = (2 * 12.01) + (4 * 1.008) g/mol
+
+2. Calculate the mass of two ethylene units:
+Since there are two ethylene repeat units in each unit cell, we need to multiply their molar mass by 2.
+
+Mass of two ethylene units = 2 * [(2 * 12.01) + (4 * 1.008)] g/mol
+
+3. Now, we need to find the mass of two ethylene units in grams:
+As we know that there are 6.023 * 10^(23) repeat units/mol, we will divide the mass of two ethylene units by Avogadro's number to get the mass in grams.
+
+Mass of two ethylene units in grams = [2 * [(2 * 12.01) + (4 * 1.008)] g/mol] / (6.023 * 10^23) 
+
+4. Convert the volume of the unit cell from nm^3 to cm^3:
+1 nm = 1 * 10^(-9) m = 1 * 10^(-7) cm
+So, 0.0933 nm^3 = 0.0933 * (10^(-7))^3 cm^3
+
+5. Now, to find the density, we need to divide the mass of two ethylene units in grams by the volume of the unit cell in cm^3.
+
+Density = [2 * [(2 * 12.01) + (4 * 1.008)] g/mol] / [(6.023 * 10^23) * (0.0933 * (10^(-7))^3)]
+
+Let's calculate the values step by step:
+
+step 1: Molar mass of ethylene repeat unit = (2 * 12.01) + (4 * 1.008) = 24.02 + 4.032 = 28.052 g/mol
+
+step 2: Mass of two ethylene units = 2 * 28.052 = 56.104 g/mol
+
+step 3: Mass of two ethylene units in grams = 56.104 / (6.023 * 10^23) = 9.317 * 10^(-23) g
+
+step 4: Unit cell volume in cm^3 = 0.0933 * (1 * 10^(-7))^3 = 9.33 * 10^(-23) cm^3
+
+step 5: Density = (9.317 * 10^(-23) g) / (9.33 * 10^(-23) cm^3) = 0.9986 g/cm^3
+
+So, the density of the totally crystalline PE is approximately 0.9986 g/cm^3.
+
+[0.9986]

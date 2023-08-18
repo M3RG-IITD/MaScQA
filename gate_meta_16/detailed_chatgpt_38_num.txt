@@ -1,0 +1,34 @@
+First, we need to understand the meaning of the terms in the equation given. 
+
+- Mould heat flux ($q_m$) is the amount of heat transferred per unit area per unit time from the molten metal to the mould surface.
+- Distance below the meniscus (z) is the vertical distance between the level of the molten metal and the mould surface.
+- Mould length ($L_m$) is the length of the mould surface in the direction of casting.
+- Casting speed ($U_c$) is the speed at which the billet moves relative to the mould surface.
+
+Now, we can use the given equation to calculate the average mould flux. To do this, we need to integrate the heat flux over the length of the mould surface and divide by the mould length. The integral of the given equation is:
+
+$q_m$ = $∫_0^L$ [2.67 - 0.33$(z/U_c)^(0.5)$] * $10^6$ dz
+
+$q_m$ = $2.67∫_0^L$ $10^6$ dz - $0.33∫_0^L$ $(z/U_c)^(0.5)$ $10^6$ dz
+
+$q_m$ = $2.67$ $10^6$ $L_m$ - $0.22$ $10^6$ $U_c$ $∫_0^L$ $z^(0.5)$ dz
+
+Solving the integral, we get:
+
+$q_m$ = $2.67$ $10^6$ $L_m$ - $0.22$ $10^6$ $U_c$ $[ (2/3) L_m^(3/2)]$
+
+Putting in the values given in the question, we get:
+
+$q_m$ = $2.67$ $10^6$ $0.8$ - $0.22$ $10^6$ $0.2$ $[ (2/3) (0.8)^(3/2)]$
+
+$q_m$ = $1.5096$ $10^6$ W
+
+Finally, we can calculate the average mould flux by dividing the mould heat flux by the mould surface area. The mould surface area is given by the product of the mould surface length and the width of the billet. Assuming a billet width of 0.2 m (same as the casting speed), we get:
+
+Average mould flux = $q_m$ / ($L_m$ * $W$)
+
+Average mould flux = $1.5096$ $10^6$ / (0.8 * 0.2)
+
+Average mould flux = $9.435$ $MW/m^2$
+
+Therefore, the average mould flux is $9.435$ $MW/m^2$.

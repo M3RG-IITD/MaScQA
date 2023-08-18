@@ -1,0 +1,2 @@
+The grain sizes (in µm) measured at five locations in an alloy sample are: 16, 14, 18, 15 and 13. The mean, median and standard deviation of grain sizes respectively are (in µm)
+(A) 15.2, 15 and 1.7 (B) 15.2, 15 and 1.9 (C) 15.8, 15 and 1.9 (D) 15.2, 16 and 1.7

@@ -1,0 +1,19 @@
+The X-ray diffraction pattern of a pure metal sample is determined by the crystal structure of the metal. Pure copper has a face-centered cubic (fcc) crystal structure, and the diffraction pattern should display distinct reflections from the (hkl) planes of the fcc unit cell. 
+
+The (hkl) notation refers to the planes of atoms within the crystal that are perpendicular to the crystallographic axes, with h, k, and l being integers that specify the location of the plane within the unit cell. The Miller indices of a plane are defined as the reciprocals of the intercepts that the plane makes with the three crystallographic axes (a, b, and c), multiplied by a common denominator. 
+
+For a given set of (hkl) planes, the Bragg condition for constructive interference of X-ray waves reflected from the planes is given by:
+
+2d sinθ = nλ
+
+where d is the spacing between the planes, θ is the angle between the X-ray beam and the plane, n is an integer representing the order of diffraction, and λ is the wavelength of the X-rays. 
+
+In the fcc structure, the most commonly observed diffraction peaks correspond to the (hkl) planes with h + k + l = even integers. For example, (111) and (200) are the first two planes that satisfy this condition, so they are the first two peaks that should appear in the diffraction pattern. The relative intensity of each peak depends on the number of atoms in the unit cell that contribute to the scattering, as well as the distance from the X-ray source to the sample and the sample preparation.
+
+With this in mind, we can determine the correct answer to the question by identifying the set of (hkl) planes that satisfy the Bragg condition for constructive interference at specific angles. For the fcc structure of pure copper, the correct sequence of peaks corresponding to the observed planes in order of increasing 2θ is (111), (200), (220), and (311), which matches answer choice (A).
+
+Note: It is also possible to solve this problem using the d-spacing formula for fcc structures, which is:
+
+d = a / √(h² + k² + l²)
+
+where a is the lattice parameter (i.e. the length of one side of the cubic unit cell).

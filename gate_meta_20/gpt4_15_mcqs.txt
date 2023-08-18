@@ -1,0 +1,5 @@
+The correct sequence of precipitation during aging of Al-4 wt.% Cu alloy is:
+
+(C) GP zone → θ` → θ`` → θ
+
+Answer: [C]

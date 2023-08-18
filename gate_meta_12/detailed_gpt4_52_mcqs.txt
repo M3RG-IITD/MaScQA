@@ -1,0 +1,33 @@
+The Hall-Petch equation relates the strength (yield stress) of materials to their grain size and is given by:
+
+σ_y = σ_0 + k*sqrt(d)
+
+where σ_y is the yield strength, σ_0 is the lattice frictional stress, k is the Hall-Petch constant (also known as the locking parameter), and d is the average grain size.
+
+From the problem statement, we know that (ASTM No. 6):
+
+Lattice frictional stress, σ_0 = 100 MN/m² = 100 * 10^6 N/m²
+Hall-Petch constant, k = 0.10 MN/m^(1.5) = 0.10 * 10^6 N/m^(1.5)
+
+ASTM grain size number (G) is related to the grain size (d) by the following formula:
+
+d = 2^(-G+3) (in mm)
+
+Since we have given ASTM No. 6, we can calculate d:
+
+d = 2^(-6+3)
+d = 2^(-3)
+d = 1/2^3
+d = 1/8
+d = 0.125 mm = 125 µm
+
+However, we have to check which of the given options is closest to the calculated value. Let's compare:
+
+(A) 45 µm
+(B) 35 µm
+(C) 4.5 µm
+(D) 3.5 µm
+
+The closest value to our calculated grain size is 45 µm.
+
+Answer: [A] 45 µm

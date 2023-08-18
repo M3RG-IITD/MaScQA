@@ -1,0 +1,19 @@
+To solve this question, we must first understand what a blast furnace is and what the solution-loss reaction refers to.
+
+A blast furnace is a type of metallurgical furnace used for smelting to produce industrial metals, generally pig iron, but also others such as lead or copper. It operates at very high temperatures, and its primary purpose is to extract the metal from its ore in a two-step process involving reduction and melting.
+
+The solution-loss reaction refers to the chemical reaction between a metal oxide and a reducing agent, such as coke or carbon, which is present in the blast furnace. This reaction results in the production of metal and the release of carbon dioxide gas. The desirable outcome is to minimize the solution-loss reaction to conserve coke (carbon) and maximize the production of metal.
+
+Now let's analyze the given options:
+
+A) Favours the solution-loss reaction: High top pressure in the blast furnace can increase the rate of the solution-loss reaction by providing a more favourable environment for the reaction to occur. However, this will not be the desired effect as it will lead to higher coke consumption and lower metal production.
+
+B) Suppresses the solution-loss reaction: High top pressure in the blast furnace can suppress the solution-loss reaction if it prevents the reducing agent (coke) from reacting with the metal oxide. This is the desired effect in a blast furnace operation as it conserves coke and enhances metal production.
+
+C) Decreases gas-solid contact time: High top pressure in the blast furnace can reduce the gas-solid contact time if it results in higher gas velocities. However, this may not necessarily suppress the solution-loss reaction as it may merely alter the equilibrium of the reaction.
+
+D) Increases coke rate: High top pressure in the blast furnace can increase the coke rate if it favours the solution-loss reaction, as more coke will be consumed in the reaction. However, this is not the desired effect in a blast furnace operation as higher coke consumption is not economically efficient and reduces metal production.
+
+Based on the analysis of the given options, the correct answer is:
+
+- (B) suppresses the solution-loss reaction

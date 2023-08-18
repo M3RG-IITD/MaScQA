@@ -1,0 +1,19 @@
+The mass flow rate ($\dot{m}$) through the nozzle can be calculated using the Bernoulli's equation:
+
+$$\rho gh=\frac{P}{\rho}+\frac{1}{2}\rho v^2$$
+
+where $\rho$ is the density of the liquid metal, $g$ is the acceleration due to gravity, $h$ is the height of the liquid column above the nozzle, $P$ is the atmospheric pressure (assumed to be constant), and $v$ is the velocity of the liquid metal at the nozzle.
+
+Since the nozzle is small, we can assume that the velocity of the liquid metal at the nozzle is the same as the velocity of the liquid metal in the vessel just above the nozzle. Therefore, 
+
+$$v=\sqrt{2gh}$$
+
+Substituting this into the Bernoulli's equation and rearranging, we get:
+
+$$\dot{m}=\rho A C_d \sqrt{2gh}$$
+
+where $A$ is the area of the nozzle and $C_d$ is the discharge coefficient.
+
+Substituting the given values, we get:
+
+$$\dot{m}=7000 \times \frac{\pi (30 \times 10^{-3})^2}{4} \times 0.80 \times \sqrt{2 \times 9.81 \times 3.2}=342.4 \approx \boxed{342}\ kg.s^{-1}$$

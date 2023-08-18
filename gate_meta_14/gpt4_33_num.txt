@@ -1,0 +1,17 @@
+To find the theoretical requirement of air for the complete combustion of 100 $m^3$ of $CH_4$, we need to first write the balanced chemical equation for the combustion of methane:
+
+$$CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O$$
+
+From the balanced equation, we see that one mole of methane requires two moles of oxygen for complete combustion. Since the volume of a gas is directly proportional to the number of moles, 100 $m^3$ of methane will require 200 $m^3$ of oxygen.
+
+Now, we know that air contains 21 vol.% of oxygen. Let the required volume of air be $x$. We can set up an equation as:
+ 
+$$(0.21)x = 200$$
+
+Solving for x, we get:
+
+$$x = \frac{200}{0.21}$$
+
+$$x \approx 952.38$$
+
+Therefore, the theoretical requirement of air for the complete combustion of 100 $m^3$ of methane is approximately 952.38 $m^3$. So the answer is [952.38].

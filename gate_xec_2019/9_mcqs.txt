@@ -1,0 +1,2 @@
+(Given: energy gap of Ge = 0.67 eV, Planck’s constant h = 6.63 * $10^(-34)$ J s, velocity of light c = 3 * $10^(8)ms^(-1)$ and 1 eV = 1.6*$10^(-19)$ J ). The maximum wavelength of radiation to which Germanium (Ge) is opaque will be
+(A) 0.8 μm (B) 1.8 μm (C) 2.8 μm (D) 4.8 μm

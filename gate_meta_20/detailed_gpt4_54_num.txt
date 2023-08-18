@@ -1,0 +1,65 @@
+Given the reaction:
+
+$[C]_{(1\,\text{wt.%}\,\text{Henrian}\,\text{Std.}\,\text{State})} + [O]_{(1\,\text{wt.%}\,\text{Henrian}\,\text{Std.}\,\text{State})} \to (CO)_{(1\,\text{atm.}\,\text{Std.}\,\text{State})}$
+
+The Gibbs free energy change (ΔG°) is given as:
+
+ΔG° = -19840 - 40.65T J
+
+We also have the gas constant (R) given as:
+
+R = 8.314 J.mol⁻¹.K⁻¹
+
+Assuming equilibrium between dissolved carbon [C], dissolved oxygen [O], and CO (gas) at 1 atmosphere, and Henry's law is valid for both [C] and [O].
+
+At equilibrium, the reaction quotient (Q) is equal to the equilibrium constant (K). The reaction quotient for the reaction can be written as:
+
+$Q = \frac{[CO]}{[C][O]} $
+
+At equilibrium:
+
+$K = \frac{[CO]}{[C][O]} $
+
+We can also relate ΔG°, K, and R using the following formula:
+
+ΔG° = -RT ln(K)
+
+Let's solve for K:
+
+$K = e^{-\frac{\Delta G^{\circ}}{RT}}$
+
+Plug in the given values:
+
+$K = e^{-\frac{(-19840 - 40.65 \times 1800)}{8.314 \times 1800}}$
+
+$K \approx 1.9383 \times 10^{-11}$
+
+Now we know that the dissolved oxygen content in the steel is 0.03 wt.% and the steel temperature is 1800K.
+
+Since Henry's law is valid for both [C] and [O]:
+
+$\frac{[O]}{1\,\text{wt.%}} = \frac{0.03\,\text{wt.%}}{1\,\text{wt.%}}$
+
+$[O] = 0.03$
+
+Substitute the values of [O] and K into the equilibrium expression:
+
+$K = \frac{[CO]}{[C][O]}$
+
+$1.9383 \times 10^{-11} = \frac{[CO]}{[C] \times 0.03}$
+
+Assuming 1:1 stoichiometry of the reaction, we can set [C]=[CO]. Hence, 
+
+$1.9383 \times 10^{-11} = \frac{[C]}{[C] \times 0.03}$
+
+Solve for [C]:
+
+$[C] = 1.9383 \times 10^{-11} \times 0.03$
+
+$[C] \approx 5.815 \times 10^{-13}$ (in wt.%)
+
+To convert the result to two decimal places:
+
+$[C] \approx 0.00$ (in wt.%)
+
+So, the carbon content [C] in the steel is approximately 0.00 wt.%.

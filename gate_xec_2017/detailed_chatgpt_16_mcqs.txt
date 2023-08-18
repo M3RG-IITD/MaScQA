@@ -1,0 +1,9 @@
+(i) All piezoelectric materials are necessarily ferroelectric: False. Piezoelectric materials are those materials which produce an electrical charge when a mechanical force is applied to them and vice versa. Ferroelectric materials, on the other hand, have a spontaneous polarization which can be reversed by the application of an external electric field. While many piezoelectric materials are ferroelectric, not all of them are. Example: Quartz.
+
+(ii) All ferroelectric materials are necessarily piezoelectric: True. Ferroelectric materials have a spontaneous polarization that can be reversed by the application of an external electric field, which means that they exhibit a change in shape when an electric field is applied to them. This property makes them inherently piezoelectric.
+
+(iii) All pyroelectric materials are necessarily piezoelectric: False. Pyroelectric materials are those materials which generate an electrical charge due to a change in temperature. While some pyroelectric materials may also exhibit piezoelectric behavior, it's not a necessary condition. Example: Lithium tantalate.
+
+(iv) All pyroelectric materials are necessarily ferroelectric: False. Pyroelectric materials like Teflon or Polyvinylidene fluoride (PVDF) do not show ferroelectric behavior. 
+
+Therefore, the correct option is (B) (ii) and (iii).

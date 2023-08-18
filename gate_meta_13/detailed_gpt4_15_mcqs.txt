@@ -1,0 +1,36 @@
+We are given four conditions in a roasting process and our task is to identify the conditions that favor the formation of sulphate from metal sulphide concentrates. Let's analyze each condition.
+
+P. High temperature:
+High temperature in a roasting process can promote the oxidation of sulphide minerals, including the formation of sulphate. So, high temperature can be a condition that favors the formation of sulphate.
+
+Q. High partial pressure of oxygen:
+In roasting, metal sulphide concentrates react with oxygen to form metal oxides and sulphur dioxide ($SO_2$). A higher partial pressure of oxygen can drive the oxidation reaction further, which can ultimately lead to the formation of sulphate ($SO_4^{2-}$) ions. Therefore, a high partial pressure of oxygen can be a condition that favors the formation of sulphate.
+
+R. Use of excess air:
+Excess air in a roasting process can provide additional oxygen for the reactions, promoting the oxidation of metal sulphides and the formation of sulphates. So, the use of excess air can be a condition that favors the formation of sulphate.
+
+S. High partial pressure of $SO_3$:
+$SO_3$ can react with water to form sulphuric acid (H2SO4). The presence of H2SO4 in the roasting process can promote the formation of sulphate ions ($SO_4^{2-}$) by reacting with metal oxides formed in the roasting process. Therefore, a high partial pressure of $SO_3$ can be a condition that favors the formation of sulphate.
+
+Now, after analyzing each condition, let's check which of the given options is the right one:
+
+(A) P, R and S: These conditions (high temperature, use of excess air, and high partial pressure of $SO_3$) all favor sulphate formation, so this could be the correct choice.
+
+(B) P, Q and R: These conditions (high temperature, high partial pressure of oxygen, and use of excess air) all favor sulphate formation, so this could also be the correct choice.
+
+(C) Q and S: These conditions (high partial pressure of oxygen, and high partial pressure of $SO_3$) favor sulphate formation, but this choice is missing the high temperature (P) and the use of excess air (R), which also favor sulphate formation.
+
+(D) R and S: These conditions (use of excess air and high partial pressure of $SO_3$) favor sulphate formation, but this choice is missing the high temperature (P) and high partial pressure of oxygen (Q), which also favor sulphate formation.
+
+After evaluating each option, the conditions that favor the sulphate formation from metal sulphide concentrates are:
+
+- High temperature (P)
+- High partial pressure of oxygen (Q)
+- Use of excess air (R)
+- High partial pressure of $SO_3$ (S)
+
+So the correct answer is a combination of options (A) and (B). The reason is that these choices include all the conditions that favor the formation of sulphate from the metal sulphide concentrates:
+
+[P, R, and S] ∪ [P, Q, and R] = [P, Q, R, and S]
+
+So the correct answer is: [P, Q, R, and S]

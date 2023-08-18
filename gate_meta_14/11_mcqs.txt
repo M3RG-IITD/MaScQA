@@ -1,0 +1,2 @@
+As mercury is cooled from room temperature to 3 K, its electrical behaviour changes from that of
+(A) conductor to insulator (B) semiconductor to insulator (C) conductor to superconductor (D) semiconductor to superconductor

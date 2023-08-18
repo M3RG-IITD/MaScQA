@@ -1,0 +1,34 @@
+To solve this problem, we need to find out the amount of iron and carbon present in the hot metal, and then calculate the amount of iron ore used, and finally the amount of slag produced.
+
+First, let's find the amount of iron and carbon in the hot metal.
+The composition of hot metal is 95.5% Fe and 4.5% C.
+
+1 ton of hot metal = 1000 kg
+
+Iron = 0.955 × 1000 = 955 kg
+Carbon = 0.045 × 1000 = 45 kg
+
+Now, let's find out how much iron ore is needed to obtain this amount of iron.
+Composition of hematite ore - 80% $Fe_2O_3$
+
+1 mol $Fe_2O_3$ = 2 mol Fe
+
+1 mol $Fe_2O_3$ = (2 × Fe) + (3 × O) = (2 × 56) + (3 × 16) = 112 + 48 = 160g
+
+Ratio of Fe to $Fe_2O_3$ = 112g / 160g = 0.7
+
+Amount of $Fe_2O_3$ to get 955 kg iron = 955 kg / 0.7 = 1364 kg
+
+Now we need to find the total amount of iron ore used.
+
+1 kg of iron ore contains 80% $Fe_2O_3$
+Therefore, 1364 kg $Fe_2O_3$ is present in = (1364 ÷ 0.8) = 1705 kg of iron ore
+
+Now, let's find out the amount of slag produced.
+Coke used per ton of hot metal = 600 kg
+Ash content of coke = 15%, so ash = 0.15 × 600 = 90 kg
+Gangue materials of the ore = 20% × 1705 = 341 kg
+
+Slag produced per ton of hot metal = Ash content of coke + Gangue materials of the ore = 90 kg + 341 kg = 431 kg
+
+So, the weight of iron ore used and slag produced per ton of hot metal is 1705 kg and 431 kg respectively. The correct answer is (A) 1705 kg, 431 kg.

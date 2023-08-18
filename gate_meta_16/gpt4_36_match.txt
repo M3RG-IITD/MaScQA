@@ -1,0 +1,13 @@
+We can match the entities with their dimensions as follows:
+
+[P] Drag coefficient: Dimensionless, so it has dimensions $M^(0)L^(0)T^(0)$ --> P-3
+
+[Q] Mass transfer coefficient: Dimensions of $M^(0)LT^(-1)$ --> Q-4
+
+[R] Viscosity: Dimensions of $ML^(-1)T^(-1)$ --> R-1
+
+[S] Mass flux: Dimensions of $ML^(-2)T^(-1)$ --> S-2
+
+So the correct match is Option (A) P-3, Q-4, R-1, S-2.
+
+Answer: [(A)]

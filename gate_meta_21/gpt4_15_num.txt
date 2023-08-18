@@ -1,0 +1,29 @@
+We are given that P(X ≤ µ + 2σ) = 0.98 in a symmetric distribution, and we want to find the percentage of specimens with grain size in the range 5 to 6 µm (i.e., P(5 ≤ X ≤ 6)).
+
+First, note that P(X ≥ µ - 2σ) = 0.98 as well due to the symmetric nature of the distribution.
+
+Now we want to find the probability of P(µ ≤ X ≤ µ + σ), which is equivalent to the percentage of specimens with grain size in the range 5 to 6 µm.
+
+Since P(X ≤ µ + 2σ) encompasses P(µ + σ ≤ X ≤ µ + 2σ) and P(µ ≤ X ≤ µ + σ), we have:
+
+P(X ≤ µ + 2σ) - P(X ≥ µ - 2σ) = P(µ + σ ≤ X ≤ µ + 2σ) + P(µ ≤ X ≤ µ + σ)
+
+Given we know that P(X ≤ µ + 2σ) = 0.98 and that P(X ≥ µ - 2σ) = 0.98:
+
+0.98 - 0.98 = P(µ + σ ≤ X ≤ µ + 2σ) + P(µ ≤ X ≤ µ + σ)
+0 = P(µ + σ ≤ X ≤ µ + 2σ) + P(µ ≤ X ≤ µ + σ)
+
+Now, let's use the fact that P(a ≤ X ≤ b) + P(b ≤ X ≤ c) = P(a ≤ X ≤ c) when a < b < c, in our case:
+
+P(µ + σ ≤ X ≤ µ + 2σ) = P(X ≤ µ + 2σ) - P(µ ≤ X ≤ µ + σ)
+P(µ + σ ≤ X ≤ µ + 2σ) = 0
+
+This means P(µ ≤ X ≤ µ + σ) = P(X ≤ µ + 2σ) - P(µ + σ ≤ X ≤ µ + 2σ) = 0.98 - 0 = 0.98 or 98%
+
+Substituting the given mean and standard deviation values, we have:
+
+P(5 ≤ X ≤ 5 + 0.5) = 0.98 or 98%
+
+So, the percentage of specimens with grain size in the range 5 to 6 µm is expected to be 98%. Rounded to the nearest integer, the answer is 98.
+
+The answer is [98].

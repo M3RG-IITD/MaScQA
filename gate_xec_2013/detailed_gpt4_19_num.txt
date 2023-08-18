@@ -1,0 +1,23 @@
+Unfortunately, I cannot see the figure you're referring to, as it has not been provided. However, I can give you the general steps you'd need to follow for determining the weight percentage of A in the solid phase at this temperature.
+
+To determine the weight percentage of A in the solid phase at 1300°C, you would need to refer to the isomorphous phase diagram for the given alloy system. Here are the steps you'd need to follow:
+
+1. Locate the given temperature (1300°C) on the vertical axis of the phase diagram.
+
+2. Draw a horizontal tie line across the diagram at 1300°C, intersecting both solidus and liquidus curves (if the diagram has equilibrium crystallization paths, make sure to use those).
+
+3. At the intersection points of the tie line with the solidus and liquidus curves, find the corresponding compositions of A and B in the solid phase. The solidus is the boundary between the solid phase and the liquid + solid phase region.
+
+4. Using the lever rule, find the proportions of the phases present in the alloy. To do this, calculate the lengths of the segments of the tie line using the given overall composition (47 wt% A, 53 wt% B) as the reference point.
+
+5. The lever rule equation for the proportion of the solid phase (ps) is:
+
+ps = (C_B - C_0) / (C_B - C_A)
+
+where C_B is the composition of A in the B-rich liquid phase at 1300°C, C_0 is the overall alloy composition (47 wt% A), and C_A is the composition of A in the A-rich solid phase at 1300°C.
+
+6. Calculate the weight percentage of A in the solid phase by multiplying the proportion of the solid phase (from step 5) by the composition of A in the A-rich solid phase at 1300°C (from step 3).
+
+Please note that the actual values for composition in the solid phase will depend on the provided phase diagram for the alloy system. Once you have the phase diagram, you can follow the steps above to determine the weight percentage of A in the solid phase at 1300 °C.
+
+The correct answer would be inside a list like this once the calculations are done: [Weight percentage of A in solid phase at 1300°C].

@@ -1,0 +1,19 @@
+The energy per unit length (in J/m) of an edge dislocation is given by the equation:
+
+$E_u = \frac{\mu b^2}{2\pi}$
+
+where $\mu$ is the shear modulus, $b$ is the magnitude of the Burgers vector (equal to the lattice parameter for an edge dislocation), and $\pi$ is the mathematical constant pi.
+
+For an edge dislocation in $\alpha$-Fe, the magnitude of the Burgers vector is equal to the interatomic spacing along the [100] crystallographic direction, which can be calculated using the atomic diameter $d$ as:
+
+$b = \sqrt{2}/2 * d$
+
+Substituting the values given in the problem, we get:
+
+$b = \sqrt{2}/2 * 0.25 \text{ nm} = 0.177 \text{ nm}$
+
+Plugging this value and the given shear modulus of $\alpha$-Fe into the equation above, we get:
+
+$E_u = \frac{70 \text{ GPa} * (0.177 \text{ nm})^2}{2\pi} \approx 1.1 * 10^{-9} \text{ J/m}$
+
+Therefore, the correct answer is (B) 1.1 * $10^(-9)$.

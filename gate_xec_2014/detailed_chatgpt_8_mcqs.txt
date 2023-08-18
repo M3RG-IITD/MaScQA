@@ -1,0 +1,15 @@
+
+
+Vacancies are the defects or empty spaces present in the lattice structure of a pure metal. The concentration of these vacancies at equilibrium depends on the temperature.
+
+According to the relation:
+
+n = n₀ exp(-Q/kT)
+
+where, n is the concentration of vacancies at temperature T, n₀ is the concentration of vacancies at absolute zero, Q is the activation energy required to create a vacancy, k is the Boltzmann constant.
+
+From the above relation, we can see that the concentration of vacancies decreases with increasing activation energy and decreases with decreasing temperature. Therefore, the correct answer is:
+
+(B) The equilibrium concentration of vacancies in a pure metal decreases exponentially with temperature. 
+
+This means that at higher temperatures, the concentration of vacancies decreases and the metal becomes more dense and compact. At lower temperatures, the concentration of vacancies increases and the metal becomes more porous and brittle.

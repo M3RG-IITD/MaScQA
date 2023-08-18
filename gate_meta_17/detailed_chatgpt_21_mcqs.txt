@@ -1,0 +1,11 @@
+To determine which alloy has the highest fluidity during solidification, we need to examine the liquidus lines of each alloy in the phase diagram. The liquidus line separates the liquid phase from the solid phase as the temperature is decreased. 
+
+In general, alloys with a lower melting temperature and a smaller range between the liquidus and solidus lines will have higher fluidity during solidification. 
+
+Upon examining the phase diagram, we can see that the liquidus lines for C1 and C2 are quite steep, indicating a relatively narrow temperature range between the liquidus and solidus lines. On the other hand, the liquidus lines for C3 and C4 are more gradual, indicating a wider temperature range between the liquidus and solidus lines. 
+
+Therefore, alloys C1 and C2 are expected to have higher fluidity during solidification compared to alloys C3 and C4. To determine which of these two has the highest fluidity, we need to examine their melting temperatures. 
+
+From the phase diagram, we can see that the melting temperature of C1 is lower than C2. Therefore, alloy C1 is expected to have the highest fluidity during solidification. 
+
+The correct answer is (A) C1.

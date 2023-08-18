@@ -1,0 +1,33 @@
+
+
+The (110) plane of a BCC (Body-centered cubic) iron crystal will have iron atoms at the corners of the unit cell as well as one iron atom at the center of the unit cell. 
+
+Let's find the area of the (110) plane. For a BCC crystal, the (110) plane intersects three unit cells as shown below:
+
+![BCC Iron crystal (110) plane](https://i.imgur.com/TO5Ju5f.png)
+
+The length of the diagonal of the unit cell can be found using the Pythagorean theorem:
+
+$\sqrt{a^2 + a^2 + a^2} = \sqrt{3}a$
+
+where $a$ is the lattice parameter of iron. Therefore, the area of the base of the unit cell is:
+
+$A_{base} = a^2$
+
+The height of the (110) plane can be found by considering that it intersects the diagonal of a face of the unit cell, which has a length of $\frac{\sqrt{2}}{2}a$. Therefore, the height of the (110) plane is:
+
+$h = \frac{\sqrt{2}}{2}a$
+
+The area of the (110) plane is then:
+
+$A = 3A_{base}h = 3a^2\frac{\sqrt{2}}{2}a = \frac{3\sqrt{2}}{2}a^3$
+
+The planar atomic density is the number of atoms per unit area, which is given by:
+
+$N = \frac{1}{A}$
+
+Therefore, substituting the value of $A$ in the above equation, we get:
+
+$N = \frac{2}{3\sqrt{2}}\frac{1}{a^2} = 3.17\times10^{-3} nm^{-2}$ (rounded to 2 decimal places)
+
+Answer: The planar atomic density in the (110) plane of a BCC iron crystal is 3.17 $nm^{-2}$.

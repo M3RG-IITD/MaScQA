@@ -1,0 +1,11 @@
+(P) Aluminium wire feeding is a deoxidation technique which is used to remove excess oxygen from the molten metal.
+
+(Q) Calcium treatment is an inclusion modification technique which is used to modify the shape and size of inclusions in the molten metal.
+
+(R) Argon rinsing is a mixing of liquid steel technique which is used to homogenize the composition of the molten metal.
+
+(S) Lime powder injection is a de-sulphurization technique which is used to reduce the sulphur content in the molten metal.
+
+Therefore, the correct matching is:
+
+(A) P-2, Q-1, R-3, S-4

@@ -1,0 +1,21 @@
+We can use the formula for resistivity of a semiconductor in terms of mobility and carrier concentration: $\rho = \frac{1}{nq(\mu_e + \mu_h)}$, where $\rho$ is the resistivity, $n$ is the carrier concentration, $q$ is the absolute charge of an electron, $\mu_e$ and $\mu_h$ are the mobilities of electrons and holes respectively. 
+
+At 298 K, the resistivity of the semiconductor is given as 3000 Ωm. Using the above formula, we can write:
+
+$3000 = \frac{1}{nq(0.14 + 0.06)}$
+
+$\Rightarrow n = \frac{1}{3000q(0.2)}$
+
+Now, $n_e = N_A e^{-\frac{E_g}{k_B T}}$. At equilibrium, the number of electrons excited ($n_e$) will be equal to the number of holes ($n_h$). So we have $n_h = n_e = \frac{n}{2}$.
+
+Substituting, we get:
+
+$\frac{n}{2} = N_A e^{-\frac{E_g}{k_B T}}$
+
+$\Rightarrow E_g = \frac{k_B T}{\ln{(2N_A/n)}}$
+
+Substituting the given values, we get:
+
+$E_g = \frac{(8.62 \times 10^{-5})(298)}{\ln{(2(6.02 \times 10^{23})/(\frac{1}{3000}(1.60 \times 10^{-19})(0.2)))}}$
+
+$\Rightarrow E_g = \boxed{1.18 \text{ eV}}$

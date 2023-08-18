@@ -1,0 +1,1 @@
+(Given: Young’s Modulus of the fibre and the matrix are 200 GPa and 10 GPa, respectively) A unidirectionally aligned carbon fibre reinforced epoxy composite is loaded as shown in the figure. The volume fraction of the fibre is 0.6. The Young’s modulus of the composite in GPa is?

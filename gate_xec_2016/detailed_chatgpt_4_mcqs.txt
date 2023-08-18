@@ -1,0 +1,13 @@
+Before discussing the answer, let's understand what is cross slip.
+
+Cross slip is a mechanism by which a dislocation changes its plane of movement when it encounters an obstacle or a more complex dislocation network. This change of plane by the dislocation increases its mobility and contributes to the deformation of the material.
+
+Now, coming back to the question, the answer is (A) a low stacking fault energy.
+
+Here's why:
+
+The stacking fault energy (SFE) is a measure of the energy required to separate two different crystal planes. It is related to the ease with which a dislocation can move on a particular plane. A low SFE means that it requires less energy to separate the planes and hence, dislocations can move more easily.
+
+Cross slip occurs when a dislocation encounters an obstacle and needs to change planes to continue its movement. In order for this plane change to occur, the dislocation needs to overcome the energy barrier presented by the crystal structure. If the SFE is low, this energy barrier is also low, making cross slip easier.
+
+Therefore, metals with a low stacking fault energy are more likely to promote cross slip.

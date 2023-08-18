@@ -1,0 +1,8 @@
+To obtain an isomorphous phase diagram in a binary alloy system, certain rules called Hume-Rothery rules need to be satisfied:
+
+1. The atomic size difference should be less than 15% (P)
+2. Both the end components should have the same crystal structure (Q)
+3. The valency of the end components should either be the same or one should have a higher valency and the other should have a lower valency (R)
+4. The end components should have similar electronegativities (not dissimilar, so S is incorrect)
+
+The correct answer is (A) P, Q, and R need to be satisfied for obtaining an isomorphous phase diagram in a binary alloy system.

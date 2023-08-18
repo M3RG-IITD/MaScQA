@@ -1,0 +1,9 @@
+By Buckingham Π theorem, the number of independent dimensionless variables needed to describe the phenomenon is:
+
+n = (number of variables) - (number of fundamental dimensions)
+
+In this case, we have 4 variables (d, W, µ, and ρ) and 3 fundamental dimensions (length, mass, and time). Therefore,
+
+n = 4 - 3 = 1
+
+So the answer is (A) 1.

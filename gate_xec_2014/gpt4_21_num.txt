@@ -1,0 +1,35 @@
+To calculate the diffraction angle, we can use the Bragg's Law:
+
+n * λ = 2 * d * sinθ
+
+Where,
+n = order of reflection (1 for first order)
+λ = wavelength of radiation (0.1542 nm)
+d = interplanar spacing for (113) set of planes
+θ = diffraction angle (which we need to find)
+
+First, let's find the interplanar spacing (d) for the (113) set of planes using the formula:
+
+d = a / √(h^2 + k^2 + l^2)
+
+where a is the lattice parameter (0.392 nm) and (h, k, l) are the Miller indices of the plane (1, 1, 3).
+
+d = 0.392 / √(1^2 + 1^2 + 3^2)
+d = 0.392 / √11
+d ≈ 0.118 nm
+
+Now, let's use Bragg's Law to find the diffraction angle:
+
+1 * 0.1542 = 2 * 0.118 * sinθ
+
+sinθ = 0.1542 / (2 * 0.118)
+sinθ ≈ 0.6538
+
+To find the angle (θ), we take the inverse sine (arcsin) of sinθ:
+
+θ = arcsin(0.6538)
+θ ≈ 40.64 degrees
+
+So the expected diffraction angle for the first order reflection is approximately 40.64 degrees. The answer is:
+
+[40.64]

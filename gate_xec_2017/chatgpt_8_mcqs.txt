@@ -1,0 +1,5 @@
+
+
+The correct answer is (C) 6. 
+
+In an FCC (face-centered cubic) lattice, each unit cell has a total of 6 close packed planes. These planes are the {111} planes, which correspond to the four faces of the cube and the top and bottom planes of the unit cell. Each face contains one close packed plane and each corner is shared by four unit cells. Therefore, the total number of close packed planes in one unit cell is 6.

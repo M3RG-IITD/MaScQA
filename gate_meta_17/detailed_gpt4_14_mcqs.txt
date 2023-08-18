@@ -1,0 +1,17 @@
+The primary mechanisms for accommodating plastic strain at low temperatures in crystalline metals are those that allow the atoms to rearrange without significant thermal energy. Let's examine each of the given options:
+
+(A) Twinning and Dislocation-slip:
+Twinning is a deformation process in which a part of the crystal reorients to produce a mirror image of itself. This process can occur at low temperatures as it does not require significant thermal energy. Dislocation-slip is the process where dislocations move through the crystal lattice, causing plastic deformation. Dislocation-slip can also occur at low temperatures because the dislocations can move with relatively little external force. Therefore, both twinning and dislocation slip are compatible with low-temperature plastic deformation.
+
+(B) Dislocation-Climb and Dislocation-Slip:
+Dislocation-climb occurs when a dislocation moves in the direction perpendicular to its slip plane, by diffusing its atoms. This process is temperature-dependent as it requires the activation of atom diffusion. At low temperatures, diffusion is generally slow, so dislocation-climb is not a dominant mechanism for accommodating plastic strain. Dislocation-slip, as previously explained, can happen at low temperatures.
+
+(C) Dislocation-Slip and Diffusion:
+Diffusion is the random movement of atoms within a material. It is a thermally activated process, making it a less dominant mechanism for plastic deformation at low temperatures. Dislocation-slip, as previously explained, can happen at low temperatures.
+
+(D) Viscous-Flow and Dislocation-Slip:
+Viscous-flow is a high-temperature deformation mechanism that involves atomic diffusion and is not a primary mechanism at low temperatures. Dislocation-slip, as previously explained, can happen at low temperatures.
+
+From the above discussion, it is evident that the primary mechanisms for accommodating plastic strain at low temperatures in crystalline metals are twinning and dislocation-slip.
+
+Answer: [A]

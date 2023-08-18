@@ -1,0 +1,1 @@
+A brittle material is mechanically tested in medium P in which it has surface energy $𝛾_𝑠$= 0.9 J $m^(-2)$ . This material has a fracture strength of 300 MPa for a given flaw size. The same solid containing the same flaws is then tested in medium Q in which $𝛾_𝑠$= 0.1 J $m^(-2)$. The fracture strength (in MPa) in medium Q based on Griffith's theory is?

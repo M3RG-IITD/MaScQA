@@ -1,0 +1,9 @@
+The correct answer is: (A) Silica has a significantly lower thermal expansion coefficient than magnesia at high temperatures.
+
+Explanation:
+
+Self-supporting arches for furnace roofs require materials that can withstand high temperatures and thermal stresses. Silica bricks are particularly suitable for this purpose due to their low thermal expansion coefficient, which means they expand less than other materials at high temperatures. This property allows the bricks to maintain their structural integrity when exposed to rapid temperature changes.
+
+Magnesia bricks, on the other hand, have a higher thermal expansion coefficient than silica bricks. This means they expand more than silica bricks when exposed to high temperatures, which can lead to cracking and failure of the arch.
+
+Therefore, A is the correct answer. B, C, and D are incorrect because they do not explain why silica bricks are suitable for self-supporting furnace arches while magnesia bricks are not.

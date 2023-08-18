@@ -1,0 +1,64 @@
+To determine the condition for chemical equilibrium, we need to consider the free energy versus composition plots for the two solid solutions α and β.
+
+At equilibrium, the chemical potential of each component in α must be equal to that in β. This condition can be expressed as follows:
+
+For component A: μA,α = μA,β
+For component B: μB,α = μB,β
+
+Since the chemical potential is related to the partial molar Gibbs free energy by the equation μ = μ° + RT ln γ, where γ is the activity of the component, we can rewrite the above conditions as:
+For component A: ΔGA,α - ΔGA,°,α + RT ln γA,α = ΔGA,β - ΔGA,°,β + RT ln γA,β
+For component B: ΔGB,α - ΔGB,°,α + RT ln γB,α = ΔGB,β - ΔGB,°,β + RT ln γB,β
+
+where ΔGA,°,α and ΔGB,°,α are the standard molar Gibbs free energies of pure A and B in the α phase, respectively; ΔGA,°,β and ΔGB,°,β are the corresponding quantities for the β phase.
+
+Now, let's examine the given plots:
+
+Free Energy versus Composition Plot for α 
+
+From the plot, we can see that at constant temperature and pressure, the free energy of mixing ΔGmix,α decreases initially and then increases again as the mole fraction of A increases. The minimum value of ΔGmix,α occurs at the mole fraction xA*, which corresponds to the composition of the α phase at equilibrium.
+
+The slope of the curve at xA* is zero, which means that the chemical potential of each component in the α phase is equal to the average value of its chemical potential in the two pure components A and B.
+
+Therefore, we can write:
+
+μA,α = (μA,A + μA,B)/2
+μB,α = (μB,A + μB,B)/2
+
+Using the expression for chemical potential in terms of Gibbs free energy and activity, and substituting the values for the pure component Gibbs free energy and activity from the plot, we get:
+
+ΔGA,α - ΔGA,°,α + RT ln γA,α = (ΔGA,A - ΔGA,°,A)/2 + (ΔGA,B - ΔGA,°,B)/2 + RT ln (γA,αγB,α) ... (1)
+ΔGB,α - ΔGB,°,α + RT ln γB,α = (ΔGB,A - ΔGB,°,A)/2 + (ΔGB,B - ΔGB,°,B)/2 + RT ln (γA,αγB,α) ... (2)
+
+where we have used the relation γA,αγB,α = γα.
+
+Similarly, from the plot for the β phase, we can write:
+
+ΔGA,β - ΔGA,°,β + RT ln γA,β = (ΔGA,A - ΔGA,°,A)/2 + (ΔGA,B - ΔGA,°,B)/2 + RT ln (γA,βγB,β) ... (3)
+ΔGB,β - ΔGB,°,β + RT ln γB,β = (ΔGB,A - ΔGB,°,A)/2 + (ΔGB,B - ΔGB,°,B)/2 + RT ln (γA,βγB,β) ... (4)
+
+where we have used the relation γA,βγB,β = γβ.
+
+Now, for chemical equilibrium, we need to satisfy the conditions:
+
+μA,α = μA,β  and  μB,α = μB,β 
+
+Substituting the expressions for chemical potential in terms of Gibbs free energy and activity, and using equations (1)-(4), we get:
+
+ΔGA,α - ΔGA,°,α - ΔGA,β + ΔGA,°,β + RT ln (γA,α/γA,β) = (ΔGA,A - ΔGA,°,A)/2 + (ΔGA,B - ΔGA,°,B)/2 + RT ln [(γA,αγB,α)/(γA,βγB,β)] ... (5)
+ΔGB,α - ΔGB,°,α - ΔGB,β + ΔGB,°,β + RT ln (γB,α/γB,β) = (ΔGB,A - ΔGB,°,A)/2 + (ΔGB,B - ΔGB,°,B)/2 + RT ln [(γA,αγB,α)/(γA,βγB,β)] ... (6)
+
+Since ΔGA,°,α , ΔGB,°,α , ΔGA,°,β and ΔGB,°,β are constants at a given temperature and pressure, equations (5) and (6) can be rearranged as:
+
+ΔGA,α - ΔGA,β + RT ln (γA,α/γA,β) = (ΔGA,A - ΔGA,B)/2 + RT ln [(γA,αγB,α)/(γA,βγB,β)]/2 ... (7)
+ΔGB,α - ΔGB,β + RT ln (γB,α/γB,β) = (ΔGB,A - ΔGB,B)/2 + RT ln [(γA,αγB,α)/(γA,βγB,β)]/2 ... (8)
+
+Therefore, the condition for chemical equilibrium is:
+
+(ΔGA,α - ΔGA,β)/(RT) + ln (γA,α/γA,β) = (ΔGA,A - ΔGA,B)/(2RT) + ln [(γA,αγB,α)/(γA,βγB,β)]/(2RT) ... (9)
+(ΔGB,α - ΔGB,β)/(RT) + ln (γB,α/γB,β) = (ΔGB,A - ΔGB,B)/(2RT) + ln [(γA,αγB,α)/(γA,βγB,β)]/(2RT) ... (10)
+
+Comparing equations (9) and (10) with the standard expression for the chemical potential of a pure component in a solution, μ = μ° + RT ln γ, we can say that the condition for chemical equilibrium is:
+
+Activity of A in α = Activity of A in β  and  Activity of B in α = Activity of B in β 
+
+Hence, the correct option is (C).

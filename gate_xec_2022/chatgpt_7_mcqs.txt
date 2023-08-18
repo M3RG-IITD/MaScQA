@@ -1,0 +1,5 @@
+The correct answer is:
+
+(A) Young’s modulus of A is greater than B. 
+
+There is no definite correlation between Vickers microhardness and yield strength, scratch resistance, or ductility. However, Young’s modulus (a measure of stiffness) generally increases with increasing hardness.

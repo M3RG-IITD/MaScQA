@@ -1,0 +1,27 @@
+We can use the rule of mixtures to estimate the Young's modulus of a composite material. The rule of mixtures states that the Young's modulus of a composite (Ec) is the weighted total of the Young's modulus of the matrix (Em) and the Young's modulus of the reinforcement (Ef), multiplied by their respective volume fractions (Vm and Vf).
+
+Mathematically, this can be represented as:
+Ec = Em * Vm + Ef * Vf
+
+We are given the Young's modulus of the composite (Ec), matrix (Em), and fibers (Ef) as 185, 110, and 360 GPa, respectively. We are asked to find the volume fraction of fibers (Vf) in the composite.
+
+Since Vm + Vf = 1 (volume fractions sum to 1),
+Vm = 1 - Vf
+
+Now we can rewrite the equation as:
+
+185 GPa = 110 GPa * (1 - Vf) + 360 GPa * Vf
+
+Rearranging the equation:
+Vf * (360 GPa - 110 GPa) = 185 GPa - 110 GPa
+
+Vf * 250 GPa = 75 GPa
+
+Now, we can solve for Vf:
+
+Vf =  75 GPa / 250 GPa
+Vf = 0.3
+
+So the volume fraction of fibers (Vf) in the composite is 0.3 or 30%.
+
+The correct answer is [0.3] or [30%].

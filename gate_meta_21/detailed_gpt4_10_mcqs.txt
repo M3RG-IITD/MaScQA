@@ -1,0 +1,20 @@
+To answer this question, let's first understand what quenching power is and how it affects the quenchants used in heat treatment of steels. 
+
+Quenching power, also known as cooling capacity, refers to the ability of a quenchant to cool down the steel from high temperature to desired low temperature quickly. The main objective of quenching is to obtain a desired microstructure and hardness in the steel. A higher quenching power cools the steel faster, inducing more hardness.
+
+There are four quenchants mentioned in the question: oil, water, brine (water containing salt), and air. Let's briefly discuss their quenching abilities one by one:
+
+1. Oil: Oil is a common quenchant used in the heat treatment process of steels. It has medium quenching power, meaning it provides moderate cooling rate. It is preferred when a balance between hardness and ductility is required.
+
+2. Water: Water is also a widely used quenchant because of its availability and low cost. It has a higher quenching power than oil which results in a faster cooling rate, producing higher hardness in the steel.
+
+3. Brine: Brine is a solution of water and salt. The salt in the brine increases the quenching power, making it even more effective at cooling the steel faster than pure water. This results in the highest hardness of the three liquid quenchants.
+
+4. Air: Air, being a gas, is the least effective quenchant in terms of quenching power. It cools the steel very slowly, which may not provide the desired microstructure and hardness.
+
+Now that we have an understanding of the quenching abilities of the four quenchants, we can list them in the correct decreasing order of quenching power:
+
+Brine > Water > Oil > Air
+
+Therefore, the correct answer is:
+(C) Brine > Water > Oil > Air

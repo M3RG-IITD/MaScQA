@@ -1,0 +1,26 @@
+The exact differential of Gibbs free energy G for a single-phase system with K components is given as:
+
+dG = -SdT + VdP + Σ(μ_i dn_i)
+
+where S is the entropy, T is the temperature, V is the volume, P is the pressure, μ_i is the chemical potential, and n_i is the mole number of the i-th component.
+
+Applying the general formula for thermodynamic potentials (∂X/∂Y)|$_(Z,W)$  = (∂W/∂Z)|$_(Y,X)$, we can derive Maxwell's relations for the system.
+
+Consider the relation:
+
+(∂S/∂P)|$_(T,n_i)$ = -(∂V/∂T)|$_(P,n_i)$
+
+Comparing this to the general equation, we have:
+
+X = S, Y = P, Z = T, W = V
+
+Now we check if the corresponding partial derivatives match in the Gibbs free energy expression:
+
+- (∂G/∂T)|$_(P,n_i)$ = -S
+- (∂G/∂P)|$_(T,n_i)$ = V
+
+Since the corresponding partial derivatives match with our chosen relation, we can say that the Maxwell's relation is valid for the given system.
+
+So the correct answer is:
+
+[(A)]

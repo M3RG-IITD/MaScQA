@@ -1,0 +1,35 @@
+The formula to find the partial molar enthalpy of a component is:
+
+$$\bar{H_i} = \frac{\partial H}{\partial n_i}$$
+
+where $\bar{H_i}$ is the partial molar enthalpy of component $i$, $H$ is the enthalpy of the mixture, and $n_i$ is the amount of component $i$.
+
+Since we are assuming regular solution behavior, we can use the following relation to relate the enthalpy of mixing to the activity coefficients:
+
+$$\Delta H_{mix} = RT(x_{Au}\ln\gamma_{Au}+x_{Ag}\ln\gamma_{Ag})$$
+
+where $\Delta H_{mix}$ is the enthalpy of mixing, $x_{Au}$ and $x_{Ag}$ are the mole fractions of Au and Ag, respectively, and $\gamma_{Au}$ and $\gamma_{Ag}$ are the activity coefficients of Au and Ag, respectively.
+
+If we assume that the enthalpy of mixing is zero, we can use the given partial molar enthalpy of Au to find the activity coefficient of Au:
+
+$$\bar{H_{Au}} = \frac{\partial H}{\partial n_{Au}} = \frac{\partial}{\partial n_{Au}} (n_{Au}\bar{H_{Au}} + n_{Ag}\bar{H_{Ag}}) = \bar{H_{Au}} + x_{Ag}\frac{\partial\bar{H_{Ag}}}{\partial n_{Au}} = RT\ln\gamma_{Au}$$
+
+Rearranging this equation gives:
+
+$$\ln\gamma_{Au} = \frac{\bar{H_{Au}}}{RT}$$
+
+Substituting the given values, we get:
+
+$$\ln\gamma_{Au} = \frac{-8300\ J\cdot mol^{-1}}{8.314\ J\cdot K^{-1}\cdot mol^{-1}\cdot 1400\ K} = -0.632$$
+
+Therefore, the activity of Au can be calculated using the relation:
+
+$$a_{Au} = \gamma_{Au}x_{Au}$$
+
+Substituting the given values, we get:
+
+$$a_{Au} = e^{-0.632}\cdot 0.25 = 0.155$$
+
+Rounding off to 3 decimal places, the activity of Au in the melt is 0.155.
+
+Answer: [0.155]

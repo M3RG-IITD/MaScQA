@@ -1,0 +1,15 @@
+The Gibbs energy of nucleation is given by the following equation:
+
+ΔG = ΔGv + ΔGs
+
+where ΔGv is the change in the volume energy, and ΔGs is the change in the surface energy.
+
+At equilibrium temperature, the Gibbs free energy change is zero. Therefore, we can write:
+
+ΔGv + ΔGs = 0
+
+Since both ΔGv and ΔGs are always positive, their sum cannot be zero. This means that there is no critical value of the Gibbs energy of nucleation at equilibrium temperature.
+
+Therefore, the correct answer is:
+
+(A) zero

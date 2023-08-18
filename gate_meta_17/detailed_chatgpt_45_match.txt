@@ -1,0 +1,15 @@
+In order to solve this question, we need to recall the symmetry elements associated with each of the crystallographic systems listed in Group-I. 
+
+- Tetragonal (P): This system has a 4-fold rotational axis along the c-axis and a 2-fold rotational axis perpendicular to the c-axis. It also has a mirror plane perpendicular to the c-axis.
+- Cubic (Q): This system has a 3-fold rotational axis passing through the center of each face and a 4-fold rotational axis passing through the center of each edge. It also has a 2-fold rotational axis passing through the center of each face and a 6-fold rotational axis passing through the center of the cube.
+- Monoclinic (R): This system has a 2-fold rotational axis perpendicular to the unique axis, along which there is a single mirror plane.
+- Rhombohedral (S): This system has a 3-fold rotational axis passing through the center of each face, but the angles between the faces are not equal. It also has a 3-fold rotational axis passing through the center of the crystal, and a single mirror plane perpendicular to the 3-fold rotational axis.
+
+Now, we need to match each of these crystallographic systems with the corresponding minimum symmetry in Group-II. 
+
+- Tetragonal (P): The minimum symmetry element for this system is a 4-fold rotation axis. Therefore, it corresponds to option (B) P-4.
+- Cubic (Q): The minimum symmetry element for this system is a 3-fold rotation axis. Therefore, it corresponds to option (D) Q-3.
+- Monoclinic (R): The minimum symmetry element for this system is a 2-fold rotation axis. Therefore, it corresponds to option (B) R-2.
+- Rhombohedral (S): The minimum symmetry element for this system is a 3-fold rotation axis. Therefore, it corresponds to option (C) S-3.
+
+Therefore, the correct answer is (B) P-4; Q-3; R-2; S-3.

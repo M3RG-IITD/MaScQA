@@ -1,0 +1,22 @@
+We will be using the following formula to find the reduction in the thickness of the slab:
+
+Reduction = Initial thickness × (1 - (1 - sin(angle of bite))^2)
+
+where:
+Reduction = Maximum possible reduction in the thickness
+Initial thickness = Thickness of the slab before rolling (250mm)
+Angle of bite = 10°
+
+Converting the angle of bite to radians:
+10° × (π/180) = 10 × 0.01745 = 0.174 radians
+
+Now substituting the values in the formula:
+Reduction = 250 × (1 - (1 - sin(0.174))^2)
+Reduction = 250 × (1 - (1 - 0.173648))^2)
+Reduction = 250 × (1 - 0.826352^2)
+Reduction = 250 × (1 - 0.682977)
+Reduction = 250 × 0.317023
+
+Maximum possible reduction = 79.26mm (rounded to two decimal places)
+
+So, the maximum possible reduction during rolling is [79.26] mm.

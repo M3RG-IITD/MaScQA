@@ -1,0 +1,9 @@
+P. Hydrogen electrode is a standard used to measure redox potentials: This statement is true. The hydrogen electrode is often used as a reference electrode when measuring the potential of other electrodes in a half-cell.
+
+Q. Activation polarization refers to electrochemical processes controlled by reaction sequence at metal-solution interface: This statement is true. Activation polarization can occur when the rate of an electrode reaction is influenced by the activation energy required for the reaction to take place.
+
+R. Potential-pH diagrams can be used to predict corrosion rates of metals: This statement is false. While potential-pH diagrams can be used to predict the stability of different species in a solution, they do not directly predict corrosion rates of metals.
+
+S. Cathodic protection can use sacrificial anodes such as magnesium: This statement is true. Cathodic protection is a technique used to prevent the corrosion of a metal surface by making it the cathode in an electrochemical cell. Sacrificial anodes, such as magnesium or zinc, can be used to provide the cathodic protection.
+
+Therefore, the correct combination of statements is (C) P, Q and S.

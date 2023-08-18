@@ -1,0 +1,33 @@
+We can use the relationship between flow stress and tensile stress to determine the stress required for drawing the wire:
+
+σ_t = Kσ_f
+
+where σ_t is the tensile stress, σ_f is the flow stress, and K is a constant that depends on the material and the forming process. For drawing, K is typically between 0.7 and 0.9.
+
+In this case, we can assume K = 0.8 (a common value for drawing). The flow stress is given by:
+
+σ_f = 700 $(ε)^0.2$ MPa
+
+We need to find ε for the cold rolled rod (10 mm diameter) and the drawn wire (5 mm diameter). The cross-sectional area of the wire is half that of the rod, so we can assume that the true strain during drawing is ε/2. Using the relationship between true strain and diameter change:
+
+ln(d_0/d_f) = ε
+
+where d_0 is the initial diameter (10 mm) and d_f is the final diameter (5 mm).
+
+Solving for ε, we get:
+
+ε = ln(10/5) = 0.693
+
+Therefore, the true strain during drawing is ε/2 = 0.3465.
+
+Substituting into the flow stress equation, we get:
+
+σ_f = 700 $(0.3465)^0.2$ MPa = 556 MPa
+
+Finally, we can calculate the tensile stress required for drawing:
+
+σ_t = Kσ_f = 0.8 x 556 MPa = 445 MPa
+
+Therefore, the approximate drawing stress is 445 MPa, which is closest to option (C) 450 MPa.
+
+Answer: (C) 450 MPa

@@ -1,0 +1,10 @@
+
+
+The correct statement about the glass transition temperature (Tg) is:
+(B) Upon heating through Tg, heat capacity remains constant but the thermal expansion coefficient changes. 
+
+Answer: 
+- A) False 
+- B) True 
+- C) False 
+- D) False

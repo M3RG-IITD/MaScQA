@@ -1,0 +1,8 @@
+Answer: (B) Polarization technique
+
+Explanation:
+Corrosion rate is a measure of the amount of material lost due to corrosion. It can be determined using various techniques, but polarization technique is one of the most commonly used methods for measuring corrosion rate.
+
+In polarization technique, a small electrical current is applied to the metal surface and the resulting voltage is measured. This voltage is used to calculate the corrosion rate of the metal.
+
+Pourbaix diagram, EMF series, and Galvanic series are all related to corrosion, but they do not provide direct information about the corrosion rate. Pourbaix diagram is a graphical representation of the thermodynamic stability of the metal in different environments. EMF series is a list of metal/metal ion pairs arranged in order of increasing electrode potential. Galvanic series is a list of metals and alloys arranged in order of their relative corrosion potentials.

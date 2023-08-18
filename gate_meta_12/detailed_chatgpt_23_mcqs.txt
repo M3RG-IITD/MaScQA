@@ -1,0 +1,17 @@
+The tungsten filament used in an electric bulb is processed by wire drawing. Here are the steps involved in the process: 
+
+1. Tungsten is extracted from its ores and is converted into tungsten oxide. 
+
+2. Tungsten oxide is then reduced to tungsten metal powder by heating it in the presence of hydrogen gas. 
+
+3. The tungsten metal powder is then mixed with a binder, usually a plastic material, to make a paste. 
+
+4. This paste is extruded into a wire-like shape and then dried. 
+
+5. The dried wires are then placed into a furnace and sintered at a high temperature to remove any remaining binder and to fuse the tungsten powder particles together. 
+
+6. Finally, the sintered tungsten wires are drawn down to the desired size through a series of dies in a wire drawing machine. 
+
+So, the correct answer is: 
+
+- (B) Wire drawing

@@ -1,0 +1,5 @@
+Select the correct option that appropriately matches the process to the material/product that can be fabricated using them.
+Process: [(I) Powder Processing, (II) Spin coating, (III) Czochralski process, (IV) Chemical vapor deposition]
+Material/Product: [(P) Organic semiductor thin films, (Q) Single crystal silicon, (R)Poly-silicon, (S) Porous bronze bearings]
+
+Options: (A) I-S, II-P, III-R, IV-Q (B) I-S, II-R, III-Q, IV-P (C) I-S, II-P, III-Q, IV-R (D) I-P, II-R, III-Q, IV-S

@@ -1,0 +1,25 @@
+In the case of an ideal gas, the equation of state can be represented by the Ideal Gas Law, which is given as:
+
+PV = nRT
+
+where P is the pressure, V is the volume, n is the number of moles of the gas, R is the ideal gas constant, and T is the temperature.
+
+In the reversible isothermal process, the temperature remains constant during the entire process. Thus, we can determine the relationship between T1, T2, and T3 by comparing the product of pressure and volume (PV) for the three curves.
+
+Since the product PV remains constant during an isothermal process:
+
+P1V1 = P2V2 = P3V3
+
+Now, let's analyze the initial conditions for each curve.
+
+T1 curve: The initial volume V1 is at a lower value than for T2 and T3, and the initial pressure P1 is higher than for the other two curves. Therefore, P1V1 is larger than P2V2 and P3V3.
+
+T2 curve: The initial volume is larger than T1 and smaller than T3, and the pressure is higher than T3 and smaller than T1. Therefore, P2V2 is larger than P3V3 and smaller than P1V1.
+
+T3 curve: The initial volume is the largest of the three curves and the initial pressure is the smallest. Thus, P3V3 is smaller than P1V1 and P2V2.
+
+Since P1V1 is larger than P2V2 and P3V3 and PV = nRT, it implies that T1 is higher than both T2 and T3. Similarly, T2 is higher than T3 since P2V2 is larger than P3V3. So, the correct order of temperatures is T1 > T2 > T3.
+
+Thus, the correct answer is (A) T1 > T2 > T3.
+
+Answer: [(A) T1 > T2 > T3]

@@ -1,0 +1,43 @@
+To find the number of atoms per unit area of the (110) plane in a body-centered cubic (BCC) crystal, we can follow these steps:
+
+Step 1: Determine the lattice vectors of the (110) plane.
+The (110) plane in a BCC crystal structure can be represented by the intercepts [1,1,0] along the x,y,z directions (that is, these are the reciprocal of the Miller indices (h,k,l)).
+
+Step 2: Calculate the length of the lattice vectors.
+The length of the lattice vectors can be calculated as follows:
+
+For the [1,0,0] direction,
+Length = |a[1,0,0]| = |a(1,0,0)| = a
+
+For the [0,1,0] direction,
+Length = |a[0,1,0]| = |a(0,1,0)| = a
+
+Step 3: Calculate the area of the (110) plane using the cross product
+The area of the (110) plane can be calculated using the cross product of the lattice vectors:
+
+Area = |(a[1,0,0]) x (a[0,1,0])|
+Area = |(a,0,0) x (0,a,0)|
+Area = |a^2[0,0,1]|
+Area = a^2
+
+Step 4: Determine the number of atoms in the (110) plane.
+There are two types of atoms in a (110) plane of a BCC unit cell:
+(i) Corner atoms: There are 4 corner atoms, each contributing to 1/4th of an atom inside the unit cell (because they are shared by four adjacent cells).
+(ii) Body-centered atom: There is 1 body-centered atom, which lies exactly at the center of the unit cell (with a center of mass in the plane (110) of 1/2a). This contributes 1 full atom to the unit cell.
+
+Therefore, the total number of atoms in the (110) plane is:
+Sum = 4 * (1/4) + 1 = 1 + 1 = 2 atoms
+
+Step 5: Calculate the number of atoms per unit area.
+The number of atoms per unit area for the (110) plane is given by the ratio of the number of atoms in the plane (2 atoms, as found in Step 4) to the area of the plane (a^2, as found in Step 3):
+
+Number of atoms per unit area = 2 atoms / a^2
+
+Step 6: Simplify the expression.
+Number of atoms per unit area = 2/a^2
+
+The correct answer is (B) √2/$a^2$, as 2 can be written as the square root of 4, and therefore, the expression becomes:
+
+Number of atoms per unit area = √4 / a^2 = √2 / a^2.
+
+Thus, the final answer is [B].

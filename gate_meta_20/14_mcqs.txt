@@ -1,0 +1,2 @@
+Angle between two neighboring tetrahedral bonds in Si having a diamond cubic structure is:
+(A) 102.5° (B) 109.5° (C) 120° (D) 135.5°

@@ -1,0 +1,38 @@
+To solve this problem, let's first understand the given situation and the question.
+
+We have a pipe with water flowing through it, and points P and Q inside the pipe. A water-over-mercury manometer is used to measure the pressure difference between points P and Q. We are asked to find the correct expression for this pressure difference. 
+
+Let's denote the pressure at point P as $P_P$ and the pressure at point Q as $P_Q$. The pressure difference between points P and Q can be written as $ΔP = P_P - P_Q$.
+
+Now let's analyze the manometer. There are two columns of fluid in the manometer: one column with fluid of density $ρ_1$ (which is water) and height $h$, and another column with fluid of density $ρ_2$ (which is mercury) and height $H$. In order to find the pressure difference between P and Q, we need to find how the pressure changes in each column of fluid.
+
+Let's first consider the column with fluid of density $ρ_1$ and height $h$. Starting at the top of the column (at point P) and moving down to the bottom of the column (at the interface of fluid 1 and fluid 2), the change in pressure in this column can be calculated using the hydrostatic pressure formula:
+
+$ΔP_1 = ρ_1gh$
+
+Next, let's consider the column with fluid of density $ρ_2$ and height $H$. Starting at the bottom of the column (at the interface of fluid 1 and fluid 2) and moving up to the top of the column (at point Q), the change in pressure in this column can be calculated using the hydrostatic pressure formula:
+
+$ΔP_2 = ρ_2gH$
+
+Since the pressure difference between P and Q ($ΔP$) is the sum of the pressure changes in the two columns of fluid, we can write:
+
+$ΔP = ΔP_1 - ΔP_2 = ρ_1gh - ρ_2gH$
+
+By factoring out $g$ from the equation, we get:
+
+$ΔP = g(ρ_1h - ρ_2H)$
+
+Comparing our result to the given answer choices, we can rewrite it as follows:
+
+$ΔP = g(ρ_2 - ρ_1)(-H)$
+
+Now, identify the correct choice:
+
+(A) $ρ_2gH$ -- This is incorrect; it does not account for the density of fluid 1;
+(B) $ρ_1gh$ -- This is incorrect; it does not account for the density of fluid 2;
+(C) $(ρ_2 - ρ_1)gH$ -- This is incorrect; the calculated expression has a negative sign;
+(D) $(ρ_2 - ρ_1)gh$ -- This is the correct answer.
+
+So, the correct answer is:
+
+$ΔP = (ρ_2 - ρ_1)gh \Rightarrow \boxed{[\text{D}]}$.

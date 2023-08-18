@@ -1,0 +1,13 @@
+Column I: (P) Peritectic, (Q) Monotectic, (R) Eutectoid, (S) Syntectic
+
+Column II: 
+1. γ → α + β
+2. L1 + L2 → α
+3. L1 → L2 + α
+4. L + α →β
+
+Matching the correct transformation in Column I with the corresponding reaction in Column II, we get:
+
+P-3, Q-4, R-1, S-2
+
+Therefore, the correct answer is option (A) P-3, Q-4, R-1, S-2.

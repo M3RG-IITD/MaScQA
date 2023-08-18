@@ -1,0 +1,38 @@
+To solve this problem, we'll use the concept of volume conservation. The volume of the initial cylindrical billet will be equal to the volume of the final cylindrical pancake, as no material is lost during the forging process.
+
+1. Calculate the volume of the initial cylindrical billet.
+The formula for the volume of a cylinder is V = πr²h, where r is the radius and h is the height.
+Given diameter = 0.5 m, so the radius (r) of the billet is half of the diameter: r = 0.5/2 = 0.25 m
+Also given height (h) of the billet is 1.0 m, thus
+
+V_billet = π * (0.25)² * 1
+V_billet = π * 0.0625 * 1
+V_billet = 0.0625π m³
+
+2. Calculate the volume of the final cylindrical pancake.
+The height (h') of the pancake is given as 0.25 m. Let the radius of the pancake be r'. Then,
+
+V_pancake = π * r'^2 * 0.25
+
+3. Equate the volume of the billet to the volume of the pancake.
+V_billet = V_pancake
+
+0.0625π = π * r'^2 * 0.25
+
+4. Isolate r' to find the radius of the pancake.
+Divide both sides by (π * 0.25):
+
+r'^2 = 0.0625π / (π * 0.25)
+r'^2 = 0.0625 / 0.25
+r'^2 = 0.25
+r' = sqrt(0.25)
+r' = 0.5 m
+
+5. Calculate the diameter of the pancake.
+The diameter (d') is twice the radius:
+
+d' = 2 * r'
+d' = 2 * 0.5
+d' = 1.0 m
+
+The diameter of the pancake is 1.0 m. Answer: [1.0].

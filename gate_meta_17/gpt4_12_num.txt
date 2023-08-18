@@ -1,0 +1,33 @@
+To solve this problem, we can use the lever rule. The lever rule states that the mass fraction of a phase (in this case, pearlite) is equal to the difference in composition between the overall alloy and the other phase (in this case, ferrite) divided by the difference in compositions between the two phases.
+
+First, we need to find the carbon content in the cementite phase of the pearlite. Since pearlite is a combination of ferrite and cementite with eutectoid composition (0.8 wt.% C), we can find the carbon content in cementite using a simple mass balance:
+
+Let x be the mass fraction of cementite in pearlite, then (1-x) is the mass fraction of ferrite in pearlite.
+
+(x * Carbon content in cementite) + ((1 - x) * Carbon content in ferrite) = Carbon content in pearlite
+
+x * (Carbon content in cementite) + (1 - x) * (0.025) = 0.8
+
+The carbon content in the alloy is 0.35 wt.%, which is between that of ferrite (0.025 wt.%) and cementite. Now we can use the lever rule to calculate the mass fraction of pearlite:
+
+mass_fraction_of_pearlite = (Carbon content in cementite - 0.35) / (Carbon content in cementite - Carbon content in ferrite)
+
+Plugging in the values:
+
+mass_fraction_of_pearlite = (x * (Carbon content in cementite) - 0.35) / (x * (Carbon content in cementite) - 0.025)
+
+We can now solve for x and then calculate the mass fraction of pearlite:
+
+0.775 * x * (Carbon content in cementite) - 0.35 = x * (Carbon content in cementite)
+
+Solving for x, we get x = 0.35 / 0.775 = 0.4516
+
+Now we can plug this back into the mass_fraction_of_pearlite equation:
+
+mass_fraction_of_pearlite = (0.4516 * (Carbon content in cementite) - 0.35) / (0.4516 * (Carbon content in cementite) - 0.025)
+
+mass_fraction_of_pearlite ≈ 0.49 (rounded to two decimal places)
+
+So the mass fraction of pearlite just below the eutectoid temperature in the iron-carbon alloy containing 0.35 wt.% C is approximately 0.49.
+
+Answer: [0.49]

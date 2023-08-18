@@ -1,0 +1,8 @@
+The correct match for the ceramics and their applications are:
+
+(P) Mullite - 2. Refractories
+(Q) Spinel ferrites - 4. Soft magnet
+(R) Tungsten carbide - 1. Cutting tools
+(S) Barium titanate - 3. Piezoelectric
+
+So, the correct answer is (D) P-2, Q-4, R-1, S-3.

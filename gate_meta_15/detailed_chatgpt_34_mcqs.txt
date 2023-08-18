@@ -1,0 +1,63 @@
+First, let us understand what a water-over-mercury manometer is. A manometer is an instrument that measures the pressure of a fluid. In a water-over-mercury manometer, a U-shaped tube is filled partly with water and partly with mercury. The two limbs of the tube are open to the atmosphere at the top. When the pressure difference between two points is measured using this manometer, the difference in the levels of the water and mercury in the two limbs of the tube gives the pressure difference between the two points.
+
+In the given question, the pressure difference between points P and Q is to be measured using a water-over-mercury manometer. Let us assume that the pressure at point P is higher than the pressure at point Q. Therefore, the water will flow from point P to point Q, as shown in the figure.
+
+[Figure not provided, kindly refer to the original question.]
+
+In the manometer, point A is connected to point P and point B is connected to point Q. The pressure at point A is equal to the pressure at point P, and the pressure at point B is equal to the pressure at point Q. Therefore, the pressure difference between points P and Q is equal to the difference in the levels of the water and mercury in the manometer.
+
+Let us consider a small volume of the water in the pipe between points P and Q. The weight of this volume of water is given by:
+
+W = 𝜌gV
+
+where 𝜌 is the density of water, g is the acceleration due to gravity, and V is the volume of the water.
+
+As the water flows from point P to point Q, it loses some potential energy due to the decrease in height. The potential energy lost by the water is equal to the work done by the gravitational force on the water, which is given by:
+
+PE = mgh
+
+where m is the mass of the water, g is the acceleration due to gravity, and h is the decrease in height.
+
+We can write the mass of the water as:
+
+m = 𝜌V
+
+Substituting this in the equation for PE, we get:
+
+PE = 𝜌Vgh
+
+The potential energy lost by the water is equal to the increase in kinetic energy of the water. The rate of flow of water through the pipe is given by:
+
+Q = Av
+
+where A is the cross-sectional area of the pipe and v is the velocity of the water.
+
+The kinetic energy of the water is given by:
+
+KE = (1/2)mv^2
+
+Substituting the expression for m, we get:
+
+KE = (1/2)𝜌Vv^2
+
+Equating the potential energy lost by the water to the increase in kinetic energy of the water, we get:
+
+𝜌Vgh = (1/2)𝜌Vv^2
+
+Simplifying, we get:
+
+v^2 = 2gh
+
+The pressure difference between points P and Q is given by:
+
+∆P = 𝜌gh
+
+Substituting the expression for v^2, we get:
+
+∆P = (1/2)𝜌v^2
+
+We can write 𝜌v^2 as P, the pressure at point P. Therefore, the pressure difference between points P and Q is:
+
+∆P = (1/2)P
+
+The correct answer is (D) ($𝜌_2$ − $𝜌_1$)𝑔h. None of the options provided in the question match the answer we have derived here.

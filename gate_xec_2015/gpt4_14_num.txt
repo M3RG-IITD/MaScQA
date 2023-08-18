@@ -1,0 +1,33 @@
+First, we need to find the number of moles in the 1 kg sacrificial anode of Mg.
+
+1 kg = 1000 g
+
+Number of moles = mass / molar mass
+Number of moles = 1000 g / (24.31 g/mol) = 41.14 mol
+
+Next, we need to find the number of electrons exchanged during the corrosion of 1 mole of Mg. Magnesium loses 2 electrons to form Mg2+:
+
+Mg → Mg2+ + 2e-
+
+Since there are 41.14 moles of Mg, the total number of electrons exchanged is:
+
+Total number of electrons = 2 * 41.14 mol = 82.28 mol
+
+Now, we need to calculate the total charge (in Coulombs) associated with these electrons. The charge of 1 mole of electrons can be found using Faraday's constant:
+
+1 Faraday = 96485 Coulombs/mol
+
+Total charge transferred = 82.28 mol * 96485 C/mol = 7941494 C
+
+Next, we need to find the time over which the anode lasts, in seconds:
+
+60 days = 60 * 24 * 3600 s = 5184000 s
+
+Finally, we can calculate the average corrosion current (I) by dividing the total charge (Q) by the time (t):
+
+I = Q / t
+I = 7941494 C / 5184000 s = 1.53 A
+
+So, the average corrosion current is 1.53 Amperes.
+
+Answer: [1.53]

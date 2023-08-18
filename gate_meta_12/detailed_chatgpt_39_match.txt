@@ -1,0 +1,10 @@
+Firstly, it is important to understand the crystal structures of each phase of steel. Ferrite and cementite have BCC (body-centered cubic) and orthorhombic structures, respectively. Austenite has an FCC (face-centered cubic) structure, while martensite has a BCT (body-centered tetragonal) structure.
+
+Now, we can proceed with matching the phases of steel in Group I with the crystal structures in Group II as follows:
+
+- Ferrite: BCC structure → Match with option (A)-S-2
+- Cementite: Orthorhombic structure → Match with option (A)-Q-4
+- Austenite: FCC structure → Match with option (A)-R-1
+- Martensite: BCT structure → Match with option (A)-P-3
+
+Therefore, the correct answer is (A) P-3, Q-4, R-1, S-2.

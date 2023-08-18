@@ -1,0 +1,23 @@
+To find the glide force exerted by the edge dislocation on the screw dislocation, we need to calculate the shear stress component along the x-axis (τ_x) at the location of the screw dislocation due to the presence of the edge dislocation. Given the formula for τ_(xy):
+
+τ_(xy) = [Gb / (2π(1 - v))] * [x(x^2 - y^2) / (x^2 + y^2)^2]
+
+The distance between the two dislocations (horizontal distance) is given as y = 0.5nm, and the distance along the x-axis is given as x = 0. Since the screw dislocation is on the x-z plane, x = 0.
+
+Let's plug in the given values:
+
+G = 28 GPa = 28 * 10^9 N/m^2
+b = 0.29 nm = 0.29 * 10^(-9) m
+v = 0.3
+x = 0
+y = 0.5 nm = 0.5 * 10^(-9) m
+
+Now, let's calculate the shear stress component τ_(xy):
+
+τ_(xy) = [(28 * 10^9 N/m^2) * (0.29 * 10^(-9) m) / (2 * π * (1 - 0.3))] * [0 / (0^2 + (0.5 * 10^(-9) m)^2)^2] = 0
+
+Since τ_(xy) = 0, there is no force exerted by the edge dislocation on the screw dislocation along the x-axis.
+
+The glide force exerted by the edge dislocation on the screw dislocation is 0 Newtons.
+
+The answer is [0].

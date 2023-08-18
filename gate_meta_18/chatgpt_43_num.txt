@@ -1,0 +1,23 @@
+The ratio of heat transfer rates through two plane walls of the same thickness is proportional to the ratio of their thermal conductivities.
+
+The heat transfer rate '$q$' through a plane wall of thickness '$L$' having thermal conductivity '$k$' and subjected to a temperature difference '$ΔT$' is given by the formula Q = k (ΔT/L).
+
+For 1-D heat transfer, the heat transfer rate remains constant along the length. 
+
+Using the above formula, let's assume that the heat transfer rate through the casting is constant from both ends (since the heat transfer rate will be constant along 1-D heat transfer). Therefore, we can write the following proportion:
+
+($k_1$ × Δ$T_1$)/$L_1$ = ($k_2$ × Δ$T_2$)/$L_2$
+
+where, Δ$T_1$ and Δ$T_2$ are the temperature differences between the casting and the mould walls for Mould-1 and Mould-2 respectively.
+
+Given that L1:L2 = 3:2, we can substitute L1 and L2 as 3x and 2x respectively.
+
+($k_1$ × Δ$T_1$)/(3x) = ($k_2$ × Δ$T_2$)/(2x)
+
+Simplifying the above equation, we get:
+
+$k_1$/$k_2$ = (Δ$T_1$ × 2)/(Δ$T_2$ × 3)
+
+We can see that we need the values of temperature differences to calculate the ratio of thermal conductivities. But the question does not provide any information about the temperature differences between the casting and the mould walls. Hence, it is not possible to calculate the value of $k_1$/$k_2$ using the given information.
+
+Answer: It is not possible to calculate the ratio of ($k_1$/$k_2$) using the given information.

@@ -1,0 +1,18 @@
+To determine the chemical formula of wüstite, we can follow these steps:
+
+Step 1: Know what wüstite is.
+Wüstite is a mineral containing iron and oxygen. It is an iron oxide with non-stoichiometric composition.
+
+Step 2: Compare the given options with the known information about wüstite.
+Now let's go through each option and see if they match the properties of wüstite.
+
+(A) $FeS_2$: This is iron sulfide, not an iron oxide, so it cannot be wüstite.
+
+(B) $Fe_2O_3$: This is iron (III) oxide, also known as hematite. It is a red iron oxide, but it's not wüstite as it has a stoichiometric composition, whereas wüstite has a non-stoichiometric composition.
+
+(C) $Fe_3O_4$: This is iron (II, III) oxide, also known as magnetite. It is a black or brownish-black iron oxide, but it's not wüstite because it also has a stoichiometric composition.
+
+(D) $Fe_{(1-x)}O$: This formula represents non-stoichiometric iron (II) oxide, where x represents the deviation from the ideal stoichiometric composition. Since wüstite is a non-stoichiometric iron oxide, this formula matches the known properties of wüstite.
+
+Answer: The correct chemical formula for wüstite is (D) $Fe_{(1-x)}O$.
+So, the correct answer is [D].

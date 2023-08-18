@@ -1,0 +1,45 @@
+The equilibrium constant (K) for the reaction can be calculated from the standard free energy change (∆G°) using the following equation:
+
+$∆G° = -RTln(K)$
+
+where R is the gas constant and T is the temperature in Kelvin.
+
+First, let's convert the temperature given in the question to Kelvin:
+
+1200 K = 1200 + 273.15 = 1473.15 K
+
+Plugging in the given values, we have:
+
+$-8000\ J/mol = -8.000\ kJ/mol = -8000/1000\ kJ/mol$
+
+$-8.000\ kJ/mol = -(8.314\ J/mol\cdot K)(1473.15\ K)ln(K)$
+
+Solving for K, we get:
+
+$ln(K) = \frac{-8000}{(8.314)(1473.15)}$
+
+$ln(K) = -0.469$
+
+$K = e^{-0.469}$
+
+$K = 0.625$
+
+The equilibrium constant for the reaction at 1200 K is 0.625. 
+
+The equilibrium ratio, $𝑝_(C0_2)$/ $𝑝_(CO)$, can be calculated using the following expression:
+
+$\frac{p_{CO_2}}{p_{CO}} = K\frac{1}{P_{total}^{∆n}}$
+
+where $P_{total}^{∆n}$ is the reaction quotient, with $∆n$ being the difference in the number of moles of gas on the product side minus the number of moles of gas on the reactant side.
+
+In this case, $∆n = 1-1=0$, since there is one mole of gas on both the reactant and product side.
+
+Therefore, we have:
+
+$\frac{p_{CO_2}}{p_{CO}} = 0.625\frac{1}{(1\ atm)^{0}}$
+
+$\frac{p_{CO_2}}{p_{CO}} = 0.625$
+
+The equilibrium ratio of $𝑝_{CO_2}$/ $𝑝_{CO}$ for the reaction at 1200 K and 1 atm is 0.625, or alternatively 5/8. 
+
+Answer: [0.625, 5/8]

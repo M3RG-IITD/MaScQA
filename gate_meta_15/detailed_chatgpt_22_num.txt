@@ -1,0 +1,39 @@
+Orowan's equation is given by: 
+
+$\tau = \frac{\mu b}{d}$
+
+Where,  
+$\tau$ is the critical resolved shear stress (CRSS) required for dislocation bypass  
+$\mu$ is the shear modulus of the material  
+$b$ is the Burgers vector of the dislocation  
+$d$ is the inter-precipitate spacing  
+
+Given,  
+$\tau_1 = 200$ MPa  
+$d_1 = 500$ nm = $500 \times 10^{-9}$ m  
+
+To find: $\tau_2$ when $d_2 = 200$ nm = $200 \times 10^{-9}$ m  
+
+We can assume that the shear modulus and Burgers vector remain constant.
+
+Using Orowan's equation, we can write:
+
+$\tau_1 = \frac{\mu b}{d_1}$
+
+Solving for $\mu b$, we get:
+
+$\mu b = \tau_1 d_1$
+
+Now, for the new inter-precipitate spacing of $d_2 = 200$ nm, we can write:
+
+$\tau_2 = \frac{\mu b}{d_2}$
+
+Substituting the value of $\mu b$ from the previous equation, we get:
+
+$\tau_2 = \frac{\tau_1 d_1}{d_2}$
+
+Substituting the given values, we get:
+
+$\tau_2 = \frac{(200 \times 10^6 \text{ Pa})(500 \times 10^{-9} \text{ m})}{200 \times 10^{-9} \text{ m}} = \boxed{500 \text{ MPa}}$
+
+Therefore, the stress required for Orowan dislocation bypass when the inter-precipitate spacing is reduced to 200 nm is 500 MPa.

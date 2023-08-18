@@ -1,0 +1,17 @@
+To answer this question, let's briefly discuss each of the given welding process options and determine whether they use a consumable or non-consumable electrode.
+
+(A) Gas Tungsten Arc Welding (GTAW) or Tungsten Inert Gas (TIG) Welding:
+In this process, a non-consumable tungsten electrode is used to produce the weld. The electrode does not melt during the welding process, and the required filler metal is added separately as needed. Since the tungsten electrode is not consumed during the welding process, GTAW uses a non-consumable electrode.
+
+(B) Gas Metal Arc Welding (GMAW) or Metal Inert Gas (MIG) Welding:
+In GMAW, a consumable electrode is used, which is a continuously fed solid or flux-cored wire. The electrode melts during the welding process, providing the required filler metal to create the joint. Therefore, GMAW uses a consumable electrode.
+
+(C) Submerged Arc Welding (SAW):
+This process also utilizes a consumable electrode, typically a solid bare wire. The welding area is covered with flux, which helps to facilitate the arc and protect the molten metal from the surrounding environment. During the welding process, the electrode melts and becomes a part of the weld. Thus, Submerged Arc Welding uses a consumable electrode.
+
+(D) Flux Cored Arc Welding (FCAW):
+In FCAW, a consumable electrode is used in the form of a tubular wire filled with flux. The flux helps to protect the molten metal from the atmosphere and can produce additional shielding gas when needed. Similar to GMAW and SAW, the electrode melts and is consumed during the welding process. Hence, FCAW uses a consumable electrode.
+
+Based on the analysis of each welding process, we can conclude that the correct answer is:
+
+[Gas Tungsten Arc Welding (GTAW)]

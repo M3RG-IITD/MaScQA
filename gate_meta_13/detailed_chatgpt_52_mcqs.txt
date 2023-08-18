@@ -1,0 +1,30 @@
+Unfortunately, the image that was mentioned in the question is missing. However, there is a way to solve the question without it, using some basic knowledge about the density and crystallinity of polymers.
+
+Polypropylene (PP) is a semi-crystalline polymer, which means that it has both amorphous and crystalline regions in its structure. The degree of crystallinity of a polymer is defined as the fraction of the material's volume that is occupied by ordered or crystalline regions. Density, on the other hand, is defined as the mass of a substance per unit volume, and it is related to the degree of crystallinity in polymers.
+
+For a given polymer, the density of the totally amorphous state (i.e., with 0% crystallinity) can be calculated by using the density of the fully crystalline state (i.e., the theoretical maximum density) and the degree of crystallinity, as follows:
+
+ρ_am = ρ_c + (1-χ) x (ρ_a - ρ_c)
+
+where:
+- ρ_am is the density of the totally amorphous state
+- ρ_c is the density of the fully crystalline state
+- ρ_a is the density of the fully amorphous state (i.e., with 100% amorphousness)
+- χ is the degree of crystallinity, expressed as a decimal (e.g., 0.5 for 50% crystallinity)
+
+The value of ρ_c for PP is typically around 0.97 g/cm3, while the value of ρ_a is around 0.855 g/cm3. Therefore, we can use these values, along with the degree of crystallinity for the two samples, to calculate the density of the totally amorphous state for each sample.
+
+Let's assume that the degree of crystallinity for Sample 1 is 0.4 (i.e., 40% crystallinity), and the degree of crystallinity for Sample 2 is 0.6 (i.e., 60% crystallinity). Then, we can calculate the density of the totally amorphous state for each sample as follows:
+
+For Sample 1:
+ρ_am = 0.97 + (1-0.4) x (0.855 - 0.97) = 0.97 - 0.066 = 0.904 g/cm3
+
+For Sample 2:
+ρ_am = 0.97 + (1-0.6) x (0.855 - 0.97) = 0.97 - 0.042 = 0.928 g/cm3
+
+Therefore, the answer to the question is:
+
+- The density of totally amorphous polypropylene is 0.904 g/cm3 for Sample 1
+- The density of totally amorphous polypropylene is 0.928 g/cm3 for Sample 2
+
+In the absence of the image, it is not possible to choose any of the options (A), (B), (C), or (D).

@@ -1,0 +1,1 @@
+Given, crystal structure and atomic radius of Pb are FCC and 0.175 nm respectively. The number of atoms per unit area($nm^(-2)$) in (100) plane of Pb is?(round off to the nearest integer).

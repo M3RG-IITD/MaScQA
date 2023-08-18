@@ -1,0 +1,16 @@
+In a face-centered cubic (FCC) structure, there are octahedral voids between the close-packed layers. The radius of an octahedral void (rO) can be calculated using the formula:
+
+rO = √(3/4)*a
+
+where a is the lattice parameter of the FCC structure.
+
+Given, the lattice parameter (a) of γ-Fe is 0.3571 nm.
+
+Substituting the given value in the formula, we get:
+
+rO = √(3/4)*0.3571 nm
+   = 0.3084 nm
+
+Therefore, the radius of the octahedral void in γ-Fe is 0.3084 nm.
+
+Answer: [0.3084 nm]

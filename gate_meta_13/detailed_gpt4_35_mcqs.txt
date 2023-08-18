@@ -1,0 +1,30 @@
+Step 1: Find the number of atoms in the unit cell
+An FCC metal has a total of 4 atoms within its unit cell. This is because an FCC metal has 1/8 of an atom from each corner (total of 8 corners) and 1/2 of an atom from each face (total of 6 faces):
+
+Atoms in the unit cell = (8 corners * 1/8 atom per corner) + (6 faces * 1/2 atom per face) = 4 atoms
+
+Step 2: Calculate the volume of the unit cell
+The volume of the unit cell is given by the formula V = a^3, where a is the lattice parameter (in this case, 0.2 nm):
+
+V = (0.2 nm)^3 = 0.008 nm³
+
+Step 3: Convert the volume from nm³ to m³
+1 nm = 10^(-9) m, so the volume conversion is:
+
+V = 0.008 nm³ * (10^(-9))^3 = 8 × 10^(-27) m³
+
+Step 4: Calculate the total magnetic moment in the unit cell
+The total magnetic moment (M) in the unit cell can be determined from the saturation magnetization (Ms), volume (V), and the number of atoms within the unit cell:
+
+M = Ms × V × number of atoms
+M = 600 kA/m × 8 × 10^(-27) m³/unit cell × 4 atoms/unit cell
+M = 4800 × 10^(-27) A m²/atom
+
+Step 5: Convert the total magnetic moment from A m² to Bohr magneton (μB)
+1 Bohr magneton (μB) equals 9.274 x 10^(-24) A m², so to convert from A m² to Bohr magneton, we can divide the total magnetic moment by the Bohr magneton value:
+
+Magnetic moment in Bohr magneton = M / μB
+Magnetic moment in Bohr magneton = (4800 × 10^(-27) A m²/atom) / (9.274 x 10^(-24) A m²/μB)
+Magnetic moment in Bohr magneton ≈ 0.517 μB/atom
+
+The correct answer is (C) 0.517.

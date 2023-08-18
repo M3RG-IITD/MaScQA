@@ -1,0 +1,5 @@
+The correct answer is (C) a is true and r is also true, and r is the reason for a.
+
+Explanation:
+
+Front tension and (or) back tension are used in rolling to decrease rolling load. The Assertion is correct. The Reason is also correct because when front tension and back tension are applied on the rolling stock, they generate friction forces on the roll surface, which affect the deformation of the material being rolled. This decreases the flow stress and thereby decreases the rolling load. Therefore, the Reason is the explanation for the Assertion.

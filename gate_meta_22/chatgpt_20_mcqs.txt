@@ -1,0 +1,10 @@
+The correct answer is:
+
+(C) P – 3, Q – 1, R – 4, S – 2
+
+Explanation:
+
+- Diamond is a covalent network solid, so it has covalent bonding (Q).
+- Silver is a metallic element, so it has metallic bonding (R).
+- NaCl is an ionic compound, so it has ionic bonding (P).
+- Solid argon is a noble gas, so it has van der Waals forces (also known as London dispersion forces), which are a type of secondary bonding (S).

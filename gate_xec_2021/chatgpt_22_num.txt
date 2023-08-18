@@ -1,0 +1,45 @@
+The rate of metal dissolution can be calculated using the Tafel equation:
+
+$$\eta = \frac{RT}{nF}\ln\left(\frac{i}{i_0}\right)$$
+
+where $\eta$ is the overpotential, $R$ is the gas constant, $T$ is the temperature, $n$ is the number of electrons involved in the reaction, $F$ is the Faraday constant, $i$ is the current density, and $i_0$ is the exchange current density.
+
+For the anodic reaction, we can write:
+
+$$\text{M} \longrightarrow \text{M}^{n+} + ne^-$$
+
+The anodic overpotential is given by:
+
+$$\eta_a = 0.4\text{ V}$$
+
+The Tafel slope for the anodic reaction is given as 0.1 V/decade.
+
+The exchange current density is given as $10^{-5}$ A/$\text{m}^2$.
+
+The rate of metal dissolution (in $\text{A/m}^2$) can be calculated as:
+
+$$\text{Rate} = \frac{ic}{nF}$$
+
+where $c$ is the charge per mole of electrons involved in the reaction.
+
+For the anodic reaction, $c = ne$. Therefore,
+
+$$\text{Rate} = \frac{ine}{nF} = \frac{i}{F}$$
+
+We need to calculate the current density for the anodic reaction. The Butler-Volmer equation relates the anodic and cathodic current densities through the exchange current density:
+
+$$i_a = i_0 \exp\left(\frac{\alpha_a F \eta_a}{RT}\right)$$
+
+where $\alpha_a$ is the anodic transfer coefficient (assumed to be 0.5 for simplicity).
+
+Using the Tafel slope and the exchange current density, we can write:
+
+$$i_0 = \frac{i_a}{\exp\left(\frac{\alpha_a F \eta_a}{RT}\right)} = 10^{-5}\exp\left(\frac{0.1\times 0.4 \times 96485}{8.314\times 298.15}\right) \approx 1.83\times 10^{-5} \text{ A/m}^2$$
+
+Using this value of $i_0$, we can calculate the anodic current density as:
+
+$$i_a = i_0\exp\left(\frac{\alpha_a F \eta_a}{RT}\right) = 1.83\times 10^{-5}\exp\left(\frac{0.5\times 96485\times 0.4}{8.314\times 298.15}\right) \approx 1.51\times 10^{-4} \text{ A/m}^2$$
+
+Finally, the rate of metal dissolution is given by:
+
+$$\text{Rate} = \frac{i_a}{F} = \frac{1.51\times 10^{-4}}{96485} \approx \boxed{1.6\times 10^{-9}} \text{ A/m}^2$$

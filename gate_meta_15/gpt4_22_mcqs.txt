@@ -1,0 +1,17 @@
+The stress required for Orowan dislocation bypass is inversely proportional to the interprecipitate spacing. That is,
+
+stress1 * spacing1 = stress2 * spacing2
+
+Let stress1 = 200 MPa, spacing1 = 500 nm, and spacing2 = 200 nm. We need to find stress2.
+
+200 MPa * 500 nm = stress2 * 200 nm
+
+stress2 = (200 MPa * 500 nm) / 200 nm
+
+stress2 = (200 * 500) / 200
+
+stress2 = 500 MPa
+
+So, the stress required for Orowan dislocation bypass when the inter-precipitate spacing is reduced to 200 nm is 500 MPa.
+
+Answer: [500]

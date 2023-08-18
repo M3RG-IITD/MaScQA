@@ -1,0 +1,27 @@
+Step 1: Identify the reaction
+The given anodic reaction is: Mg ⟶ Mg^(+2) + 2e^(-). In this reaction, one mole of magnesium produces two moles of electrons.
+
+Step 2: Calculate the number of moles of electrons produced
+Given that 48250 coulombs of charge are produced, we can calculate the number of moles of electrons using the Faraday constant, which is 96500 C/mole of electrons.
+
+Number of moles of electrons = Charge produced / Faraday constant
+Number of moles of electrons = 48250 C / 96500 C/mole
+Number of moles of electrons = 0.5 moles
+
+Step 3: Calculate the number of moles of Mg
+Since one mole of Mg produces two moles of electrons, we can use the stoichiometry of the reaction to find the number of moles of Mg.
+
+Number of moles of Mg = Number of moles of electrons / 2
+Number of moles of Mg = 0.5 moles / 2
+Number of moles of Mg = 0.25 moles
+
+Step 4: Calculate the mass of Mg
+Given the atomic weight of Mg (24 g/mole), we can calculate the mass of magnesium dissolved into the solution.
+
+Mass of Mg = Number of moles of Mg * Atomic weight of Mg
+Mass of Mg = 0.25 moles * 24 g/mole
+Mass of Mg = 6 g
+
+So, the amount of Mg dissolved into the solution is 6 grams.
+
+Answer: [6]

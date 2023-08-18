@@ -1,0 +1,7 @@
+At equilibrium spacing, the net inter-atomic force is minimum (as the atoms are in a stable configuration), hence option C is correct.
+
+However, the potential energy is not necessarily zero or minimum. At equilibrium spacing, potential energy is minimum because the attractive and repulsive inter-atomic forces are balanced. Therefore, option D is also partially correct.
+
+So, the correct answer is:
+
+- F is minimum and U is minimum (Option D)

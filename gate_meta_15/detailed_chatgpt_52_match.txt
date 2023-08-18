@@ -1,0 +1,24 @@
+Group I refers to pairs of scientists who have given their contribution to the study of material science.
+
+- P. Hall-Petch proposed the concept of grain size strengthening, which states that the yield strength of a material increases as the grain size decreases.
+- Q. Nabarro-Herring proposed the concept of diffusional creep as a mechanism of deformation in materials.
+- R. Lomer-Cottrell discovered the existence of dislocations and proposed the theory of dislocation climb.
+- S. Frank-Read proposed the theory of dislocation multiplication.
+
+Group II refers to phenomena related to the behavior of materials at a microscopic level.
+
+- Dislocation reaction product refers to the creation of new dislocations as a result of the interaction between dislocations and other defects in the material.
+- Diffusional creep refers to the deformation of a material under a constant load or stress as a result of diffusion of atoms in the material.
+- Dislocation source refers to the location in a material where a new dislocation is created.
+- Grain boundary strengthening refers to the ability of grain boundaries to strengthen a material against deformation.
+
+Considering the above explanations and matching them with each other, we get the following answer:
+
+(B) P-1, Q-2, R-4, S-3
+
+- P. Hall-Petch proposed grain boundary (grain size) strengthening which refers to strengthening a material against deformation using grain boundaries. So, the pair P-1 matches with option (B).
+- Q. Nabarro-Herring proposed the concept of diffusional creep that refers to deformation under a load or stress as a result of atom diffusion. So, the pair Q-2 matches with option (B).
+- R. Lomer-Cottrell did not propose any theory about grain boundary strengthening. However, he discovered the existence of dislocations and proposed the theory of dislocation climb. This theory was used to explain dislocation behavior near grain boundaries leading to grain boundary strengthening. So, the pair R-4 matches with option (B).
+- S. Frank-Read did not propose any theory about grain boundary strengthening or diffusional creep. He proposed the theory of dislocation multiplication which is related to the creation of new dislocations in the material. This process occurs when dislocations interact with each other leading to their multiplication. So, the pair S-3 matches with option (B).
+
+Therefore, the correct answer is (B) P-1, Q-2, R-4, S-3.

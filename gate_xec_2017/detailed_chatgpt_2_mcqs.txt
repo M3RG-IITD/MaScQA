@@ -1,0 +1,8 @@
+The processing technique best suited for manufacturing decorative PVC floor tiles is (D) Calendering.
+
+Explanation:
+Blow molding, filament winding, and rotational molding are not suitable for manufacturing PVC floor tiles. Blow molding is typically used for hollow objects such as bottles, filament winding is used for making composite tubes or pipes, and rotational molding is used for making large hollow objects like tanks or containers.
+
+Calendering, on the other hand, is a method of processing plastic materials by pressing them between a pair of rollers to produce a continuous sheet or film. This process is commonly used to produce PVC floor tiles and other types of vinyl flooring products. During the calendering process, the PVC compound is fed into the calender and passed several times through a series of heated rollers which apply pressure to the material, shaping it into a thin, flat sheet. The sheet is then cooled and cut into tiles of desired size and shape. 
+
+Therefore, the correct answer is (D) Calendering.

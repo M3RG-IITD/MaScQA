@@ -1,0 +1,2 @@
+A 480 mm thick slab is hot-rolled using a roll of 720 mm diameter. For a coefficient of friction of 0.5, the maximum possible reduction (in mm) is
+(A) 90 (B) 180 (C) 240 (D) 360

@@ -1,0 +1,31 @@
+To find the average mould heat flux, we need to integrate the heat flux function over the mould length and divide it by the mould length:
+
+$q_{avg} = \frac{1}{L_m} \int_0^{L_m} q_m(z) dz$
+
+First, let's substitute the given function and variables:
+
+$q_{avg} = \frac{1}{0.8} \int_0^{0.8} [2.67 - 0.33(z/0.2)^{0.5}] * 10^6 dz$
+
+Now, let's solve the integral:
+
+$\int_0^{0.8} [2.67 - 0.33(z/0.2)^{0.5}] * 10^6 dz = \int_0^{0.8} 2.67 * 10^6 dz - \int_0^{0.8} 0.33 * (z/0.2)^{0.5} * 10^6 dz$
+
+The first integral is straightforward:
+
+$\int_0^{0.8} 2.67 * 10^6 dz = 2.67 * 10^6 * (0.8 - 0) = 2.14 * 10^6$
+
+For the second integral, we can apply substitution method. Let $u = (z/0.2)^{0.5}$; then, $du/dz = 0.5 * (0.2)^{-0.5} * z^{-0.5}$. By rearranging, $dz = 1.118 * u * du$. Now, we need to find the new limits of integration, when $z=0$, $u=0$; when $z=0.8$, $u = (0.8/0.2)^{0.5} = 2$:
+
+$\int_0^{0.8} 0.33 * (z/0.2)^{0.5} * 10^6 dz = 0.33 * 10^6 \int_0^{2} u * du$
+
+Now integrate:
+
+$0.33 * 10^6 \int_0^{2} u * du = 0.33 * 10^6 * [0.5 * u^2]_0^2 = 0.33 * 10^6 * (2) = 0.66 * 10^6$
+
+Now we can find $q_{avg}$ by plugging in the results of the integrals:
+
+$q_{avg} = \frac{1}{0.8} (2.14 * 10^6 - 0.66 * 10^6) = \frac{1.48 * 10^6}{0.8} = 1.85 * 10^6$
+
+So the average mould heat flux is $1.85 * 10^6 W.m^{-2}$ or $1.85 MW.m^{-2}$.
+
+Answer: [1.85]

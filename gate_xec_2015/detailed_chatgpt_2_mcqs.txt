@@ -1,0 +1,19 @@
+When the atoms in a solid are separated by their equilibrium distance:
+
+(A) the potential energy of the solid is lowest 
+
+Explanation: At equilibrium distance, the potential energy of the solid is at its minimum. This is because the attractive forces between the atoms are balanced by the repulsive forces, and the atoms are in a stable configuration.
+
+(B) the force of attraction between the atoms is maximum 
+
+False. At equilibrium distance, the force of attraction and the force of repulsion are balanced, so the net force is zero.
+
+(C) the force of repulsion between the atoms is zero 
+
+False. At equilibrium distance, the force of attraction and the force of repulsion are balanced, but they are not necessarily zero. The magnitude of the forces depends on the specific interaction potential between the atoms.
+
+(D) the potential energy of the solid is zero 
+
+False. The potential energy of the solid is not zero at equilibrium distance, but it is at its minimum. The actual value of the potential energy depends on the specific interaction potential between the atoms.
+
+Therefore, the correct answer is (A) the potential energy of the solid is lowest.

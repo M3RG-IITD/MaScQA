@@ -1,0 +1,71 @@
+We are given the following reactions and need to determine the relationship applicable to the system at equilibrium: 
+
+ZnO(s) + C(s) = Zn(g) + CO(g)       (1)
+
+2CO(g) = $CO_2$(g) + C(s)            (2)
+
+Let's assume that there are n moles of ZnO(s) and C(s) initially. At equilibrium, let's say x moles of Zn(g) and CO(g) are formed. Also, let y moles of CO(g) are converted into $CO_2$ and C(s). 
+
+Then, from equation (1), we can write the mole balance equation as: 
+
+$n - x = 0$ (since all the ZnO(s) has been converted to Zn(g))
+
+$n - x = y$ (since the number of moles of C(s) and CO(g) are equal initially and any moles of CO(g) that are consumed must be balanced by the formation of the same number of moles of C(s) from $CO_2$)
+
+Also, from equation (2), we can write: 
+
+$2y = x$ (since 2 moles of CO(g) are required to produce 1 mole of Zn(g) from equation (1)) 
+
+Substituting the second equation into the first equation, we get: 
+
+$n - 2y = 0$
+
+Substituting the third equation into the second equation, we get: 
+
+$2y = y + n - x$
+
+Simplifying, we get: 
+
+$x + y = n$
+
+Now, let's consider the ideal gas behaviour assumption. The gas constant R can be factored out since the temperature is constant, so we can write: 
+
+$p_{Zn} V = x R T$
+
+$p_{CO} V = y R T$
+
+$p_{CO_2} V = y/2 R T$
+
+Dividing the second equation by 2, we get: 
+
+$\frac{p_{CO}}{2} V = \frac{y}{2} R T$
+
+Adding the first, second, and third equations, we get: 
+
+$(p_{Zn} + p_{CO} + p_{CO_2}) V = (x + y + y/2) R T$
+
+Substituting x + y = n, we get: 
+
+$(p_{Zn} + p_{CO} + p_{CO_2}) V = (n + y/2) R T$
+
+Substituting y = x/2 from the third equation, we get: 
+
+$(p_{Zn} + p_{CO} + p_{CO_2}) V = (n + x/4) R T$
+
+Substituting x = 2y from the third equation, we get: 
+
+$(p_{Zn} + p_{CO} + p_{CO_2}) V = (n + y/2) R T$
+
+Substituting y = n/3 from the second equation, we get: 
+
+$(p_{Zn} + p_{CO} + p_{CO_2}) V = (\frac{5}{3}n) R T$
+
+Solving for $p_{Zn}$, we get: 
+
+$p_{Zn} = \frac{5}{3} \frac{n RT}{V} - p_{CO} - p_{CO_2}$
+
+Comparing this with the options given, we see that option (C) matches the calculated relationship. 
+
+Therefore, the correct answer is:
+
+(C) $p_{Zn}$ = $p_{CO}$ + $p_{CO_2}$

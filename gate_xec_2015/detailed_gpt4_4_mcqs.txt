@@ -1,0 +1,21 @@
+To solve this question, we need to understand the concept of glass transition temperature (Tg) and its effects on the material properties. 
+
+The glass transition temperature (Tg) is the temperature at which an amorphous material (e.g., a glass) changes its behavior from a brittle, glassy state to a more rubbery or plastic state. It is an important characteristic of amorphous polymers and can be considered as a range of temperature, rather than a single point.
+
+Now let's analyze each statement given in the question:
+
+(A) Tg appears below the melting temperature in a perfectly crystalline material.
+This statement is FALSE. The glass transition temperature (Tg) is related to amorphous materials, not crystalline materials. In a perfectly crystalline material, there would be a sharp melting point instead of a Tg.
+
+(B) Upon heating through Tg, heat capacity remains constant but the thermal expansion coefficient changes.
+This statement is FALSE. When a material goes through the glass transition temperature, both its heat capacity and the thermal expansion coefficient change. Heat capacity usually increases above Tg, as the molecules have more freedom to move and absorb energy. The thermal expansion coefficient also increases above Tg due to increased mobility of molecules.
+
+(C) Upon heating through Tg, heat capacity changes but the thermal expansion coefficient remains the same.
+This statement is FALSE. As mentioned earlier, both heat capacity and the coefficient of thermal expansion change when a material goes through Tg. 
+
+(D) Upon heating through Tg, both the heat capacity and thermal expansion coefficient change.
+This statement is TRUE. As explained in the previous analysis, heat capacity and thermal expansion coefficient both change when a material goes through the glass transition temperature. Above Tg, the heat capacity increases, and the thermal expansion coefficient also increases due to the increased mobility of molecules.
+
+So, the correct answer is (D) Upon heating through Tg, both the heat capacity and thermal expansion coefficient change.
+
+Answer: [(D)].

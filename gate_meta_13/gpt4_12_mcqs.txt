@@ -1,0 +1,3 @@
+The correct answer is (B) 1/p* (∂V/∂p)$_T$.
+
+Answer: [(B)]

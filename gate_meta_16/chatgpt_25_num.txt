@@ -1,0 +1,14 @@
+The maximum possible reduction during rolling can be found using the formula:
+
+Maximum reduction = (roll diameter) x (coefficient of friction) x (plate thickness)
+
+Substituting the given values, we get:
+
+Maximum reduction = 200 x 0.1 x 250
+
+Maximum reduction = 5000 mm
+
+Therefore, the maximum possible reduction during rolling of a 250 mm thick plate is 5000 mm.
+
+Answer: 
+- 5000 mm

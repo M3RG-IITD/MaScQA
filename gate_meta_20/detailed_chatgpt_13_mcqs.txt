@@ -1,0 +1,78 @@
+We can start by finding dot products between the given vectors to check for orthogonality and coplanarity. 
+
+Dot product of X and Y: 
+X . Y = (-i) (-i) + (-j)(2j) + (k)(k) 
+X . Y = 1 + 2 + 1 
+X . Y = 4 
+
+Dot product of X and Z: 
+X . Z = (-i)(i) + (-j)(0) + (k)(k) 
+X . Z = -1 + 1 
+X . Z = 0 
+
+Dot product of Y and Z: 
+Y . Z = (-i)(i) + (2j)(0) + (k)(k) 
+Y . Z = -1 + 1 
+Y . Z = 0 
+
+Since the dot product of X and Y is not zero, we can conclude that X and Y are not orthogonal. Similarly, X and Z are also not orthogonal. Therefore, statement (A) is false. 
+
+Since the dot product of X and Z is zero, we can conclude that X and Z are orthogonal. Similarly, Y and Z are also orthogonal, as their dot product is also zero. Therefore, we can conclude that X, Y, and Z are mutually orthogonal. 
+
+To check for coplanarity, we can find the scalar triple product of the three vectors: 
+
+X . (Y x Z) = X . [(2k)(-j) - (k)(-i + 2j)] 
+X . (Y x Z) = -2 - 1 + 2 
+X . (Y x Z) = -1 
+
+Since the scalar triple product is not zero, we can conclude that X, Y, and Z are not coplanar. Therefore, statement (B) is false. 
+
+To find the angle between X and the normal to the plane containing Y and Z, we need to first find the normal vector. 
+
+The cross product of Y and Z: 
+Y x Z = [(2j)(k) - (k)(k)](-i) - [(2j)(i) - (-i)(k)]j + [(-i)(i) - (k)(2j)]k 
+Y x Z = -k i - j - i 
+Y x Z = -i - j - k 
+
+To find the angle between X and the normal vector (-i - j - k), we use the dot product: 
+
+cos θ = (X . N) / (|X||N|) 
+where N is the normal vector (-i - j - k) and |X| and |N| are their magnitudes. 
+
+|X| = sqrt(1 + 1 + 1) = sqrt(3) 
+|N| = sqrt(1 + 1 + 1) = sqrt(3) 
+
+X . N = (-i)(-i) + (-j)(-j) + (k)(-k) = 1 + 1 + 1 = 3 
+
+cos θ = (3) / (sqrt(3) sqrt(3)) 
+cos θ = 1 
+
+θ = 0° 
+
+Therefore, statement (C) is false. 
+
+To find the angle between Z and the normal to the plane containing X and Y, we need to first find the normal vector. 
+
+The cross product of X and Y: 
+X x Y = [(j)(k) - (k)(2j)](-i) - [(i)(k) - (k)(-i)]j + [(-i)(2j) - (j)(-i)]k 
+X x Y = -3i - 3k 
+
+To find the angle between Z and the normal vector (-3i - 3k), we use the dot product: 
+
+cos θ = (Z . N) / (|Z||N|) 
+where N is the normal vector (-3i - 3k) and |Z| and |N| are their magnitudes. 
+
+|Z| = sqrt(1 + 1) = sqrt(2) 
+|N| = sqrt(3^2 + 0 + 3^2) = 3sqrt(2) 
+
+Z . N = (i)(-3) + (0)(0) + (k)(-3) = -3 - 3 = -6 
+
+cos θ = (-6) / (sqrt(2) (3sqrt(2))) 
+cos θ = -1/3 
+
+θ = arccos(-1/3) ≈ 109.47° 
+
+Therefore, statement (D) is false. 
+
+The only true statement is: 
+- X, Y, and Z are mutually orthogonal.

@@ -1,0 +1,23 @@
+We can use the rule of mixtures to solve this problem.
+
+The formula for elastic modulus along the transverse direction (E_t) is:
+
+E_t = V_f × E_f + V_m × E_m
+
+where V_f is the volume fraction of the glass fiber, E_f is the elastic modulus of the glass fiber, V_m is the volume fraction of the polymer, and E_m is the elastic modulus of the polymer.
+
+Given, 
+V_f = 40% = 0.4
+E_f = 70 GPa (glass fiber)
+V_m = 1 - V_f = 1 - 0.4 = 0.6
+E_m = 3.5 GPa (polymer)
+
+Now, we can plug in the values:
+
+E_t = 0.4 × 70 + 0.6 × 3.5
+E_t = 28 + 2.1
+E_t = 30.1 GPa
+
+So, the correct answer is (C) 30.1.
+
+Answer: [30.1]

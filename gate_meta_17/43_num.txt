@@ -1,0 +1,1 @@
+Given: surface energy γ = 0.177 $J.m^(-2)$; change in volume free energy $ΔG_v$ = -2.8 * $10^8$ $J.m^(-3)$. For homogenous nucleation of solid in a liquid of a pure metal, the critical edge length(in nm) of a cube shaped nucleus is?(answer up to two decimal places)

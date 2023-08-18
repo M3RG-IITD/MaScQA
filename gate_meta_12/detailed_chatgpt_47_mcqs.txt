@@ -1,0 +1,8 @@
+Defects and the process causing them:
+
+P. Cold shut - 2. Forging
+Q. Earing - 3. Deep drawing
+R. Alligatoring - 1. Rolling
+S. Shrinkage porosity - 4. Fusion welding
+
+Therefore, the correct answer is (A) P-2, Q-4, R-1, S-4.

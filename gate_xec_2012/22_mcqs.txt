@@ -1,0 +1,4 @@
+Chromium has the bcc structure with atomic diameter of 2.494 Å. Find the first diffraction peak position (2θ) for Cu Kα radiation with a wavelength of 1.54 Å
+(A) 21.76° (B) 33.05° (C) 44.43° (D) 66.10°
+
+ 

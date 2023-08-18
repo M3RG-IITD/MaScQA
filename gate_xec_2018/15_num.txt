@@ -1,0 +1,1 @@
+(Given: Density of water = 1.00 g $cm^(-3)$). A sintered sample was weighed in air and water using an analytical balance. The mass of the sample in air is 2.67 g and its apparent mass in water is 1.67 g. Calculate the density of the sample in g $cm^(-3)$ (give answer up to 2 decimal places)

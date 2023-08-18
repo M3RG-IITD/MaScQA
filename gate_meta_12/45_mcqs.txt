@@ -1,0 +1,2 @@
+The flow stress (σ) of an alloy varies with strain rate (ε) as σ = 100* $(ε)^(0.1)$ MPa. When the alloy is hot extruded from 10 cm diameter to 5 cm diameter at a speed of 2 cm/s, the flow stress is
+(A) 1000 MPa (B) 105 MPa (C) 150 MPa (D) 1050 MPa

@@ -1,0 +1,21 @@
+We are given the velocity of the fluid and the velocity of the plate. We need to find the velocity at the interface of the fluid and the plate.
+
+Let's analyze the situation step by step.
+
+1. Velocity of fluid (Vf) = 0.5 m/s
+
+2. Velocity of plate (Vp) = 0.01 m/s
+
+3. Since both the fluid and plate are moving in the same direction, the relative velocity between them can be calculated as:
+
+Relative velocity (Vr) = Vf - Vp
+
+4. Now substitute the given values in the formula:
+
+Vr = 0.5 m/s - 0.01 m/s = 0.49 m/s
+
+5. The velocity at the interface will be the same as the velocity of the plate because the fluid and the plate are in contact with each other without any slippage. Therefore, if there is no relative velocity between the fluid and plate at the interface, it indicates that their velocities are the same.
+
+Hence, the velocity at the interface is the same as the velocity of the plate, which is:
+
+Answer: 0.01 m/s (B)

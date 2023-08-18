@@ -1,0 +1,23 @@
+For a bcc crystal structure, the atoms are located at the corners and the body center of the unit cell. 
+
+To find the number of atoms per unit area of the (110) plane, we need to first determine the lattice parameters that define the crystal structure. 
+
+Let us assume that the unit cell has sides of length 'a'. The (110) plane intersects the x-axis at a position 'a' and intersects the y-axis at a position 'a/2'. The atoms located at the corners contribute 1/8th of their volume to the unit cell and the atom located at the body center contributes the entire volume. Therefore, the contribution of atoms to the (110) plane is given by:
+
+Number of atoms in (110) plane = 2 ( 1/8 + 1 ) = 2 
+
+Next, we need to find the area of the (110) plane. This is given by the product of the two intercepts as follows:
+
+Area of (110) plane = a x a/2 = a^2/2 
+
+Therefore, the number of atoms per unit area of the (110) plane is given by:
+
+Number of atoms per unit area = Number of atoms/Area of (110) plane 
+
+= 2/(a^2/2) 
+
+= 4/a^2 
+
+The correct answer is therefore (A) 1/$a^2$. 
+
+Therefore, the correct option is (A) 1/$a^2$.

@@ -1,0 +1,37 @@
+First we need to find the concentration of phosphorus in zone refined Si.
+
+Concentration of P = 0.1 parts per billion (by weight) = 0.1 * $10^(-9)$ g/g
+
+The atomic weight of Si is 28.09 g/mol. Therefore, the molar mass of Si is 28.09 g.
+
+Let's assume we have 1 mole of Si, then the mass of Si would be 28.09 g. As the concentration of P is given in parts per billion by weight, it can be assumed that the mass of P is also 0.1 parts per billion.
+
+Therefore, the mass of P = 0.1 * $10^(-9)$ g
+
+Now, using the atomic weight of P, we can calculate the moles of P.
+
+Moles of P = Mass of P / Atomic weight of P
+
+Moles of P = 0.1 * $10^(-9)$ g / 30.97 g/mol = 3.23 * $10^(-12)$ mol
+
+As there is 1 mole of Si, the concentration of P in Si is equal to the moles of P.
+
+Concentration of P = 3.23 * $10^(-12)$ mol/mol of Si
+
+Now we can calculate the electrical conductivity of Zone refined Si.
+
+Electrical conductivity($Ω^(-1).m^(-1)$) = Mobility of electron * Charge of electron * (Concentration of electron + Concentration of holes)
+
+As Si is a semiconductor, the number of electrons is equal to the number of holes.
+
+Therefore, Concentration of electron = Concentration of holes = Concentration of P = 3.23 * $10^(-12)$ mol/mol of Si
+
+Now let's substitute the values in the formula of electrical conductivity,
+
+Electrical conductivity($Ω^(-1).m^(-1)$) = 0.2 $m^(2).V^(-1).s^(-1)$ * 1.6 * $10^(-19)A.s$ * 2 * (3.23 * $10^(-12)$)
+
+Electrical conductivity($Ω^(-1).m^(-1)$) = 2.0612 * $10^(-7)$ $Ω^(-1).m^(-1)$
+
+Therefore, the electrical conductivity of Zone refined Si is 2.06 * $10^(-7)$ $Ω^(-1).m^(-1)$ (rounded off to two decimal places).
+
+Answer: [2.06 * $10^(-7)$ $Ω^(-1).m^(-1)$]

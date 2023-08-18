@@ -1,0 +1,2 @@
+For the following electrochemical reaction Sn + $2H^(+)$ = $Sn^(2+)$ + $H_2$, if the solution has $Sn^(2+)$ concentration $10^(-2)$M and pH 5 at 298 K, which of the following is true? Given: standard reduction potential for $Sn^(2+)$ + $2*e^(-1)$ → Sn is -0.136 V versus SHE; $p_(H_2)$ = 1 atm 
+(A) Sn undergoes oxidation (B) $H^(+)$ undergoes reduction (C) $Sn^(2+)$ undergoes reduction (D) No net reaction 

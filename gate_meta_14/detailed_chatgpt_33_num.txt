@@ -1,0 +1,29 @@
+The balanced chemical equation for the complete combustion of $CH_4$ is:
+
+$CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O$
+
+From this equation, we can see that 1 mole of $CH_4$ requires 2 moles of $O_2$ for complete combustion. The molar volume of a gas at STP is 22.4 L, so 1 mole of gas occupies 22.4 L at STP.
+
+The given volume of $CH_4$ is 100 $m^3$ at STP, which can be converted to moles using the equation:
+
+$n = \dfrac{PV}{RT}$
+
+$n_{CH_4} = \dfrac{(1 \ atm)(100 \ m^3)}{(0.0821 \ L \ atm^{-1} \ mol^{-1})(273 \ K)} = 4145 \ mol$
+
+To completely combust 1 mole of $CH_4$, 2 moles of $O_2$ are needed. Therefore, to completely combust 4145 moles of $CH_4$, we need:
+
+$2 \times 4145 \ mol = 8290 \ mol$ of $O_2$
+
+Air contains 21 vol.% of oxygen, which means that it contains 21/100 = 0.21 moles of $O_2$ for every mole of air. Therefore, the number of moles of air required for combustion can be calculated as:
+
+$n_{air} = \dfrac{8290 \ mol \ O_2}{0.21 \ mol \ O_2/mol \ air} = 39381 \ mol \ air$
+
+Finally, the volume of air required can be calculated using the molar volume at STP:
+
+$V_{air} = n_{air} \times 22.4 \ L/mol = 880,646 \ L = 880.6 \ m^3$
+
+Therefore, the theoretical requirement of air (in $m^3$ at STP) for the complete combustion of 100 $m^3$ (at STP) of pure $CH_4$ is 880.6 $m^3$.
+
+Answer: 
+
+- 880.6 $m^3$

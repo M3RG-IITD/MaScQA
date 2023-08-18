@@ -1,0 +1,11 @@
+Ionic bonding involves the transfer of electrons from one atom to another and results in the formation of ions held together by electrostatic attraction. Covalent bonding involves the sharing of electrons between atoms to fill their valence shells. Metallic bonding occurs when metal atoms share their valence electrons in a "sea" of electrons that are free to move throughout the material. Secondary bonding refers to weaker interactions between molecules or atoms in certain materials, such as van der Waals forces.
+
+(1) Diamond is a covalent network solid, where each carbon atom is covalently bonded to four other carbon atoms in a giant molecular structure.
+
+(2) Silver is a metallic element, with a lattice structure of positive ions surrounded by a sea of delocalized valence electrons.
+
+(3) NaCl (sodium chloride) is an ionic compound, composed of a lattice structure of alternating sodium cations and chloride anions held together by electrostatic attraction.
+
+(4) Solid argon is a nonpolar covalent compound, with weak van der Waals forces holding individual atoms or molecules together.
+
+Therefore, the correct answer is (C) P – 3, Q – 1, R – 4, S – 2.

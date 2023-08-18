@@ -1,0 +1,33 @@
+The change in entropy of the system can be calculated using the formula:
+
+$\Delta S = \frac{Q}{T}$
+
+where $\Delta S$ is the change in entropy, $Q$ is the heat transferred between the two pieces of copper, and $T$ is the temperature at which the transfer occurs.
+
+First, we need to determine the direction of heat transfer. Since the two pieces of copper are at different temperatures, heat will flow from the hotter piece to the cooler piece. Once the two pieces are in thermal equilibrium, there will be no further heat transfer.
+
+To calculate the heat transferred, we can use the formula:
+
+$Q = mC \Delta T$
+
+where $m$ is the mass of the copper, $C$ is its specific heat capacity, and $\Delta T$ is the temperature change.
+
+Since we have two 1 mol pieces of copper, the mass of each piece is equal to the molar mass of copper, which is 63.546 g/mol. 
+
+The temperature difference between the two pieces of copper is:
+
+$\Delta T = 400 K - 300 K = 100 K$
+
+The heat transferred from the hotter piece to the cooler piece is:
+
+$Q = (1 mol)(22.6 J K^{-1} mol^{-1})(63.546 g mol^{-1})(100 K) = 143831 J$
+
+Note that we converted the molar mass of copper from grams per mole to kilograms per mole in order to get the correct units for the specific heat capacity.
+
+Finally, we can calculate the change in entropy:
+
+$\Delta S = \frac{143831 J}{350 K} = 411.23 J K^{-1}$
+
+Rounding to three decimal places, the final answer is:
+
+$\Delta S = \boxed{411.23 J K^{-1}}$

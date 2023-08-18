@@ -1,0 +1,10 @@
+The common applications of the materials given in Column I with their common applications given in Column II are:
+
+- Gray iron (P): Base structure of heavy machines
+- Ductile iron (Q): Valve and pump bodies
+- Zirconium alloy (R): Cladding for uranium fuel in nuclear reactor
+- Beryllium-Copper alloy (S): Jet aircraft landing gear bearings
+
+Therefore, the correct matching is:
+
+(B) P-4, Q-2, R-1, S-3

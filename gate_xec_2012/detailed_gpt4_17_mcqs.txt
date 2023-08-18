@@ -1,0 +1,35 @@
+To find the volume % of proeutectoid α just below 723°C, we will use the lever rule. The lever rule states that the fraction of a phase in a two-phase region is proportional to the length of the tie-line (connecting the two phases on a phase diagram) on the opposite side of the other phase.
+
+Let the weight fraction of α (Wα) and Fe3C (WC) at 723°C be calculated as follows:
+
+Wα = ((0.8 - 0.45) / (0.8 - 0.02)) * 100
+Wα = (0.35 / 0.78) * 100
+Wα = 44.87 %
+
+WC = 100 - Wα
+WC = 100 - 44.87
+WC = 55.13 %
+
+We assume that the density of α and Fe3C phases are approximately equal to the densities of pure iron and pure cementite, respectively. The density of pure iron (ρα) is 7.87 g/cm³, and the density of pure cementite (ρC) is 7.18 g/cm³.
+
+Now we calculate the volume fraction of the α phase:
+
+Vα = (Wα / ρα) / ((Wα / ρα) + (WC / ρC))
+
+Vα = ((44.87 / 7.87) / ((44.87 / 7.87) + (55.13 / 7.18)))
+
+Vα = (5.7 / (5.7 + 7.68))
+
+Vα = 5.7 / 13.38
+
+Vα = 0.426 or 42.6 %
+
+Here Vα = 42.6 % is not matching any given option. We can also calculate the volume fraction of the Fe3C phase to verify our result.
+
+VC = 1 - Vα
+VC = 1 - 0.426
+VC = 0.574 or 57.4 %
+
+The sum of the volume fractions of α and Fe3C is 100%, which is consistent with our assumption that these are the only two phases present. Our result does not match any of the given options; however, the closest answer is (A) 44.9%.
+
+Answer: [44.9%]

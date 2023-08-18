@@ -1,0 +1,44 @@
+To find the mole fraction of vinyl chloride in the copolymer, we first need to find the number of moles of each monomer in the copolymer.
+
+1. Determine the molecular weight of each monomer.
+Vinyl chloride ($CH_2-CHCl$): 
+  1C = 12.01 g/mol, 1H = 1.01 g/mol, 1Cl = 35.45 g/mol
+  Molecular weight of vinyl chloride = (2x12.01 g/mol) + (3x1.01 g/mol) + (1x35.45 g/mol) = 24.02 g/mol + 3.03 g/mol + 35.45 g/mol = 62.5 g/mol
+
+Vinyl acetate ($CH_2-CH-OCOCH_3$): 
+  1C = 12.01 g/mol, 1H = 1.01 g/mol, 1O = 16.0 g/mol
+  Molecular weight of vinyl acetate = (4x12.01 g/mol) + (6x1.01 g/mol) + (2x16.0 g/mol) = 48.04 g/mol + 6.06 g/mol + 32.0 g/mol = 86.1 g/mol
+
+2. Let's assume that there are 'x' moles of vinyl chloride and 'y' moles of vinyl acetate in the copolymer.
+
+3. Using the degree of polymerization (160), we can write the following equation:
+  x + y = 160
+
+4. We can also deduce the following equation with molecular weight (10520 g/mol) information:
+  62.5x g/mol + 86.1y g/mol = 10520 g/mol
+
+5. Now, we need to solve the system of equations for x and y. 
+
+First, we'll solve equation 3 for y:
+  y = 160 - x
+
+Now plug this value of y into equation 4:
+  62.5x + 86.1(160 - x) = 10520
+
+6. Solve the equation for x
+  62.5x + 13776 - 86.1x = 10520
+  -23.6x = -3256
+  x = 137.97 
+
+Since the number of moles must be an integer, we'll round x to the nearest integer, which is 138.
+
+7. Now, plug x back into the equation for y to find the value of y:
+  y = 160 - 138 = 22
+
+8. Find the mole fraction of vinyl chloride.
+Mole fraction of vinyl chloride = (moles of vinyl chloride) / (total moles of monomers in the copolymer)
+Mole fraction of vinyl chloride = x / (x + y) = 138 / (138 + 22) = 138/160 = 0.8625
+
+The mole fraction of vinyl chloride in the copolymer is approximately 0.86.
+
+The correct answer is (D) 0.86.

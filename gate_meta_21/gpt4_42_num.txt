@@ -1,0 +1,21 @@
+The true strain (ε) can be calculated using the formula:
+
+ε = ln(h_initial/h_final)
+
+where h_initial is the initial height and h_final is the final height after reduction.
+
+Given a 60% height reduction, we can find the final height:
+
+h_final = h_initial * (1 - 0.60)
+
+Let's assume the initial height (h_initial) is 1 unit (to make the calculation simple). Then,
+
+h_final = 1 * (1 - 0.60) = 1 * 0.40 = 0.40 units
+
+Now, we can find the true strain:
+
+ε = ln(1/0.40) = ln(2.5) ≈ 0.92 (rounded to 2 decimal places)
+
+So, the true strain for 60% height reduction of a sample subjected to hot forging is approximately 0.92.
+
+Answer: [0.92]

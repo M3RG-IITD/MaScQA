@@ -1,0 +1,11 @@
+The correct answer is (D) at all intensities, as long as the wavelength of the incident radiation is above a threshold value.
+
+Explanation:
+
+The photoelectric effect is the phenomenon in which electrons are ejected from a material when it is exposed to electromagnetic radiation of sufficient energy, typically in the form of photons. The energy of a photon is determined by its frequency, or inversely proportional to its wavelength. For a given material, there is a minimum energy required to eject an electron, known as the work function.
+
+In the photoelectric effect, electrons are ejected from the material when the energy of the incident photon is greater than or equal to the work function of the material. If the energy of the photon is less than the work function, no electrons are ejected.
+
+Therefore, for a given material, there is a minimum threshold wavelength (or maximum threshold frequency) below which no electrons will be ejected, regardless of the intensity of the incident radiation. However, once the threshold energy is met, electrons will be ejected with greater frequency as the intensity of the radiation increases.
+
+So option (D) is correct as electrons will be ejected at all intensities, as long as the wavelength of the incident radiation is above a threshold value.

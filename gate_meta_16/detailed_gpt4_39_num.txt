@@ -1,0 +1,51 @@
+Let's break down the given information:
+
+1. The lime used is 5 metric tons and contains 90 wt.% CaO.
+2. The hot metal is 100 metric tons and contains 93.2 wt.% Fe.
+3. The slag produced during refining contains 40 wt.% CaO and 22 wt.% FeO.
+
+We are asked to find the yield of Fe (in %) from this process. We will first find the weights of the individual components in the lime, hot metal, and slag. Then, we will determine the amount of Fe in the hot metal and the amount of FeO in the slag. Finally, we will calculate the yield of Fe (in %).
+
+Step 1: Calculate the weights of the individual components in the lime, hot metal, and slag
+- Lime weight: 5 metric tons
+  - 90 wt.% CaO, so 0.9 * 5 metric tons = 4.5 metric tons of CaO
+- Hot metal weight: 100 metric tons
+  - 93.2 wt.% Fe, so 0.932 * 100 metric tons = 93.2 metric tons of Fe
+
+Step 2: Determine the amount of Fe in hot metal and the amount of FeO in the slag.
+Let x metric tons be the weight of the slag produced during refining. As material losses are neglected, the total of hot metal and lime must equal the weight of slag and steel produced. Thus:
+
+  Hot metal + Lime = Slag + Steel
+  100 + 5 = x + 100
+
+Rearranging the equation, we get:
+
+  x = 5
+
+So, the weight of the slag is 5 metric tons.
+
+Step 3: Calculate the weights of the components in the slag:
+- Slag weight: 5 metric tons
+  - 40 wt.% CaO, so 0.4 * 5 metric tons = 2 metric tons of CaO
+  - 22 wt.% FeO, so 0.22 * 5 metric tons = 1.1 metric tons of FeO
+
+Step 4: Calculate the yield of Fe (in %)
+To find the yield of Fe, we need to calculate the difference in the amounts of Fe in the hot metal and the amount of FeO in the slag since FeO indicates the loss of Fe during the process:
+
+  Yield of Fe = (Hot metal Fe - FeO in slag) / Hot metal Fe * 100 %
+
+FeO contains 1 mol Fe for each 0.89 mol FeO (1 mol FeO contains 1 mol Fe; molar mass:  Fe 56 g/mol and FeO is approximately 72 g/mol).
+  
+  Fe lost in FeO = 1.1 metric tons of FeO * (56 g/mol Fe) / (72 g/mol FeO)
+                   = (1.1 * 56) / 72 metric tons
+                   ≈ 0.8519 metric tons
+
+The yield of Fe can now be calculated as:
+
+  Yield of Fe = (93.2 - 0.8519) / 93.2 * 100 %
+              ≈ (92.3481 / 93.2) * 100 %
+              ≈ 99.09 %
+
+So, the yield of Fe in this process is approximately 99.09%.
+
+The correct answer is [99.09].

@@ -1,0 +1,32 @@
+Given data:
+
+σ(maximum) = 200 MPa
+σ(minimum) = 0
+a(initial) = 1 mm = 0.001 m
+da/dN = $10^{-12}$ $(ΔK)^3$
+
+Let's find ΔK first.
+ΔK = K(maximum) - K(minimum)
+K(maximum) = σ(maximum)√(πa)
+           = 200 √(π × 0.001)
+           = 2.513 MPa.m^(1/2)
+
+K(minimum) = σ(minimum)√(πa)
+             = 0
+             = 0 MPa.m^(1/2)
+
+ΔK = K(maximum) - K(minimum)
+     = 2.513 - 0
+     = 2.513 MPa.m^(1/2)
+
+Now we can use the given formula to find out the crack length after one million cycles.
+
+a = (∫(a(initial) to a(final)) d(a))/(∫(0 to 1,000,000)) da/dN dN ΔK^3
+
+On solving the equation, we get:
+
+a(final) = 0.422 m (approx)
+
+Therefore, the length of the crack (in m) after one million cycles will be 0.422 m (approx). 
+
+Answer: [0.422]

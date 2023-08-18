@@ -1,0 +1,28 @@
+From the given figure, we can see that the endurance limit is approximately 600 MPa. Therefore, for $𝜎_a$ = 400 MPa and $𝜎_a$ = 300 MPa, the number of cycles to failure will be very large as both these alternating stresses are less than the endurance limit. 
+
+For $𝜎_a$ = 500 MPa, we need to calculate the fraction of cycles spent at this stress level. 
+
+Total number of cycles applied = 5000 + 25000 + $n$
+where $n$ is the number of cycles to failure at 500 MPa.
+
+Fraction of cycles spent at 500 MPa = $\frac{n}{5000+25000+n}$
+
+According to Miner's rule, the cumulative damage from all stress cycles experienced during a test should be equal to 1 for failure to occur. Therefore, we can write:
+
+$$\frac{5000}{N_{f,400}} + \frac{25000}{N_{f,300}} + \frac{n}{N_{f,500}} = 1$$
+
+where $N_{f,400}$, $N_{f,300}$, and $N_{f,500}$ are the number of cycles to failure for $𝜎_a$ = 400 MPa, $𝜎_a$ = 300 MPa, and $𝜎_a$ = 500 MPa, respectively.
+
+Using the given data from the figure, we have:
+
+$$\frac{5000}{N_{f,400}} + \frac{25000}{N_{f,300}} + \frac{n}{476} = 1$$
+
+Solving for $n$, we get:
+
+$$n = \frac{476}{1-\frac{5000}{N_{f,400}}-\frac{25000}{N_{f,300}}}$$
+
+Substituting $N_{f,400}$ = 10,000 cycles and $N_{f,300}$ = 60,000 cycles (from the figure), we get:
+
+$$n = \frac{476}{1-\frac{5000}{10000}-\frac{25000}{60000}} \approx \boxed{1333\ cycles}$$
+
+Therefore, the number of cycles to failure at the final applied stress of 500 MPa is approximately 1333.

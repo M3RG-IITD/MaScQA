@@ -1,0 +1,2 @@
+As compared to the engineering stress-engineering strain curve, the true stress-true strain curve for a given material
+(A) lies above and to the left (B) lies below and to the right (C) crosses the engineering stress-engineering strain curve (D) is identical 

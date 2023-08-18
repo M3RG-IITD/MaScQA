@@ -1,0 +1,13 @@
+The total number of vibrational degrees of freedom of a molecule can be calculated using the formula 3N - 6, where N is the total number of atoms in the molecule. 
+
+For a linear triatomic molecule, there are 3 atoms, so using the formula we get:
+
+3(3) - 6 = 9 - 6 = 3
+
+However, for a non-linear triatomic molecule such as H2O or CO2, the molecule has 3 atoms but its geometry is not linear. In this case, we need to consider the number of vibrational modes associated with the bending and stretching of the molecule's bonds. 
+
+A non-linear triatomic molecule such as H2O has two stretching modes (O-H bonds) and one bending mode (H-O-H). Therefore, the total number of vibrational degrees of freedom is:
+
+3 + 2 + 1 = 6
+
+Hence, the correct answer is option (B) 6.

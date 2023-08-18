@@ -1,0 +1,33 @@
+We need to find the lowest value of $T_f$ at which the material will fail. The material fails when the compressive stress exceeds 200 MPa. 
+
+We know that compressive stress ($\sigma_c$) is given by:
+
+$\sigma_c = -\frac{E\alpha\Delta T}{1-\nu}$ 
+
+where $E$ is the modulus of elasticity, $\alpha$ is the coefficient of thermal expansion, $\Delta T$ is the change in temperature, and $\nu$ is Poisson's ratio. 
+
+Since the material is dimensionally constrained, we can assume that $\nu$ is 0.5 (the value for incompressible materials). 
+
+We can rearrange the equation to solve for $\Delta T$ as follows:
+
+$\Delta T = \frac{\sigma_c(1-\nu)}{-E\alpha}$ 
+
+Substituting the given values, we get:
+
+$\Delta T = \frac{(200 \times 10^6)(0.5)}{-(200 \times 10^9)(7.5 \times 10^{-6})}$ 
+
+Simplifying, we get:
+
+$\Delta T = -0.667^\circ C$ 
+
+This means that the material can withstand a temperature change of up to $0.667^\circ C$ before failing. 
+
+To find the lowest value of $T_f$, we need to add this temperature change to the starting temperature of 25°C: 
+
+$T_f = 25 + 0.667 \approx 26$ 
+
+Therefore, the lowest value of $T_f$ at which the material will fail is 26°C. 
+
+Answer: 
+
+- 26

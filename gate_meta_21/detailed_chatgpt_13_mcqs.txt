@@ -1,0 +1,13 @@
+Hydrometallurgical operations involve the use of aqueous solutions to extract metals from ores or concentrates. Therefore, the correct answer is:
+
+(B) Leaching
+
+Explanation:
+
+(A) Roasting involves heating the ore or concentrate to a high temperature in the presence of air or oxygen to convert the metal sulfides or other compounds into oxides or other more easily reducible forms. This process is used to prepare the ore for smelting, but it is not a hydrometallurgical operation.
+
+(B) Leaching uses a chemical solution, usually an acid or a base, to dissolve the metal from the ore or concentrate. The resulting metal-containing solution is then treated to recover the metal. This process is commonly used to extract copper, nickel, zinc, and other metals from sulfide ores.
+
+(C) Zone refining is a process used to purify metals by melting and solidifying a small section of the metal one or more times to remove impurities that are more soluble in the liquid phase than in the solid phase. This process is not a hydrometallurgical operation.
+
+(D) Smelting involves heating the roasted or leached ore or concentrate with a reducing agent such as coke or charcoal to extract the metal from the oxide or other compound. This process is not a hydrometallurgical operation.

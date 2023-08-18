@@ -1,0 +1,33 @@
+In the BCC crystal structure, one octahedral void is surrounded by 6 Fe atoms at the corners of an octahedron.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Cubic-packing-ABC.png" width=200>
+
+The distance between two opposite Fe atoms along the body diagonal in a BCC structure is given by 
+$$d = \frac{4r}{\sqrt{3}}$$
+where $r$ is the atomic radius. Substituting $r=0.124$ nm for Fe, we get
+$$d = \frac{4\times0.124}{\sqrt{3}} \approx 0.227 \text{ nm}$$
+
+The largest interstitial atom that can be accommodated in an octahedral void is one that just fits inside the octahedron. The distance between opposite faces of an octahedron with edge length $a$ is given by
+$$D = a\sqrt{2}$$
+
+If the radius of the interstitial atom is $r_i$, then the largest interstitial atom that can fit inside the octahedron without distorting the lattice satisfies
+$$D = d + 2r_i$$
+Substituting the values of $d$ and $r_i$, we get
+$$a\sqrt{2} = 0.227 + 2r_i$$
+Solving for $r_i$, we get
+$$r_i = \frac{a\sqrt{2}-0.227}{2}$$
+
+For an octahedral void in a BCC lattice, the edge length is given by
+$$a = \frac{4r}{\sqrt{3}}$$
+where $r$ is the atomic radius. Substituting for Fe, we get
+$$a = \frac{4\times0.124}{\sqrt{3}} \approx 0.227 \text{ nm}$$
+
+Substituting this value for $a$ in the expression for $r_i$, we get
+$$r_i \approx \frac{(0.227)(\sqrt{2}) - 0.227}{2} \approx 0.053 \text{ nm}$$
+
+Therefore, the radius of the largest interstitial atom that can be accommodated in an octahedral void in BCC iron without distorting the lattice is approximately 0.053 nm.
+
+Answer: 
+- 0.053
+- 0.053 nm
+- 0.053 nanometers

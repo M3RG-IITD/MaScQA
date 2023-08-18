@@ -1,0 +1,18 @@
+For a face-centered cubic (FCC) structure, the relationship between the lattice parameter "a" and the atomic radius "r" is given by:
+
+a = √8 * r
+
+We are given the lattice parameter a = 0.401 nm. 
+Let's find the atomic radius r:
+
+r = a / √8 = 0.401 / √8 = 0.401 / 2.828 = 0.1419 nm
+
+In a FCC structure, a sphere in the tetrahedral void has a radius equal to 0.225 times the atomic radius of the metal.
+
+Therefore, the radius of the largest sphere that can fit in the tetrahedral void (in nm) is:
+
+0.225 * 0.1419 = 0.0319 nm
+
+As an answer in a list format and rounded to three decimal places:
+
+[0.032]

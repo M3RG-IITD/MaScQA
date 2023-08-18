@@ -1,0 +1,28 @@
+We can use the following formula to calculate the terminal velocity:
+𝐹_𝑑 = 6𝜋𝜇𝑟𝑣
+where r is the radius of the inclusion.
+
+First, we need to calculate the radius of the inclusion as follows:
+Diameter = 50 micrometers
+Radius = D/2 = 25 micrometers = 25 × 10^(-6) m
+
+Next, we can calculate the volume of the inclusion:
+Volume = (4/3)πr^3 = (4/3)π(25 × 10^(-6))^3 = 6.54 × 10^(-14) m^3
+
+Using the density of the inclusion, we can calculate its mass:
+Mass = Density × Volume = 2500 × 6.54 × 10^(-14) = 1.64 × 10^(-10) kg
+
+Now we can use the formula for terminal velocity:
+𝐹_𝑑 = 6𝜋𝜇𝑟𝑣
+Solving for v, we get:
+v = 𝐹_𝑑/(6𝜋𝜇𝑟)
+
+Plugging in the given values, we get:
+v = (3𝜋𝜇𝐷𝑣)/(6𝜋𝜇𝑟)
+v = (0.5𝐷𝑣)/r
+v = (0.5 × 50 × 10^(-6) × 9.8)/(25 × 10^(-6))
+v ≈ 9.8 mm/s
+
+Therefore, the terminal velocity of the inclusion is approximately 9.8 mm/s.
+
+Answer: [9.8]

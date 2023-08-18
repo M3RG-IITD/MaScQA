@@ -1,0 +1,9 @@
+The correct answer is:
+(C) P-2; Q-1; R-3
+
+Explanation: 
+- Eutectoid reaction involves the transformation of one solid phase into two solid phases. Therefore, it matches with option 2.
+- Martensitic transformation involves no diffusion. Therefore, it matches with option 1.
+- Precipitation reaction occurs in supersaturated solutions. Therefore, it matches with option 3.
+
+Hence, the correct matching is P-2; Q-1; R-3.

@@ -1,0 +1,2 @@
+Identify the INCORRECT statement with respect to grain growth.
+(A) As the average grain size increases, the grain boundary energy per unit area decreases. (B) The driving force for grain growth is the decrease in grain boundary energy per unit volume of the material. (C) Higher the temperature, the faster is the grain growth. (D) Impurity atoms segregated at grain boundaries can retard grain growth

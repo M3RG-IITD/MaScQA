@@ -1,0 +1,36 @@
+Let's break down the problem into steps.
+
+Step 1: We are given the relationship between tensile true stress (𝜎) and true strain (𝜀) as:
+𝜎 (MPa) = 600 $𝜀^𝑛$
+
+Step 2: We are given the values of true stress and true strain when 𝜀 = 0.05 as:
+True stress, 𝜎 = 350 MPa
+True strain, 𝜀 = 0.05
+
+Step 3: We can use these values to determine the value of n:
+350 = 600 * (0.05)^n
+
+Step 4: Solve for n:
+n = log(350/600) / log(0.05)
+n ≈ 0.359
+
+Now that we have the value of n, let's find the engineering stress when the engineering strain is 0.12.
+
+Step 5: Convert engineering strain (0.12) to true strain:
+True strain, 𝜀 = ln(1 + engineering strain)
+𝜀 = ln(1 + 0.12) ≈ 0.113
+
+Step 6: Calculate the true stress associated with this true strain using the relationship we found earlier:
+𝜎 (MPa) = 600 * (0.113)^0.359
+True stress, 𝜎 ≈ 366.84 MPa
+
+Step 7: Convert true stress to engineering stress:
+Engineering stress = True stress / (1 + engineering strain)
+Engineering stress = 366.84 / (1 + 0.12) ≈ 327.18 MPa
+
+Step 8: Round off the answer to the nearest integer:
+Engineering stress = 327 MPa
+
+So, the engineering stress when the engineering strain is 0.12 is 327 MPa.
+
+Answer: [327]

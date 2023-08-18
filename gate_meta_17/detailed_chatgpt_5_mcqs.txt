@@ -1,0 +1,33 @@
+The standard cell potential, E°cell, of the electrochemical reaction $cu^{2+}$ + Zn = $Zn^{2+}$ + Cu can be calculated using the formula:
+
+E°cell = E°(reduction at cathode) - E°(oxidation at anode)
+
+where the reduction half-reaction occurs at the cathode and the oxidation half-reaction occurs at the anode.
+
+In this case, the reduction half-reaction is:
+
+$Cu^{2+}$ + 2 e- → Cu
+
+with E°red = 0.337 V
+
+The oxidation half-reaction is:
+
+Zn → $Zn^{2+}$ + 2 e-
+
+with E°ox = -0.763 V
+
+To use the formula, we need to reverse the oxidation half-reaction and flip its sign to get:
+
+$Zn^{2+}$ + 2 e- → Zn   with E°red = -E°ox = 0.763 V
+
+Now we can calculate the standard cell potential:
+
+E°cell = E°(reduction at cathode) - E°(oxidation at anode)
+
+E°cell = E°red(Cu2+/Cu) - E°red(Zn2+/Zn)
+
+E°cell = 0.337 V - 0.763 V
+
+E°cell = -0.426 V
+
+Therefore, the correct answer is (A) -0.426V.

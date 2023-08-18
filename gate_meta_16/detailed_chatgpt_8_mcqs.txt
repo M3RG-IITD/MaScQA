@@ -1,0 +1,25 @@
+We can use the Ellingham diagram for metal sulfides and oxides to determine the conditions at which each of the solid phases is stable. 
+
+First, we consider the formation of MS from M and $H_2S$: 
+
+$M(s) + H_2S (g) \rightarrow MS (s) + H_2(g)$ 
+
+This reaction is exothermic and becomes increasingly favorable at lower temperatures. Therefore, MS is stable at lower temperatures. 
+
+Next, we consider the formation of MO from M and $O_2$: 
+
+$2M(s) + O_2 (g) \rightarrow 2MO (s)$ 
+
+This reaction is also exothermic and becomes increasingly favorable at lower temperatures. Therefore, MO is stable at lower temperatures. 
+
+Finally, we consider the formation of $MSO_4$ from MS and $O_2$: 
+
+$2MS (s) + 2O_2 (g) \rightarrow 2MSO_4 (s)$ 
+
+This reaction is highly exothermic and becomes increasingly favorable at higher temperatures. Therefore, $MSO_4$ is stable at higher temperatures. 
+
+The formation of $SO_2$ from $H_2S$ and $O_2$ is always thermodynamically favorable, so we can assume that $SO_2$ is always present. 
+
+From the above information, we can conclude that all four solid phases can coexist at some point during the roasting process. At lower temperatures, MS and MO will be stable, while at higher temperatures $MSO_4$ will also be stable. M will always be present as the starting material. 
+
+Therefore, the correct answer is (A) M, MS, MO, $MSO_4$.

@@ -1,0 +1,33 @@
+We have the following parameters:
+
+Crosshead speed = 6 mm/min
+
+Strain rate ($\dot{\epsilon}$) at the start of the testing = 5 * 10^(-3) s^(-1)
+
+We can use the following equation to find the initial gauge length (L0):
+
+$\dot{\epsilon} = \frac{v}{L_0}$
+
+where, v is the crosshead speed and $L_0$ is the initial gauge length.
+
+Plugging in the given values, we get:
+
+5 * 10^(-3) s^(-1) = 6 mm/min / $L_0$
+
+Converting the crosshead speed to mm/s:
+
+6 mm/min = 0.1 mm/s
+
+Substituting this value in the above equation:
+
+5 * 10^(-3) s^(-1) = 0.1 mm/s / $L_0$
+
+Rearranging the above equation, we get:
+
+$L_0 = \frac{0.1 mm/s}{5 * 10^(-3) s^(-1)}$
+
+$L_0$ = 20 mm
+
+Therefore, the initial gauge length of the specimen was 20 mm.
+
+Answer: [20]

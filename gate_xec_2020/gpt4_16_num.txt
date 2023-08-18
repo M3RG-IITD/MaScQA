@@ -1,0 +1,41 @@
+First, we need to find the intrinsic carrier concentration ($n_i$) of Si. To do this, we'll plug the given values into the equation for $n_i$. Be sure to convert the band gap energy ($E_g$) from eV to Joules by multiplying by the charge of an electron (e).
+
+$E_g$ = 1.1 eV * 1.6 * $10^(-19)$ = 1.76 * $10^(-19)$ J
+
+Now we can plug in the values:
+
+$n_i$ = 2 * $([2π (9.1 * 10^(-31) kg) (1.38 * 10^(-23) J.K^(-1) * (300 K)]/(6.6 * 10^(-34) J.s^(-1))^2)^{(3/2)}$ * $exp(-{1.76 * 10^(-19) J/1.38 * 10^(-23) J.K^(-1) (300 K)})$
+
+Now, calculate the carrier concentration, $n_i$:
+
+$n_i$ = 2 * $([2π (9.1 * 10^(-31) kg) (1.38 * 10^(-23) J.K^(-1) * (300 K)]/(6.6 * 10^(-34) J.s^(-1))^2)^{(3/2)}$ * $exp(-{9.679})$
+
+$n_i \approx 1.5 * 10^{16} m^{-3}$
+
+Next, we'll calculate the concentration of phosphorus atoms per $m^3$.
+
+Phosphorus Concentration = (1 ppm) * (5 * $10^{28}$ per atoms per $m^3$) = 5 * $10^{22}$ $m^{-3}$
+
+Since phosphorus atoms are donor impurities, the new carrier concentration after doping will be:
+
+n' = $n_i$ + Phosphorus Concentration = (1.5 * 10^{16}) + (5 * $10^{22}$) $\approx$ 5 * $10^{22}$ $m^{-3}$
+
+The shift in Fermi energy can be calculated using the relation:
+
+$\Delta{E_F}$ = $k_B$T $\ln$(${n'}/{n_i}$)
+
+Plug in the values and calculate the shift in Fermi energy:
+
+$\Delta{E_F}$ = (1.38 * $10^{-23}$ J.$K^{-1}$ * 300 K) $ln$(${5 * 10^{22}}/{1.5 * 10^{16}}$)
+
+$\Delta{E_F} \approx 4.4 * 10^{-20}$ J
+
+To convert back to eV, divide by the charge of an electron (e):
+
+$\Delta{E_F}$ = (4.4 * 10^{-20} J) / (1.6 * 10^{-19} C) = 0.275 eV
+
+Finally, round off to two decimal places and include the appropriate sign (positive because the Fermi energy will increase due to the addition of donor impurities):
+
+$\Delta{E_F}$ = 0.28 eV
+
+The shift in Fermi energy upon doping with respect to the intrinsic Fermi level of pure Si is +0.28 eV. So the answer is [0.28].

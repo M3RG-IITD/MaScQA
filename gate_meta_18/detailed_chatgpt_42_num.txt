@@ -1,0 +1,36 @@
+The volume change can be calculated by first finding the volumes of the unit cells for both crystal structures and then comparing them.
+
+For the BCC crystal structure, the volume of the unit cell can be calculated as:
+V_BCC = a^3 * (4/3 * pi * r^3) / (4 * sqrt(3))
+where a is the lattice parameter and r is the atomic radius of iron.
+
+The atomic radius of iron can be found in a periodic table or reference book and is approximately 0.124 nm.
+
+Thus, substituting the values we get:
+V_BCC = (0.293 nm)^3 * (4/3 * pi * (0.124 nm)^3) / (4 * sqrt(3))
+V_BCC = 0.0269 nm^3
+
+For the FCC crystal structure, the volume of the unit cell can be calculated as:
+V_FCC = a^3 / 4
+where a is the lattice parameter of the FCC crystal structure.
+
+Thus, substituting the values we get:
+V_FCC = (0.363 nm)^3 / 4
+V_FCC = 0.0150 nm^3
+
+The change in volume can now be calculated as:
+deltaV = V_FCC - V_BCC
+deltaV = 0.0150 nm^3 - 0.0269 nm^3
+deltaV = -0.0119 nm^3
+
+The negative volume change indicates that the FCC crystal structure has a smaller volume than the BCC crystal structure.
+
+The percentage change in volume can be calculated as:
+deltaV_percent = (deltaV / V_BCC) * 100
+deltaV_percent = (-0.0119 nm^3 / 0.0269 nm^3) * 100
+deltaV_percent = -44.2%
+
+Thus, the associated volume change is -44.2%, which means that the FCC crystal structure of iron has a 44.2% smaller volume than the BCC crystal structure. 
+
+Answer:
+-44.2%

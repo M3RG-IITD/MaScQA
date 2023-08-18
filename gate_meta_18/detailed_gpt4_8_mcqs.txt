@@ -1,0 +1,15 @@
+Powder metallurgy is a process in which metal powders are used to produce engineering components by compacting the powders into a desired shape and then sintering (heating) to a temperature below the melting point to strengthen the component. Let's analyze each engineering component and see if they are produced by powder metallurgy:
+
+P. Gas turbine blades
+Gas turbine blades are typically made from superalloys that can withstand high temperatures and stresses. These superalloys are typically produced using investment casting or single-crystal casting methods. Therefore, gas turbine blades are not produced by powder metallurgy.
+
+Q. Tungsten-based heavy alloy penetrators
+Tungsten-based heavy alloy penetrators are used for applications that require high density and strength, such as armor-piercing projectiles. Due to the high melting point of tungsten and the need to achieve complex geometries, these penetrators are often produced by powder metallurgy.
+
+R. Self-lubricating bearings
+Self-lubricating bearings are made from materials that reduce friction between moving parts without the need for additional lubrication. These bearings can be made from various materials, including metal matrix composites, which are often produced by powder metallurgy.
+
+S. Engine block of an automobile
+Engine blocks of an automobile are typically made of cast aluminum or cast iron. The most common manufacturing processes for engine blocks are sand casting or die casting. Therefore, engine blocks are not produced by powder metallurgy.
+
+From the analysis, we can conclude that components Q (Tungsten-based heavy alloy penetrators) and R (Self-lubricating bearings) are produced by powder metallurgy. Thus, the correct answer is (B) Q & R.

@@ -1,0 +1,41 @@
+To solve this problem, we need to equate the heat input of both welds and solve for the unknown welding current. 
+
+1. Calculate the heat input for the first weld.
+Heat input can be calculated using the following formula:
+
+Heat input = Arc efficiency * (Current * Voltage) / Welding speed
+
+For the first weld, we know the arc efficiency is 0.65, the current is 200 A, the voltage is 18 V, and the welding speed is 0.002 m/s. Plugging these values into the formula, we get:
+
+Heat input for first weld = 0.65 * (200 A * 18 V) / 0.002 m/s
+
+2. Calculate the heat input for the second weld.
+For the second weld, we're given the arc voltage (18 V), welding speed (0.0022 m/s), and the fact that the heat input is identical to the first weld. Let's call the unknown welding current of the second weld 'I'. The heat input for the second weld can be written as:
+
+Heat input for second weld = 0.65 * (I * 18 V) / 0.0022 m/s
+
+3. Equate the heat input of both the welds.
+Since the heat input of both the welds is the same, we can equate the heat inputs and solve for 'I':
+
+0.65 * (200 A * 18 V) / 0.002 m/s = 0.65 * (I * 18 V) / 0.0022 m/s
+
+4. Simplify and solve for 'I'.
+First, we can cancel out the 0.65 and the 18 V on both sides of the equation:
+
+(200 A) / 0.002 m/s = (I) / 0.0022 m/s
+
+Now, cross-multiply:
+
+0.002 m/s * I = 200 A * 0.0022 m/s
+
+Divide both sides by 0.002 m/s:
+
+I = (200 A * 0.0022 m/s) / 0.002 m/s
+
+Compute the value of I:
+
+I ≈ 220 A
+
+Therefore, the welding current of the second weld is approximately 220 A (rounded off to the nearest integer).
+
+Answer: [220]

@@ -1,0 +1,25 @@
+
+
+The given stress-strain curve can be divided into two parts: OA and AB.
+
+For the initial part OA, the material is behaving elastically i.e. it will return to its original length after the applied force is removed. This means that the yield point must lie beyond point A.
+
+For the part AB, the material is behaving plastically i.e. it will not return to its original length after the applied force is removed. The yield point lies between points A and B.
+
+To find the yield point, we first need to find the modulus of elasticity (E) for the linear portion OA.
+
+E = (stress)/(strain) = (240 MPa)/(0.002) = 120,000 MPa
+
+Now, using the formula for elongation under axial load for a cylindrical specimen, we can find the elongation for a stress of 240 MPa:
+
+ε = (stress)/(E) = (240 MPa)/(120,000 MPa) = 0.002
+
+ΔL/L = ε = 0.002
+
+ΔL = (0.002)(50 mm) = 0.1 mm
+
+Therefore, the length of the specimen at the yield point would be:
+
+L_yield point = L_original + ΔL = 50 mm + 0.1 mm = 50.1 mm
+
+Answer: [50.1 mm]

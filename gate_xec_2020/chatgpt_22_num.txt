@@ -1,0 +1,47 @@
+We can use Fick's second law to solve this problem. The equation is as follows:
+
+dC/dt = D*(d^2C/dx^2)
+
+where C is the concentration of carbon, t is time, x is distance, and D is the diffusivity of carbon in iron.
+
+We can assume that the concentration profile of carbon in the steel is initially flat (i.e., C=0.1 wt% at all depths) and that it gradually increases with carburization time.
+
+To find the carburization time required to achieve a carbon concentration of 0.46 wt% at a depth of 5mm, we first need to calculate the concentration profile of carbon in the steel as a function of time and distance. We can do this by solving Fick's second law using the initial conditions mentioned above and specifying a boundary condition of C = 1.0 wt% at the surface (i.e., x = 0).
+
+The equation to solve is:
+
+dC/dt = (6.0*10^-11 m^2/s)*(d^2C/dx^2)
+
+subject to the initial condition C(x, 0) = 0.1 and the boundary condition C(0, t) = 1.0.
+
+We can use the method of separation of variables to find a solution in the form of:
+
+C(x, t) = A*erf(x/(2*sqrt(D*t))) + B
+
+where A and B are constants to be determined from the initial and boundary conditions.
+
+Using the initial condition, we have:
+
+C(x,0) = A*erf(x/(2*sqrt(D*0))) + B
+0.1 = A*erf(x/0) + B
+B = 0.1
+
+Using the boundary condition, we have:
+
+C(0,t) = A*erf(0/(2*sqrt(D*t))) + B
+1.0 = A*erf(0) + 0.1
+A = (1-0.1)/erf(0)
+A = 0.9/(sqrt(pi))
+
+Therefore, the solution is:
+
+C(x, t) = (0.9/sqrt(pi))*erf(x/(2*sqrt(D*t))) + 0.1
+
+Now we can solve for the carburization time required to achieve a carbon concentration of 0.46 wt% at a depth of 5mm. We have:
+
+C(5*10^-3, t) = (0.9/sqrt(pi))*erf(5*10^-3/(2*sqrt(D*t))) + 0.1
+0.46 = (0.9/sqrt(pi))*erf(5*10^-3/(2*sqrt(D*t))) + 0.1
+
+Solving for t using a numerical method, such as Newton-Raphson or the bisection method, we can find that the carburization time required is approximately 178 hours.
+
+Answer: [178]

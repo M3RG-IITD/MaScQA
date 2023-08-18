@@ -1,0 +1,21 @@
+To find the equilibrium distance, we need to find the distance at which the potential energy is at a minimum. To do this, we can take the derivative of U(r) with respect to r, set it equal to zero, and solve for r.
+
+dU(r)/dr = 3A/$r^4$ - 7B/$r^8$
+
+Setting this to zero gives:
+
+3A/$r^4$ = 7B/$r^8$
+
+Simplifying:
+
+$r^4$ = (7B/3A)
+
+$r$ = ($7B/3A)^{1/4}$
+
+Substituting A and B:
+
+$r$ = ($7(2.1*10^{-22})/(3(6*10^{-20}))^{1/4}$ = 0.285 nm
+
+Therefore, the equilibrium distance is 0.29 nm (rounded to 2 decimal places).
+
+Answer: [0.29 nm]

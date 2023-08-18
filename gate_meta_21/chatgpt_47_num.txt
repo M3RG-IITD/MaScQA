@@ -1,0 +1,21 @@
+We can use the equation:
+
+τ = Gb/λ
+
+where τ is the required shear stress, G is the shear modulus of the material, b is the magnitude of the Burgers vector of the dislocation, and λ is the spacing between the precipitates.
+
+Assuming G and b remain constant, we can write:
+
+τ1/τ2 = λ2/λ1
+
+where τ1 and λ1 are the original values, and τ2 and λ2 are the new values.
+
+Substituting the given values, we get:
+
+τ2 = τ1 x λ2/λ1
+     = 100 x 0.5/0.2
+     = 250 (rounded off to nearest integer)
+
+Therefore, the shear stress required to bow the dislocation line between precipitates with a spacing of 0.5 µm is 250 MPa.
+
+Answer: [250]

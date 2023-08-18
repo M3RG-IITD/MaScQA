@@ -1,0 +1,1 @@
+X-rays of unknown wavelength are diffracted by an FCC metal with a lattice parameter of 0.352nm. The measured ‘2θ’ angle for the {200} peak is 61.08°. Calculate the wavelength of the Xray used, in nm.

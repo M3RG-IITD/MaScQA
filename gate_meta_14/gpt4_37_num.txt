@@ -1,0 +1,3 @@
+According to Sievert's law, the solubility of a gas (such as hydrogen) in a metal is proportional to the square root of its partial pressure. Therefore, if the partial pressure increases by a factor of 4, the solubility will increase by a factor of the square root of 4. 
+
+Factor: [2]

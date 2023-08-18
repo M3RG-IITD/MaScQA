@@ -1,0 +1,54 @@
+To solve this problem, we will first understand the relationship between the transmitted light, absorption coefficient, and thickness of the glass material.
+
+The fraction of transmitted light through the glass panel can be determined using the Beer-Lambert law:
+
+$$
+T = 10^{-αd},
+$$
+
+where:
+- T is the fraction of light transmitted through the glass
+- α is the absorption coefficient (in cm⁻¹)
+- d is the thickness of the glass (in cm)
+
+First, we need to convert the thickness of the glass panel from mm to cm:
+
+$$
+d = 5\,mm = 0.5\,cm
+$$
+
+Now we want to find the maximum and minimum fraction of light transmitted through the glass for the given range of absorption coefficients (0.3 cm⁻¹ to 1 cm⁻¹).
+
+Let's start with the minimum absorption coefficient (0.3 cm⁻¹):
+
+$$
+T_{min} = 10^{-0.3(0.5)} = 10^{-0.15}
+$$
+
+Now let's calculate the fraction of light transmitted through the panel with maximum absorption coefficient (1 cm⁻¹):
+
+$$
+T_{max} = 10^{-1(0.5)} = 10^{-0.5}
+$$
+
+To find the ratio of the maximum to the minimum fraction of the light transmitted, we simply divide T_max by T_min:
+
+$$
+\frac{T_{max}}{T_{min}} = \frac{10^{-0.5}}{10^{-0.15}}
+$$
+
+Since both terms in the ratio are in the form of 10 raised to power, we can subtract the powers:
+
+$$
+\frac{T_{max}}{T_{min}} = 10^{(-0.15) - (-0.5)} = 10^{0.35}
+$$
+
+Let's round off the value of the ratio to two decimal places:
+
+$$
+\frac{T_{max}}{T_{min}} \approx 2.24
+$$
+
+So the ratio of the maximum to the minimum fraction of the light transmitted through the glass panel is approximately 2.24. 
+
+Final Answer: [2.24]

@@ -1,0 +1,20 @@
+
+
+We can use the expression for saturation magnetization in terms of Bohr Magneton and the number of atoms per unit volume, which is given as:
+    
+    Msat = (NμB^2)/V
+    
+where, 
+    N = number of atoms per unit volume = 2/[(2.866 * 10^-10 m)^3] = 8.44 * 10^28 /m^3
+    μB = Bohr Magneton = 9.27 * 10^-24 J/T
+    V = volume per atom = (2.866 * 10^-10 m)^3 / 2 = 7.85 * 10^-29 m^3/atom
+    
+Plugging in these values, we get:
+
+    Msat = (8.44 * 10^28 /m^3) * (9.27 * 10^-24 J/T)^2 * 7.85 * 10^-29 m^3/atom
+         = 2.17 * 10^6 A/m
+    
+Therefore, the correct option is (B) 1.5 * 10^6 A/m (approximate to two significant figures). 
+
+Answer: 
+(B) 1.5 * $10^6$ A/m

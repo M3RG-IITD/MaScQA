@@ -1,0 +1,27 @@
+For the (100) plane in the FCC crystal structure, we can find the number of atoms per unit area by calculating the area of the square in the plane and then dividing it by the area occupied by each atom.
+
+Since the crystal structure is FCC, the side length of the unit cell (a) is related to the atomic radius (r) by the following equation:
+
+a = 2√2 * r
+
+Substitute the given values:
+
+a = 2√2 * 0.175 nm
+a ≈ 0.494 nm
+
+Now, the area of the square in the (100) plane is:
+
+A = a^2
+A ≈ (0.494 nm)^2
+A ≈ 0.244 nm^2
+
+In the (100) plane of the FCC structure, there is one full atom located at each corner, and the rest are situated below or above this plane. Thus, there is one-quarter (1/4) of an atom at each corner of the unit cell contributing to the plane. Since there are 4 corners in a square, there is a total of 1 atom per square.
+
+Finally, we can find the number of atoms per unit area:
+
+Atoms per unit area = 1 atom / 0.244 nm^2
+Atoms per unit area ≈ 4.098 nm^(-2)
+
+Rounded off to the nearest integer, the number of atoms per unit area in the (100) plane of Pb is approximately 4 nm^(-2).
+
+The answer is [4].

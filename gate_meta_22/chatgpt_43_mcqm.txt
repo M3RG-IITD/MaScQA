@@ -1,0 +1,4 @@
+The answer is:
+
+- (B) The total emissive power of an ideal black body is proportional to the square of its absolute temperature
+- (C) The emissive power of an ideal black body peaks at a wavelength λ which is inversely proportional to its absolute temperature.

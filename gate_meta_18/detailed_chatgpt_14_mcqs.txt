@@ -1,0 +1,5 @@
+During Basic Oxygen Furnace (BOF) steel-making, slag is used to remove impurities from the molten metal, which improves the quality of the steel. However, the slag itself can also suffer from refractory loss, where it starts to corrode and break down due to exposure to the high-temperature environment. To minimize this loss, the slag can be supersaturated with certain compounds that are less likely to react with the refractory lining of the furnace. 
+
+Out of the options given, the most commonly used compound to supersaturate the slag in BOF steel-making is MgO (Option D). This is because MgO has a high melting point and is relatively stable at the high temperatures inside the furnace, which makes it less likely to react with the refractory lining and cause corrosion. In addition, MgO helps to neutralize acidic oxides in the slag, which improves the efficiency of the refining process.
+
+Therefore, the correct answer is (D) MgO.

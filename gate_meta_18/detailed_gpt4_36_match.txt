@@ -1,0 +1,11 @@
+Let's match each manufacturing process in Group 1 with the types of cracks in Group 2:
+
+P. Arc welding: This process involves using an electrical current to heat and bond metals together. During the welding process, impurities such as oxides, nitrides, and sulfides can cause cracks in the weld as the molten metal solidifies. The most common type of crack associated with arc welding is the liquation crack (4). Therefore, P matches with 4.
+
+Q. Extrusion: This manufacturing process involves forcing material through a die, forming the material into a specific shape. One common problem in extrusion is the formation of surface cracks (3), which can occur when the extruded material is subjected to tensile stresses, leading to localized separations. So, Q matches with 3.
+
+R. Drawing: This manufacturing process involves pulling a solid material like wire, rod, or tube through a constricting die to reduce its size. During the drawing process, one common type of crack formation is edge cracks (1), which are longitudinal cracks that occur near the edges of the drawn material due to tensile stresses. So, R matches with 1.
+
+S. Rolling: This manufacturing process involves passing a material between two or more rotating rolls to reduce its thickness. Chevron cracks (2) are commonly associated with the rolling process, which are V-shaped cracks that form on the rolled material surface as a result of high compressive stress. So, S matches with 2.
+
+Hence, the correct answer is: [P-4, Q-3, R-1, S-2] which corresponds to option (C).

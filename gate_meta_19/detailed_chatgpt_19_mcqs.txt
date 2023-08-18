@@ -1,0 +1,19 @@
+We know that the Griffith theory of brittle fracture states that the critical stress required for the propagation of a crack is given by:
+
+$\sigma _c = \frac{E}{\sqrt{2\pi a}}$
+
+Where $\sigma_c$ is the critical stress for propagation of the crack, $E$ is the modulus of elasticity, and $a$ is the length of the crack.
+
+Taking the ratio of the two critical stresses, we get:
+
+$\frac{\sigma_1}{\sigma_2} = \frac{E}{\sqrt{2\pi c_1}}\cdot\frac{\sqrt{2\pi c_2}}{E}$
+
+Simplifying, we get:
+
+$\frac{\sigma_1}{\sigma_2} = \sqrt{\frac{c_2}{c_1}}$
+
+Substituting the given values, we get:
+
+$\frac{\sigma_1}{\sigma_2} = \sqrt{\frac{2\text{ mm}}{0.5\text{ mm}}} = \sqrt{4} = 2$
+
+Therefore, the ratio of the fracture strength of the two samples is 2, and the answer is (C) 2.0.

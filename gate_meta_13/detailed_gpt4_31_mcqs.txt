@@ -1,0 +1,36 @@
+Let's break this problem down step by step. We need to find the combined probability of the following two events:
+
+1) Selecting a gearwheel below the tolerance.
+2) After the first selection, selecting a gearwheel above the tolerance.
+
+Step 1: Probability of selecting a gearwheel below the tolerance.
+There are 21 gearwheels below the tolerance out of a total of 150. The probability of selecting one of these gearwheels in the first draw is:
+
+P(Below) = (Number of gearwheels below tolerance) / (Total number of gearwheels)
+P(Below) = 21 / 150
+
+Step 2: Probability of selecting a gearwheel above the tolerance AFTER selecting one below the tolerance.
+After selecting one gearwheel below the tolerance, we now have 149 gearwheels left in the box. The number of gearwheels above tolerance can be found by subtracting the number of gearwheels within tolerance and below tolerance from the total:
+
+Number of gearwheels above tolerance: 150 - 112 - 21 = 17
+
+So the probability of selecting a gearwheel above the tolerance on the second draw is:
+
+P(Above|Below) = (Number of gearwheels above tolerance) / (Total number of gearwheels left)
+P(Above|Below) = 17 / 149
+
+Step 3: Combined probability of selecting a gearwheel below the tolerance and then one above the tolerance.
+To find the combined probability of both events, we simply multiply the probabilities from steps 1 and 2:
+
+P(Both) = P(Below) x P(Above|Below)
+P(Both) = (21 / 150) x (17 / 149)
+
+Now we calculate the result:
+
+P(Both) = (21/150 * 17/149) = 357/22350 ≈ 0.01598
+
+Rounding the probability to 3 decimal places, we get 0.016.
+
+So the correct answer is (A) 0.016.
+
+Answer: [0.016]

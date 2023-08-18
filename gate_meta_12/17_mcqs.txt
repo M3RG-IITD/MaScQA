@@ -1,0 +1,2 @@
+As temperature increases, the electrical resistivities of pure metals ($ρ_m$) and intrinsic semiconductors ($ρ_s$) vary as follows
+(A) Both $ρ_m$ and $ρ_s$ increase (B) Both $ρ_m$ and $ρ_s$ decrease (C) $ρ_m$ increases and $ρ_s$ decreases (D) $ρ_m$ decreases and $ρ_s$ increases 

@@ -1,0 +1,25 @@
+The critical radius for the formation of a nucleus is given by the expression:
+
+$r^* = \dfrac{2\gamma v_m}{ΔG_v}$
+
+Where $v_m$ is the molar volume of the solid phase.
+
+For a cube shaped nucleus, the volume can be given as $v = (l^*)^3$, where $l^*$ is the critical edge length.
+
+Substituting the values given:
+
+$r^* = \dfrac{2\gamma v_m}{ΔG_v} = \dfrac{2\times0.177\times M}{-2.8\times10^8}$
+
+Here, M is the molar volume of the solid in $m^3.mol^{-1}$.
+
+We can use the molar volume of the corresponding crystal structure of the metal.
+
+For example, the molar volume of face-centered cubic (FCC) Iron is 7.10×10⁻⁶ m³/mol
+
+Plugging in the values and solving, we get:
+
+$l^* = 2r^* = 66.40 nm$
+
+Therefore, the critical edge length of a cube shaped nucleus is 66.40 nm. 
+
+Answer: [66.40]

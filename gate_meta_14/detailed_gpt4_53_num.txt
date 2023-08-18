@@ -1,0 +1,38 @@
+To find the change in enthalpy of pure iron when heated from 25°C to 700°C, we need to first convert these temperatures to Kelvin. 
+
+Temperature in Kelvin (K) = Temperature in Celsius (°C) + 273.15
+
+T1 = 25°C = 25 + 273.15 = 298.15 K
+T2 = 700°C = 700 + 273.15 = 973.15 K
+
+Now, we have the specific heat capacity (Cp) of iron as a function of temperature T (in K):
+
+Cp = 17.49 + 24.77 × 10^(-3) T
+
+The change in enthalpy (ΔH) can be calculated by integrating the specific heat capacity (Cp) with respect to temperature (dT) from T1 to T2:
+
+ΔH = ∫(Cp dT) from T1 to T2
+
+ΔH = ∫(17.49 + 24.77 × 10^(-3) T) dT from 298.15 K to 973.15 K
+
+Now, we will integrate the function with respect to T:
+
+ΔH = [17.49T + (12.385 × 10^(-3)) T^2] evaluated from 298.15 K to 973.15 K
+
+Next, we will substitute the limits of the integral:
+
+ΔH = (17.49 × 973.15 + (12.385 × 10^(-3)) × (973.15)^2) - (17.49 × 298.15 + (12.385 × 10^(-3)) × (298.15)^2)
+
+Now we can plug in the values and compute the result:
+
+ΔH = (17.49 × 973.15 + (12.385 × 10^(-3)) × (973.15)^2) - (17.49 × 298.15 + (12.385 × 10^(-3)) × (298.15)^2)
+ΔH = (17018.4505 + 11672136.366775) - (5209.8435 + 1103244.704925)
+ΔH = 11689154.817275 - 1106454.548425
+
+Finally, we find the change in enthalpy ΔH:
+
+ΔH = 10582700.26885 J/mol
+
+So, the change in the enthalpy of pure iron when it is heated from 25°C to 700°C is approximately 10582700.27 J/mol.
+
+The answer is [10582700.27].

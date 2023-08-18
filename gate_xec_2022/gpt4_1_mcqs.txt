@@ -1,0 +1,20 @@
+For a body-centered cubic crystal, there are two atoms contributed by each corner along the (110) plane, and one atom in the center of the unit cell. Each corner atom contributes only 1/4 of itself to the lattice, while the center atom contributes entirely to the lattice. Thus, the effective number of atoms in the (110) plane is:
+
+(2 * 1/4) + 1 = 1/2 + 1 = 3/2
+
+The area of the (110) plane can be calculated using the side length (a) of the cubic unit cell.
+
+For (110) plane, we have
+Area = a * a/√2 = a^2/√2
+
+So, the number of atoms per unit area is:
+
+(3/2) * (1 / (a^2/√2)) 
+
+This simplifies to:
+
+(3/2) * (√2 / a^2) = (3√2) / (2a^2)
+
+Comparing this expression to the given options, there is no exact match. So, none of the given options are correct. However, the closest option is (B) √2/$a^2$. 
+
+Therefore, the answer is: [None]

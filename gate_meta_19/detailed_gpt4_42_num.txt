@@ -1,0 +1,42 @@
+Given information:
+Total pressure (P) = 1 atm.
+Temperature (T) = 1173 K
+Concentration of oxygen at the surface (Cs) = 0
+Boundary layer mass transfer coefficient (k) = 0.03 m/s
+Universal gas constant (R) = 8.205 x 10^(-5) m³ atm/mol K
+Diameter of the sphere (d) = 50 mm = 0.05 m
+Volume fraction of oxygen (XO2) = 0.4
+Volume fraction of argon (XAr) = 0.6
+
+To find the rate of oxidation, we first need to find the partial pressure of oxygen in the boundary layer (P_O2).
+
+P_O2 = Total pressure * Volume fraction of oxygen
+P_O2 = 1 atm * 0.4
+P_O2 = 0.4 atm
+
+Now let's find the concentration of oxygen in the bulk fluid (C∞). We can use the ideal gas law to do this:
+
+C∞ = P_O2/(R * T)
+
+Substitute the given values:
+
+C∞ = 0.4 atm/(8.205 x 10^(-5) m³ atm/mol K * 1173 K)
+C∞ = 43704.175 mol/m³
+
+Now we need to find the rate of oxidation of nickel (r), which is controlled by the rate of transport of oxygen through the concentration boundary layer. We can use the following equation:
+
+r = 4 * π * (d/2)² * k * (C∞ - Cs)
+
+Since the concentration of oxygen at the surface Cs = 0, the equation simplifies to:
+
+r = 4 * π * (d/2)² * k * C∞
+
+Substitute the given values:
+
+r = 4 * π * (0.05/2)² * 0.03 m/s * 43704.175 mol/m³
+r = 4 * π * 0.025^2 * 0.03 * 43704.175
+r ≈ 0.225 mol/min (rounded to two decimal places)
+
+So, the rate of oxidation of nickel is approximately 0.225 mol/min.
+
+Answer: [0.225]

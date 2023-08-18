@@ -1,0 +1,11 @@
+The most suitable non-destructive technique for detecting and quantifying the presence of scale on the inner surface of an oil pipeline made of steel is Ultrasonic inspection. Here's why:
+
+(A) Dye penetrant test: This technique is used to detect surface-breaking defects and is not suitable for detecting defects that are present beneath the surface.
+
+(B) Magnetic particle inspection: This technique is used to detect surface and slightly subsurface defects such as cracks and discontinuities on magnetic materials. However, it may not be suitable for detecting non-magnetic defects such as scale.
+
+(C) Ultrasonic inspection: This technique involves the use of high-frequency sound waves to detect and measure the depth of defects such as corrosion, erosion, and cracking in metal structures, including pipes. In ultrasonic testing, a probe is placed on the surface of the material being tested, and sound waves are introduced into the material through the probe. As the sound waves travel through the material, they are reflected back by any defects they encounter, such as scale. The reflected sound waves are then detected and analyzed to determine the size, shape, and location of the defect.
+
+(D) Acoustic emission: This technique involves the detection of high-frequency sounds emitted by a material when it undergoes stress or deformation. Although it can be used to detect defects in metals, it may not be as effective as ultrasonic testing when it comes to detecting and quantifying scale on the inner surface of an oil pipeline.
+
+Therefore, the correct answer is (C) Ultrasonic inspection.

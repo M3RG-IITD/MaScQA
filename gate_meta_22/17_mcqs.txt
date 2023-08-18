@@ -1,0 +1,2 @@
+Neutral point in rolling is defined as the point along the surface of contact between the roll and the sheet, where the surface velocity of the roll is
+(A) zero (B) half the velocity of the sheet (C) twice the velocity of the sheet (D) equal to the velocity of the sheet

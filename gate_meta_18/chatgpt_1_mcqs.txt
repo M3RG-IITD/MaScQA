@@ -1,0 +1,3 @@
+Option (A) is correct: $𝛿_𝑣$ < $𝛿_𝑡$. 
+
+This can be explained by the fact that the kinematic viscosity of the liquid metal is significantly lower than its thermal diffusivity. In laminar flow, the velocity boundary layer thickness is proportional to the square root of the kinematic viscosity, while the thermal boundary layer thickness is proportional to the square root of the thermal diffusivity. Since the kinematic viscosity is lower, the velocity boundary layer thickness will be smaller than the thermal boundary layer thickness. Therefore, $𝛿_𝑣$ < $𝛿_𝑡$.

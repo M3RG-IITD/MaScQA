@@ -1,0 +1,13 @@
+
+
+P. Scanning Electron Microscope (SEM) works by detecting the secondary electrons emitted from a sample when it is bombarded with an electron beam. This principle of operation matches with 4. detection of secondary electrons.
+
+Q. Transmission Electron Microscope (TEM) works by passing electrons through a sample and observing their diffraction to generate an image. This principle of operation matches with 3. diffraction of electrons.
+
+R. Scanning Tunnelling Microscope (STM) works by measuring the current that flows between a probe tip and the sample surface due to the tunneling of electrons across a potential barrier. This principle of operation matches with 2. electrons to jump across a potential barrier.
+
+S. Atomic Force Microscope (AFM) works by measuring the van der Waals forces between a sharp probe tip and the sample surface. This principle of operation matches with 1. van der Waals forces between atoms.
+
+Therefore, the correct match between the microscopes listed in Column I and their principle of operation listed in Column II is:
+
+(C) P-4, Q-3, R-2, S-1

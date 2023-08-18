@@ -1,0 +1,14 @@
+Island type of growth is a non-uniform growth mode in which thin films grow as separated islands instead of forming a continuous film. It is necessary to avoid island-type growth for a contiguous planar fashion of metallic film deposition. The optimization exercise can be in the following directions:
+
+(A) Choosing a metallic adhesion layer with very low interfacial energy with the deposited thin film can lead to poor adhesion between the layer and the film, as the low interfacial energy means that they will not have a strong connection. Thus, option A is not the right direction.
+
+(B) Choosing a metallic adhesion layer with very low interfacial energy with $SiO_2$ can result in the layer not adhering well to the substrate due to the low interfacial energy, leading to problems during deposition. Thus, option B is also not the right direction.
+
+(C) Increasing the substrate temperature and decreasing the deposition rate can help in achieving a contiguous planar film growth. Increasing the substrate temperature provides enough thermal energy so that deposited atoms have the energy to move around and find a stable position, whereas decreasing the deposition rate can be helpful in preventing island-type growth and ensuring a uniform film. Thus, option C is a good direction.
+
+(D) Using intermittent stages of deposition followed by annealing can also help in achieving a contiguous planar film growth. The intermittent deposition followed by annealing can reduce the number of nucleation sites, which can help in achieving uniform films. Thus, option D is also a good direction.
+
+Therefore, the right answer is: 
+
+- (C) Increase the substrate temperature and decrease the deposition rate
+- (D) Use intermittent stages of deposition followed by annealing.

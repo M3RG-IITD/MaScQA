@@ -1,0 +1,8 @@
+The riser is a part of the casting system that is designed to provide additional liquid metal/melt to the casting as it solidifies and shrinks. It acts as a reservoir for the molten metal to feed the casting as it solidifies and cools down. 
+
+In order to ensure proper feeding, the riser should solidify after the casting. This is essentially option (C), as the riser should only solidify once the casting has completely solidified and cooled down. This ensures that there is enough liquid metal/melt available to feed the casting and compensate for the shrinkage that occurs during solidification. 
+
+If the riser solidifies before the casting, there won't be enough metal available to feed the casting, which can lead to defects such as shrinkage porosity, voids, or cracks. Therefore, option (C) - After casting solidifies - is the correct answer here. 
+
+In summary, the correct answer is:
+- (C) After casting solidifies.

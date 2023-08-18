@@ -1,0 +1,22 @@
+To solve this question, we need to go through each crystal structure (FCC, BCC, DC) and determine their coordination numbers and packing fractions. Then we can compare the data to the options provided to find the correct answer.
+
+1. Face-centered cubic (FCC) crystal structure:
+Coordination number (CN) = 12: Each atom has 12 nearest neighbors (6 from faces and 6 from edges).
+Packing fraction (PF) = 74%: There are 4 atoms per unit cell in FCC, each occupying 1/8 volume of the cell, so the packing fraction can be calculated as follows: (4 * 1/8) * (4/3 * πr^3 / a^3) = 74%.
+
+2. Body-centered cubic (BCC) crystal structure:
+Coordination number (CN) = 8: Each atom has 8 nearest neighbors (all from vertices).
+Packing fraction (PF) = 68%: There are 2 atoms per unit cell in BCC, each occupying either corner or center, so the packing fraction can be calculated as follows: (2 * 1) * (4/3 * πr^3 / a^3) = 68%.
+
+3. Diamond cubic (DC) crystal structure:
+Coordination number (CN) = 4: Each atom has 4 nearest neighbors (all from vertices).
+Packing fraction (PF) = 34%: There are 8 atoms per unit cell in DC, each occupying 1/8 volume of the cell, so the packing fraction can be calculated as follows: (8 * 1/8) * (4/3 * πr^3 / a^3) = 34%.
+
+Now we can look for the correct options:
+
+(A) FCC - CN = 12, PF = 74% (Correct)
+(B) DC - CN = 4, PF = 34% (Correct)
+(C) FCC - CN = 12, PF = 68% (Incorrect)
+(D) BCC - CN = 8, PF = 34% (Incorrect)
+
+Therefore, the correct answer is [A, B].

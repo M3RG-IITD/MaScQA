@@ -1,0 +1,37 @@
+To determine the solid phases that can co-exist at thermodynamic equilibrium, we need to analyze the chemical reactions taking place during the roasting of a sulfide ore of a metal M.
+
+1. Formation of metal sulfide (MS):
+M + S → MS
+
+2. Formation of metal oxide (MO):
+M + 0.5O₂ → MO
+
+3. Formation of metal sulfate ($MSO_4$):
+MS + 2O₂ → $MSO_4$
+
+Now let's analyze the reactions between the possible solid phases:
+
+4. Reaction between metal sulfide (MS) and metal oxide (MO) to form metal sulfate ($MSO_4$):
+MS + 1.5O₂ → MO + $MSO_4$
+
+5. Reaction between metal (M) and metal sulfide (MS) to form metal oxide (MO):
+2M + MS → 3MO
+
+6. Reaction between metal (M) and metal oxide (MO) to form metal sulfate ($MSO_4$):
+M + MO + 2.5O₂ → 2$MSO_4$
+
+From these reactions, we can determine which solid phases can co-exist at thermodynamic equilibrium.
+
+(A) M, MS, MO, $MSO_4$:
+This combination is not possible because if all these phases co-exist, reactions 4 and 6 will occur, and solid MS will be consumed to form MO and $MSO_4$. Hence, this option is incorrect.
+
+(B) M, MO, $MSO_4$:
+In this combination, we can see that no reaction occurs between M, MO, and $MSO_4$. Thus, these phases can co-exist at thermodynamic equilibrium.
+
+(C) MS, MO, $MSO_4$:
+If MS and MO co-exist, reaction 4 will happen, leading to the consumption of MS. So, this combination is also incorrect.
+
+(D) M, $MSO_4$:
+In this combination, we can see that no reaction occurs between M and $MSO_4$. However, they cannot co-exist at thermodynamic equilibrium because the presence of O₂ and SO₂ in the roaster will also cause the formation of MS and MO, as seen in reactions 1 and 2. Hence, this option is also incorrect.
+
+Based on the analysis, the solid phases that can co-exist at thermodynamic equilibrium are M, MO, and $MSO_4$. The correct answer is (B).

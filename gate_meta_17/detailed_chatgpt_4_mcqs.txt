@@ -1,0 +1,25 @@
+We know, for isothermal process temperature remains constant. Therefore, the temperature of the system is constant for all the three isothermal curves shown in the diagram. 
+
+Also, we know that the equation for isothermal process PV = constant. 
+
+Let us consider a starting point A on the largest isothermal curve, which has the highest volume and the smallest pressure. At point A, the pressure is P3 and the volume is V3. 
+
+Next, we move from point A to point B on the same curve. At point B, the pressure is P2 and the volume is V2. 
+
+From the ideal gas equation PV=nRT, we can say that the pressure is inversely proportional to volume, that is, P1V1 = P2V2. Therefore, since P3 > P2,  V3 < V2. 
+
+Now, let's consider the second isothermal curve, which has lower volume and higher pressure than the first curve. 
+
+We start at point C on this curve, where the pressure is P2 and the volume is V2. Then we move to point D on the same curve where the pressure is P1 and the volume is V1. 
+
+Again, from the ideal gas equation PV=nRT, we can say that P2V2 = P1V1. Therefore, since P2 > P1, V2 < V1. 
+
+Lastly, we consider the smallest curve of the three, where the pressure is the highest and the volume is the least. 
+
+We start at point E on this curve, where the pressure is P1 and the volume is V1. Then we move to point F on the same curve where the pressure is P3 and the volume is V3. 
+
+Using the same equation PV=constant, we can say that P1V1 = P3V3. Therefore, since P3 > P1, V3 < V1. 
+
+Thus, we can order the temperatures of the isothermal curves as follows: T3 > T1 > T2 
+
+Therefore, the correct answer is (C) T3 > T1 > T2.

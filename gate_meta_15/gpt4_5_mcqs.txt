@@ -1,0 +1,15 @@
+The standard free energy change ∆G° is related to the standard enthalpy change ∆H° and the standard entropy change ∆S° by the following equation:
+
+∆G° = ∆H° - T∆S°
+
+Since the Ellingham diagram plots ∆G° as a function of temperature T, the slope of the line is given by the derivative of ∆G° with respect to T:
+
+d(∆G°)/dT = d(∆H° - T∆S°)/dT
+
+As the standard enthalpy change ∆H° is a constant, its derivative with respect to T is 0. So, the expression simplifies to:
+
+d(∆G°)/dT = -∆S°
+
+The slope is positive, which means -∆S° is positive, so ∆S° must be negative.
+
+The correct answer is: (B) ∆S° is negative.

@@ -1,0 +1,10 @@
+The correct match for the defects and processes is:
+
+P. Cold shut - 2. Forging
+Q. Earing - 3. Deep drawing
+R. Alligatoring - 1. Rolling
+S. Shrinkage porosity - 4. Fusion welding
+
+So, the correct answer is (C) P-2, Q-3, R-1, S-4.
+
+Answer: [(C)]

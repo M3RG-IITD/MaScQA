@@ -1,0 +1,3 @@
+When metal undergoes plastic deformation, dislocations move through the crystal lattice. At low temperatures, these dislocations get pinned at impurities or other barriers in the lattice. As the dislocations pile up against these obstacles, they create slip planes and start to form slip lines. The wavy pattern of slip lines observed in plastically deformed metal crystals at low temperature is due to dislocation pile-up.
+
+Therefore, the correct option is (A) Dislocation pile-up.

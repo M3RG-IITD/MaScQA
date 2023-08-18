@@ -1,0 +1,30 @@
+To answer this question, we first need to understand the different types of magnetism and their respective atomic dipole moment arrangements.
+
+1. Diamagnetism: Materials with diamagnetism have no net magnetic moment because their atomic dipole moments cancel each other out. In simpler terms, the magnetic fields created by the electrons in the atoms are all paired up, and therefore, there is no net magnetic field.
+
+2. Paramagnetism: In paramagnetic materials, there is a net magnetic moment due to the presence of unpaired electrons. However, these magnetic moments are randomly oriented in the absence of an external magnetic field. When an external magnetic field is applied, the atomic dipole moments align themselves in the direction of the applied field, creating a net magnetic field in the material.
+
+3. Ferromagnetism: Ferromagnetic materials have long-range magnetic ordering, meaning that the magnetic moments of adjacent atoms align parallel to one another even in the absence of an external magnetic field. This alignment results in a strong net magnetic field for the material.
+
+4. Antiferromagnetism: Antiferromagnetic materials also have long-range magnetic ordering, but adjacent atomic dipole moments align in opposite (antiparallel) directions. The net result is that the magnetic moments cancel each other out, leading to no net macroscopic magnetization in the absence of an external magnetic field.
+
+Now let's analyze the given figures (P, Q, R, and S) and identify their magnetism type:
+
+- P: This figure shows all atomic dipole moments aligned in the same direction, which indicates long-range magnetic ordering. Hence, we can conclude that P represents Ferromagnetism.
+
+- Q: This figure shows adjacent atomic dipole moments aligned in opposite directions (antiparallel), which indicates Antiferromagnetism.
+
+- R: In R, we see that the atomic dipole moments are randomly oriented, representing materials with a net magnetic moment that can be aligned under an applied external magnetic field. Hence, R represents Paramagnetism.
+
+- S: In S, the atomic dipole moments are aligned in such a way that they cancel each other out, resulting in no net magnetic field. This figure represents Diamagnetism.
+
+So, the correct mapping of the nature of magnetism to atomic dipole moments is:
+
+P - Ferromagnetism
+Q - Antiferromagnetism
+R - Paramagnetism
+S - Diamagnetism
+
+The answer is (A) P - Diamagnetism, Q - Antiferromagnetism, R - Paramagnetism, S - Ferromagnetism.
+
+Final list: [P - Ferromagnetism, Q - Antiferromagnetism, R - Paramagnetism, S - Diamagnetism]

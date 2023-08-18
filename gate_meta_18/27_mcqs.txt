@@ -1,0 +1,2 @@
+Determine the correctness (or otherwise) of the following Assertion [A] and the Reason [R] Assertion [A]: For a material exhibiting Coble creep, a reduction in grain size results in a significant increase in creep rate. Reason [R]: Grain boundaries act as a barrier to motion of dislocations
+(A) Both [A] and [R] are true and [R] is the correct reason for [A] (B) Both [A] and [R] are true, but [R] is not the correct reason for [A] (C) Both [A] and [R] are false (D) [A] is true but [R] is false

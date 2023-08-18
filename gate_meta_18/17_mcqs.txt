@@ -1,0 +1,2 @@
+Arrange the following processes in INCREASING magnitude of surface roughness of the casting. P. Investment casting Q. Permanent mould casting R. Pressure die casting S. Sand casting
+(A) R < S < Q < P (B) P < S < Q < R (C) R < P < Q < S (D) Q < P < R < S

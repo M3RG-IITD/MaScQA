@@ -1,0 +1,6 @@
+The element that stabilizes austenite is one that is a strong carbide-former. Austenite is the face-centered cubic (fcc) phase, which has a high solubility for carbon. Therefore, carbide-forming elements tend to decrease the solubility of carbon in austenite, making it unstable. Austenite stabilizers, on the other hand, reduce the tendency for carbides to form and promote the retention of austenite at high temperatures. Of the choices given, the element that acts as an austenite stabilizer is (C) Vanadium. 
+
+Here's why: 
+Vanadium has a strong affinity for carbon, but it forms stable vanadium carbides (VC) rather than iron carbides (e.g., Fe3C). As a result, vanadium has the effect of reducing the amount of free carbon available to form iron carbides, meaning that less austenite is destabilized. Additionally, vanadium has a similar atomic size to iron, making it an effective substitute in the crystal lattice. The presence of vanadium in steel promotes fine-grained structures and increases hardenability, which is an indication of its austenite-stabilizing effect. 
+
+Therefore, the correct answer is (C) Vanadium.

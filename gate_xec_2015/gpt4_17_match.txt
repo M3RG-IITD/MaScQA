@@ -1,0 +1,11 @@
+The correct match is as follows:
+
+P. Y-doped $ZrO_2$ - 4. Oxygen sensor
+Q. $UO_2$ - 5. Nuclear fuel
+R. $Si_3N_4$ - 2. Turbine engine
+S. AlN - 3. Integrated circuit substrate
+T. Cr doped $Al_2O_3$ - 1. Lasers
+
+So the correct answer is (B).
+
+Answer: [(B) P-4, Q-5, R-2, S-3, T-1]

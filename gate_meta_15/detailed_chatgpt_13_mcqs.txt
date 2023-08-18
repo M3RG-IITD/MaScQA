@@ -1,0 +1,14 @@
+The standard galvanic series lists metals and their potentials to undergo reduction reactions. The higher up a metal is on the list, the lower its tendency to undergo oxidation and the greater its tendency to undergo reduction. The lower the metal is on the list, the greater the tendency to undergo oxidation and the lower the tendency to undergo reduction. Based on this, the correct sequence of metals in the increasing order of anodic behavior would be:
+
+(A) Zn, Fe, Pt, Cu
+
+To explain this, we need to look at the positions of the metals on the galvanic series:
+
+Zn: -0.76 V
+Fe: -0.44 V
+Pt: 0.00 V
+Cu: +0.34 V
+
+The more negative the value, the greater the tendency to undergo oxidation (anodic). The more positive the value, the lower the tendency to undergo oxidation and greater the tendency to undergo reduction (cathodic).
+
+So, Zn is the most anodic (most likely to undergo oxidation) and Cu is the most cathodic (least likely to undergo oxidation). Thus, the correct sequence of metals in the increasing order of anodic behavior is (A) Zn, Fe, Pt, Cu.

@@ -1,0 +1,36 @@
+We have the data:
+Gas constant R = 8.314 J K^(-1)mol^(-1)
+Standard enthalpy change ΔH° = -61080 J
+Standard entropy change ΔS° = -132.22 J K^(-1)
+Temperature range: 298 K to 500 K
+Partial pressure of oxygen p(O₂) = 0.3 atm
+
+We can use the Van't Hoff equation to determine the equilibrium constant K at the temperature T:
+
+K = e^(-ΔH°/(RT) + ΔS°/R)
+
+Since we want to find the temperature above which Ag₂O decomposes, we need to find the temperature when the reaction is at equilibrium. At equilibrium:
+
+K = p(O₂)^(1/2)
+
+Plugging the values and solving for T:
+
+0.3^(1/2) = e^(-(-61080)/(8.314*T) - 132.22/8.314)
+sqrt(0.3) = e^(61080/(8.314*T) + 132.22/8.314)
+
+Now, take the natural logarithm of both sides:
+
+ln(sqrt(0.3)) = 61080/(8.314*T) + 132.22/8.314
+
+To isolate T, reorganize the equation:
+
+8.314*T = 61080/(ln(sqrt(0.3)) - 132.22/8.314)
+T = (61080/ln(sqrt(0.3)) - 132.22) / 8.314
+
+Evaluating gives:
+
+T ≈ 328.8 K
+
+Therefore, the temperature above which Ag₂O decomposes in an atmosphere containing oxygen at a partial pressure p(O₂) = 0.3 atm is approximately 328.8 K.
+
+Answer: [328.8].

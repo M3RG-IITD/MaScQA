@@ -1,0 +1,1 @@
+Given: 2Cu(s) + 0.5$S_2$(g) = $Cu_2$S(s), ΔG° at 973 K = -100 kJ. $SO_2$(g) = 0.5$S_2$(g) + $O_2$(g) ΔG° at 973K = 292 kJ, R = 8.314 J $mol^(-1)K^(-1)$. Assume Cu and $Cu_(2)S$ are pure solids. For the equlibrium reaciton: 2Cu(s) + $SO_2$(g) = $Cu_2$S(s) + $O_2$(g), the value of ln($P_(O_2)$/$P_(SO_2)$) at 973K is?(round off to 2 decimal places).

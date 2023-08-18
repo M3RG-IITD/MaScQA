@@ -1,0 +1,54 @@
+To find the Bragg angle for the second reflection in a FCC crystal, we will first determine the Miller indices for the first reflection and then use those indices to determine the Miller indices for the second reflection. Finally, we will use Bragg's law to calculate the Bragg angle for the second reflection.
+
+Step 1: Determine the Miller indices for the first reflection
+For a Face-Centered Cubic (FCC) structure, the first reflection occurs when the sum of the Miller indices (h, k, and l) is even. This occurs for the planes (111), (200), (220), etc. However, the first reflection will have the lowest possible diffraction angle (θ) and shortest d-spacing. Hence, the first reflection will be from the (111) planes.
+
+Step 2: Determine the Miller indices for the second reflection
+The second reflection should also have even values for the sum of the Miller indices (h, k and l), and should have a higher diffraction angle (θ) than the first reflection. The second reflection will be from the (220) planes.
+
+Step 3: Use Bragg's Law to calculate the Bragg angle for the second reflection
+
+Bragg's Law is written as:
+
+nλ = 2dsinθ
+
+Where,
+n = order of the reflection
+λ = wavelength of the X-ray
+d = distance between the reflecting planes
+θ = Bragg angle
+
+For the first reflection, we know the Bragg angle (θ₁) is 30°. The d-spacing for the (111) planes (d₁) can be related to the d-spacing for the (220) planes (d₂) as follows:
+
+d₁ = d₀√(1^2 + 1^2 + 1^2) = d₀√3
+d₂ = d₀√(2^2 + 2^2 + 0^2) = d₀√8
+
+So, d₂ = d₁ / (√8/√3) = d₁√(3/8) 
+
+Now, we can use Bragg's Law for the first reflection to determine the wavelength (λ):
+
+sin(θ₁) = (λ / (2 * d₁))
+λ = 2 * d₁ * sin(θ₁)
+
+Now we can substitute λ back into Bragg's Law for the second reflection with n = 1 (as we're considering the first order second reflection),
+
+sin(θ₂) = (λ / (2 * d₂))
+
+θ₂ = arcsin(λ / (2 * d₂))
+
+Substitute λ and d₂ from the above equations:
+
+θ₂ = arcsin(2 * d₁ * sin(θ₁) / (2 * d₁√(3/8)))
+θ₂ = arcsin( sin(30°)  / √(3/8) )
+
+θ₂ = arcsin(0.5 / √(3/8)) [since sin(30°) = 0.5]
+
+θ₂ = arcsin(√(2/3))
+
+Now, we can find the value of θ₂ in degrees (rounded to 1 decimal place):
+
+θ₂ = 54.7°
+
+Thus, the Bragg angle for the second reflection in the FCC crystal is 54.7°.
+
+Answer: [54.7]

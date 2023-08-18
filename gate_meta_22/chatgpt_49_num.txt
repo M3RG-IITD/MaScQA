@@ -1,0 +1,35 @@
+We can use the Nernst equation to relate the emf of the cell to the Gibbs energy change of the reaction. The Nernst equation is given below:
+
+$E = E^{\circ} - \frac{RT}{nF}lnQ$
+
+where $E$ is the emf of the cell, $E^{\circ}$ is the standard emf of the cell, $R$ is the gas constant, $T$ is the temperature, $n$ is the number of moles of electrons transferred in the reaction, $F$ is the Faraday constant, and $Q$ is the reaction quotient.
+
+The reaction occurring in the cell is:
+
+$2Pb_{(s)} + Cl_{2(g)} \rightarrow 2PbCl_{(l)}$
+
+The reaction quotient can be expressed in terms of the activities of the species involved:
+
+$Q = \frac{a_{PbCl_2}^2}{a_{Pb}^2a_{Cl_2}}$
+
+Substituting the values given and solving for $lnQ$, we get:
+
+$lnQ = 1.913$
+
+Substituting the values given and solving for the standard Gibbs energy change of the reaction, we get:
+
+$\Delta G^{\circ} = -nFE^{\circ} + RTlnQ$
+
+$\Delta G^{\circ} = -2\times96500\times1.2327 - (8.314\times10^{-3})(873)lnQ$
+
+$\Delta G^{\circ} = -461060 + 16.834lnQ$
+
+$\Delta G^{\circ} = -461060 + 16.834(1.913)$
+
+$\Delta G^{\circ} = -431970.5$ J.$mol^{-1}$
+
+Converting to kJ.$mol^{-1}$ and rounding off to 1 decimal place, we get:
+
+$\Delta G^{\circ} = -431.9705$ kJ.$mol^{-1}$
+
+Answer: [-431.9]

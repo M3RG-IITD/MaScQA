@@ -1,0 +1,23 @@
+To solve this problem, we need to first calculate the number of moles of sulfur and rubber. 
+
+Number of moles of sulfur = 10 g / 32 g/mol = 0.3125 mol 
+
+Number of moles of rubber = 50 g / 68 g/mol = 0.7353 mol 
+
+Since the mer to S ratio is 1:1, the maximum number of cross-linked sites that could be connected is equal to the number of moles of sulfur (0.3125 mol). 
+
+Assuming every sulfur atom connects two rubber chains, the maximum number of cross-linked sites that could be formed is: 
+
+0.3125 mol S * 2 cross-links/mol S = 0.625 cross-links 
+
+The total number of sites available for cross-linking would be: 
+
+0.7353 mol rubber * 6 sites/mer = 4.41 sites 
+
+Therefore, the maximum percentage of cross-linked sites that could be connected is: 
+
+(0.625 cross-links / 4.41 total sites) * 100% = 14.16% 
+
+Answer: 
+
+- 14.16%

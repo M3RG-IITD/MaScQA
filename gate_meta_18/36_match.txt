@@ -1,0 +1,5 @@
+Match the manufacturing processes in Group 1, with the types of cracks in Group 2:
+Group I: [P. Arc welding, Q. Extrusion, R. Drawing, S. Rolling]
+Group II: [1. Edge crack, 2. Chevron crack, 3. Surface crack, 4. Liquation crack]
+
+Options: (A) P-1, Q-2, R-3, S-4 (B) P-1, Q-3, R-4, S-2 (C) P-4, Q-3, R-2, S-1 (D) P-4, Q-2, R-1, S-3

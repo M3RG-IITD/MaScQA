@@ -1,0 +1,18 @@
+The ideal plastic work is given by:
+
+W = (π/4) * [(D^2 - d^2)/D] * L * σ
+
+Where:
+D = initial diameter = 20 mm
+d = final diameter = 16 mm
+L = length = 100 mm
+σ = flow stress = 40 MPa
+
+Substituting the given values, we get:
+
+W = (π/4) * [(20^2 - 16^2)/20] * 100 * 40
+W = 2513.3 J (to one decimal place)
+
+Therefore, the ideal plastic work involved in extruding the cylindrical billet is 2513.3 J. 
+
+Answer: [2513.3]

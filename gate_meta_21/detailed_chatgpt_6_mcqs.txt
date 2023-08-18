@@ -1,0 +1,29 @@
+The Gibbs free energy of mixing $ΔG_{mix}$ is given by the equation: $$ΔG_{mix} = RT(X_BlnX_B +X_AlnX_A +\Delta S_{mix})+ΔH_{mix}$$
+
+Here, $X_A$ is the mole fraction of component A, R is the gas constant, T is the temperature, and $\Delta S_{mix}$ is the change in entropy upon mixing.
+
+At constant temperature and pressure, the Gibbs free energy change of mixing is related to the activity coefficients of the components by the equation: $$ΔG_{mix} = RTln(γ_BX_B+γ_AX_A)$$
+
+For dilute solutions, the activity coefficient of the solvent is close to unity, so we can assume that $γ_A\approx 1$. Then, the equation reduces to: $$ΔG_{mix} = RTln(γ_BX_B + X_A)$$
+
+At equilibrium, the Gibbs free energy change of mixing is zero, so we have:
+
+$$0 = RTln(γ_BX_B + X_A)$$
+
+Solving for $X_B$: $$X_B = \frac{-X_A}{γ_B}$$
+
+Now, we have to look at the signs of $ΔH_{mix}$ and $γ_B$ to compare $a_B$ and $X_B$.
+
+Case 1: $ΔH_{mix}$ > 0 and $γ_B$ > 1
+
+In this case, the mixing process is endothermic, meaning that heat energy is absorbed from the surroundings. This lowers the tendency of B to mix with A, so the activity coefficient of B is greater than unity. As a result, $a_B$ > $X_B$.
+
+Case 2: $ΔH_{mix}$ < 0 and $γ_B$ > 1
+
+In this case, the mixing process is exothermic, meaning that heat energy is released to the surroundings. This increases the tendency of B to mix with A, so the activity coefficient of B is less than unity. As a result, $a_B$ < $X_B$.
+
+Case 3: $ΔH_{mix}$ = 0 and $γ_B$ = 1
+
+In this case, there is no energy change during mixing, and the activity coefficient of B is equal to unity. Therefore, $a_B$ = $X_B$.
+
+Thus, the correct answer is (D) If $ΔH_{mix}$ < 0, then $a_B$ < $X_B$.

@@ -1,0 +1,38 @@
+To determine the fracture stress, we can use the Griffith's criterion for brittle materials, which states:
+  
+  σ_f = √(2 * E * γ / π * a)
+  
+Where:
+
+- σ_f is the fracture stress
+- E is Young's Modulus
+- γ is the surface energy per unit area
+- a is the half of the crack length (a = L / 2)
+
+For the internal crack:
+
+- Length L = 5 μm = 5 * 10^(-6) m
+- a = L / 2 = 2.5 * 10^(-6) m
+
+For the surface crack:
+
+- Length L = 3 μm = 3 * 10^(-6) m
+- a = L / 2 = 1.5 * 10^(-6) m
+
+We'll calculate the fracture stress for both cases and choose the lower value, as it represents the weakest point.
+
+For the internal crack:
+
+σ_f(internal) = √(2 * 70 * 10^9 * 1 * 10^(-2) / (π * 2.5 * 10^(-6)))
+σ_f(internal) ≈ √(140000000 / 7.85398 * 10^(-6))
+σ_f(internal) ≈ 1,697 MPa
+
+For the surface crack:
+
+σ_f(surface) = √(2 * 70 * 10^9 * 1 * 10^(-2) / (π * 1.5 * 10^(-6)))
+σ_f(surface) ≈ √(140000000 / 4.71239 * 10^(-6))
+σ_f(surface) ≈ 2,598 MPa
+
+The fracture stress for the internal crack is lower, so the correct answer is the fracture stress for the internal crack:
+
+[1697]

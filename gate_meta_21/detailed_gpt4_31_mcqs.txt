@@ -1,0 +1,19 @@
+Let's analyze each statement one by one:
+
+(A) An oversized solute atom would preferentially migrate below the slip plane of an edge dislocation.
+
+This statement is TRUE. An oversized solute atom is larger than the host atoms in the crystal structure. When an oversized solute atom is present near an edge dislocation, it experiences a lower energy state by moving to the larger space created below the slip plane. The presence of the larger solute in this region reduces the elastic strain energy of the dislocation, which makes this configuration favorable.
+
+(B) A spherically symmetric point defect can interact with both the hydrostatic and shear stress fields of a dislocation.
+
+This statement is TRUE. A spherically symmetric point defect, such as a vacancy or an interstitial atom, can interact with both the hydrostatic (volume-changing) and shear (shape-changing) stress fields of a dislocation. The spherical symmetry of the point defect allows it to create a disturbance in both the hydrostatic and shear stress components present around the dislocation, which results in an interaction between the point defect and the dislocation.
+
+(C) A point defect can locally modify the elastic modulus and thereby can change the interaction energy.
+
+This statement is TRUE. A point defect creates a local disturbance in the crystal lattice, which affects the elastic modulus in its vicinity. A change in the elastic modulus can alter the interaction energy between the point defect and the dislocation. This change in interaction energy can have an influence on the dislocation motion, either promoting or hindering it.
+
+(D) Vacancies are attracted towards the compressive region of dislocation.
+
+This statement is FALSE. Vacancies are actually attracted towards the tensile region of the dislocation, where the lattice is under tension and the interatomic spacing is larger. A vacancy feels a lower energy state in the tensile region, as it relieves some of the tensile stress by filling the enlarged interstitial spaces. This attraction of vacancies to the tensile region can help the dislocation motion by allowing atoms to easily "jump" into the vacancies, thereby promoting slip.
+
+Therefore, the correct answer is [D].

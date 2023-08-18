@@ -1,0 +1,53 @@
+To solve this problem, we will use Fick's second law of diffusion, which describes the change in concentration over time and position:
+
+$$\frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2}$$
+
+In this specific case, we have an error function (erf) solution for the concentration profile, which is given by:
+
+$$C(x, t) = C_s + (C_o - C_s) erf \left( \frac{x}{2 \sqrt{D t}} \right)$$
+
+Where:
+- $C(x, t)$ is the carbon concentration as a function of position $x$ and time $t$
+- $C_s$ is the carbon concentration at the surface
+- $C_o$ is the initial carbon concentration
+- $D$ is the diffusion coefficient
+
+First, let's determine the diffusion coefficient at 870°C. We know that the activation energy for diffusion is 142 kJ/mol, and the pre-exponential factor, $D_o$, is 2.0 * $10^(-5) m^2/s$. We can find the diffusion coefficient, $D$, at a given temperature using the Arrhenius equation:
+
+$$D = D_o e^{-Q/RT}$$
+
+Where:
+- $R$ is the gas constant (8.314 J/mol⋅K)
+- $T$ is the absolute temperature in Kelvin (870°C = 1143K)
+
+$$D = 2.0 × 10^{-5} \text{m}^2/\text{s} \times e^{-\frac{142,000\,\text{J/mol}}{8.314\,\text{J/(mol⋅K)} × 1143\,\text{K}}} = 4.23 × 10^{-11}\,\text{m}^2/\text{s}$$
+
+Now that we have the diffusion coefficient at 870°C, we can solve for the depth $x$ at which a composition of 0.4 wt.% C is obtained after carburizing for 10 h:
+
+We have:
+
+- $C(x,10\,\text{h} = 36000\,\text{s}) = 0.4\%$
+- $C_s = 1.2\%$
+- $C_o = 0.2\%$
+
+From the given equation, we have:
+
+$$0.004 = 0.012 + (0.002 - 0.012) \text{erf} \left( \frac{x}{2 \sqrt{4.23 × 10^{-11} × 36000}} \right)$$
+
+Solving for $x$:
+
+$$\text{erf} \left(\frac{x}{2\sqrt{4.23 × 10^{-11} × 36000}} \right) = \frac{0.004 - 0.012}{0.002 - 0.012} = -0.8333$$
+
+In order to solve for $x$, we need to find the inverse error function of -0.8333, $\text{erf}^{-1}(-0.8333)$:
+
+$$\text{erf}^{-1}(-0.8333) ≈ -0.9448$$
+
+Now, we can find $x$:
+
+$$x = 2\sqrt{4.23 × 10^{-11} × 36000}\, × (-0.9448)$$
+
+$$x = 8.407 × 10^{-5}\,\text{m}$$
+
+$$x = 84.07\,\mu\text{m}$$
+
+Thus the correct answer is (B) 84 µm.

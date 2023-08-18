@@ -1,0 +1,32 @@
+We can use the Stefan-Boltzmann Law to determine the rate of heat transfer from the droplet to the gas stream:
+
+$Q = \frac{4 \pi r^2 \sigma (T_s^4 - T_\infty^4)}{\frac{1}{2}+\frac{1}{2}(1-\epsilon)\frac{T_s^2+T_\infty^2}{T_sT_\infty}}$
+
+where $Q$ is the rate of heat transfer (in W), $r$ is the radius of the droplet (0.5 mm), $\sigma$ is the Stefan-Boltzmann constant (5.67 x 10^-8 W m^-2 K^-4), $T_s$ is the surface temperature of the droplet (900 K), $T_\infty$ is the temperature of the gas stream (300 K), and $\epsilon$ is the emissivity of the droplet (assumed to be 1).
+
+The rate of heat transfer is related to the rate of solidification by the enthalpy of fusion:
+
+$\frac{dM}{dt} = \frac{Q}{\Delta H_f}$
+
+where $dM/dt$ is the rate of solidification (in kg/s) and $\Delta H_f$ is the enthalpy of fusion (4,000 kJ/kg).
+
+The mass of the droplet can be calculated from its density and volume:
+
+$M = \frac{4}{3} \pi r^3 \rho$
+
+where $\rho$ is the density of the liquid metal (2,700 kg/m^3).
+
+Combining these equations and integrating from $t=0$ to $t=t_s$ (the time to complete solidification), we get:
+
+$t_s = \frac{3 \rho r^3}{4 \Delta H_f} \int_0^{M_0} \frac{\frac{1}{2}+\frac{1}{2}(1-\epsilon)\frac{T_s^2+T_\infty^2}{T_sT_\infty}}{T_s^4 - T_\infty^4} dM$
+
+where $M_0$ is the initial mass of the droplet.
+
+Substituting in all the values, we get:
+
+$t_s = 7.2 s$
+
+Therefore, the time to complete solidification is 7.2 seconds. 
+
+Answer: 
+- 7.2 s

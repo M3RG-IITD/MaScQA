@@ -1,0 +1,39 @@
+We can use Bragg's Law to solve this problem:
+
+$n\lambda = 2d\sin\theta$
+
+where $n$ is the order of the peak (in this case, $n = 2$), $\lambda$ is the wavelength of the X-rays, $d$ is the interplanar spacing, and $\theta$ is the Bragg angle.
+
+To find $d$ for an FCC crystal, we can use the formula:
+
+$d = \frac{a}{\sqrt{h^2 + k^2 + l^2}}$
+
+where $a$ is the lattice parameter, and $h$, $k$, and $l$ are the Miller indices for the plane of interest. For the second peak in an FCC powder pattern, the Miller indices are (1,1,0).
+
+So, we can plug in the given values:
+
+$n = 2$
+
+$\lambda = 0.154~\text{nm}$
+
+$a = 0.36~\text{nm}$
+
+$h = 1$
+
+$k = 1$
+
+$l = 0$
+
+$d = \frac{0.36}{\sqrt{1^2 + 1^2 + 0^2}} = 0.180~\text{nm}$
+
+Now, we can rearrange Bragg's Law to solve for $\theta$:
+
+$\theta = \sin^{-1}\left(\frac{n\lambda}{2d}\right)$
+
+Plugging in the values we've found:
+
+$\theta = \sin^{-1}\left(\frac{2(0.154~\text{nm})}{2(0.180~\text{nm})}\right) = 32.63^\circ$
+
+So the answer is:
+
+- 32.63

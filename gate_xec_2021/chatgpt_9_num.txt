@@ -1,0 +1,55 @@
+Given: 
+
+Mass of magnet, m = 50 g 
+
+Magnetic moment, M = $4.2 × 10^{−7} Am^2$ 
+
+Density of magnet, $\rho$ = $7.2 g cm^{−3}$ 
+
+Intensity of magnetization, I = ? 
+
+We know that, 
+
+Intensity of magnetization (I) = $\frac{M}{\rho V}$ 
+
+where V is the volume of the magnet. 
+
+But we also know that, 
+
+Magnetic moment (M) = $\frac{IA}{l}$ 
+
+where A is the area of cross section of the magnet and l is the length of the magnet. 
+
+We can rewrite this equation as, 
+
+$I = \frac{Ml}{\rho V A}$ 
+
+But we know that, 
+
+Density = $\frac{mass}{volume}$ 
+
+or, 
+
+Volume = $\frac{mass}{density}$ 
+
+Substituting the values of M, m, $\rho$, and volume in the above equation, we get: 
+
+$I = \frac{Ml}{\rho (\frac{m}{\rho}) A}$ 
+
+Simplifying, 
+
+$I = \frac{M}{m A}$ 
+
+Substituting the given values, 
+
+$I = \frac{4.2 × 10^{−7} Am^2}{50g \frac{1}{10000} m^2}$ 
+
+$I = 8.4 × 10^{−4} Am^{−1}$ 
+
+Rounding off to 3 decimal places, 
+
+$I$ = 0.0008 $Am^{−1}$ 
+
+Answer: 
+
+The intensity of magnetization is 0.0008 $Am^{−1}$.

@@ -1,0 +1,22 @@
+We can use Bragg's law to determine the Bragg angle:
+nλ = 2d sin(θ)
+where n is the order of reflection (n=4 in this case), λ is the wavelength of the X-ray, d is the interatomic spacing or the lattice spacing, and θ is the Bragg angle.
+
+For an FCC lattice, we know that the (hkl) planes are (111), (200), (220), (311), (222), etc. The fourth reflection can correspond to either the (222) or the (400) plane. Let's calculate the interatomic spacing for both cases:
+For the (222) plane:
+d = a / sqrt(h^2 + k^2 +l^2) = 3.5 Å / sqrt(2 + 2 + 2) = 1.616 Å
+For the (400) plane:
+d = a / sqrt(h^2 + k^2 +l^2) = 3.5 Å / sqrt(4 + 0 + 0) = 1.75 Å
+
+Now we can plug in the values in Bragg's law for both cases:
+For the (222) plane:
+4(1.54056 Å) = 2(1.616 Å) sin(θ)
+sin(θ) = 0.9657
+θ = 76.99°
+
+For the (400) plane:
+4(1.54056 Å) = 2(1.75 Å) sin(θ)
+sin(θ) = 1.1073
+This value is greater than 1, which is not possible. Therefore, the (400) reflection is not possible.
+
+Therefore, the correct answer is (B) 76.99° for the (222) reflection.

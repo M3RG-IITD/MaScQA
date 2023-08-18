@@ -1,0 +1,27 @@
+In order to determine the correct standard free energy change versus temperature plot, let's first examine the thermodynamic properties of the given oxidation reaction.
+
+A(s) + O2(g) = AO2(s)
+
+We know that the standard free energy change (ΔG°) is related to the equilibrium constant (K) and standard entropy change (ΔS°) as follows:
+
+ΔG° = -RT ln(K)
+
+where R is the gas constant, T is the temperature and ΔG° is the standard free energy change. Furthermore, we know from the equation:
+
+ΔG° = ΔH° - TΔS°,
+
+where ΔH° is the standard enthalpy change and T is the temperature. As the temperature increases, the equilibrium shifts in such a way that TΔS° increases to balance the temperature effect on ΔG°. Since T₁ < T₂, the reaction is favored at lower temperatures (i.e., T < T₁) and becomes more spontaneous.
+
+Now, let's examine each of the given schematic plots (A), (B), (C), and (D) to determine the correct one.
+
+(A): In this plot, ΔG° decreases as the temperature increases which suggests that the reaction becomes less spontaneous at higher temperatures. This contradicts our previous finding so option (A) cannot be the correct answer.
+
+(B): In this plot, ΔG° increases as the temperature increases which suggests that the reaction becomes more spontaneous at higher temperatures. This contradicts our previous finding so option (B) cannot be the correct answer.
+
+(C): In this plot, ΔG° remains the same for all temperatures which suggests that the reaction is not affected by temperature changes. This contradicts our previous finding so option (C) cannot be the correct answer.
+
+(D): In this plot, ΔG° initially decreases as the temperature increases (T < T₁) but then starts to increase (T > T₁) which suggests that the reaction is initially favored at lower temperatures but becomes less spontaneous at higher temperatures beyond T₁. This agrees with our previous findings as we concluded that the reaction is favored at temperatures below T₁.
+
+Thus, the correct standard free energy change versus temperature plot is (D).
+
+Answer: [(D)]

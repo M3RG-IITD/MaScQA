@@ -1,0 +1,5 @@
+In NaCl, the substitution of a $Na^(+1)$ ion by a $Ca^(2+)$ ion would most probably lead to
+(A) the formation of a $Na^(+1)$ vacancy
+(B) the creation of a Cl‾ interstitial
+(C) the formation of a Cl‾ vacancy
+(D) the formation of a $Na^(+1)$ and Cl‾ vacancy pair

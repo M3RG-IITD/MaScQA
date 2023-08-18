@@ -1,0 +1,37 @@
+To calculate the spacing between dislocations that form the tilt boundary, we can use the geometrical model called Read-Shockley analysis. In this model, the spacing between the dislocations (in terms of Burger's vector of the dislocations, b) can be related to the misorientation angle as follows:
+
+θ = (Gb) / (2π(1 - ν))
+
+Where:
+θ is the misorientation angle
+G is the shear modulus of the material (in this case, aluminium)
+b is the Burger's vector magnitude
+ν is the Poisson's ratio of the material
+
+We are given the misorientation angle (2°) and the lattice parameter of aluminium (0.143 nm). First, we need to convert the misorientation angle into radians:
+
+θ = 2° × (π / 180°) = 0.0349 radians
+
+The Burger's vector magnitude, b, can be calculated using the given lattice parameter:
+
+b = a / √2 = 0.143 nm / √2 = 0.101 nm
+
+For aluminium, G and ν are as follows:
+G = 25.5 x 10^9 N/m² (or Pa)
+ν = 0.33
+
+We can now plug all the values into the equation and solve for the spacing between dislocations:
+
+0.0349 = (25.5 x 10^9 Pa × 0.101 x 10^-9 m) / (2π(1 - 0.33))
+0.0349 = (25.5 x 0.101) / (2π(1 - 0.33))
+
+Solve the equation:
+
+Spacing = (2π(1 - 0.33)) / (25.5 x 0.101)
+Spacing = (2π(0.67)) / (25.5 x 0.101)
+Spacing = 4.187 / 2.5755
+Spacing ≈ 1.63 nm
+
+So, the spacing between the dislocations that form the tilt boundary in an aluminium grain with a misorientation of 2° is approximately 1.63 nm. The answer is inside the list as follows:
+
+[1.63]

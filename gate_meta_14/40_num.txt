@@ -1,0 +1,1 @@
+In a sand casting of a rectangular slab, the thickness of the solidified layer after 2 minutes is known to be 3 cm. Based on Chvorinov's rule, the solidified thickness (in cm) after 4 minutes is?

@@ -1,0 +1,35 @@
+To solve this problem, we need to understand what degrees of freedom (DoF) mean in the context of a reacting system. In chemistry, degrees of freedom refer to the number of independent variables or parameters that can be manipulated without affecting the others in the system.
+
+The given reaction can be represented as follows:
+
+M(s) + CO2(g) ↔ MO(s) + CO(g)
+
+We have 4 chemical species present in the reaction: M(s), CO2(g), MO(s), and CO(g).
+
+According to the Gibbs phase rule, the degrees of freedom for a reacting system can be calculated using the formula:
+
+DoF = C - P + 2
+
+Where, 
+C = number of components in the system
+P = number of phases in the system
+
+In this case, we have:
+
+1. Components: The given reaction has 4 distinct chemical species, so C = 4.
+
+2. Phases: There are two phases present in the system: solid (s) and gas (g). Therefore, P = 2.
+
+Now, we can apply the formula to calculate the degrees of freedom:
+
+DoF = C - P + 2
+DoF = 4 - 2 + 2
+DoF = 2 + 2
+DoF = 4
+
+However, we must account for the constraint provided by the balanced chemical equation. Since the equation is balanced, only one independent reaction can occur. Therefore, we need to subtract 1 from our calculated value of DoF:
+
+Adjusted DoF = 4 - 1
+Adjusted DoF = 3
+
+The correct answer is (D) 3.

@@ -1,0 +1,24 @@
+The first step is to determine the number of moles of Mg in the anode:
+
+1 kg Mg (1/ 24.31 kg/mol) = 0.04114 mol Mg
+
+Next, we need to determine the total charge that flows as the Mg is corroded. Each Mg atom that corrodes loses two electrons, and there are Avogadro's number of atoms in each mole of Mg:
+
+0.04114 mol Mg × 6.022 × 10²³ atoms/mol × 2 electrons/atom = 4.971 × 10²³ electrons
+
+Each electron has a charge of 1.602 × 10⁻¹⁹ Coulombs, so the total charge is:
+
+4.971 × 10²³ electrons × 1.602 × 10⁻¹⁹ C/electron = 7.974 × 10⁴ C
+
+Now we can determine the average corrosion current, which is the total charge divided by the time:
+
+Average corrosion current = Total charge / Time 
+
+We are given that the anode lasts for 60 days, which is 5,184,000 seconds:
+
+Average corrosion current = 7.974 × 10⁴ C / 5,184,000 s ≈ 15.4 mA
+
+Therefore, the average corrosion current during the 60 days is approximately 15.4 milliamperes.
+
+Answer: 
+- 15.4 mA

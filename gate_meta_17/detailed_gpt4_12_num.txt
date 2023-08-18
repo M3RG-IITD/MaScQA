@@ -1,0 +1,31 @@
+To find the mass fraction of pearlite in the given iron-carbon alloy, we can employ the lever rule. The lever rule is a simple equation used to determine the weight percent or mass fraction of each phase in a binary alloy.
+
+Let's denote the mass fraction of pearlite as W_Pearlite. Then, the mass fraction of ferrite (α-ferrite) will be given by W_Ferrite = 1 - W_Pearlite, as the sum of mass fractions of all constituent phases must be equal to 1.
+
+Using the lever rule, we can write the equation for the mass fraction of pearlite as:
+
+W_Pearlite = (C_Ferrite - C_Alloy) / (C_Ferrite - C_Pearlite)
+
+where C_Ferrite, C_Pearlite, and C_Alloy are the carbon contents in ferrite, pearlite, and the alloy, respectively.
+
+Given values:
+
+- C_Alloy = 0.35 wt.% C (Carbon content in iron-carbon alloy)
+- C_Ferrite = 0.025 wt.% C (Carbon content in ferrite)
+- C_Pearlite = 0.8 wt.% C (Eutectoid composition)
+
+Now, substitute the given values into the lever rule equation:
+
+W_Pearlite = (0.025 - 0.35) / (0.025 - 0.8)
+
+W_Pearlite = (-0.325) / (-0.775)
+
+W_Pearlite = 0.4193
+
+Converting to percentage and rounding to two decimal places, we have:
+
+W_Pearlite ≈ 41.93 %
+
+So, the mass fraction of pearlite just below the eutectoid temperature in the given iron-carbon alloy containing 0.35 wt.% C is approximately 41.93%.
+
+Answer: [41.93]

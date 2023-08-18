@@ -1,0 +1,26 @@
+To find the plane on which these two partial dislocations lie, first, we need to check if the vectors sum to the original dislocation.
+
+Original dislocation: (a/2)[1 -1 0]
+
+Partial dislocation 1: (a/6)[2 -1 1]
+Partial dislocation 2: (a/6)[1 -2 -1]
+
+We can sum the two partial dislocations:
+(a/6)[2 -1 1] + (a/6)[1 -2 -1] = (a/6)[3 -3 0] 
+
+Multiplying both sides by 2 to make the coefficients whole numbers, we get:
+(a/3)[3 -3 0] 
+
+So, the sum of the partial dislocations is equal to the original dislocation. Now, we need to find the plane on which these dislocations lie.
+
+To find the plane, we can use the fact that the dot product of a vector and its normal is zero. The dot product is defined as: A · B = A₁B₁ + A₂B₂ + A₃B₃.
+
+For each plane, we will compute the dot product of the normal of the plane with the two partial dislocations, if both result in zero, that plane is the correct plane.
+
+(A) (-1 1 1)
+(a/6)[2 -1 1] · (-1 1 1) = (a/6)(-2+1+1) = 0 (dot product with partial dislocation 1)
+(a/6)[1 -2 -1] · (-1 1 1) = (a/6)(-1+2-1) = 0 (dot product with partial dislocation 2)
+
+Since both dot products are zero, plane (A) (-1 1 1) is the plane on which the two partial dislocations lie.
+
+Therefore, the correct answer is [(-1 1 1)].

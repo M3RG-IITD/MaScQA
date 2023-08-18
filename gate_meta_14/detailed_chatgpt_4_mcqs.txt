@@ -1,0 +1,5 @@
+Dislocation density is measured in units of the number of dislocations per unit area. This means that the units for dislocation density are inverse length squared, or $m^{-2}$.
+
+Stress intensity factor is a measure of how much stress is concentrated at a crack tip in a material. It is defined as the stress near the crack tip divided by the square root of the length of the crack. The units for stress intensity factor are therefore stress over the square root of length, or $MPa.m^{1/2}$.
+
+Therefore, the correct answer is (C) $m^{-2}$ and MPa.$m^{1/2}$.

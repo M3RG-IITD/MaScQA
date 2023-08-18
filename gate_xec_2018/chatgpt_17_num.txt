@@ -1,0 +1,35 @@
+
+
+We can use Heisenberg's Uncertainty Principle to solve this problem:
+
+Δx Δp ≥ h/4π
+
+where Δx is the uncertainty in position, Δp is the uncertainty in momentum, and h is Planck's constant. We need to solve for Δx.
+
+We know the mass of the electron and its speed, so we can calculate its momentum:
+
+p = m*v
+
+where p is momentum, m is mass, and v is velocity.
+
+p = (9.1 * 10^(-31) kg)(300 m/s) = 2.73 * 10^(-23) kg m/s
+
+Now we can calculate the uncertainty in momentum:
+
+Δp = 0.01% * p = (0.01/100)(2.73 * 10^(-23) kg m/s) = 2.73 * 10^(-26) kg m/s
+
+Substituting these values into the uncertainty principle equation:
+
+Δx * (2.73 * 10^(-26) kg m/s) ≥ (6.6 * 10^(-34) J s) / (4π)
+
+Δx ≥ (6.6 * 10^(-34) J s) / (4π * 2.73 * 10^(-26) kg m/s)
+
+Δx ≥ 6.05 * 10^(-9) m
+
+Finally, we convert to millimeters:
+
+Δx = 6.05 * 10^(-6) mm
+
+Therefore, the fundamental accuracy with which the position of the electron can be determined simultaneously with the speed in the same experiment is 6.05 * 10^(-6) mm. 
+
+Answer: [6.05 * 10^(-6) mm]

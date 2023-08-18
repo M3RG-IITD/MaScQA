@@ -1,0 +1,55 @@
+The given state of plane strain is represented by the stress tensor as follows:
+
+$$\begin{bmatrix}σ_{xx} & 0 & 0\\0 & σ_{yy} & 0\\0 & 0 & 0\end{bmatrix}$$
+
+We know that for a material in a state of plane strain, the Poisson's ratio $(ν)$ is given by:
+
+$$ν=\frac{- ε_{zz}}{ε_{xx}}$$
+
+Since $ε_{zz}=0$, we can rewrite the above equation as:
+
+$$ν=\frac{0}{ε_{xx}}$$
+
+As the ratio of $ε_(zz)/ε_(xx)$ is not given in the question, we cannot determine the value of $ε_{xx}$. However, we can use the relationship between stress and strain for a material in a state of plane strain to relate $σ_(zz)$ to $σ_(xx)$.
+
+The relationship between stress and strain for a material in a state of plane strain is given by:
+
+$$ε_{xx}=\frac{1}{E}\left[σ_{xx}-ν\left(σ_{yy}+σ_{zz}\right)\right]$$
+
+where $E$ is the Young's modulus of the material.
+
+Substituting $ε_(zz)$ = 0, $σ_(xx)$ = $σ_(yy)$ and $ν$ = 0.3 in the above equation, we get:
+
+$$ε_{xx}=\frac{1}{E}\left[σ_{xx}-0.3\left(σ_{xx}\right)\right]=\frac{0.7}{E}σ_{xx}$$
+
+Multiplying both sides by $E/0.7σ_{xx}$, we get:
+
+$$\frac{ε_{xx}}{σ_{xx}}=\frac{E}{0.7σ_{xx}}$$
+
+Since the left-hand side of the above equation represents the strain in the $x$-direction due to the stress in the $x$-direction (i.e., the axial strain), it is equal to the axial tensile strain $(ε_a)$ in the $x$-direction. Therefore, we can rewrite the above equation as:
+
+$$ε_a=\frac{E}{0.7σ_{xx}}σ_{xx}$$
+
+Simplifying, we get:
+
+$$ε_a=\frac{10}{7} \frac{σ_{xx}}{E}$$
+
+Now, we can use the relationship between stress and strain in the $zz$-direction, which is given by:
+
+$$ε_{zz}=\frac{1}{E}\left[σ_{zz}-ν\left(σ_{xx}+σ_{yy}\right)\right]$$
+
+Substituting $ε_(zz)$ = 0, $σ_(xx)$ = $σ_(yy)$ and $ν$ = 0.3 in the above equation, we get:
+
+$$0=σ_{zz}-0.3(2σ_{xx})$$
+
+Simplifying, we get:
+
+$$σ_{zz}=0.6σ_{xx}$$
+
+Therefore, the ratio of $σ_(zz)/σ_(xx)$ is:
+
+$$\frac{σ_{zz}}{σ_{xx}}=\frac{0.6σ_{xx}}{σ_{xx}}=0.6$$
+
+Hence, the required ratio is 0.6. 
+
+Answer: [0.6]

@@ -1,0 +1,1 @@
+A ceramic material with a critical flaw size of 30 μm has fracture stress of 300 MPa. For the same material the fracture stress(in Mpa) for a critical flaw size of 90 μm will be?

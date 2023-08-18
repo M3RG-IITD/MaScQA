@@ -1,0 +1,24 @@
+To find the probability that x takes a value between 1 and √5, we need to integrate the probability density function f(x) between these limits. However, note that f(x) is not defined for x less than 1 or greater than 3, so we need to split the integral into two parts: one from 1 to √5 and another from √5 to 3.
+
+The probability of interest is therefore given by:
+
+P(1 ≤ x ≤ √5) = ∫₁^√5 f(x) dx + ∫_√5³ f(x) dx
+
+where the integral sign represents integration and the limits of integration are shown as subscripts. Substituting the given function, we get:
+
+P(1 ≤ x ≤ √5) = ∫₁^√5 0.25x dx + ∫_√5³ 0 dx
+
+The first integral can be evaluated as follows:
+
+∫₁^√5 0.25x dx = 0.25 [x²/2]₁^√5
+= 0.25 [(√5)²/2 - 1²/2]
+= 0.25 (5/2 - 1/2)
+= 0.5
+
+The second integral is simply zero, since the function is zero for x outside the interval [1,3].
+
+Therefore, the probability that x takes a value between 1 and √5 is:
+
+P(1 ≤ x ≤ √5) = 0.5 + 0 = 0.5
+
+Answer: [0.5]

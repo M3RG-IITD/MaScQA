@@ -1,0 +1,15 @@
+To solve this question, we need to use a technique known as the lever rule in the context of the phase diagram. Assuming you have a binary phase diagram on hand (since you've mentioned that it is shown in the image), follow these detailed steps:
+
+1. Identify the eutectic point: The eutectic point is a specific composition on the phase diagram where the liquid phase transforms into two solid phases upon cooling. It is usually denoted by the lowest point of the liquidus line in the binary phase diagram. Locate this point and determine the wt%. B at the eutectic point.
+
+2. Identify the pro-eutectic α-phase region: The pro-eutectic α-phase region is the region within the phase diagram where the primary α-phase starts to form during cooling before reaching the eutectic temperature. Locate this region in the phase diagram.
+
+3. Locate the point representing the alloy composition: Since the fraction of the pro-eutectic α-phase present is 0.50 (i.e., 50%), this implies that the starting alloy composition must lie at the point halfway between the eutectic point and the primary α-phase boundary in the pro-eutectic α-phase region.
+
+Draw a horizontal line at the 50% mark between the eutectic point and the primary α-phase boundary. Find the intersection point of this line with the liquidus line (there may be some approximations involved here).
+
+4. Determine the alloy composition: With the intersection point of the 50% line and the liquidus line, determine the corresponding wt%. B value for this point. This is the alloy composition you're looking for.
+
+Now, write the correct answer inside a list:
+
+[wt%. B of the alloy composition]

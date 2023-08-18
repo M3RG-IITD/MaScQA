@@ -1,0 +1,8 @@
+(P) Dye penetrant test - Capillary action
+(Q) Radiography - X-ray absorption
+(R) Eddy current test - Electromagnetic induction
+(S) Ultrasonic inspection - Elastic waves reflection
+
+Therefore, the answer is:
+
+(C) P-2, Q-1, R-4, S-3

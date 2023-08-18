@@ -1,0 +1,5 @@
+The formula $2CaO.SiO_2$ can be rewritten as $Ca_2SiO_4$. The most abundant anion in this melt will be the one that includes all oxygens and silicons from the formula.
+
+The correct answer is (A) $(SiO_4)^{-4}$ since it has one silicon atom and four oxygen atoms, which matches the oxygens and silicons available in $Ca_2SiO_4$.
+
+Answer: [A]

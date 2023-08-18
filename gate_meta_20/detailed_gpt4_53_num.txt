@@ -1,0 +1,49 @@
+To find out the time required to fill the mold, first, we need to determine the velocity of the liquid metal when it enters the mold cavity. Then, using the formula for volumetric flow rate, we can find the time needed to fill the mold by dividing the volume of the mold cavity by the flow rate.
+
+Step 1: Calculate the velocity of the liquid metal when it enters the mold cavity (using equations of motion).
+
+Let's use the following equation for motion with constant acceleration to find the final velocity of the liquid metal (v) as it freely falls from the given height:
+
+v^2 = u^2 + 2as
+
+where
+u = initial velocity (0 m/s, since it falls under gravity)
+v = final velocity (we need to find this)
+a = acceleration due to gravity (9.8 m/s^2)
+s = height (0.5 m)
+
+v^2 = 0^2 + 2 * 9.8 * 0.5
+v^2 = 9.8
+v = √(9.8)
+v ≈ 3.13 m/s
+
+Step 2: Calculate the volumetric flow rate (Q) of the liquid metal
+
+The volumetric flow rate can be calculated using the formula:
+
+Q = A * v
+
+where:
+A = cross-sectional area of the gate (0.2 m^2)
+v = velocity of the liquid metal (3.13 m/s)
+
+Q = 0.2 * 3.13
+Q = 0.626 m^3/s
+
+Step 3: Calculate the time required to fill the mold
+
+Now, we can calculate the time by dividing the volume of the mold cavity (V) by the volumetric flow rate (Q):
+
+t = V / Q
+
+where:
+t = time (in seconds)
+V = volume of the mold cavity (10 m^3)
+Q = volumetric flow rate (0.626 m^3/s)
+
+t = 10 / 0.626
+t ≈ 15.97 seconds
+
+Rounded off to the nearest integer, the time required to fill the mold is approximately 16 seconds.
+
+So, the answer is [16].

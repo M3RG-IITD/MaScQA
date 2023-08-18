@@ -1,0 +1,17 @@
+Let's analyze each technique to determine which one does NOT require quenching to obtain final case hardness.
+
+(A) Flame hardening
+Flame hardening is a surface-hardening process in which a thin layer of a workpiece surface is heated rapidly by an intense, high-temperature flame to a temperature above its critical range. Once the surface layer is at the desired temperature, it is quickly quenched to harden it. Thus, flame hardening requires quenching.
+
+(B) Induction hardening
+Induction hardening is a heat treating process in which an electrical current induces an eddy current on the surface of a workpiece, resulting in localized heating. Once the surface layer reaches the needed temperature, it is rapidly quenched to achieve the desired hardness. Induction hardening also requires quenching.
+
+(C) Nitriding
+Nitriding is a surface-hardening process in which a ferrous material is heated in a gas atmosphere containing nitrogen. The nitrogen is absorbed by the metal, forming nitrides of the metallic constituents (like iron and other alloying elements) in the surface layer. Nitriding occurs at relatively lower temperatures (below the steel's critical temperature), and the treated component cools in the atmosphere without the need for quenching. Therefore, nitriding does NOT require quenching.
+
+(D) Carburizing
+Carburizing is a surface modification method in which carbon is introduced into the surface layer of a steel alloy at an elevated temperature. The component is then quenched to obtain a hardened case on the outer layer. So, carburizing requires quenching.
+
+The correct answer is (C) Nitriding, as it does not require quenching to obtain final case hardness.
+
+Answer: [(C) Nitriding]

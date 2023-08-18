@@ -1,0 +1,15 @@
+The process performed for inclusion modification in ladle metallurgy of steelmaking is Calcium wire injection. 
+
+Here's a detailed explanation:
+
+In order to improve the quality of the steel produced in a steelmaking process, various modifications are performed in the ladle before casting. One of such modifications is the inclusion modification which aims to reduce the number and size of non-metallic inclusions present in the steel.
+
+Calcium wire injection is the process used for inclusion modification in ladle metallurgy of steelmaking. In this process, a wire made of pure calcium or a calcium alloy is injected into the molten steel in the ladle. The high temperature of the molten steel causes the calcium to react with the non-metallic inclusions present in the steel, forming calcium oxide and calcium sulfide, which are more easily removed from the molten steel.
+
+The calcium wire is typically injected through a submerged entry nozzle (SEN) which is situated at the bottom of the ladle. The wire is fed into the SEN using a wire feeding machine and the injection rate is controlled to ensure that the appropriate amount of calcium is added to the ladle.
+
+Aluminum wire injection is sometimes used in steelmaking for deoxidation of the molten steel, while oxygen top blowing and oxygen bottom blowing are used for refining the steel.
+
+In summary, the correct answer is:
+
+(B) Calcium wire injection

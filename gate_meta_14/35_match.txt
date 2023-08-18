@@ -1,0 +1,5 @@
+Match the alloy names listed in Group I with the main elements present in them listed in Group II.
+Group I: [P. Babbit, Q. Muntz metal, R. Invar, S. Inconel]
+Group II: [1. Fe-Ni, 2. Ni-Cr-Fe, 3. Cu-Zn, 4. Sn-Sb-Cu]
+
+Options: (A) P-3, Q-1, R-4, S-2 (B) P-3, Q-4, R-1, S-2 (C) P-4, Q-1, R-2, S-3 (D) P-4, Q-3, R-1, S-2

@@ -1,0 +1,31 @@
+To calculate the angle between two directions in the cubic system, we can use the dot product formula:
+
+cos(theta) = (a1b1 + a2b2 + a3b3) / (|a| |b|)
+
+where a and b are the direction indices in the form [a1, a2, a3] and [b1, b2, b3] respectively, and |a| and |b| are their magnitudes. 
+
+Let's use the given directions [110] and [111] for a and b:
+
+a = [1, 1, 0]
+b = [1, 1, 1]
+
+We compute the magnitudes of a and b:
+
+|a| = sqrt(1² + 1² + 0²) = sqrt(2)
+|b| = sqrt(1² + 1² + 1²) = sqrt(3)
+
+Now compute the dot product:
+
+a1b1 + a2b2 + a3b3 = 1*1 + 1*1 + 0*1 = 2
+
+Then, calculate the cosine of the angle:
+
+cos(theta) = 2 / (sqrt(2) * sqrt(3))
+
+And finally, compute the angle in degrees:
+
+theta = arccos(2 / (sqrt(2) * sqrt(3))) = 54.7356 degrees
+
+So the angle between the [110] and [111] directions in the cubic system is approximately 54.7356 degrees. We will write the answer inside a list:
+
+[54.7356]

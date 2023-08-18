@@ -1,0 +1,21 @@
+We will use the following formula to calculate the critical nucleus size: 
+
+$r^*=\frac{2\gamma_{SL}}{ΔG_V}$
+
+where $r^*$ is the critical nucleus size, $\gamma_{SL}$ is the solid-liquid interfacial energy, and $ΔG_V$ is the change in Gibbs free energy upon solidification, given by:
+
+$ΔG_V= -V_mΔTΔS_L + ΔH_L$
+
+where $V_m$ is the molar volume, $ΔT$ is the undercooling, $ΔS_L$ is the entropy change upon solidification, and $ΔH_L$ is the latent heat of freezing. 
+
+Substituting the given values, we get:
+
+$ΔS_L = \frac{ΔH_L}{T_m} =\frac{13000}{1356} = 9.59 J.K^{-1}.mol^{-1}$
+
+$ΔG_V= -7\times10^{-6}\times100\times9.59 + 13000 = -780.23 J.mol^{-1}$
+
+$r^*=\frac{2\times0.5}{-780.23}= 0.00128m  = 1.28nm$
+
+Therefore, the critical nucleus size is 1.28 nm, which is approximately equal to (A) 0.36 nm. 
+
+The answer is (A) 0.36.

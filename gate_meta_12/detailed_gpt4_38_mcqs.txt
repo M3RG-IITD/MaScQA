@@ -1,0 +1,26 @@
+Let's analyze each statement individually:
+
+P: Bessemer converter can be used in copper smelting
+
+Bessemer converter is a process used for the conversion of iron into steel by removing impurities like carbon, silicon and manganese. It is not used for copper smelting. Copper smelting is typically done through processes like flash smelting, reverberatory furnace smelting, or electric furnace smelting. So, statement P is false.
+
+Q: The Mond process for nickel involves a reaction of metal with H2 gas.
+
+The Mond process is a method for refining nickel. In this process, nickel is reacted with carbon monoxide (CO) to form a gaseous compound called nickel carbonyl (Ni(CO)4), which can then be decomposed to obtain pure nickel by applying heat. The statement is incorrect because the Mond process involves a reaction with carbon monoxide, not hydrogen gas. So, statement Q is also false.
+
+R: Roasted ZnS concentrates can be smelted in a blast furnace
+
+Zinc sulfide (ZnS) concentrates are first roasted to convert them into zinc oxide (ZnO). The roasted zinc oxide is then smelted in a blast furnace with carbon or coke to produce zinc metal. So, statement R is true.
+
+S: Magnesium metal can be produced by electrolysis of sea water
+
+Sea water contains magnesium chloride (MgCl2), which can be extracted and purified. Magnesium metal can then be produced by the electrolysis of molten magnesium chloride. So, the statement S is true.
+
+Now, let's check the correct combination of the options:
+
+(A) P, R, and S - Only R and S are true, so this option is incorrect.
+(B) P, Q, and R - Only R is true, so this option is incorrect.
+(C) P and Q - Both P and Q are false, so this option is incorrect.
+(D) Q and S - Only S is true, so this option is incorrect.
+
+Therefore, none of the given options provide the correct combination of true statements. The correct combination should be R and S, but it's not provided in the options.

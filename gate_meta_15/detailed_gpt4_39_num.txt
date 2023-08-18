@@ -1,0 +1,24 @@
+We will solve this problem using the Gibbs-Helmholtz equation, which relates the change in free energy to the change in entropy and temperature.
+
+The Gibbs-Helmholtz equation is given by:
+
+$$ ∆G = -T∆S $$
+
+where:
+$∆G$ is the change in free energy
+$T$ is the absolute temperature (in Kelvin)
+$∆S$ is the change in entropy
+
+Since we know the melting point of the metal ($T_m$) and we have the free energy change for solidification at one temperature, we can first find the change in entropy during the process.
+
+At temperature $T_1$ = 1256 K, we have $∆G_1$ = -1000 J $mol^(-1)$. We can now find the change in entropy $∆S$ during the solidification process:
+
+$$ ∆S = -\dfrac{∆G_1}{T_1} = -\dfrac{-1000 Jmol^{-1}}{1256 K} = 0.796 Jmol^{-1}K^{-1} $$
+
+Now, we want to find the free energy change at temperature $T_2$ = 1200 K. Since the change in entropy remains the same during solidification, we can use the Gibbs-Helmholtz equation again to find the new free energy change $∆G_2$:
+
+$$ ∆G_2 = -T_2∆S = -1200 K \times 0.796 Jmol^{-1}K^{-1} = -955.2 Jmol^{-1} $$
+
+So the free energy change for solidification at 1200 K is -955.2 J/mol.
+
+The answer is [-955.2].

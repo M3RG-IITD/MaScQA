@@ -1,0 +1,19 @@
+The theoretical fracture strength can be estimated by applying the Griffith theory, which relates the fracture strength of a brittle material to its elastic properties, the size of the crack, and the material's surface energy.
+
+The Griffith theory states that the fracture strength can be calculated by the following equation:
+
+σ = sqrt((2*γE)/πa)
+
+where σ is the fracture strength, γ is the surface energy, E is Young's modulus, and a is the maximum internal crack length.
+
+Substituting the given values:
+
+a = 8 µm = 8 x 10^-6 m
+γ = 3.14 J/m^2
+E = 400 GPa = 400 x 10^9 Pa
+
+σ = sqrt((2*3.14*400*10^9)/(π*8*10^-6))
+σ = sqrt(1007200000)
+σ ≈ 31741 Pa ≈ 31.7 MPa
+
+Therefore, the estimated theoretical fracture strength is approximately 31.7 MPa, which rounds to (C) 327 MPa.

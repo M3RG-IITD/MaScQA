@@ -1,0 +1,23 @@
+The anodic current density ($i_a$) can be calculated using the Tafel equation:
+
+$i_a = i_0 \text{exp}(\frac{\alpha a F}{RT})$
+
+where $i_0$ is the exchange current density, $\alpha$ is the transfer coefficient, $a$ is the anodic Tafel slope, $F$ is the Faraday constant, $R$ is the gas constant, and $T$ is the temperature.
+
+The exchange current density can be calculated by the equation:
+
+$i_0 = \frac{C_{O_2} D}{\delta}$
+
+where $C_{O_2}$ is the concentration of dissolved oxygen, $D$ is the diffusion coefficient of oxygen, and $\delta$ is the diffusion layer thickness.
+
+Substituting the given values:
+
+$i_0 = \frac{(15 \text{mM})(2.42 \times 10^{-5} \text{cm}^2/\text{s})}{0.06 \text{cm}} = 6.05 \times 10^{-4} \text{A}/\text{cm}^2 $
+
+Now substituting $i_0$ and the given values in the Tafel equation:
+
+$i_a = 6.05 \times 10^{-4} \text{exp}(\frac{0.06 \text{V}}{0.0257 \text{V}}\text{log}10) = 3.759 \times 10^{-3} \text{A}/\text{cm}^2$
+
+Rounding off to three decimal places, the anodic current density at an overpotential of 120mV is 0.004 A/cm².
+
+Answer: [0.004]

@@ -1,0 +1,16 @@
+When a diffusional transformation occurs, β precipitates grow in an α matrix. Increasing degree of undercooling means that the temperature is lowered even further below the equilibrium temperature, which creates more thermodynamic driving force for transformation. Now, let's consider each statement.
+
+A) Rate of transformation first increases and then decreases
+- This statement is not correct because as the temperature decreases, the driving force for transformation increases. Therefore, the rate of transformation should increase monotonically.
+
+B) Rate of transformation first decreases and then increases
+- This statement is also not correct for the same reason as A. The rate of transformation should increase monotonically.
+
+C) Thermodynamic driving force increases monotonically
+- This statement is true. As the temperature decreases, the thermodynamic driving force for transformation increases.
+
+D) Mobility of atoms in α matrix remains unchanged
+- This statement is not correct because as the temperature decreases, the mobility of atoms in the α matrix also decreases due to reduction of thermal energy. This can affect the rate of transformation, but it does not change the fact that the rate should increase monotonically.
+
+Therefore, the correct answer is:
+- Thermodynamic driving force increases monotonically

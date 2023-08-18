@@ -1,0 +1,62 @@
+Let's start by defining some variables:
+
+1. R = 8.314 J $mol^(-1)K^(-1)$ = 8.314 x 10^(-3) kJ $mol^(-1)K^(-1)$ (Gas constant)
+2. $T_1$ = 27°C = 300 K (Initial temperature)
+3. $T_2$ = 127°C = 400 K (Final temperature)
+4. $n_1$ = Initial vacancy concentration 
+5. $n_2$ = Final vacancy concentration = 2 × $n_1$ (Given)
+6. $\Delta H_v$ = Enthalpy of vacancy formation (in kJ $mol^(-1)$)
+
+We will use the Arrhenius equation for vacancy formation at different temperatures:
+
+$$c_v = c_0 exp\bigg(\frac{-\Delta H_v}{R T}\bigg)$$
+
+Where:
+
+1. $c_v$ = Vacancy concentration 
+2. $c_0$ = Constant 
+3. $R$ = Gas constant
+4. $T$ = Temperature (in K)
+5. $\Delta H_v$ = Enthalpy of vacancy formation
+
+For the initial temperature ($T_1$):
+$$n_1 = c_0 exp\bigg(\frac{-\Delta H_v}{R T_1}\bigg)\qquad (1)$$
+
+For the final temperature ($T_2$):
+$$n_2 = c_0 exp\bigg(\frac{-\Delta H_v}{R T_2}\bigg)\qquad (2)$$
+
+Now, since the vacancy concentration doubles upon increasing the temperature, we have:
+
+$$n_2 = 2 n_1$$
+
+We can divide equation (2) by equation (1):
+
+$$\frac{n_2}{n_1} = \frac{c_0 exp\bigg(\frac{-\Delta H_v}{R T_2}\bigg)}{c_0 exp\bigg(\frac{-\Delta H_v}{R T_1}\bigg)}$$ 
+
+$$2 = \frac{exp\bigg(\frac{-\Delta H_v}{R T_2}\bigg)}{exp\bigg(\frac{-\Delta H_v}{R T_1}\bigg)}$$
+
+Taking the natural logarithm on both sides:
+
+$$ln(2) = \frac{-\Delta H_v}{R T_2} - \frac{-\Delta H_v}{R T_1}$$
+
+Solve for $\Delta H_v$:
+
+$$\Delta H_v(R T_2 - R T_1) = R T_1 T_2 ln(2)$$
+
+$$\Delta H_v = \frac{R T_1 T_2 ln(2)}{R(T_2 - T_1)}$$
+
+Plug in the values:
+
+$$\Delta H_v = \frac{8.314 × 10^{-3} × 300 × 400 × ln(2)}{8.314 × 10^{-3} × (400 - 300)}$$
+
+The terms with R cancel out:
+
+$$\Delta H_v = \frac{300 × 400 × ln(2)}{(400 - 300)}$$
+
+Calculate the value:
+
+$$\Delta H_v \approx 138.63 \, kJ \, mol^{-1}$$
+
+Therefore, the enthalpy of vacancy formation, rounded off to 2 decimal places, is approximately 138.63 kJ $mol^(-1)$.
+
+Answer: [138.63]

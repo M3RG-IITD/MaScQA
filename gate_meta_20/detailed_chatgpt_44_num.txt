@@ -1,0 +1,33 @@
+The parabolic rate law is given as:
+
+$w^2 = kt$
+
+where:
+
+$w$ = oxide thickness
+$k$ = parabolic rate constant
+$t$ = time
+
+First, we need to convert the thickness of the oxide film from micrometer $(µm)$ to centimeter $(cm)$:
+
+$1 µm = 10^{-4} cm$
+
+Therefore, the thickness of the oxide film in centimeters is:
+
+$w = 2 µm * 10^{-4} = 2 * 10^{-4} cm$
+
+Substituting the given values in the parabolic rate law, we get:
+
+$(2 * 10^{-4})^2 = 3 * 10^{-6} * t$
+
+Solving for $t$:
+
+$t = \frac{(2 * 10^{-4})^2}{3 * 10^{-6}}$
+
+$t = \frac{4 * 10^{-8}}{3 * 10^{-6}}$
+
+$t = 0.0133 s$
+
+Therefore, the time taken for the oxide film to grow to a thickness of 2 µm is 0.01 seconds (rounded off to two decimal places).
+
+Answer: [0.01]

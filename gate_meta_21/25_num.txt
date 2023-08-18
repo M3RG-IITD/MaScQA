@@ -1,0 +1,1 @@
+Given: R = 8.314 J $mol^(-1)K^(-1)$. The vacancy concentration in a crystal doubles upon increasing the temperature from 27°C to 127°C. The enthalpy (in KJ $mol^(-1)$) of vacancy formation is? (round off to 2 decimal places). 

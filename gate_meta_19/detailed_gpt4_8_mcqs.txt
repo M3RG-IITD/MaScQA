@@ -1,0 +1,49 @@
+We are given the following information:
+
+Faraday constant (F) = 96500 C/gram equivalent
+Mass transfer coefficient (k) = 10^(-4) cm/s
+Concentration of CuSO₄ solution (c) = 0.5 * 10^(-3) mol/cm³
+
+We are asked to determine the limiting current density.
+
+For the electrodeposition of copper, the half-cell reaction is as follows:
+
+Cu(2+) + 2e⁻ → Cu
+
+The stoichiometry of the reaction indicates that 1 mole of copper ions (Cu²⁺) requires 2 moles of electrons for deposition. To find the equivalent weight of Cu ²⁺, we'll first determine its molar mass. The molar mass of copper (Cu) is approximately 63.5 g/mol. To find the equivalent weight, we can use the following formula:
+
+Equivalent weight = Molar mass / n
+
+where n is the valence number which is 2 for Cu²⁺.
+
+Equivalent weight (Cu²⁺) = 63.5 g/mol / 2 = 31.75 g/mol
+
+Now, we'll use the Nernst equation to determine the limiting current density. According to this equation:
+
+i_lim = k * n * F * c
+
+where i_lim is the limiting current density, k is the mass transfer coefficient, n is the valence number, F is the Faraday constant, and c is the concentration of CuSO₄.
+
+Before plugging the values into the equation, we need to make sure that all units are consistent. The Faraday constant is given in Coulombs per gram equivalent, and the concentration is given in moles per cubic centimeter. We need to convert the concentration to gram equivalents per cubic centimeter to match the Faraday constant units.
+
+c (in g-equiv/cm³) = c (in mol/cm³) * Equivalent weight
+
+c (in g-equiv/cm³) = (0.5 * 10^(-3) mol/cm³) * (31.75 g/mol)
+
+c (in g-equiv/cm³) = 15.875 * 10^(-6) g-equiv/cm³
+
+Now, we can plug the values into the Nernst equation:
+
+i_lim = (10^(-4) cm/s) * (2) * (96500 C/g-equiv) * (15.875 * 10^(-6) g-equiv/cm³)
+
+i_lim = (2 * 10^(-4)) * 96500 * 15.875 * 10^(-6)
+
+i_lim = 0.01930 A/cm²
+
+As the problem asks for the limiting current density in mA/cm², we can convert it as follows:
+
+i_lim = 0.01930 A/cm² * (1000 mA/A)
+
+i_lim = 19.30 mA/cm²
+
+So, the limiting current density for the electrodeposition of copper is 19.30 mA/cm². The correct answer is (C) 19.30.

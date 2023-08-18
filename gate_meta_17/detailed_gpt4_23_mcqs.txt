@@ -1,0 +1,11 @@
+To solve this question, let's first understand the basic concept of rolling and friction in case of a slab. When a slab is rolled, it follows the direction of the rollers. The friction between the workpiece (slab) and the rollers is crucial in determining the motion of the slab.
+
+Let's now analyze points P and Q with respect to the workpiece.
+
+At point P (near the entrance): When the slab is entering the rolling system, it moves in the direction of rolling. According to the rolling operation, the frictional force acts in a direction that promotes this motion (i.e., the direction of the rolling). So, at point P, the frictional force is along the rolling direction.
+
+At point Q (near the exit): When the slab is exiting the rolling system, it again moves in the direction of rolling. The frictional force acts in a direction to counteract the motion of the slab (opposite to the direction of rolling). So, at point Q, the frictional force is opposite to the rolling direction.
+
+So, the correct statement is: (C) Frictional force is along rolling direction at P and opposite to rolling direction at Q. 
+
+Answer: [C]

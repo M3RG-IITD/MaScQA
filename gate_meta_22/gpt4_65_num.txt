@@ -1,0 +1,15 @@
+Let x be the composition (in mol% B) of phase α.
+
+Since the molar proportion of α to β is 2:1, the overall composition of the alloy can be represented by the following equation:
+
+2x + 90 = 3 * 70
+
+Solve for x:
+
+2x + 90 = 210
+2x = 120
+x = 60
+
+Thus, the composition of α is 60 mol% B.
+
+The answer is [60].

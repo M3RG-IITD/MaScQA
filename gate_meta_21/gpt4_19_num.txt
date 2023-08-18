@@ -1,0 +1,29 @@
+To solve this problem, we need to use the formula for the critical radius (r*) of a nucleus during homogeneous nucleation:
+
+r* = 2 * σ / (ΔGv * (Tm - T))
+
+In this equation:
+- σ is the surface energy of the nucleus,
+- ΔGv is the volume free energy change during solidification,
+- Tm is the melting temperature of the solid,
+- T is the temperature of the undercooled liquid.
+
+We are given that the surface energy of a nucleus increases by 20%, so the new surface energy σ' will be:
+
+σ' = 1.20σ
+
+Now, we need to find the new critical radius r*' using this new surface energy:
+
+r*' = 2 * σ' / (ΔGv * (Tm - T)) = 2 * (1.20 * σ) / (ΔGv * (Tm - T))
+
+Now, let's find the ratio r*' / r* to see the percentage increase in critical radius:
+
+r*' / r* = (2 * (1.20 * σ) / (ΔGv * (Tm - T))) / (2 * σ / (ΔGv * (Tm - T)))
+
+Notice that the terms 2, ΔGv, (Tm - T) cancel out:
+
+r*' / r* = 1.20 * σ / σ = 1.20
+
+So the critical radius has increased by 20%. Therefore, the answer is:
+
+[20]

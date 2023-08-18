@@ -1,0 +1,17 @@
+A good quality brazing process involves joining two metal surfaces together by melting and flowing a filler metal into the joint, without melting the base metals. The filler metal must adequately spread and wet the base metal surfaces to ensure a strong bond. The following are the properties that the molten filler alloy should have for a good quality brazing.
+
+A) Low contact angle with the base metal:
+The contact angle is the angle formed between the molten filler metal and the base metal at the joint. A low contact angle indicates that the filler metal spreads and wets the base metal surface easily, which is essential for a strong bond. Therefore, a low contact angle is a necessary property for the molten filler alloy in brazing.
+
+B) Low density:
+A low-density molten filler alloy will be more likely to flow into the joint by capillary action since it can displace air in the joint more easily. This improves the filling of the joint cavity and contributes to a stronger bond.
+
+C) High surface tension:
+High surface tension is not a desirable property for a molten filler alloy in brazing. High surface tension means that the filler metal tends to form droplets rather than spread out and wet the base metal surface. Therefore, a lower surface tension is more suitable for good quality brazing.
+
+D) High viscosity:
+High viscosity is also not a desirable property for a molten filler alloy in brazing. Viscosity is a measure of a fluid's resistance to flow. A high viscosity molten filler alloy will not flow easily into the joint, resulting in poor wetting and weak bond formation. Therefore, a lower viscosity is preferable for a molten filler alloy in brazing.
+
+Based on the above explanations, the correct answer is:
+
+[(A) low contact angle with the base metal, (B) low density]

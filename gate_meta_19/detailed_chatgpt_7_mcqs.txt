@@ -1,0 +1,15 @@
+Buckingham Π theorem states that the number of independent dimensionless variables needed to describe a phenomenon is equal to the difference between the number of variables and the number of fundamental dimensions. 
+
+In this case, we have 4 variables: d, W, µ, and ρ. These variables have 4 fundamental dimensions: length (L) for d, mass (M) for W, time (T) for µ, and mass per unit volume (M/L^3) for ρ. 
+
+Using dimensional analysis, we can find the dimensions of the terminal rise velocity: 
+U = f(d, W, µ, ρ) 
+[U] = L/T 
+
+Therefore, we have one dimension (L/T) and four variables with four dimensions. The number of dimensionless variables needed to describe the phenomenon is:
+
+Number of variables - Number of fundamental dimensions = 4 - 4 = 0 
+
+Since the result is zero, we conclude that there is only one independent dimensionless variable needed to describe the phenomenon. 
+
+Answer: (A) 1

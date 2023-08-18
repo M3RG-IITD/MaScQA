@@ -1,0 +1,44 @@
+We can use the Arrhenius equation to solve this problem. The Arrhenius equation relates the rate constant (k) of a reaction to its activation energy (Ea), temperature (T), and a constant (A) that takes into account the frequency of collisions and the orientation factor:
+
+k = A * exp(-Ea/RT)
+
+where R is the gas constant (8.314 J/mol*K, but we need to convert the activation energy to joules), and exp is the exponential function.
+
+To triple the reaction rate, we need to increase the rate constant by a factor of 3. We can write this as:
+
+k2 = 3 * k1
+
+where k1 is the rate constant at 300 K, and k2 is the rate constant at the new temperature T2.
+
+We can substitute the Arrhenius equation for k in terms of T1 and T2:
+
+A * exp(-Ea/RT1) = k1
+A * exp(-Ea/RT2) = k2 = 3 * k1
+
+Dividing the second equation by the first, and simplifying:
+
+exp(Ea/R * (1/T1 - 1/T2)) = 3
+
+Taking the natural logarithm of both sides:
+
+Ea/R * (1/T1 - 1/T2) = ln(3)
+
+Solving for T2:
+
+1/T2 = 1/T1 - (R/Ea) * ln(3)
+
+T2 = 1 / (1/T1 - (R/Ea) * ln(3))
+
+Plugging in the values given in the question:
+
+T1 = 300 K
+Ea = 8.314 kJ/mol * 1000 J/kJ = 8314 J/mol
+ln(3) = 1.10
+
+T2 = 1 / (1/300 K - (8.314 J/mol*K / 8314 J/mol) * 1.10)
+T2 = 447.5 K
+
+Therefore, the temperature of the reaction should be (B) 447.5 K to triple the reaction rate. 
+
+The correct answer is:
+(B) 447.5 K

@@ -1,0 +1,10 @@
+When a metal is quenched, it is rapidly cooled to harden it. The severity of quenching depends on the cooling rate. The faster the cooling rate, the more severe the quench. 
+
+The increasing severity of quenching for the given options can be arranged as follows: 
+
+- Oil quenching (P): relatively slow cooling rate
+- Water quenching with agitation (R): faster cooling rate than oil quenching due to agitation
+- Water quenching (Q): faster cooling rate than oil quenching
+- Brine quenching (S): fastest cooling rate among the given options
+
+Therefore, the correct order of increasing severity of quenching is (A) P<Q<R<S.

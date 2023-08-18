@@ -1,0 +1,27 @@
+We can use the square root relationship between weight gain and time to solve the problem. 
+
+Let x be the weight gain (in mg $cm^2$) after a duration of 1600s. 
+
+According to the problem, we know that: 
+
+- Weight gain is proportional to the square root of time. We can write this as:
+
+  weight gain = k * sqrt(time)
+
+  where k is the proportionality constant, which we need to determine. 
+
+- When the temperature is constant (isothermal), the rate of weight gain is constant. In other words, the proportionality constant k does not change. 
+
+Using this information, we can set up a proportion:
+
+weight gain at 400s / sqrt(400) = weight gain at 1600s / sqrt(1600)
+
+2 / 20 = x / 40
+
+Solving for x, we get:
+
+x = 4
+
+Therefore, the weight gain after a duration of 1600s is 4 mg $cm^2$. 
+
+Answer: [4]

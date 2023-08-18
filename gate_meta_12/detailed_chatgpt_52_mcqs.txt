@@ -1,0 +1,50 @@
+Given:
+ASTM grain size number = 6
+Lattice frictional stress = 100 MN/$m^2$
+Hall-Petch constant = 0.10 MN/$m^(1.5)$
+
+We know that the Hall-Petch equation is given by:
+$\sigma = \sigma_0 + k_yd^{-1/2}$ 
+where 
+$\sigma_0$ is the frictional stress when the grain size is infinite
+$k_y$ is the Hall-Petch constant
+$d$ is the grain size
+$\sigma$ is the frictional stress with the given grain size
+
+ASTM grain size numbers are defined such that $d=2^{-(n-1)/4}\mu m$
+where n is the ASTM grain size number.
+
+Putting the given values in the Hall-Petch equation, we get:
+$100 = \sigma_0 + 0.10d^{-1/2}$ 
+
+To find $\sigma_0$, we can use the fact that the frictional stress when the grain size is infinite should be equal to the lattice frictional stress. Therefore,
+$\sigma_0 = 100$ MN/$m^2$
+
+Substituting this value, we get:
+$100 = 100 + 0.10d^{-1/2}$ 
+
+Simplifying, we get:
+$0.10 = 0.10d^{-1/2}$ 
+
+Solving for $d$, we get:
+$d = (0.10/0.10)^2$ $= 1$ $µm^2$
+
+But this is the grain size in square micrometers. To get the grain size in micrometers, we need to take the square root:
+$d = 1$ $µm$
+
+Finally, we can use the equation relating ASTM grain size number and grain size in micrometers to get the ASTM grain size number:
+
+$d = 2^{-(n-1)/4}\mu m$
+
+$1 = 2^{-(n-1)/4}\mu m$
+
+Taking the logarithm (base 2) of both sides, we get:
+$0 = -(n-1)/4$ 
+
+Simplifying, we get:
+$n - 1 = 0$ 
+
+Therefore:
+$n = 1$
+
+This corresponds to ASTM grain size number 1, which is not listed in the answer choices. However, we should note that the Hall-Petch equation may not be valid for very small grain sizes (less than about 10 nm), so the answer may actually be C (4.5 µm) or D (3.5 µm) if we assume that the Hall-Petch equation is only valid in the range of grain sizes for which it has been experimentally verified.

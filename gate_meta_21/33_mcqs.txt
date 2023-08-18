@@ -1,0 +1,2 @@
+One-dimensional steady-state temperature distribution in two adjacent refractory blocks(with thermal conductivities, $k_1$ and $k_2$) of unit cross-sectional area are shown in the image. The temperature $T_1$ and thermal contact resistance of the interface, respectively are:
+(A) 200K, 0.5 K $W^(-1)$ (B) 400K, 1.0 K $W^(-1)$ (C) 200K, 0.25 K $W^(-1)$ (D) 500K, 0.5 K $W^(-1)$

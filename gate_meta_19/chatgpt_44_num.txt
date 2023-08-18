@@ -1,0 +1,27 @@
+We can use Darcy's law to relate the pressure drop to the volumetric flow rate of gas per unit area through the bed:
+
+$∆𝑃/𝑏 = (𝜇𝑢)/(𝜎(1 − 𝜀)^3𝑑^2)$
+
+where $∆𝑃/𝑏$ is the pressure drop per unit bed height, $𝜇$ is the dynamic viscosity of the gas, $𝑢$ is the superficial velocity of the gas, $𝜎$ is the permeability of the bed, $𝜀$ is the void fraction of the bed, and $𝑑$ is the diameter of the solid particles.
+
+We can solve for $𝑢$:
+
+$𝑢 = [(∆𝑃/𝑏)𝜎(1 − 𝜀)^3𝑑^2]/𝜇$
+
+Substituting the given values, we get:
+
+$𝑢 = [(300/1000)(0.8)/(1000(1 − 0.4)^3(9.8))]^{0.5}$
+
+$𝑢 ≈ 0.042 𝑚/𝑠$
+
+The volumetric flow rate of gas per unit area through the bed is given by:
+
+$𝑞𝑣 = 𝑢(1 − 𝜀)$
+
+Substituting the given values, we get:
+
+$𝑞𝑣 ≈ 0.042(1 − 0.4) ≈ 0.0252$
+
+Rounding off to the nearest integer, the answer is:
+
+[0.0252 𝑚^(3).𝑠^(−1)).𝑚^(−2)] = **0** (nearest integer)

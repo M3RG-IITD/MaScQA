@@ -1,0 +1,26 @@
+The total solidification time for a casting depends on its volume and surface area. The volume of the cube-shaped casting is 27 $cm^3$, and its surface area can be calculated as $6a^2$, where $a$ is the length of one edge of the cube. Since the cube is cube-shaped, all edges are of equal length, and therefore $a=\sqrt[3]{27}=3$ cm. Thus, the surface area of the cube is $6(3^2)=54$ $cm^2$.
+
+To find the total solidification time for the cylinder-shaped casting, we can use a ratio of volumes:
+
+$\frac{\text{Volume of cylinder}}{\text{Volume of cube}}=\frac{\pi r^2 h}{a^3}$
+
+Plugging in the given values for the cylinder, we get:
+
+$\frac{\text{Volume of cylinder}}{\text{Volume of cube}}=\frac{\pi \cdot 1^2 \cdot 6}{3^3}=\frac{2\pi}{27}$
+
+This means that the volume of the cylinder is $\frac{2\pi}{27}$ times the volume of the cube. Since the time for solidification is directly proportional to the volume of the casting, we can write:
+
+$\frac{\text{Solidification time for cylinder}}{\text{Solidification time for cube}}=\frac{\text{Volume of cylinder}}{\text{Volume of cube}}=\frac{2\pi}{27}$
+
+Plugging in the given value of 180 seconds for the solidification time of the cube, we get:
+
+$\frac{\text{Solidification time for cylinder}}{180}=\frac{2\pi}{27}$
+
+Simplifying, we get:
+
+$\text{Solidification time for cylinder}=\frac{360\pi}{27}\approx42.2$ seconds (rounded off to one decimal place).
+
+Therefore, the total solidification time for the cylinder-shaped casting of the same metal is approximately 42.2 seconds. 
+
+Answer: 
+- 42.2 seconds.

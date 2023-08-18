@@ -1,0 +1,38 @@
+We are given the energy gap of Germanium (Ge) as 0.67 eV. To find the maximum wavelength of radiation to which Ge is opaque, we will first convert the energy gap from electron volts (eV) to joules (J) using the given conversion factor. 
+
+Energy gap of Ge in joules:
+0.67 eV * 1.6 * 10^(-19) J/eV = 1.072 * 10^(-19) J
+
+Now, we will use the Planck's formula which relates energy, wavelength, and the Planck's constant as:
+
+E = (h * c) / λ
+
+where:
+- E is the energy gap of Ge (in joules)
+- h is Planck's constant (6.63 * 10^(-34) J s)
+- c is the velocity of light (3 * 10^8 m/s)
+- λ is the wavelength
+
+We need to find the maximum wavelength (λ) for Ge to be opaque. Rearrange the formula for λ:
+
+λ = (h * c) / E
+
+Now, plug in the values for h, c, and E:
+
+λ = (6.63 * 10^(-34) J s * 3 * 10^8 m/s) / (1.072 * 10^(-19) J)
+
+λ = (19.89 * 10^(-26) J m / s) / (1.072 * 10^(-19) J)
+
+λ = 18568 * 10^(-9) m
+
+Now, we'll convert the wavelength from meters to micrometers (1 m = 10^6 μm):
+
+λ = 18568 * 10^(-9) * 10^6 μm
+
+λ = 1.8568 μm
+
+Rounding this value, we get λ ≈ 1.8 μm. This is the maximum wavelength of radiation to which Germanium is opaque.
+
+Looking at the given options, the correct answer is:
+
+(B) 1.8 μm

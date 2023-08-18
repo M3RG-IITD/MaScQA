@@ -1,0 +1,5 @@
+The correct answer is (C) conductor to superconductor.
+
+Explanation:
+
+As mercury is cooled down to 4.2 K, it undergoes a transition to a superconducting state. This means that it loses all electrical resistance and can conduct electricity with absolutely no loss of energy. At higher temperatures, however, mercury is a good conductor of electricity. As the temperature decreases, its resistance starts to increase until it finally reaches zero in the superconducting state. Therefore, the electrical behavior of mercury changes from that of a conductor to a superconductor as it is cooled down from room temperature to 3 K.

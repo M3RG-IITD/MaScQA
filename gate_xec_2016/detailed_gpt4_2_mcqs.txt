@@ -1,0 +1,18 @@
+To answer this question, we need to know about rotational symmetries and 3-dimensional (3D) crystal lattice structures. In a perfectly periodic 3-dimensional lattice, the lattice points are arranged periodically in the 3D space forming a pattern with translational symmetry. Rotational symmetry refers to the ability to rotate a pattern, such that it appears the same after a certain angle of rotation.
+
+Let's analyze each of the given rotational symmetries:
+
+A) 1-fold rotational symmetry: 
+This means there is no symmetry other than a full 360-degree rotation. Every periodic lattice has a 1-fold symmetry, as it looks the same after a full rotation.
+
+B) 3-fold rotational symmetry:
+A 3-fold rotational symmetry means that the pattern looks the same after a 120-degree rotation (360/3). In a 3D lattice, the cubic system has face-centered cubic (FCC) and body-centered cubic (BCC) lattices, both of which have 3-fold symmetry along their body diagonals.
+
+C) 5-fold rotational symmetry:
+A 5-fold rotational symmetry implies that the pattern is unchanged after a 72-degree rotation (360/5). It turns out that this symmetry is forbidden in a perfectly periodic 3D lattice. The reason is that 5-fold symmetry cannot be combined with translational symmetry in 3 dimensions without creating gaps or overlaps in the lattice. This was proven by mathematicians in the early 20th century and is known as the crystallographic restriction theorem. In recent years, quasicrystals were discovered, which show 5-fold symmetry but lack a perfectly periodic 3D lattice structure.
+
+D) 6-fold rotational symmetry:
+A 6-fold rotational symmetry means that the pattern remains the same after a 60-degree rotation (360/6). A hexagonal crystal lattice in the 3D space has 6-fold rotational symmetry as the arrangement of lattice points forms a hexagonal pattern when viewed along its main axis.
+
+So, the correct answer is:
+[5-fold]

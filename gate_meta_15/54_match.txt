@@ -1,0 +1,5 @@
+Match the desired mechanical properties listed in Group I with the microstructural features listed in Group II
+Group I: [P. Creep resistance, Q. Elastic modulus enhancement, R. Superplasticity, S. Increased strength]
+Group II: [1. Fine grained two-phase microstructure, 2. Single crystal, 3. Coherent precipitates, 4. Glass fibres in epoxy]
+
+Options: (A) P-3, Q-4, R-2, S-1 (B) P-1, Q-2, R-3, S-4 (C) P-2, Q-4, R-1, S-3 (D) P-1, Q-4, R-2, S-3

@@ -1,0 +1,41 @@
+We are given the vapour pressure of pure liquid Zn at 710 K as $p_{Zn}(X_{Zn} = 1.0) = 3.6 * 10^{-4}$ atm, and the Raoultian activity coefficient expression for Zn in the Zn-Cd alloy liquid at 710 K as ln($\gamma_{Zn}$) = 0.875 * $(1 - X_{Zn})^2$.
+
+We are asked to find the ratio $[\frac{p_{Zn}(X_{Zn} = 0.7)}{p_{Zn}(X_{Zn} = 1.0)}]$.
+
+The first thing we need to do is calculate the activity coefficient, $\gamma_{Zn}$, for $X_{Zn} = 0.7$. Using the given expression,
+
+ln($\gamma_{Zn}$) = 0.875 * $(1 - X_{Zn})^2$
+
+ln($\gamma_{Zn}$) = 0.875 * $(1 - 0.7)^2$
+
+ln($\gamma_{Zn}$) = 0.875 * 0.09
+
+ln($\gamma_{Zn}$) = 0.07875
+
+To find the value of $\gamma_{Zn}$, we need to exponentiate both sides:
+
+$\gamma_{Zn}$ = $e^{0.07875}$
+
+$\gamma_{Zn}$ ≈ 1.082 (rounded to three decimal places)
+
+Now, we know from Raoult's Law that:
+
+$p_{Zn} = \gamma_{Zn} * X_{Zn} * p_{Zn}(X_{Zn} = 1.0)$
+
+For $X_{Zn} = 0.7$, we can express the partial pressure $p_{Zn}(X_{Zn} = 0.7)$ as:
+
+$p_{Zn}(X_{Zn} = 0.7) = \gamma_{Zn} * 0.7 * p_{Zn}(X_{Zn} = 1.0)$ 
+
+$p_{Zn}(X_{Zn} = 0.7) = 1.082 * 0.7 * 3.6 * 10^{-4}$
+
+$p_{Zn}(X_{Zn} = 0.7) ≈ 2.718 * 10^{-4}$ (rounded to three decimal places)
+
+Now, we can find the ratio as follows:
+
+$\frac{p_{Zn}(X_{Zn} = 0.7)}{p_{Zn}(X_{Zn} = 1.0)} = \frac{2.718 * 10^{-4}}{3.6 * 10^{-4}}$
+
+$\frac{p_{Zn}(X_{Zn} = 0.7)}{p_{Zn}(X_{Zn} = 1.0)} ≈ 0.754$ (rounded to three decimal places)
+
+Therefore, the ratio $[\frac{p_{Zn}(X_{Zn} = 0.7)}{p_{Zn}(X_{Zn} = 1.0)}]$ for a liquid alloy with $X_{Zn} = 0.7$ is approximately 0.75 (rounded to two decimal places).
+
+Answer: [0.75]

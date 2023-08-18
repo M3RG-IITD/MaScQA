@@ -1,0 +1,35 @@
+We can use the expression for Van't Hoff Equation:
+$\ln K_2−\ln K_1 = \frac{∆H°}{R}(\frac{1}{T_1}−\frac{1}{T_2})$
+To solve for the equilibrium constant at 300 K, we need to know the equilibrium constant at another temperature. Let's assume that we know the equilibrium constant at 400 K, then from the Van't Hoff Equation we have:
+
+$\ln K_2 − \ln K_1 = \frac{∆H°}{R}\left(\frac{1}{T_1}−\frac{1}{T_2}\right)$
+
+$\ln K_2 − \ln K_1 = \frac{-74,900}{8.314} \left(\frac{1}{300} − \frac{1}{400}\right)$
+
+$\ln \frac{K_2}{K_1} = 9.672$
+
+$\frac{K_2}{K_1} = e^{9.672}$
+
+$K_2 = K_1 e^{9.672}$
+
+Now, we can calculate the equilibrium constant at 300 K using the value of the equilibrium constant at 400 K, and the enthalpy and entropy of the reaction:
+
+$∆G°=−RT \ln K$
+
+$∆G° = ∆H° - T∆S°$
+
+$−RT \ln K = ∆H° − T∆S°$
+
+$\ln K = −\frac{∆H°}{RT} + \frac{∆S°}{R}$
+
+$\ln K = −\frac{-74,900}{8.314 \times 300} + \frac{-80}{8.314}$
+
+$\ln K = 20.95 - 9.63$
+
+$\ln K = 11.32$
+
+$K = e^{11.32}$
+
+$K = 3.6 × 10^7$
+
+Therefore, the equilibrium constant for the reaction at 300 K is option (B) 3.6 × $10^7$. Answer: $\boxed{(B) \ 3.6 × 10^7}$.

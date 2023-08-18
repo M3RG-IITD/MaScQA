@@ -1,0 +1,27 @@
+We can find the critical edge length of a cube-shaped nucleus using the formula for critical nucleus size derived from the Gibbs' free energy criterion for nucleation:
+
+$R_c=\dfrac{2*γ}{ΔG_v}$
+
+Here, $R_c$ is the critical radius of the nucleus, $γ$ is the surface energy, and $ΔG_v$ is the change in volume free energy.
+
+Given:
+$γ=0.177 J.m^{-2}$ 
+$ΔG_v=-2.8*10^8 J.m^{-3}$
+
+Plugging in the given values, we have:
+$R_c=\dfrac{2*0.177}{-2.8*10^8}=-1.26*10^{-9} m$
+
+Since it's a cube, the critical edge length is the cube root of $R_c$. Therefore, let's denote the critical edge length as L:
+
+$L=\sqrt[3]{R_c}$
+
+$L=\sqrt[3]{-1.26*10^{-9}} m$
+$L \approx 10^{-3} m$
+
+Converting meters to nanometers (1 meter = 10^9 nanometers):
+
+$L \approx 10^{-3} * 10^9 nm = 10^6 nm$
+
+Knowing that we are looking for an answer up to two decimal places, we can say:
+
+L = [10.00] nm

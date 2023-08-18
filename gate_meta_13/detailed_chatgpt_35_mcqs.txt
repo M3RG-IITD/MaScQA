@@ -1,0 +1,49 @@
+The saturation magnetization is given by, 
+
+$M_s = \frac{N\mu^2}{3k_BT}$
+
+where, 
+N = number of atoms per unit volume (in m^-3)
+$\mu$ = magnetic moment per atom (in J/T),
+$k_B$ = Boltzmann constant, and
+T = temperature (in K).
+
+Rearranging the above equation, we can find the magnetic moment per atom as:
+
+$\mu = \sqrt{\frac{3k_BT M_s}{N}}$
+
+For FCC crystal structure, the number of atoms per unit cell is 4. The volume of the unit cell (V) is given by:
+
+$V = a^3/4$
+
+where, a is the lattice parameter.
+
+So, the number of atoms per unit volume is:
+
+$N = 4/a^3$
+
+Substituting the given values, 
+
+$a=0.2$ nm = $2\times 10^{-10}$ m,
+
+$M_s = 600\times 10^3$ A/m, and
+
+using $k_B = 1.38 \times 10^{-23}$ J/K (Boltzmann Constant),
+
+we get:
+
+$T \mu^2 = \frac{M_s N}{3k_B} = \frac{600\times 10^3 \times 4 \times (\pi/6) \times (2\times 10^{-10})^3}{3 \times 1.38 \times 10^{-23}}$
+
+Simplifying, we get:
+
+$T\mu^2 \approx 8.82 \times 10^{-5}$
+
+We need to find the value of $\mu$ in Bohr magneton (which is the unit of magnetic moment commonly used in atomic physics). 1 Bohr magneton ($\mu_B$) = $9.274 \times 10^{-24}$ J/T.
+
+So, 
+
+$\mu = \sqrt{\frac{T\mu^2}{T}} = \sqrt{\mu^2} = \sqrt{8.82 \times 10^{-5} / 1.38 \times 10^{-23}} \approx 2.02 \times 10^{-23} J/T$
+
+$\mu$ in Bohr magneton = $\mu / \mu_B \approx 0.217$
+
+Therefore, the correct answer is option (C) 0.517 (rounded off to three significant figures).

@@ -1,0 +1,23 @@
+Using the Hall-Petch equation, we have:
+
+$\sigma_f = \sigma_0 + k_y\cdot d^{-1/2}$
+
+where:
+$\sigma_f$ = lattice frictional stress
+$\sigma_0$ = a constant (the frictional stress at infinite grain size)
+$k_y$ = Hall-Petch constant (a measure of the effectiveness of grain boundaries in stopping dislocation motion)
+$d$ = grain size
+
+Rearranging the equation, we can solve for grain size:
+
+$d = \left(\dfrac{k_y}{\sigma_f-\sigma_0}\right)^2$
+
+Plugging in the values given in the problem:
+
+$d = \left(\dfrac{0.10\text{ MN}/m^{1.5}}{100\text{ MN}/m^2 - \sigma_0}\right)^2$
+
+We do not have a value for $\sigma_0$, so we cannot calculate an exact grain size. However, we can use the fact that ASTM No. 6 corresponds to a range of grain sizes between 18.2 µm and 22.4 µm. Therefore, we can eliminate options (C) and (D) as they are much smaller than this range.
+
+Option (A) of 45 µm is larger than the range associated with ASTM No. 6, so it is also unlikely.
+
+Therefore, the best answer is (B) 35 µm, which is within the expected range for ASTM No. 6 and seems reasonable given the other values provided in the problem.

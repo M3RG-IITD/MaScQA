@@ -1,0 +1,2 @@
+Determine the correctness or otherwise of the following Assertion [a] and the Reason [r]. Assertion[a]: Low alloy steels used for medium-temperature creep resistance often have additions of strong carbide-forming elements. Reason[r]: During creep deformation, the particles with higher misfit with the matrix, lose coherency.
+(A) Both [a] and [r] are true and [r] is the correct reason for [a].  (B) Both [a] and [r] are true but [r] is not the correct reason for [a]. (C) Both [a] and [r] are false.  (D) [a] is true but [r] is false. 

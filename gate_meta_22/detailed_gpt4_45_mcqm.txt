@@ -1,0 +1,29 @@
+To answer these questions, we will analyze the flow around the sphere using some concepts of fluid mechanics.
+
+(A) The velocity of the fluid at point A is zero.
+
+This statement is true. At the surface of the sphere (point A), the fluid's velocity is indeed zero, as the sphere is solid and not rotating. This condition is known as the "no-slip" condition, which implies that the fluid's velocity relative to the solid surface is zero.
+
+(B) The fluid pressure at the point A exceeds that at point O by the amount 𝜌$v^2$/2, where 𝒗 is the fluid velocity at point O.
+
+This statement is true. From Bernoulli's equation, we can compare the pressures at points A and O. Bernoulli's equation states that for non-viscous, incompressible, and steady flow of fluid, the sum of its pressure energy, kinetic energy, and potential energy per unit volume remains constant along a streamline.
+
+Along the streamline OA, the potential energy per unit volume is constant, so we can rewrite Bernoulli's equation as:
+
+P_A + ½ρv_A^2 = P_O + ½ρv_O^2
+
+Since the velocity at point A is zero (v_A = 0), we can rewrite the equation as:
+
+P_A = P_O + ½ρv_O^2
+
+This equation tells us that the pressure at point A exceeds that at point O by an amount equal to ½ρv_O^2, which is precisely what the statement says.
+
+(C) Fluid moving precisely along OA will turn perpendicular to OA to circumvent the object.
+
+This statement is false. In an inviscid flow, the fluid cannot "feel" the presence of the sphere, so it won't turn perpendicular to the streamline OA. Only in viscous flows will the fluid change its direction to circumnavigate the object as it "feels" the presence of the solid sphere.
+
+(D) On each side of the central streamline OA, the flow will be deflected round the object.
+
+This statement is true. Since the flow is inviscid and there is no viscous drag to slow it down, the fluid will continue to move horizontally on either side of the streamline OA. The fluid will flow around the edges of the sphere, and the streamlines will be deflected around it, creating a symmetric flow pattern on both sides.
+
+The correct answer is: [A, B, D]

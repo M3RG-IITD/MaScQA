@@ -1,0 +1,19 @@
+To find the ratio of heat capacities $C_(p)/C_(v)$, we can use the equation:
+
+$$C_(p) / C_(v) = 1 + (\alpha^2Vm / \kappa T)$$
+
+where $\alpha$ (isobaric expansivity) = 6 * $10^(-5)K^(-1)$, $Vm$ (molar volume) = 7 * $10^(-6)m^(3).mol^(-1)$, $\kappa$ (isothermal compressibility) = 8*$10^(-12)Pa^(-1)$, $T$ (temperature) = 500K, and $R$ (universal gas constant) = 8.314 $J.K^(-1).mol^(-1)$.
+
+Let's plug in the values and compute the ratio:
+
+$$C_(p) / C_(v) = 1 + ((6 * 10^(-5))^2 * (7 * 10^(-6)) / (8 * 10^(-12) * 500))$$
+$$C_(p) / C_(v) = 1 + ((36 * 10^(-10)) * (7 * 10^(-6)) / (4 * 10^(-9))$$
+$$C_(p) / C_(v) = 1 + (252 * 10^(-15) / 4 * 10^(-9))$$
+$$C_(p) / C_(v) = 1 + (63 * 10^(-6))$$
+$$C_(p) / C_(v) = 1 + 0.000063$$
+
+Now round off the result to 3 decimals:
+
+$$C_(p) / C_(v) = 1.000$$
+
+So the ratio of heat capacities $C_(p)/C_(v)$ at 500K is approximately [1.000].

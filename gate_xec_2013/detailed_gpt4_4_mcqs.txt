@@ -1,0 +1,22 @@
+To determine which metal is commonly alloyed with iron to improve its corrosion resistance, let's go through the options one by one and analyze their properties and compatibility with iron.
+
+(A) Co - Cobalt
+
+Cobalt is a hard, lustrous metal that is often alloyed with other metals to improve their properties such as hardness and magnetism. However, cobalt is not commonly used as an alloying element with iron to improve corrosion resistance.
+
+(B) Cr - Chromium
+
+Chromium is a metal that is well-known for increasing the corrosion resistance of other metals it is alloyed with, particularly iron. It forms a stable protective oxide layer on the surface of the material, preventing further corrosion from occurring. When alloyed with iron to create stainless steel, the presence of at least 10.5% chromium creates a passive film of chromium oxide on the surface of the material that is resistant to various forms of corrosion, including rusting.
+
+(C) Ti - Titanium
+
+Titanium is an incredibly lightweight and strong metal with excellent corrosion resistance. However, it is not commonly alloyed with iron to improve corrosion resistance. Titanium is more frequently used in aerospace applications and in the medical field for implants due to its biocompatibility and corrosion resistance properties.
+
+(D) Nb - Niobium
+
+Niobium is a metal with some corrosion resistance properties, and it is sometimes used to strengthen steel by forming precipitates that impede dislocation movement. However, it is not commonly used as an alloying element with iron to improve corrosion resistance.
+
+Based on the analysis of the given options, chromium (B) is the metal that is commonly alloyed with iron to improve its corrosion resistance. It forms a protective layer of chromium oxide that prevents further corrosion and is the main element used in stainless steel production.
+
+So the correct answer is:
+[B]

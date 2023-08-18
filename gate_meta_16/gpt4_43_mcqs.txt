@@ -1,0 +1,37 @@
+To find the critical nucleus size, we can use the Gibbs-Thomson equation for heterogeneous nucleation:
+
+$$
+ΔT = \dfrac{2σVm}{rρΔH}
+$$
+
+Here, ΔT is the undercooling temperature (100 K), σ is the solid-liquid interfacial energy (0.5 J/m²), Vm is the molar volume (7 × 10^(-6) m³/mol), r is the radius of the critical nucleus, ρ is the density of the solid (8900 kg/m³), and ΔH is the latent heat of freezing (13000 J/mol).
+
+We need to find r, so we'll rearrange the equation to solve for r:
+
+$$
+r = \dfrac{2σVm}{ρΔHΔT}
+$$
+
+Now, we'll plug in the given values and solve for r:
+
+$$
+r = \dfrac{2(0.5 J/m²)(7 × 10^{-6} m^3/mol)}{(8900 kg/m³)(13000 J/mol)(100 K)}
+$$
+
+$$
+r = \dfrac{7 × 10^{-6} J m/mol}{(8900 kg/m³)(13000 J/mol)(100 K)}
+$$
+
+$$
+r = 1.55 × 10^{-9}m
+$$
+
+Since the question is asking for the critical nucleus size in nm, we'll convert it from meters to nanometers:
+
+$$
+r = 1.55 × 10^{-9} m × \dfrac{10^9 nm}{1 m} = 1.55 nm
+$$
+
+Therefore, the critical nucleus size when copper melt is under-cooled by 100 K is 1.55 nm. 
+
+So the correct answer is (B) 1.55.

@@ -1,0 +1,32 @@
+To answer this question, we will consider each option individually and examine its impact on the creep resistance and tensile strength of a metal.
+
+(A) Increase in the grain size:
+
+Creep resistance: Creep is the deformation of a material over time under constant stress at high temperatures. Generally, creep resistance is higher when the grain size is smaller. This is because, with more grain boundaries, the dislocation movement is impeded, making it more challenging for grains to slip past one another. A larger grain size usually has fewer grain boundaries, making the material more susceptible to creep.
+
+Tensile strength: Tensile strength is a measure of a material's resistance to breaking under tension. Materials with smaller grain sizes generally have higher tensile strengths. This is because smaller grains result in more grain boundaries, which impede dislocation movement and make it more difficult for the material to break. When grain size increases, tensile strength typically decreases.
+
+(B) Decrease in the grain size:
+
+Creep resistance: A smaller grain size usually improves creep resistance, as mentioned earlier. With more grain boundaries, the dislocation movement is impeded, making the material more resistant to creep.
+
+Tensile strength: Decreasing grain size generally increases tensile strengths, as stated earlier, due to increased grain boundary interactions impeding dislocation movements.
+
+(C) Addition of dispersoids:
+
+Creep resistance: Dispersoids are finely dispersed inclusions in a material, often added to enhance properties such as creep resistance. They act as obstacles to dislocation movement, hindering the grain's movement and increasing the material's resistance to deformation under constant stress at high temperatures.
+
+Tensile strength: The addition of dispersoids can also improve tensile strength since they inhibit dislocation movement, making it more difficult for the material to break under tension.
+
+(D) Annealing:
+
+Creep resistance: Annealing is a heat treatment process that softens metal by changing its microstructure. It typically involves heating a material to a specific temperature, holding it at that temperature, and then cooling it slowly. The process can increase grain size, which, as mentioned earlier, could reduce creep resistance.
+
+Tensile strength: Annealing can increase ductility and reduce the tensile strength of a material due to the growth of grains and associated decrease in grain boundaries impeding dislocation movements.
+
+In conclusion, the best option to enhance both creep resistance and tensile strength of a metal is: 
+
+- (B) decrease in the grain size
+- (C) addition of dispersoids
+
+Answer: [B, C]

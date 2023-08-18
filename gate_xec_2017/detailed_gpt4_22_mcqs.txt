@@ -1,0 +1,21 @@
+To answer this question, we need to understand the concept of magnetic susceptibility and its behavior in different types of materials. Magnetic susceptibility (χ) is a dimensionless proportionality constant that indicates the degree of magnetization of a material in response to an applied magnetic field. 
+
+There are mainly three types of magnetic materials:
+1. Diamagnetic materials: These materials create an induced magnetic field in the opposite direction to the applied external magnetic field, resulting in a repulsive force. The magnetic susceptibility of diamagnetic materials is always negative since their magnetization is in the opposite direction to the applied field.
+
+2. Paramagnetic materials: These materials get attracted to an external magnetic field, and their magnetization is in the same direction as the applied field. The magnetic susceptibility of paramagnetic materials is positive because their magnetization aligns with the applied field and is proportional to the magnitude of the field.
+
+3. Antiferromagnetic materials: In these materials, there is a certain degree of anti-parallel alignment of neighboring magnetic moments, resulting in a net magnetization of zero. However, their susceptibility behavior can depend on temperature and external magnetic field; usually, they show negative susceptibility below a critical temperature (the Néel temperature) and positive susceptibility above it.
+
+Now, let's analyze the given statements based on this understanding:
+(i) Magnetic susceptibility is positive for a diamagnetic material - False. (We have explained that it's negative for diamagnetic materials)
+
+(ii) Magnetic susceptibility is negative for a diamagnetic material - True. (The opposite statement of option (i))
+
+(iii) Magnetic susceptibility is negative for an antiferromagnetic material - This statement is not always true. As explained before, antiferromagnetic materials can exhibit both positive and negative susceptibility depending on the temperature and external magnetic field.
+
+(iv) Magnetic susceptibility is positive for a paramagnetic material - True. (As explained earlier)
+
+From the analysis, the correct answer is:
+
+[A] (ii) and (iv)

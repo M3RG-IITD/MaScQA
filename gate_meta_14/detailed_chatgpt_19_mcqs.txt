@@ -1,0 +1,10 @@
+Grain growth is a phenomenon that takes place in polycrystalline material when the grains increase in size with time at the expense of smaller neighboring grains. This process typically occurs during annealing of metallic materials or during thermal treatments of ceramics to improve their crystallinity and other mechanical properties. 
+
+(A) As the average grain size increases, the grain boundary energy per unit area decreases : This statement is correct  because the grain boundary energy is inversely proportional to the grain size.
+(B) The driving force for grain growth is the decrease in grain boundary energy per unit volume of the material.: This statement is correct because according to the Gibbs-Thomson equation, the driving force for grain growth is inversely proportional to the grain size.
+(C) Higher the temperature, the faster is the grain growth.: This statement is correct because grain growth is a thermally activated process, and an increase in temperature will increase the diffusion rate of atoms across the grain boundary, leading to faster grain growth. 
+(D) Impurity atoms segregated at grain boundaries can retard grain growth.: This statement is correct because impurity atoms tend to be trapped at the grain boundary, making it more difficult for atoms to move across the boundary and therefore, retarding the grain growth.
+
+Therefore, all statements are correct, and there is no incorrect statement. 
+
+Answer: There is no incorrect statement.

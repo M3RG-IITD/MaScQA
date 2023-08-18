@@ -1,0 +1,29 @@
+The given velocity profile is $V_x = 0.5y - 0.5y^3$.
+
+To determine the boundary layer thickness, we can use the equation:
+
+$\frac{\delta}{x} = 5 \sqrt{\frac{\mu}{\rho V_{\infty}} \frac{dV_x}{dy} \bigg|_{y=0}}$
+
+where $\mu$ is the viscosity, $\rho$ is the density and $x$ is the distance from the leading edge.
+
+Taking the derivative of $V_x$ with respect to $y$:
+
+$\frac{dV_x}{dy} = 0.5 - 1.5y^2$
+
+Evaluating the derivative at $y=0$ gives:
+
+$\frac{dV_x}{dy} \bigg|_{y=0} = 0.5$
+
+Substituting the given values and solving:
+
+$\frac{\delta}{x} = 5 \sqrt{\frac{\mu}{\rho V_{\infty}} \frac{dV_x}{dy} \bigg|_{y=0}} = 5 \sqrt{\frac{\mu}{\rho V_{\infty}} \cdot 0.5}$
+
+The Prandtl number for water at room temperature is 7. So, using this value along with the given values of density and viscosity of water, we have:
+
+$\frac{\delta}{x} = 5 \sqrt{\frac{(1.002 \cdot 10^{-3} kg/m.s)}{(1000 kg/m^3) (V_{\infty})} \cdot 0.5} = \frac{5 \cdot 0.0251}{\sqrt{V_{\infty}}}$
+
+Rounding off to 2 decimal places:
+
+$\frac{\delta}{x} = 0.13 \sqrt{\frac{V_{\infty}}{m/s}}$
+
+Hence, the boundary layer thickness at $x=x_1$ is given by $\frac{\delta}{x} = 0.13 \sqrt{\frac{V_{\infty}}{m/s}}$.

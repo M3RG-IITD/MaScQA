@@ -1,0 +1,2 @@
+Refer to the schematic shown. Two dog-bone samples, labelled 1 and 2, of a Cualloy are tested under tension at room temperature to points “E” and “P”, respectively. Subsequently, they are unloaded completely and metallographically polished. Brinell hardness testing was performed in the gauge section of the samples. Which one of the following can be inferred about the measured Brinell hardness number (BHN)?
+(A) BHN of 1 > BHN of 2 (B) BHN of 1 = BHN of 2 (C) BHN of 1 < BHN of 2 (D) A conclusion about BHN of samples 1 and 2 cannot be made, with the provided information

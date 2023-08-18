@@ -1,0 +1,39 @@
+To find the equilibrium ratio of the partial pressures of CO2 and CO at 1200 K and 1 atm, we can use the equation for the reaction quotient, Q, and the standard Gibbs free energy change, ∆G°.
+
+At equilibrium, ∆G = 0, therefore:
+
+∆G = ∆G° + RT ln(Q)
+
+Where ∆G° is the standard Gibbs free energy change, R is the gas constant (8.314 J/mol K), T is the temperature (1200 K), and Q is the reaction quotient.
+
+Now we can solve for the reaction quotient, Q:
+
+0 = -8000 J/mol + (8.314 J/mol K) * (1200 K) * ln(Q)
+
+8000 J/mol = (8.314 J/mol K) * (1200 K) * ln(Q)
+
+Now, divide both sides by (8.314 J/mol K) * (1200 K):
+
+8000 / (8.314 * 1200) = ln(Q)
+
+0.807 = ln(Q)
+
+Exponentiate both sides to solve for Q:
+
+Q = e^(0.807) ≈ 2.24
+
+The reaction quotient (Q) is a dimensionless number that relates the product of the partial pressures of the products to the product of the partial pressures of the reactants. In this case, the reaction is:
+
+Fe3O4(s) + CO(g) ⇌ 3FeO(s) + CO2(g)
+
+Since the solid phases do not contribute to the partial pressures, the reaction quotient Q can be given as:
+
+Q = p(CO2) / p(CO)
+
+Therefore, the equilibrium ratio of the partial pressures of CO2 and CO at 1200 K and 1 atm is:
+
+p(CO2) / p(CO) ≈ 2.24
+
+So, the correct answer is:
+
+[2.24]

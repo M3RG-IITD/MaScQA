@@ -1,0 +1,25 @@
+The balanced chemical equation for the production of Fe from $Fe_2O_3$, C and $O_2$ is:
+
+$Fe_2O_3 + 3C + \frac{3}{2}O_2 \rightarrow 2Fe + 3CO$
+
+From the stoichiometry of the equation, we can see that for every mole of Fe produced, we need 3 moles of C and $\frac{3}{2}$ moles of $O_2$. However, the problem states that for every mole of Fe produced, we use 2.38 moles of C. This means that the reaction is not balanced according to the stoichiometry of the equation. 
+
+To balance the equation based on the given information, we can set up a proportion:
+
+$\frac{3C}{1Fe} = \frac{2.38C}{1Fe_{produced}}$
+
+Solving for $Fe_{produced}$, we get:
+
+$Fe_{produced} = \frac{1}{2.38/3} = 1.26$
+
+This means that for every mole of Fe produced, we need:
+
+$3C \times \frac{1}{2.38} = 1.26C$
+
+and 
+
+$\frac{3}{2}O_2 \times \frac{1}{1.26} = 1.19O_2$
+
+So, the molar ratio of $O_2$ to Fe is 1.19:1, or approximately 1.035:1. 
+
+Therefore, the correct answer is (A) 1.035.

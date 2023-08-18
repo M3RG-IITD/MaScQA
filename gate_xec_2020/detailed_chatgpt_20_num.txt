@@ -1,0 +1,31 @@
+Given: Specific modulus of Al-SiC composite = 3 x Specific modulus of Al
+
+Let's assume a volume fraction of SiC particles as 'Vf' in the composite.
+
+Now, using the rule of mixture for specific modulus, we have:
+
+Specific modulus of Al-SiC composite = [(1 - Vf) x Specific modulus of Al] + [Vf x Specific modulus of SiC]
+
+Since we know that Specific modulus of Al-SiC composite = 3 x Specific modulus of Al, we can substitute that in the above equation and simplify:
+
+3 x Specific modulus of Al = [(1 - Vf) x Specific modulus of Al] + [Vf x Specific modulus of SiC]
+
+3 = (1 - Vf) + Vf x [Specific modulus of SiC/Specific modulus of Al]
+
+3 - 1 = Vf x [Specific modulus of SiC/Specific modulus of Al]
+
+2 = Vf x [Specific modulus of SiC/Specific modulus of Al]
+
+Vf = 2 x [Specific modulus of Al/Specific modulus of SiC]
+
+Now, we need to find the values of Specific modulus of Al and SiC.
+
+From the reference material, Specific modulus of aluminum and silicon carbide are 70 GPa and 450 GPa respectively.
+
+Substituting these values in the above equation, we get:
+
+Vf = 2 x [70 / 450]
+
+Vf = 0.31 (rounded off to two decimal places)
+
+Therefore, the volume fraction of SiC particles required in the composite to have a specific modulus three times that of pure Al under iso-strain condition is approximately 0.31.

@@ -1,0 +1,46 @@
+To solve this problem, we will use the Arrhenius equation, which relates reaction rates to temperature:
+
+k = Ae^(-Ea / RT)
+
+where k is the reaction rate, A is the pre-exponential factor, Ea is the activation energy, R is the gas constant (8.314 J/mol∙K), and T is the temperature in K.
+
+Let k1 be the initial reaction rate at 300 K (T1) and k2 be the new reaction rate we want after increasing the temperature (T2). We know that k2 = 3k1.
+
+k1 = Ae^(-Ea / R*T1)
+k2 = Ae^(-Ea / R*T2)
+
+Now, we're going to divide the second equation by the first one:
+
+k2 / k1 = (Ae^(-Ea / R*T2)) / (Ae^(-Ea / R*T1))
+
+Since k2 = 3k1, we can rewrite this as:
+
+3 = e^(-Ea / R*T1) / e^(-Ea / R*T2)
+
+Now we will find T2 from this equation. First, take the natural logarithm on both sides:
+
+ln(3) = -Ea / R*T1 + Ea / R*T2
+
+Now, we have:
+
+Ea / R*T2 = Ea / R*T1 - ln(3)
+
+Since Ea, R, and T1 are constants, let's rearrange the equation to isolate T2:
+
+T2 = 1 / ((Ea / R*T1) - (ln(3) / Ea))
+
+Now, plug in the values for Ea, R, and T1:
+
+T2 = 1 / ((8.314 kJ/mol / (8.314 J/mol*K * 300 K)) - (ln(3) / (8.314 kJ/mol)))
+
+Convert Ea to J/mol to match R's unit:
+
+T2 = 1 / ((8314 J/mol / (8.314 J/mol*K * 300 K)) - (ln(3) / (8314 J/mol)))
+
+T2 = 1 / ((1/300) - ln(3) / 8314)
+
+T2 ≈ 447.5 K
+
+So, to triple the reaction rate, the temperature should be approximately 447.5 K. The correct answer is (B) 447.5 K. 
+
+Answer: [447.5]

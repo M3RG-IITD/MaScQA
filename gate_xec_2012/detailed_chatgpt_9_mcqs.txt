@@ -1,0 +1,11 @@
+
+
+The Pilling-Bedworth ratio measures the volume change that occurs when a metal reacts with oxygen to form an oxide. It is defined as the ratio of the volume of the oxide to the volume of the metal consumed in the reaction.
+
+Mathematically, the Pilling-Bedworth ratio can be represented as:
+
+PBR = V(oxide) / V(metal)
+
+where PBR is the Pilling-Bedworth ratio, V(oxide) is the volume of oxide formed, and V(metal) is the volume of the metal consumed.
+
+The correct answer is (A) Volume of oxide to volume of metal.

@@ -1,0 +1,9 @@
+P: $Cu_{(0.5)}Al_{(0.5)}$ is an alloy composed of copper and aluminum. Both copper and aluminum have metallic bonding with each other, resulting in the alloy having metallic bonding.
+
+Q: ZnS (zinc sulfide) is a compound composed of zinc and sulfur. Both zinc and sulfur are nonmetals, and they share electrons to form covalent bonding in ZnS.
+
+R: $Na_2O$ (sodium oxide) is a compound composed of sodium and oxygen. Both sodium and oxygen are highly reactive elements, and they form an ionic bond in $Na_2O$.
+
+S: $Li_4SiO_4$ (lithium silicate) is a compound composed of lithium, silicon, and oxygen. Lithium and oxygen have a large difference in electronegativity, so they form an ionic bond in Li4SiO4. Silicon and oxygen share electrons to form covalent bonding.
+
+Based on the above explanations, the correct answer is (B) P - 3; Q - 4; R - 2; S - 1.

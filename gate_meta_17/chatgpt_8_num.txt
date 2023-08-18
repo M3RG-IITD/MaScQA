@@ -1,0 +1,3 @@
+The cumulative mass fraction of particles of size less than 1.68 mm is 0.53.
+
+[List of answers: 0.53]

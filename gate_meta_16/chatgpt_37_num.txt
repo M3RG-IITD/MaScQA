@@ -1,0 +1,16 @@
+To find out the weight percent of FeO in DRI, we first need to calculate the weight percent of C in DRI.
+
+Weight percent of C = 100% - (total weight percent of Fe + weight percent of gangue)
+Weight percent of C = 100% - (92% + remainder)
+Weight percent of C = 8% - remainder
+
+We know that metallic Fe is 84 wt.%, which means that the rest of the Fe is in the form of FeO.
+
+Weight percent of FeO = total weight percent of Fe - weight percent of metallic Fe
+Weight percent of FeO = 92% - 84%
+Weight percent of FeO = 8%
+
+Therefore, the weight percent of FeO in DRI is 8%. 
+
+Answer: 
+- 8%

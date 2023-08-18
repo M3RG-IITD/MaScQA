@@ -1,0 +1,19 @@
+To solve this question, we need to understand each term in Group I and then match them with the corresponding reactions in Group II.
+
+Group I:
+P. Eutectic: A eutectic reaction is a three-phase transformation where a solid phase 𝛼 forms from a homogeneous liquid phase 𝐿 when the temperature is lowered below a certain eutectic temperature. The reaction can be represented as: 𝐿 → 𝛼 + 𝛽
+
+Q. Peritectic: A peritectic reaction is a three-phase transformation involving the reaction of a solid 𝛽 with a liquid 𝐿 to form another solid 𝛼 when the temperature is lowered. The reaction can be represented as: 𝐿 + 𝛽 → 𝛼
+
+R. Peritectoid: A peritectoid reaction is a three-phase transformation involving the reaction between two solid phases, 𝛾 and 𝛽, that results in the formation of another solid phase 𝛼 when the temperature is lowered. The reaction can be represented as: 𝛾 + 𝛽 → 𝛼
+
+S. Monotectic: A monotectic reaction is a three-phase transformation where one liquid phase, 𝐿1, separates into two liquid phases, 𝐿2 and a solid phase 𝛼, when the temperature is lowered. The reaction can be represented as: 𝐿1 → 𝐿2 + 𝛼
+
+Now, we can match Group I with Group II:
+
+P- Eutectic corresponds to 2. 𝐿 → 𝛼 + 𝛽
+Q- Peritectic corresponds to 4. 𝐿 + 𝛽 → 𝛼
+R- Peritectoid corresponds to 1. 𝛾 + 𝛽 → 𝛼
+S- Monotectic corresponds to 3. 𝐿1 → 𝐿2 + 𝛼
+
+So, the correct answer is: (C) P-2, Q-4, R-1, S-3

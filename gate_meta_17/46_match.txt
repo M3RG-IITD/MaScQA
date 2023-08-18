@@ -1,0 +1,5 @@
+Arrange the magnetic moment of neighboring atoms in a one-dimensional lattice in Group-I to the corresponding magnetic material in Group-II. See group-I and Group-II from the image and choose the correct option:
+
+
+
+Options: P-4; Q-1; R-3; S-2 (B) P-3; Q-4; R-1; S-2 (C) P-2; Q-4; R-1; S-3 (D) P-1; Q-2; R-3; S-4

@@ -1,0 +1,27 @@
+We can start by finding the surface area in $m^2$:
+\begin{align*}
+50\text{ }cm^2 &= 50 \times 10^{-4}\text{ }m^2 \\
+&= 0.005\text{ }m^2
+\end{align*}
+
+Next, we can convert the mass loss to $kg$ and the time period to years:
+\begin{align*}
+200\text{ }g &= 0.2\text{ }kg \\
+10\text{ }years &= 10\text{ }year
+\end{align*}
+
+Now, we can use the formula for corrosion rate:
+$$
+\text{Corrosion rate} = \frac{\text{Mass loss}}{\text{Surface area} \times \text{Time period}}
+$$
+Substituting the values, we get:
+\begin{align*}
+\text{Corrosion rate} &= \frac{0.2}{0.005\times 10} \\
+&= 4\text{ }kg.m^{-2}.year^{-1}
+\end{align*}
+
+Rounding off to the nearest integer, the answer is: 
+
+- 4
+
+Therefore, the corrosion rate is 4 $kg.m^{-2}.year^{-1}$ (rounded off to the nearest integer).

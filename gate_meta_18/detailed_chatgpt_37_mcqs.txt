@@ -1,0 +1,17 @@
+The shift of all the peaks to the left indicates that the solute X has a smaller atomic size than the host metal A. This means that X will preferentially occupy the substitutional lattice sites around the dislocation that are larger than the average lattice spacing of A.
+
+Around an edge dislocation, there are four such sites labeled P, Q, R, and S in the diagram below:
+
+```
+(B) --- (C) --- (D) --- (E) --- (F)
+ |          P           Q          |
+ |                                  |
+(A)         DISLOCATION         (G)
+ |                                  |
+ |          R           S          |
+(H) --- (I) --- (J) --- (K) --- (L)
+```
+
+Site P is located in the slip plane, and it has the largest spacing, so it will be the most preferred site for solute occupation. Site S is also in the slip plane, but it has the smallest spacing, and therefore, X will not occupy it as often. Sites Q and R are located in the plane perpendicular to the slip plane and have slightly larger spacing than site S but smaller spacing than sites P or S. Thus, X can occupy Q and R sites but its occupancy will be least compared to P.
+
+Therefore, the correct answer is (A) P.

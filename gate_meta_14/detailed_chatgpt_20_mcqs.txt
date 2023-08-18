@@ -1,0 +1,13 @@
+The given reaction involves two solid phases and one liquid phase. 
+
+If the reaction involves one solid phase and one liquid phase, it could either be a eutectic or a peritectic reaction. 
+
+If the eutectic point of the phase diagram lies on the boundary between the solid 1 and liquid regions, then it is a eutectic reaction. 
+
+If the eutectic point lies on the boundary between solid 1 and solid 2 regions, then it is a peritectic reaction. 
+
+In the given reaction, there is no eutectic point and the reaction does not involve the simultaneous formation of two solid phases from a liquid phase like in eutectic reactions. But, it involves the transformation of one solid phase into another solid phase with the addition of a liquid phase.
+
+Hence, this is a peritectic reaction. 
+
+The answer is (C) Peritectic.

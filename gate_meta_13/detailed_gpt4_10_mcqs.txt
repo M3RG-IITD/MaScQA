@@ -1,0 +1,19 @@
+In this question, we are given four different processes, and our task is to identify which one DOES NOT improve fatigue life of a steel component. Fatigue life refers to the ability of a material to withstand cyclic loading and unloading processes without failure.
+
+Let's analyze each process:
+
+(A) Nitriding:
+Nitriding is a heat treatment process that introduces nitrogen into the surface of steel. This process forms a hard, wear-resistant surface layer that increases resistance to surface cracking and thus improves fatigue life. So this process improves the fatigue life of a steel component.
+
+(B) Decarburization:
+Decarburization is the process of removing carbon from the surface of steel. This leads to the formation of a low-carbon surface layer with lower strength and hardness. As a result, the material becomes more susceptible to fatigue failure. So this process does NOT improve the fatigue life of steel components.
+
+(C) Improving surface finish:
+Fatigue cracks usually initiate at the surface of the component, often due to surface irregularities, defects, or stress risers. Improving surface finish by removing these defects and achieving a smoother surface can significantly reduce fatigue failure initiation and hence improve fatigue life.
+
+(D) Shot-peening:
+Shot-peening is a mechanical surface treatment process in which small, spherical media called shots are blasted onto the surface of the component. The impact of the shot creates localized plastic deformation, resulting in compressive residual stresses in the surface layer. These compressive stresses inhibit the initiation and growth of fatigue cracks, ultimately improving fatigue life.
+
+In conclusion, after analyzing all the processes, we can see that option (B) Decarburization does NOT improve the fatigue life of a steel component.
+
+The correct answer is [B].

@@ -1,0 +1,39 @@
+To solve this problem, we need to use Bragg's law for X-ray diffraction, which is given by:
+
+2d * sin(θ) = n * λ
+
+where:
+d is the spacing between the lattice planes,
+θ is the angle at which diffraction occurs,
+n is an integer representing the order of the diffraction peak, and
+λ is the wavelength of the incident X-rays.
+
+For a face-centered cubic (FCC) crystal structure, the lattice planes that will result in the second X-ray diffraction peak are the (220) planes. The spacing between these planes can be calculated using the lattice parameter (a) using the formula:
+
+d_(hkl) = a / √(h^2 + k^2 + l^2)
+
+where (hkl) are the Miller indices of the planes.
+
+For the (220) planes, the spacing d_(220) can be calculated as:
+
+d_(220) = 0.36 nm / √(2^2 + 2^2 + 0^2)
+d_(220) = 0.36 nm / √(8)
+d_(220) = 0.36 nm / 2.83
+d_(220) ≈ 0.127 nm
+
+Now that we have the spacing between the (220) lattice planes, we can use Bragg's law to find the Bragg angle θ for the second diffraction peak. Since it is the second peak, the integer n will be equal to 2.
+
+2 * d_(220) * sin(θ) = n * λ
+2 * 0.127 nm * sin(θ) = 2 * 0.154 nm
+
+Divide both sides by 2 to solve for sin(θ):
+
+0.127 nm * sin(θ) = 0.154 nm
+
+Now divide by 0.127 nm:
+
+sin(θ) ≈ 1.213
+
+However, the value of sin(θ) cannot be greater than 1. This means there must be an error in the given values or problem statement, and we cannot calculate a valid Bragg angle θ from the provided information.
+
+In conclusion, based on the given values, it is not possible to calculate a valid Bragg angle θ for the second X-ray diffraction peak in a FCC metal.

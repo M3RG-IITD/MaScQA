@@ -1,0 +1,33 @@
+The ground state energy of a particle in an infinite potential well is given by:
+
+E = (n^2 * h^2) / (8 * m * L^2)
+
+Where n is the quantum number (n = 1, 2, 3, ...), h is Planck's constant, m is the mass of the particle and L is the length of the well.
+
+For three identical non-interacting spin ½ particles, the ground state energy would be thrice that of a single particle, i.e.,
+
+E_3 = 3 * (1^2 * h^2) / (8 * m * L^2) = (3/8) * (h^2 / m * L^2)
+
+Given that E_3 = 18 meV, we can solve for L:
+
+L = sqrt[(3/8) * (h^2 / m * E_3)]
+
+Now, for seven identical non-interacting spin ½ particles, the ground state energy would be seven times that of a single particle, i.e.,
+
+E_7 = 7 * (1^2 * h^2) / (8 * m * L^2) = (7/8) * (h^2 / m * L^2)
+
+Substituting for L from the earlier equation, we get:
+
+E_7 = (7/8) * (h^2 / m * [sqrt((3/8) * (h^2 / m * E_3))])^2
+
+Simplifying this expression, we get:
+
+E_7 = (147/64) * (h^2 / m * E_3)
+
+Substituting h = 6.626 x 10^-34 J s and m = mass of an electron = 9.109 x 10^-31 kg, we get:
+
+E_7 = 10.7 meV
+
+Therefore, the new ground state energy for seven particles is 10.7 meV.
+
+Answer: [10.7]

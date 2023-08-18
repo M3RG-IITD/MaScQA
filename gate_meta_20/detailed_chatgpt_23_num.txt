@@ -1,0 +1,23 @@
+Firstly, we need to convert the given surface area from $cm^2$ to $m^2$.
+
+$1\, m^2 = 10,000\, cm^2$
+
+So, $50\, cm^2=50/10,000\,m^2=0.005\, m^2$
+
+Now, we can use the formula to find the corrosion rate:
+
+Corrosion rate ($kg.m^2.year^{-1}$) = weight loss ($kg$) / (surface area ($m^2$) x time ($year$))
+
+Corrosion rate ($kg.m^2.year^{-1}$) = 200g / (0.005 $m^2$ x 10 $year$)
+
+Corrosion rate ($kg.m^2.year^{-1}$) = 4000 $g.m^2.year^{-1}$
+
+Now we need to convert the units to $kg.m^2.year^{-1}$:
+
+$1\, g = 0.001\, kg$
+
+Corrosion rate ($kg.m^2.year^{-1}$) = 4000 x 0.001 $kg.m^2.year^{-1}$ = 4 $kg.m^2.year^{-1}$ (rounded off to the nearest integer)
+
+Therefore, the corrosion rate is 4 $kg.m^2.year^{-1}$ (rounded off to the nearest integer). 
+
+Answer: [4]

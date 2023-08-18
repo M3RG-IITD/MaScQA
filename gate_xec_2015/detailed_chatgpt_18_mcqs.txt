@@ -1,0 +1,12 @@
+Creep in metals is defined as slow plastic deformation due to diffusion of atoms usually at high temperature (T > half the melting point). The correct answer is (D).
+
+Step by step explanation:
+
+- Creep is a time-dependent deformation that occurs in metals and other materials under stress and elevated temperatures.
+- This deformation is caused by the movement of atoms in the material, which results in the gradual elongation or thinning of the material over time.
+- Creep is a type of plastic deformation, which means that it is permanent and non-reversible.
+- Creep can occur in materials even when the applied stress is below the yield stress or ultimate strength of the material.
+- Creep is often measured by the creep rate, which is the rate of deformation per unit time under a constant stress and temperature.
+- Creep is an important consideration in engineering design, particularly for high-temperature applications such as power generation, aerospace, and metallurgical processes.
+
+Therefore, the correct answer is (D) slow plastic deformation due to diffusion of atoms usually at high temperature (T > half the melting point).

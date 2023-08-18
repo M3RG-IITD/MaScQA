@@ -1,0 +1,29 @@
+
+
+We can use the formula E = hc/λ, where E is the energy of a photon, h is Planck's constant, c is the speed of light, and λ is the wavelength of the radiation emitted by the LED.
+
+We know that the energy of a photon is given by E = hc/λ, and that the energy of the photon emitted by the LED is equal to the band gap of the semiconducting material, which is 1.43 eV. We convert this to Joules: 
+
+1.43 eV = 1.43 × 1.6 × 10^-19 J = 2.288 × 10^-19 J 
+
+We can now rearrange the equation E = hc/λ to solve for λ: 
+
+λ = hc/E 
+
+Plugging in the values we know, we get: 
+
+λ = hc/2.288 × 10^-19 J 
+
+λ = (6.626 × 10^-34 J s) (3.00 × 10^8 m/s) / 2.288 × 10^-19 J 
+
+λ = 8.638 × 10^-7 m 
+
+Finally, we convert this answer to micrometers: 
+
+λ = 863.8 nm = 0.8638 μm. 
+
+Therefore, the minimum wavelength of radiation emitted by the LED will be 0.8638 μm. 
+
+Answer: 
+
+- 0.8638 μm

@@ -1,0 +1,46 @@
+Given:
+- Hematite containing 90 wt.% $Fe_2O_3$
+- Liquid iron containing 3.6 wt.% Carbon
+- Coke containing 90 wt.% Carbon charged at a rate of 500 kg per metric ton of liquid iron produced
+
+We need to find the volume of the blast furnace top gas at NTP.
+
+Let's find the moles of coke and moles of $Fe_2O_3$ in hematite.
+
+Moles of coke ($C_{coke}$) = 500 kg * (90/100) / 12 kg/mol (molar mass of C) = 500 * 0.9 / 12 mol = 37.5 mol
+Moles of $Fe_2O_3$ in hematite ($Fe_{2}O_{3_{hematite}}$) = 1000 kg * (90/100) / 160 kg/mol (molar mass of Fe2O3) = 900 / 160 mol = 5.625 mol
+
+Now, let's balance the reaction in the blast furnace:
+
+1. $Fe_2O_3$ (s) + 3C (s) → 2Fe (l) + 3$CO$ (g)
+2. $CO$ (g) + C (s) → 2$CO_2$ (g)
+
+Moles of carbon in liquid iron = 1000 kg * (3.6/100) / 12 kg/mol (molar mass of C) = 1000 * 0.036 / 12 mol = 3 mol
+
+From reaction 1:
+Moles of $Fe_2O_3$ consumed ($Fe_{2}O_{3_{consumed}}$) = 3 mol / 3 = 1 mol
+Moles of $CO$ produced = 3 mol
+
+From reaction 2:
+Moles of $CO_2$ produced = (37.5 - 3) / 2 = 17.25 mol
+
+Now, let's find the volume of the top gas.
+
+Mole fraction of $CO$ = 22/100; Mole fraction of $CO_2$ = 18/100; Mole fraction of N2 = 60/100
+Moles of top gas = moles of $CO$ + moles of $CO_2$ + moles of N2
+Moles of N2 = (moles of top gas - moles of $CO$ - moles of $CO_2$) / 0.6
+Moles of top gas = 3 / 0.22 + 17.25 / 0.18
+Moles of top gas = 13.64 + 95.83 = 109.47 mol (approximately)
+
+We know that the molar volume of an ideal gas at NTP is 22.4 L/mol.
+
+Volume of the top gas = moles of top gas * molar volume
+Volume of the top gas = 109.47 mol * 22.4 L/mol = 2452.1 L (approximately)
+
+Since 1 m^3 = 1000 L,
+
+Volume of the top gas (rounded off to the nearest integer) = 2452.1 L / 1000 = 2.45 m^3 (approximately)
+
+Therefore, the volume of the blast furnace top gas is approximately 2.45 m^3.
+
+The correct answer is [2.45].

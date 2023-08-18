@@ -1,0 +1,39 @@
+We can calculate the time required for alumina particles to float to the surface using Stoke's law. Stoke's law describes the sedimentation or buoyancy of spherical particles in a fluid. The formula for Stoke's law is:
+
+v = (2/9) * (ρ_p - ρ_f) * g * r^2 / η
+
+where:
+v = velocity of the particle (m/s)
+ρ_p = density of the particle (alumina, kg/m³)
+ρ_f = density of the fluid (steel, kg/m³)
+g = acceleration due to gravity (9.81 m/s²)
+r = radius of the particle (m)
+η = dynamic viscosity of the fluid (steel, kg/m/s)
+
+We are given the following values:
+ρ_p (alumina) = 3650 kg/m³
+ρ_f (steel) = 7000 kg/m³
+η (steel) = 6 * 10^(-3) kg/m/s
+Particle diameter = 50 µm = 5 * 10^(-5) m
+Depth = 2 m
+
+First, we calculate the radius of the particle:
+r = diameter / 2 = (5 * 10^(-5) m) / 2 = 2.5 * 10^(-5) m
+
+Now we can calculate the velocity of the particle using Stoke's law:
+
+v = (2/9) * (3650 - 7000) * 9.81 * (2.5 * 10^(-5))^2 / (6 * 10^(-3))
+v = (2/9) * (-3350) * 9.81 * (6.25 * 10^(-10)) / (6 * 10^(-3))
+v = -0.0018474 m/s
+
+The negative sign indicates that the particle is moving upward (floating) in the liquid steel. To find the time required for the 50 µm diameter alumina particles to float to the surface from a depth of 2 meters, we can use the following formula:
+
+time = distance / velocity
+
+Since the depth is 2 m and the velocity is -0.0018474 m/s:
+
+time = 2 / (-0.0018474) = -1082.50 s
+
+The time required for the alumina particles to float to the surface is approximately 1082.50 seconds.
+
+So the correct answer is [1082.50].

@@ -1,0 +1,37 @@
+The formula for calculating the increase in temperature required to double the depth of penetration is as follows:
+
+$$
+\frac{Q}{R} \ln \left(\frac{t_2}{t_1}\right) + T_{1} = T_{2}
+$$
+
+Where,
+
+Q = Activation energy = 148 kJ $mol^(-1)$
+
+R = Gas constant = 8.314 J $mol^(-1)$ $K^(-1)$
+
+$t_1$ = initial time = 1 hour
+
+$t_2$ = new time = 2 hours (since we want to double the case depth while keeping the time as 1 hour)
+
+$T_1$ = initial temperature = 1300 K
+
+$T_2$ = new temperature (to be calculated)
+
+Substituting the values in the formula:
+
+$$
+\frac{(148 \times 10^3 \text{ J mol}^{-1})}{(8.314 \text{ J mol}^{-1} K^{-1})} \ln \left(\frac{2}{1}\right) + (1300 \text{ K}) = T_{2}
+$$
+
+Solving the above equation:
+
+$$
+T_{2} = 1427 \text{ K}
+$$
+
+Therefore, rounding off to the nearest whole number, the temperature required to double the case depth is 1427 K.
+
+Answer: 
+
+- 1427 K

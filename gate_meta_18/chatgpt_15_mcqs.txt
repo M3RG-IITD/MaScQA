@@ -1,0 +1,6 @@
+(B) Electro Slag Welding is not suitable for joining thin metal sheets. 
+
+Answer: 
+- A) Gas Metal Arc Welding
+- C) Electron Beam Welding
+- D) Laser Beam Welding

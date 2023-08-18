@@ -1,0 +1,60 @@
+To solve this problem, we can follow these steps:
+
+Step 1: Find the energy gained by the electron (in joules) from the accelerating voltage.
+Step 2: Find the momentum of the electron using the energy-momentum relationship.
+Step 3: Calculate the de Broglie wavelength λ using the de Broglie equation.
+
+Step 1: 
+Energy gained by the electron E = accelerating voltage * electron charge
+E = 300 kV * 1.6 * $10^{-19}$ C
+
+Since 1 kV = 1000 V, we have:
+E = 300,000 V * 1.6 * $10^{-19}$ C = 4.8 * $10^{-14}$ J
+
+Step 2:
+We can get the momentum p of the electron using the energy-momentum relationship:
+
+E = (1/2) * m * v^2
+
+Where E is the energy gained by the electron, m is the electron rest mass, and v is the velocity of the electron.
+
+We can solve for v:
+
+v^2 = 2 * E / m
+v = sqrt(2 * E / m)
+
+Now we can find the momentum p:
+
+p = m * v
+p = m * sqrt(2 * E / m)
+
+Substitute the values for m and E:
+
+p = (9.11 * $10^{-31}$ kg) * sqrt(2 * 4.8 * $10^{-14}$ J / (9.11 * $10^{-31}$ kg))
+
+p ≈ 3.14 * $10^{-23}$ kg m/s
+
+Step 3:
+Now we can use the de Broglie equation to find the wavelength λ:
+
+λ = h / p
+
+Where h is Planck's constant (6.63 * $10^{-34}$ J s) and p is the momentum of the electron.
+
+Substitute the value of h and p:
+
+λ = (6.63 * $10^{-34}$ J s) / (3.14 * $10^{-23}$ kg m/s)
+
+λ ≈ 2.11 * $10^{-11}$ m
+
+Now we can convert the wavelength to the form x * $10^{-12}$ m:
+
+2.11 * $10^{-11}$ m = x * $10^{-12}$ m
+
+x ≈ 21.10
+
+Since we need to round off to 2 decimal places, we have x = 21.10.
+
+So, the de Broglie wavelength of the electron is 21.10 * $10^{-12}$ m.
+
+The correct answer is [21.10].

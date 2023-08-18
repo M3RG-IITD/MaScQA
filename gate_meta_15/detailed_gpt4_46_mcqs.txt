@@ -1,0 +1,13 @@
+Let's analyze the Assertion [a] and the Reason [r] separately:
+
+Assertion [a]: In a pure metal weld, elastic modulus in the heat affected zone (HAZ) is the same as that in the base metal.
+- The elastic modulus of a material is the measure of its stiffness, which is an inherent property of the material itself. In a pure metal weld, the heat affected zone (HAZ) and the base metal are both composed of the same material. This means that the elastic modulus in the HAZ should be the same as that in the base metal. Therefore, the assertion is true.
+
+Reason [r]: Coarse grained microstructure in the HAZ results in lower hardness.
+- The heat affected zone, as the name suggests, is the region of a material that has been thermally affected during the welding process. Coarse-grained microstructures can form in the HAZ due to the rapid cooling rates associated with welding. This can result in a lower hardness in the HAZ but it does not influence the elastic modulus. Hardness and elastic modulus are related, but they are not the same property. Hence, the reason is also true.
+
+Now, let's compare [a] and [r] to determine the relationship between them:
+
+- Although both Assertion [a] and Reason [r] are true statements, [r] is not the correct reason for [a]. The formation of coarse-grained microstructure in the HAZ influencing hardness does not determine the elastic modulus of the material.
+
+Conclusion: The correct answer is (B) Both [a] and [r] are true, and [r] is not the correct reason for [a].

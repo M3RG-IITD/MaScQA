@@ -1,0 +1,53 @@
+Chvorinov's rule states that the solidification time (Ts) is proportional to the square of the volume-to-surface area ratio (V/A) of the casting:
+
+Ts = k * (V/A)^n,
+
+where n is the exponent, k is a constant, V is the volume, and A is the surface area.
+
+For the cubic casting:
+V1 = 5.0 * 5.0 * 5.0 = 125 cm³
+A1 = 6 * 5.0 * 5.0 = 150 cm²
+Ts1 = 1.6 min
+
+For the cylindrical riser:
+Diameter = d
+Height = h
+Diameter-to-height ratio = d/h = 0.5
+d = 0.5 * h
+
+V2 = π * (d/2)^2 * h = π * (0.25 * h^2)
+A2 = 2 * π * (d/2)^2 + 2 * π * (d/2) * h = 0.5 * π * h^2 + π * d * h
+
+Ts2 = 3.2 min
+
+Now, we apply Chvorinov's rule for the cubic casting and cylindrical riser, and divide the equations:
+
+Ts2/Ts1 = ((V2/A2) / (V1/A1))^n
+
+3.2 / 1.6 = ((V2/A2) / (125/150))^2
+
+2 = ((V2/A2) / (5/6))^2
+
+Solving for V2/A2:
+
+(V2/A2) = (5/6) * sqrt(2)
+
+Now, plugging in the volume and surface area of the cylindrical riser:
+
+(π * (0.25 * h^2)) / (0.5 * π * h^2 + π * d * h) = (5/6) * sqrt(2)
+
+Canceling out π:
+
+(0.25 * h^2) / (0.5 * h^2 + d * h) = (5/6) * sqrt(2)
+
+Substituting d = 0.5 * h:
+
+(0.25 * h^2) / (0.5 * h^2 + 0.5 * h^2) = (5/6) * sqrt(2)
+
+Solving for h:
+
+h^2 / h^2 = (5/6) * sqrt(2)
+h = sqrt((5/6) * sqrt(2))
+h ≈ 1.22 cm
+
+So, the height of the riser is approximately 1.22 cm. The answer is [1.22].

@@ -1,0 +1,25 @@
+To solve this problem, we'll first find the velocity at which the liquid metal enters the mold cavity. We can use the following formula for free fall:
+
+v^2 = u^2 + 2as
+
+where v is the final velocity, u is the initial velocity, a is the acceleration due to gravity, and s is the height from which the liquid is falling. In this case, u = 0, a = 9.8 $m/s^2$, and s = 0.5 m.
+
+v^2 = 0 + 2 * 9.8 * 0.5
+v^2 = 9.8
+v = sqrt(9.8)
+v ≈ 3.13 $m/s$
+
+Now, we can find the flow rate, which is the volume of liquid flowing into the mold per unit time (Q = A * v). In this case, A is the cross-sectional area of the gate (0.2 $m^2$), and v is the velocity of the stream (3.13 $m/s$).
+
+Q = 0.2 * 3.13
+Q ≈ 0.626 $m^3/s$
+
+Finally, we need to find the time required to fill the mold. The mold has a volume of 10 $m^3$, so we can find the required time by dividing the mold volume by the flow rate:
+
+t = V / Q
+t = 10 / 0.626
+t ≈ 15.97 seconds
+
+Rounding off to the nearest integer, the time required to fill the mold is approximately 16 seconds.
+
+The answer is [16].

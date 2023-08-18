@@ -1,0 +1,5 @@
+When a zinc metal rod is immersed in dilute hydrochloric acid, it results in the evolution of hydrogen gas. This is known as a single displacement reaction, where the more reactive metal zinc displaces the less reactive hydrogen from the hydrochloric acid. The balanced chemical equation for this reaction is:
+
+Zn (s) + 2HCl (aq) → ZnCl2 (aq) + H2 (g)
+
+Zinc reacts with hydrochloric acid to produce zinc chloride and hydrogen gas. The hydrogen gas will bubble out of the solution and can be observed. Therefore, the correct answer is (A) Evolution of hydrogen.

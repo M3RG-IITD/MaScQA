@@ -1,0 +1,30 @@
+Given the information, we can calculate the density of austenite following these steps:
+
+Step 1: Find the total number of atoms in 1 unit cell
+Since there are 10 atom % C mixed with Fe in fcc austenite, the total number of atoms in 1 unit cell is 
+Number of Fe atoms: 0.9 * 4 = 3.6
+Number of C atoms: 0.1 * 4 = 0.4
+
+Step 2: Calculate the mass of 1 unit cell
+Mass of Fe atoms in 1 unit cell = Number of Fe atoms * atomic weight of Fe = 3.6 * 55.8 = 200.88
+Mass of C atoms in 1 unit cell = Number of C atoms * atomic weight of C = 46.0.10 * 55.8 = 4.8
+Total mass = Mass of Fe atoms + Mass of C atoms = 200.88 + 4.8 = 205.68
+
+Step 3: Convert the mass to grams
+Total mass in grams: 205.68 amu × (1 g / (6.022 × 10^(23) amu)) = 3.42 × 10^(-22) grams
+
+Step 4: Calculate the volume of the unit cell
+Since the lattice parameter (a) is equal to 4 angstroms (Å), we can convert it to cm by multiplying by (10^(-8) cm/Å)
+a = 4 × 10^(-8) cm
+Now, calculate the volume of the unit cell (V) by using the formula for volume of a cube (V = a^(3))
+V = (4 × 10^(-8) cm)^(3) = 64 × 10^(-24) cm^3
+
+Step 5: Calculate the density (ρ)
+Density (ρ) = Mass/Volume
+ρ = (3.42 × 10^(-22) g) / (64 × 10^(-24) cm^3)
+ρ = 5.34 g/cm^3
+
+So the density of the austenite is 5.34 g/cm^3 (rounded off to two decimal places).
+
+The answer is:
+[5.34]

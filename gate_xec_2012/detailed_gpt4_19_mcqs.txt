@@ -1,0 +1,57 @@
+To solve this problem, we first need to find the stress and strain in the steel bar when the load is applied. Then, we'll find the stress in the aluminium bar using the same strain, and finally, we'll calculate the cross-sectional area of the aluminium bar.
+
+Step 1: Find the stress in the steel bar
+
+Stress in the steel bar ($σ_(steel)$) is given by the formula:
+
+$σ_(steel) = \dfrac{Load}{Area}$
+
+Given load = 20 kN = 20,000 N, and the cross-sectional area of steel bar = 8 $cm^2$ = $8×10^{-4}$ $m^2$.
+
+So, $σ_(steel) = \dfrac{20,000}{8×10^{-4}} = 2.5×10^7$ Pa
+
+Step 2: Find the strain in the steel bar
+
+Strain in the steel bar ($ε_(steel)$) is given by the formula:
+
+$ε_(steel) = \dfrac{σ_(steel)}{E_(steel)}$
+
+Given $E_(steel)$ = 200 GPa = $200×10^9$ Pa,
+
+So, $ε_(steel) = \dfrac{2.5×10^7}{200×10^9} = 1.25×10^{-4}$
+
+Step 3: Find the stress in the aluminium bar
+
+Since the strain in the aluminium bar is the same as the strain in the steel bar:
+
+$ε_(Al) = ε_(steel)$
+
+Stress in the aluminium bar ($σ_(Al)$) is given by the formula:
+
+$σ_(Al) = E_(Al)×ε_(Al)$
+
+Given $E_(Al)$ = 70 GPa = $70×10^9$ Pa, and $ε_(Al) = 1.25×10^{-4}$,
+
+So, $σ_(Al) = 70×10^9 × 1.25×10^{-4} = 8.75×10^6$ Pa
+
+Step 4: Calculate the cross-sectional area of the aluminium bar
+
+Let the cross-sectional area of the aluminium bar be A.
+
+Stress in the aluminium bar is given by the formula:
+
+$σ_(Al) = \dfrac{Load}{Area}$
+
+From the above equation, we get:
+
+$Area (A) = \dfrac{Load}{σ_(Al)}$
+
+Given load = 20,000 N, and $σ_(Al) = 8.75×10^6$ Pa,
+
+So, $A = \dfrac{20,000}{8.75×10^6} = 2.2857×10^{-3}$ $m^2$
+
+Converting to $cm^2$, we get:
+
+$A = 2.2857×10^{-3} × 10^4 = 22.857$ $cm^2$
+
+Therefore, the cross-sectional area of the aluminium bar is approximately 22.86 $cm^2$. The correct option is (D) 22.86 $cm^2$.

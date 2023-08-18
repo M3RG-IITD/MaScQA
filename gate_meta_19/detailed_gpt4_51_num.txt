@@ -1,0 +1,67 @@
+To find the true stress at necking, we need to use the concept of "instability in plastic deformation" which is given by the Considere's criterion. According to this criterion, necking begins when the true stress becomes equal to the maximum load-carrying capacity.
+
+We know that the derivative of the true stress with respect to true strain is dσ/dε. We need to find the value of true stress (σ) when dσ/dε is maximum. 
+
+Given flow curve equation: σ = 1750 * ε^0.37
+
+First, we'll find its derivative with respect to ε:
+
+dσ/dε = 1750 * (0.37) * ε^(0.37-1) = 1750 * 0.37 * ε^(-0.63)
+
+Now, we need to find the maximum value of this expression, which will give us the true stress at necking. To do this, we'll differentiate dσ/dε again with respect to ε:
+
+d(dσ/dε)/dε = 1750 * 0.37 * (-0.63) * ε^(-0.63-1) = 1750 * 0.37 * (-0.63) * ε^(-1.63)
+
+For this expression to have a maximum value, d(dσ/dε)/dε = 0:
+
+1750 * 0.37 * (-0.63) * ε^(-1.63) = 0
+
+Solving for ε, we get:
+
+ε^(-1.63) = 0
+
+This is an indeterminate form, and thus we need to employ the relation between true stress and true strain to determine the necking point.
+
+The relation between true stress and true strain is:
+
+σ = K * ε^n
+
+where,
+K = consnstant (in this case, 1750 MPa)
+n = strain hardening exponent (in this case, 0.37)
+ε = true strain
+
+Now, according to the Considere's criterion, at the necking point or instability:
+
+dσ/dε = σ
+
+From the first derivative expression:
+
+dσ/dε = 1750 * 0.37 * ε^(-0.63)
+
+Substituting σ = 1750 * ε^0.37, we get:
+
+1750 * 0.37 * ε^(-0.63) = 1750 * ε^0.37
+
+Dividing both sides by 1750:
+
+0.37 * ε^(-0.63) = ε^0.37
+
+Now, we'll isolate ε:
+
+ε^(-0.63 - 0.37) = 1/0.37
+ε^(-1) = 1/0.37 = 2.703
+
+Taking the reciprocal, we get:
+
+ε = 0.370
+
+Now, we'll use this value to find the true stress (σ) at necking:
+
+σ = 1750 * ε^0.37
+σ = 1750 * (0.370)^0.37
+σ ≈ 961.963
+
+Rounded off to the nearest integer, the true stress at necking is 962 MPa.
+
+So, the correct answer is [962].

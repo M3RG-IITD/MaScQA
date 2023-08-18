@@ -1,0 +1,27 @@
+Heat treatment processes can be classified into four main types - annealing, tempering, quenching, and carburizing. Each of these processes produces specific outcomes in terms of the material properties. The given question requires us to match the process with the associated desired outcome. Let's look at each process and outcome in detail:
+
+Column I:
+
+P - Quenching: Quenching is a process of rapid cooling after heating, usually by immersion in a liquid or water. This process hardens the steel by forming martensite.
+
+Q - Annealing: Annealing involves heating the steel to a high temperature (generally above the recrystallization temperature) and cooling it slowly. This process softens the cold worked steel, relieves internal stresses and improves the machinability and ductility of the steel.
+
+R - Tempering: Tempering is a heat treatment process that involves heating the quenched steel to a relatively low temperature (below the critical temperature) and then cooling it. The process re-heats the previously quenched material to release some of the internal stress created and the material returns to a more ductile state. This process toughens the steel and removes brittleness.
+
+S - Carburizing: Carburizing is a surface-hardening process that involves heating the steel in a carbon-rich environment (such as carbon monoxide, methane, or propane) at a high temperature. This process hardens the surface of the steel by increasing the carbon content in the outer layer of the material.
+
+Column II:
+
+1 - Hardens the steel: Hardening is the process of increasing the hardness of the steel. Hardening will increase the strength of the metal, which is useful in applications where strength is an important factor.
+
+2 - Softens cold worked steel: Cold working is a process that involves bending, stretching or compressing the material below its recrystallization temperature. Cold working will increase the strength of the metal but makes it more brittle, thus reducing its ductility. Annealing is typically used to restore this ductility.
+
+3 - Toughens the steel: Toughening is the process of increasing the toughness of the steel. Toughness is a measure of a material's ability to resist failure in the presence of crack or defects. Tempering is one of the more effective ways to increase toughness.
+
+4 - Hardens the surface of the steel: Hardening the surface of the steel is useful when the surface is subjected to wear or erosion. Carburization is a surface-hardening process that increases the carbon concentration in the outer layer of the steel, producing a hard, wear-resistant surface.
+
+Matching the processes and desired outcomes, we can see that:
+
+P-1; Q-2; R-3; S-4 
+
+Therefore, the correct answer is (C) P-1; Q-2; R-3; S-4

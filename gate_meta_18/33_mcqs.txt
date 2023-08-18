@@ -1,0 +1,2 @@
+Fe is produced in a reactor using pure $Fe_2O_3$, C and $O_2$. For every mole of Fe produced, 2.38 moles of C is used. The exit gas from the reactor contains CO and $CO_2$ in the molar ratio of 1:1. How many moles of $O_2$ is consumed for every mole of Fe produced?
+(A) 1.035 (B) 2.072 (C) 0.513 (D) 4.147

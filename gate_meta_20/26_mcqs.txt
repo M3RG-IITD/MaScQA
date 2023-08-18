@@ -1,0 +1,5 @@
+Assume all dislocation have identical Burgers vector. In the edge dislocation configuration given in the figure, dislocations X and Y are fixed and separated by a distance 2h on the same slip plane. Dislocation Z is free to glide on a parallel slip plane. The two slip planes are separated by a distance h. Which one of the following statements is TRUE regarding the stability of dislocation Z at position 1,2 and 3?
+(A) Position 1: unstable equlibrium; Position 2: unstable; Position 3: unstable
+(B) Position 1: stable equlibrium; Position 2: unstable; Position 3: unstable
+(C) Position 1: unstable equlibrium; Position 2: stable; Position 3: unstable
+(D) Position 1: stable equlibrium; Position 2: unstable; Position 3: stable

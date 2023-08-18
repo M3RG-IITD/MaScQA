@@ -1,0 +1,11 @@
+(P) Cottrell atmosphere: Segregation of solutes to the stacking fault.
+
+(Q) Suzuki interaction: Stress assisted diffusion of vacancies resulting in plastic deformation in a polycrystalline material.
+
+(R) Bauschinger effect: Decrease in yield stress when loading direction is reversed.
+
+(S) Nabarro-Herring creep: Lüders bands.
+
+Therefore, the matching option is:
+
+(B) P - 1, Q - 2, R - 4, S - 3

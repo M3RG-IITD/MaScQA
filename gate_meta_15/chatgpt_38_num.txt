@@ -1,0 +1,25 @@
+The expression for configurational entropy due to ideal mixing in a binary A-B system is:
+
+$∆S_{mix} = -R*(X_A*ln[X_A] + X_B*ln[X_B])$
+
+where $X_A$ and $X_B$ are mole fractions of A and B respectively.
+
+To find the maximum value of $∆S_{mix}$, we need to take the derivative of $∆S_{mix}$ with respect to $X_A$ and set it equal to zero:
+
+$\frac{d ∆S_{mix}}{d X_A} = -R*(ln[X_A] + 1) + R*ln[X_B]$
+
+Setting this equal to zero, we get:
+
+$-R*(ln[X_A] + 1) + R*ln[X_B] = 0$
+
+$ln[X_A] = ln[X_B] - 1$
+
+$X_A = e^{ln[X_B] - 1}$
+
+$X_A = e^{ln[X_B]} * e^{-1}$
+
+$X_A = X_B * e^{-1}$
+
+Therefore, $∆S_{mix}$ is maximum when $X_A = X_B * e^{-1}$.
+
+Answer: [$X_A = X_B * e^{-1}$]

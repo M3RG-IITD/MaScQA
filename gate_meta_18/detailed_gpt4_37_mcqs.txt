@@ -1,0 +1,26 @@
+To answer this question, we need to consider the change in the interatomic spacing of the A metal with the substitutional X atoms and the positions around the dislocation that minimizes the strain energy in the alloy.
+
+1. Powder diffraction and peak shifts:
+When the peaks in the powder diffraction pattern shift to the left for the alloy compared to pure A, it indicates that the interatomic spacing has increased due to the presence of the X atoms. This can be understood by the Bragg's law:
+
+nλ = 2d sinθ
+
+Where n is an integer, λ is the wavelength of the X-ray, d is the interplanar spacing, and θ is the diffraction angle. If the peaks have shifted to the left, the diffraction angle θ has decreased for the same integer n, which means that the interplanar spacing d has increased.
+
+2. Edge dislocation and solute segregation:
+In an edge dislocation, the lattice planes are distorted, leading to compression above the dislocation line and tension below. A substitutional solid solution like X will tend to segregate to regions that minimize their strain energy in the alloy. Since X atoms cause an increase in the interatomic spacing, they will preferentially occupy positions where the lattice is under tension, which lowers the strain energy.
+
+3. Positions around the edge dislocation:
+Given that X atoms will minimize their strain energy if they occupy positions with tension, let's consider the four positions given: P, Q, R, and S.
+
+(A) P: This position is close to the dislocation line but above it, where the lattice is compressed. An X atom would increase strain energy here, so it's not preferred.
+
+(B) Q: This position is far away from the dislocation line and does not experience a significant distortion (either compression or tension) due to the dislocation. An X atom would neither increase nor decrease the strain energy here, so it's not preferred.
+
+(C) R: This position is close to the dislocation line but below it, where the lattice is in tension. An X atom would decrease the strain energy here, so it's a preferred position.
+
+(D) S: This position is also close to the dislocation line but below it, where the lattice is in tension. An X atom would decrease the strain energy here, so it's another preferred position.
+
+From these analyses, we can conclude that X atoms will preferentially occupy positions R and S around the edge dislocation in the dilute substitutional solid solution of X in metal A. 
+
+The correct answer is: [(C) R, (D) S]

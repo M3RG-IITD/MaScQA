@@ -1,0 +1,35 @@
+The given schematic plane represents the (110) plane of the crystal.
+
+![image.png](attachment:image.png)
+
+The Bragg's law relates the wavelength of X-rays incident on a crystal and the angle of diffraction as follows:
+
+nλ = 2d sinθ
+
+where n is the order of reflection (n=1 for the first order), λ is the wavelength of X-rays, d is the interplanar spacing of the planes in the crystal, and θ is the angle of diffraction.
+
+The distance between the (110) planes can be calculated using the formula for the interplanar spacing of a cubic crystal:
+
+d(hkl) = a/√(h^2 + k^2 + l^2)
+
+where h, k, and l are the Miller indices of the plane.
+
+For the (110) plane, h=1, k=1, and l=0. Therefore, 
+
+d(110) = a/√(1^2 + 1^2 + 0^2) = a/√2
+
+= 0.245 nm/√2 = 0.1737 nm
+
+Substituting the values into the Bragg's law equation:
+
+1 x 0.154 nm = 2 x 0.1737 nm x sinθ
+
+sinθ = 0.154 nm / (2 x 0.1737 nm) = 0.443
+
+θ = sin^-1(0.443) = 26.5 degrees
+
+Therefore, the diffraction angle (2θ) for the first order reflection from the (110) plane is:
+
+2θ = 2 x 26.5 degrees = 53 degrees (rounded off to 1 decimal place)
+
+Answer: [53]

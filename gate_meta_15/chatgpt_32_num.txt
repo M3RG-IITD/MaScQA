@@ -1,0 +1,29 @@
+First, we need to use the formula for Gibbs free energy to calculate the equilibrium constant ($K$) at 1200 K:
+
+$∆𝐺° = −RT\ln{K}$
+
+$-8000 = -8.314 \times 1200 \ln{K}$
+
+$\ln{K} = \frac{-8000}{-8.314 \times 1200}$
+
+$K = e^{\frac{-8000}{-8.314 \times 1200}} = 3.46$
+
+Next, we can use the equilibrium constant to calculate the equilibrium ratio of $\frac{p_{CO_2}}{p_{CO}}$:
+
+$K = \frac{p_{FeO}^3 p_{CO_2}}{p_{Fe_3O_4} p_{CO}}$
+
+Since the reaction starts with pure $Fe_3O_4$ and pure $CO$, we can assume that the initial pressures of $Fe_3O_4$ and $FeO$ are negligible compared to the partial pressure of $CO$ and $CO_2$.
+
+Therefore, we can simplify the equation to:
+
+$K = \frac{p_{CO_2}}{p_{CO}}$
+
+Plugging in the value of $K$, we get:
+
+$\frac{p_{CO_2}}{p_{CO}} = 3.46$
+
+Thus, the equilibrium ratio of $\frac{p_{CO_2}}{p_{CO}}$ is 3.46. 
+
+Answer: 
+
+- 3.46

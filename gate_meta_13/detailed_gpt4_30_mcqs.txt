@@ -1,0 +1,51 @@
+To solve this problem, we need to understand the relationship between the interplanar spacing (d-spacing) and the diffraction pattern in an FCC metal.
+
+1. For an FCC lattice, the X-ray diffraction pattern is governed by Bragg's law:
+
+nλ = 2d sin(θ)
+
+where n is an integer representing the order of diffraction, λ is the wavelength of X-rays, d is the interplanar spacing, and θ is the angle of incidence (also known as the Bragg angle).
+
+2. The interplanar spacing for an FCC lattice is given by the following formula:
+
+d = a / √(h² + k² + l²)
+
+where a is the lattice constant, and (h, k, l) are the Miller indices of the plane of interest.
+
+3. For an FCC lattice, the Miller indices (h, k, l) must satisfy the condition that the sum h + k + l is even. This is because only certain planes will give constructive interference in an FCC lattice.
+
+For the first diffraction peak in an FCC structure, the Miller indices giving the lowest (h² + k² + l²) values are (1, 1, 1). So, we have:
+d₁ = a / √(1² + 1² + 1²)
+
+d₁ = a / √3
+
+For the second diffraction peak, the Miller indices giving the next lowest (h² + k² + l²) values are (2, 0, 0). So, we have:
+
+d₂ = a / √(2² + 0² + 0²)
+
+d₂ = a / √4
+
+d₂ = a / 2
+
+4. Now, we need to find the ratio of the interplanar spacing obtained from these two peaks:
+
+d₁/d₂ = (a/√3) / (a/2)
+
+To find the ratio, we just divide the two expressions:
+
+(a/√3) / (a/2) = (a/√3) * (2/a) = 2/√3
+
+To simplify the ratio, we can rationalize the denominator:
+
+2/√3 * (√3/√3) = 2√3 / 3
+
+Now, let's compare this ratio to the given options:
+
+(A) 1.91
+(B) 1.63
+(C) 1.41
+(D) 1.15
+
+The value of 2√3 / 3 is approximately 1.15.
+
+So, the correct answer is (D) 1.15.

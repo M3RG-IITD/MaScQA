@@ -1,0 +1,35 @@
+In a regular solution, when two elements A and B have the same crystal structure, the mixing enthalpy ($ΔH_(mix)$) depends on the interaction between the solute and solvent atoms. Activity of B ($a_B$) is a measure of how the concentration of B affects the properties of the solution.
+
+The relationship between $ΔH_(mix)$ and the activity coefficient ($γ_B$) can be described using the Gibbs-Duhem equation:
+
+$ln(γ_B) = X^2_A * \frac{ΔH_(mix)}{RT}$
+
+where $X_A$ and $X_B$ are the mole fractions of A and B, respectively, $R$ is the gas constant, and $T$ is the temperature.
+
+The activity of B is given by:
+
+$a_B = γ_B * X_B$
+
+Combining the equations, we get:
+
+$a_B = (e^{(X^2_A * \frac{ΔH_(mix)}{RT})}) * X_B$
+
+Now, let's examine the options:
+
+(A) If $ΔH_(mix)$ = 0, then $a_B$ < $X_B$
+
+If $ΔH_(mix)$ = 0, then $ln(γ_B) = X^2_A * \frac{0}{RT} = 0$, therefore $γ_B = e^{0} = 1$. In this case, $a_B = 1 * X_B = X_B$, which means $a_B$ is not less than $X_B$.
+
+(B) If $ΔH_(mix)$ = 0, then $a_B$ > $X_B$
+
+Using the same logic as in (A), if $ΔH_(mix)$ = 0, then $a_B = X_B$. So $a_B$ is not greater than $X_B$.
+
+(C) If $ΔH_(mix)$ > 0, then $a_B$ < $X_B$
+
+If $ΔH_(mix)$ > 0, then $ln(γ_B) = X^2_A * \frac{ΔH_(mix)}{RT} > 0$ since all the terms within the equation are positive. This results in $γ_B > 1$, therefore $a_B = γ_B * X_B > X_B$. So $a_B$ is not less than $X_B$.
+
+(D) If $ΔH_(mix)$ < 0, then $a_B$ < $X_B$
+
+If $ΔH_(mix)$ < 0, then $ln(γ_B) = X^2_A * \frac{ΔH_(mix)}{RT} < 0$ since $ΔH_(mix)$ is negative while the other terms are positive. This results in $0 < γ_B < 1$, therefore $a_B = γ_B * X_B < X_B$.
+
+Answer: [ (D) ]

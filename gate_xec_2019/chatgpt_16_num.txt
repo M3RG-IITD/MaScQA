@@ -1,0 +1,32 @@
+Given: 
+Tensile true stress – true strain curve for plastic region of an alloy is given by 𝜎 (MPa)=600 $𝜀^𝑛$. When true strain is 0.05, the true stress is 350 MPa.
+
+To Find: For the same alloy, when engineering strain is 0.12 then the engineering stress(in MPa) is?
+
+We know that:
+
+True Strain $\epsilon$ and Engineering Strain $\epsilon_e$ are related as follows:
+
+$\epsilon_e = \ln(1+\epsilon)$
+
+Given 𝜎 (MPa)=600 𝜀$^n$ and 𝜎 = 350MPa at 𝜀 = 0.05. 
+
+We can use these values to find n:
+
+$ 350 = 600 \times 0.05^n$
+
+$\Rightarrow n = \frac{\ln(350/600)}{\ln(0.05)} \approx 2.57$
+
+Now, when $\epsilon_e = 0.12$,
+
+$\epsilon = e^{\epsilon_e} - 1 = e^{0.12} - 1 \approx 0.13$
+
+Substituting the values of n and $\epsilon$ in 𝜎 (MPa)=600 $𝜀^n$ we get:
+
+$\sigma = 600\times0.13^{2.57} \approx 544MPa$
+
+Answer: 
+The engineering stress (in MPa) is approximately 544. 
+
+Therefore, the correct answer is:
+- 544
