@@ -1,1 +1,0 @@
-Given: Diffusivity, $D_(1373K)$ = $10^(-18)m^2s^(-1) and $D_(1273K) = 10^(-19)m^2s^(-1). It takes 10 hours to homogenize an alloy at 1273 K. The time required (in hours) to achieve the same extent of homogenization at 1373 K is?

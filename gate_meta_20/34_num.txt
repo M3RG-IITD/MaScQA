@@ -1,2 +1,0 @@
-Given, wavelength of the X-ray used is 0.1543nm. X-ray diffraction pattern from an elemental metal with a FCC crystal structure shows the first peak at a Bragg angle θ = 24.65°. The lattice parameter(in nm) of this metal is?
-(A) 0.185 (B) 0.262 (C) 0.320 (D) 0.370

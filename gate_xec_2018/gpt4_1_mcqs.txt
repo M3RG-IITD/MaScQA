@@ -1,5 +1,0 @@
-The correct answer is (C) -1. 
-
-A completely reversed cyclic loading is when the stress alternates between equal magnitudes of tension and compression. In this case, the stress ratio (R) is the minimum stress (compressive) divided by the maximum stress (tensile), and since they have equal magnitudes but opposite signs, the ratio is -1.
-
-So the correct answer is [-1].

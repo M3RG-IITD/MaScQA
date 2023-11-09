@@ -1,2 +1,0 @@
-Given: ($ΔH_(mix)$ - Mixing enthalpy, $a_B$ - activity of B and $X_B$ - Mole fraction of B). Elements A and B have the same crystal structure. For a dilute solution of B in A, which one of the following is true?
-(A) If $ΔH_(mix)$ = 0, then $a_B$ < $X_B$ (B) If $ΔH_(mix)$ = 0, then $a_B$ > $X_B$ (C) If $ΔH_(mix)$ > 0, then $a_B$ < $X_B$ (D) If $ΔH_(mix)$ < 0, then $a_B$ < $X_B$

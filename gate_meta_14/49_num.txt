@@ -1,1 +1,0 @@
-The flow curve of an annealed metal is expressed as 𝜎 = $200𝜀^(0.25)$ , where σ is in MPa. If a rod of this metal is subjected to a true strain of ε = 0.3 by extrusion, the ideal plastic work of deformation per unit volume (in MJ/$m^3$) is

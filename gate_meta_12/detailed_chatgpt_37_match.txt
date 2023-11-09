@@ -1,6 +1,0 @@
-P. Matte smelting is a process used for extracting copper and nickel. 
-Q. Cyanide leaching is used for the extraction of gold. 
-R. Carbothermic reduction is a process used for the extraction of aluminium. 
-S. Fused salt electrolysis is used for the extraction of lead. 
-
-Therefore, the correct matching is: (B) P-2, Q-3, R-1, S-4

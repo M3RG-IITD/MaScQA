@@ -1,5 +1,0 @@
-Match the type of magnetism given in Group 1 with the material given in Group 2:
-Group 1 : [P: Ferromagnetic, Q: Ferrimagnetic, R: Antiferromagnetic, S: Paramagnetic]
-Group 2 : [1: Nickel oxide, 2: Sodium, 3: Magnetite, 4: Cobalt]
-
-Options: (A) P-4, Q-3, R-1, S-2 (B) P-4, Q-1, R-3, S-2 (C) P-1, Q-2, R-4, S-3 (D) P-3, Q-2, R-1, S-4

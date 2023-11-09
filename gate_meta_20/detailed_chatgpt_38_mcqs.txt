@@ -1,5 +1,0 @@
-The assertion [a] states that the rate of homogenization in a dilute substitutional solid solution of B in A is controlled by the diffusivity of B. This is generally true because homogenization is the process of dispersing the solute (B) uniformly throughout the solvent (A) to form a homogeneous mixture. This process is driven by the diffusion of the solute atoms through the solvent, and hence the rate of homogenization is controlled by the diffusivity of B. So, [a] is true.
-
-The reason [r] states that atomic migration cannot occur along dislocations and grain boundaries. This is not entirely true because dislocations and grain boundaries can serve as effective paths for atomic migration, which can enhance the rate of homogenization. In fact, the presence of defects like dislocations and grain boundaries can significantly increase the diffusivity of solute atoms by providing low-energy diffusion pathways. Therefore, [r] is false.
-
-Thus, the correct option is (D) [a] is true but [r] is false.

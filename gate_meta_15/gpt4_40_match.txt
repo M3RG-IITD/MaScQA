@@ -1,8 +1,0 @@
-The correct match for the names listed in Group I with the reactions listed in Group II is as follows:
-
-P. Eutectic - 2. 𝐿 → 𝛼 + 𝛽
-Q. Peritectic - 4. 𝐿 + 𝛽 → 𝛼
-R. Peritectoid - 1. 𝛾 + 𝛽 → 𝛼
-S. Monotectic - 3. 𝐿1 → 𝐿2 + 𝛼
-
-So, the correct answer is (C) P-2, Q-4, R-1, S-3.

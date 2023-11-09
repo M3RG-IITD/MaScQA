@@ -1,1 +1,0 @@
-The Young’s modulus of a unidirectional SiC fiber reinforced Ti matrix composite is 185 GPa. If the Young’s moduli of Ti and SiC are 110 and 360 GPa respectively, the volume fraction of fibers in the composite is

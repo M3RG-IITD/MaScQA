@@ -1,2 +1,0 @@
-At low injection level, a forward biased p-n junction would have
-(A) no charge carriers (B) minority carrier concentration much more than majority carrier concentration (C) minority carrier concentration equal to majority carrier concentration (D) minority carrier concentration much less than majority carrier concentration

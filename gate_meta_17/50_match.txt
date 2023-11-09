@@ -1,5 +1,0 @@
-At low temperature, two parallel edge dislocations lying on parallel edge dislocations lying on parallel slip planes are shown in different configurations below. Match coloumn I and coloum II:
-Coloumn I: [Configuration [P], Configuration[Q], Configuration[R], Configuration[S]]
-Coloumn II: [(1) Dislocations repel, (2) Dislocations attract, (3) Dislocations are in stable equilibrium, (4) Dislocations are in unstable equilibrium]
-
-Options: (A) P-3, Q-2, R-4, S-1 (B) P-4, Q-1, R-3, S-2 (C) P-1, Q-3, Q-2, R-4 (D) P-2, Q-4, R-1, S-3

@@ -1,7 +1,0 @@
-The figure is not given, but based on the information provided, the correct answer can be deduced. 
-
-Since the question states that in froth flotation, hydrophobic minerals (i.e. minerals which repel water) will ascend with air bubbles, it can be assumed that either mineral P or mineral Q is hydrophobic. 
-
-Now, if the water droplet placed on the surface of mineral P wets the surface completely (i.e. spreads out and fully covers the surface), then mineral P is hydrophilic and will not ascend with the air bubbles. On the other hand, if the water droplet placed on the surface of mineral Q forms a high contact angle with the surface (i.e. does not spread out, but instead forms a droplet with a curved surface), then mineral Q is hydrophobic and will ascend with the air bubbles.
-
-Therefore, the correct answer is (B) Mineral Q ascends with air bubbles preferentially over mineral P.

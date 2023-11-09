@@ -1,1 +1,0 @@
-Assume the radius of Fe atom to be 0.124 nm. The radius of an interstitial atom which just fits(without distorting the structure) inside an octahedral void of a bcc-iron crystal (in nm) is?(round off to 3 decimal places)

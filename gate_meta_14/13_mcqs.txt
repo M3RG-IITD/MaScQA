@@ -1,2 +1,0 @@
-In the trapezoidal rule for numerical integration of a function, the nature of approximation used for the function in each interval is
-(A) constant (B) linear (C) parabolic (D) cubic

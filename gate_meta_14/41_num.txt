@@ -1,1 +1,0 @@
-A rod of a metal with Young’s modulus of 200 GPa is pulled in tension to a stress of 400 MPa. What is the elastic strain (in %) that is recovered, when the rod is completely unloaded?

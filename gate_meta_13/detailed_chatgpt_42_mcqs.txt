@@ -1,7 +1,0 @@
-The assertion states that for the hydrometallurgical extraction of metal values from their sulphide concentrates, leaching with oxygen under high pressure is used. The reason given for this is that the presence of oxygen under high pressure causes roasting of sulphides, which helps in leaching of the values.
-
-The assertion is partially true. Hydrometallurgical routes are often used for the extraction of metals from their sulphide concentrates, and leaching with oxygen under high pressure can be one method for this extraction. However, this is not the only method and other techniques such as bacterial leaching or pressure oxidation can also be used. Therefore, the assertion is only partially true.
-
-The reason given is also partially true. The presence of oxygen under high pressure can indeed cause roasting of sulphides, which results in the conversion of metal sulphides to oxides, making them more amenable to leaching. However, the assertion does not mention whether the high pressure is a requirement or whether other factors are involved in the leaching process. Therefore, the reason is also only partially true.
-
-Thus, the correct answer is (D) both a and r are true, but r is not the reason for a.

@@ -1,2 +1,0 @@
-Two equal and opposite point charges + Q and - Q are located as shown in the figure above. A surface integral, $𝐹_𝑖$ is defined on surface $𝑆_𝑖$ of a sphere of radius $𝑟_𝑖$ as follows: $F_i$ = = $∮_(S_i)$* (E ∙ 𝑛̂ )dS, where E  is the electric field, and 𝑛̂ is the unit normal to the surface of integration. If 𝑟1: 𝑟2: 𝑟3 are in the ratio 1: 2: 5, use the Gauss divergence theorem to determine the ratio 𝐹1: 𝐹2: 𝐹3.
-(A) 1 : 2 : 5 (B) 5 : 2 : 1 (C) 1 : -1 : 0 (D) 1 : 1 : 0

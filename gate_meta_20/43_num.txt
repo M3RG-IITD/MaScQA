@@ -1,1 +1,0 @@
-Given:(Anodic Tafel Slope is 0.06 V. DIffusion coefficient of oxygen is 2.42* $10^(-5)cm^(2).s^(-1)$. Diffusion layer thickness is 0.06 cm.) Iron is corroding in fresh water which has dissolved oxygen concentration of 15mM. The anodic current density(in $A.cm^(-2)$) at an overpotential of 120 mV is?(round off to three decimal places).

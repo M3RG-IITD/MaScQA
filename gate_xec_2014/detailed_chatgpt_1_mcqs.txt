@@ -1,9 +1,0 @@
-
-
-The correct answer is (C) of the presence of chlorine atom in the structure.
-
-Explanation:
-
-Neoprene is a synthetic rubber that is commonly used in the production of gaskets, hoses, and wetsuits. It is non-inflammable due to the presence of a chlorine atom in its structure. This is because, during combustion, chlorine atoms react with the radicals generated in the flame to form hydrogen chloride, which is a non-combustible gas. As a result, the flame is extinguished, and the material does not support combustion.
-
-Moreover, the presence of a highly cross-linked structure (option A) or a highly linear chain structure (option B) does not necessarily render a material non-inflammable. The absence of a chlorine atom (option D) also does not provide any mechanism for the material to resist combustion. Therefore, option C is the correct answer.

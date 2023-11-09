@@ -1,5 +1,0 @@
-Match the nature of bonding (Column I) with material (Column II)
-Column I: [(P) Ionic, (Q) Covalent, (R) Metallic, (S) Secondary]
-Column II: [(1) Diamond, (2) Silver, (3) NaCl, (4) Solid argon ]
-
-Options: (A) P – 4, Q – 3, R – 2, S – 1 (B) P – 2, Q – 1, R – 3, S – 4 (C) P – 3, Q – 1, R – 4, S – 2 (D) P – 3, Q – 1, R – 2, S – 4 

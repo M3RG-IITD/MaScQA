@@ -1,8 +1,0 @@
-The correct matchings for the elements and their crystal structures are:
-
-P. Tungsten - 3. BCC (Body-centred cubic)
-Q. Nickel - 4. FCC (Face-centred cubic)
-R. Magnesium - 1. HCP (Hexagonal close-packed)
-S. Polonium - 2. Simple cubic
-
-So the correct answer is (B) P-3, Q-4, R-1, S-2.

@@ -1,2 +1,0 @@
-Stress required to operate a Frank-Read source of length L is approximately given by:
-(A) Gb/L (B) $Gb^2$/L (C) $Gb^(2)/L^(2)$ (D) $Gb^(2)/2L^2$

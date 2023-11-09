@@ -1,7 +1,0 @@
-
-
-The slope of a graph of $log_e$(conductivity) versus 1/T is equal to $-\frac{E_g}{2k}$, where $E_g$ is the energy gap of the intrinsic semiconductor and $k$ is the Boltzmann constant. Therefore, the correct answer is (B) $-\frac{E_g}{2k}$. 
-
-Answer: 
-
-- (B) $-\frac{E_g}{2k}$

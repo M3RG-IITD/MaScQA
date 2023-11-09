@@ -1,4 +1,0 @@
-The technique that does NOT require quenching to obtain final case hardness is (C) Nitriding. 
-
-Correct answer: 
-- (C) Nitriding

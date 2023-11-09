@@ -1,8 +1,0 @@
-The correct phase transformations and corresponding reactions are as follows:
-
-- Peritectic (P): L + α → β (Column II - 4)
-- Monotectic (Q): L1 → L2 + α (Column II - 3)
-- Eutectoid (R): γ → α + β (Column II - 1)
-- Syntectic (S): L1 + L2 → α (Column II - 2)
-
-So the correct answer is (A) P-4, Q-3, R-1, S-2.

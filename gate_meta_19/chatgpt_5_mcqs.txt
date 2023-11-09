@@ -1,7 +1,0 @@
-The activity of a component in a solution is equal to its mole fraction only at an infinitesimally low concentration of the solution. Therefore, generally, the activity of a component is not equal to its mole fraction in a solution. 
-
-In the present case, liquid steel is a solution of iron and carbon. When liquid steel is kept in a graphite crucible for long enough time, equilibrium will be established between the iron-carbon solution and graphite crucible. At equilibrium, the activity of carbon in the liquid will be equal to the activity of carbon in graphite, which is unity by definition.
-
-Therefore, the correct answer is:
-
-(C) 1.0

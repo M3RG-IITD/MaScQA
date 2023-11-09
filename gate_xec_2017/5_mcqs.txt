@@ -1,2 +1,0 @@
-The contrast obtained in scanning electron microscope using back scattered electrons depends on
-(A) Atomic number of the specimen material (B) Accelerating voltage of the microscope (C) Working distance in the microscope (D) Type of the electron emitter in the microscope

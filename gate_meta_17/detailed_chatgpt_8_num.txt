@@ -1,9 +1,0 @@
-To find the cumulative mass fraction of particles of size less than 1.68 mm, we need to add up the mass fractions of all the sieve sizes that are smaller than 1.68 mm.
-
-Looking at the table, we see that sieve sizes 16, 30, 40, 50, and 100 have smaller openings than 1.68 mm. So we need to add up their mass fractions:
-
-Cumulative mass fraction = 0.5 + 2.7 + 5.5 + 9.8 + 25.5 = 43.0%
-
-Therefore, the cumulative mass fraction of particles of size less than 1.68 mm is 43.0%.
-
-Answer: [43.0%]

@@ -1,3 +1,0 @@
-Chromium has the bcc structure with atomic diameter of 2.494 Å. Calculate the lattice parameter of chromium assuming tight atomic bonding. 
-(A) 1.442 Å (B) 2.880 Å (C) 4.323 Å (D) 5.764 Å
-

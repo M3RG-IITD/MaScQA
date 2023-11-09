@@ -1,1 +1,0 @@
-Given: E° ($Li^(+)$/Li) = -3.04 V versus Standard Hydrogen Electrode, E° ($Zn^(2+)$/Zn) = -0.77 V versus Standard Hydrogen Electrode. An electrochemical reaction is known to occur at +4.50 V against a $Li^(+)$/Li reference electrode. The potential(in volts) of the same reaction against a $Zn^(2+)$/Zn reference electrode is? (Round off to two decimal places).   

@@ -1,5 +1,0 @@
-Match the following mineral processing operations (Column I) with the corresponding physical principles (Column II)
-Column I: [(P) Flotation, (Q) Jigging, (R) Tabling, (S) Comminution]
-Column II: [(1) Difference in speed of lateral movements, (2) Hydrophobicity, (3) Difference in size reduction, (4) Difference in initial acceleration]
-
-Options; (A) P - 2, Q - 4, R - 1, S - 3 (B) P - 2, Q - 3, R - 1, S - 4 (C) P - 3, Q - 1, R - 4, S - 2 (D) P - 1, Q - 4, R - 2, S - 3

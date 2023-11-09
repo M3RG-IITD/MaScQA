@@ -1,2 +1,0 @@
-Determine the correctness or otherwise of the following Assertion (a) and Reason (r). Assertion (a): Peak aging time for an Al-4 wt.% Cu alloy is indicated by a maximum in the hardness. Reason (r): The maximum volume fraction of the θ precipitates is formed at the peak aging time.
-(A) a is true but r is false (B) a is false but r is true (C) both a and r are true, and r is the reason for a (D) both a and r are true, but r is not the reason for a

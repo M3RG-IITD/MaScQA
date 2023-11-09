@@ -1,5 +1,0 @@
-Match the operations listed in Group I with the types of processes listed in Group II.
-Group I: [P. Blast Furnace Ironmaking, Q. BOF Steelmaking, R. Hall-Heroult Process, S. Bayer Process]
-Group II: [1. Refining, 2. Electrolysis, 3. Smelting, 4. Leaching]
-
-Options: (A) P-1, Q-3, R-2, S-4 (B) P-3, Q-1, R-2, S-4 (C) P-4,Q-2, R-3, S-1 (D) P-3, Q-1, R-4, S-2

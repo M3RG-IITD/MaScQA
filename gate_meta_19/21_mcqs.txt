@@ -1,2 +1,0 @@
-The most suitable non-destructive testing method for detecting small internal flaws in a dense bulk material is?
-(A) Dye penetrant method (B) Ultrasonic inspection (C) Eddy current testing (D) Magnetic particle inspection

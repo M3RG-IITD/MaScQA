@@ -1,5 +1,0 @@
-As a gray surface emits far less radiation than a black body, the correct spectra for emission from a grey surface and a black body will be different. 
-
-The correct spectra for emission from a gray surface is option (A)
-
-The correct spectra for emission from a black body is option (D)

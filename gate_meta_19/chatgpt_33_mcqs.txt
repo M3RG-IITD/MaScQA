@@ -1,1 +1,0 @@
-As the stress state given in the question is pure shear, the Mohr's circle for pure shear will be a point on the τ axis at a distance of τ from the origin. Therefore, the answer is option (A).

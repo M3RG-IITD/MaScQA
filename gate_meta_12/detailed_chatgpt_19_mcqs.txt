@@ -1,5 +1,0 @@
-The property of a material that CANNOT be significantly changed by heat treatment is Elastic Modulus.
-
-Explanation:
-
-Heat treatment can alter the microstructure of a material by changing its mechanical properties such as Yield Strength, Ultimate Tensile Strength and Ductility. However, Elastic Modulus (also known as Young's Modulus) is a material property that is a measure of its stiffness, and is not affected much by heat treatment. It is a fundamental property of the material that is determined by its chemical composition and crystal structure. Therefore, the correct answer is (D) Elastic Modulus.

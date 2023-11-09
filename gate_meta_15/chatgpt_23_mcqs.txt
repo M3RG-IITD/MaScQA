@@ -1,3 +1,0 @@
-The Mohr's circle for equi-biaxial tension has its center located on the origin (0,0) and its radius is equal to the average of the two principal stresses. Looking at the given Mohr's circles in the image, the one that corresponds to equi-biaxial tension is Mohr's circle (C) R. 
-
-Therefore, the correct answer is (C) R.

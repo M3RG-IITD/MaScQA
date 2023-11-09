@@ -1,5 +1,0 @@
-
-
-The answer is (B) MgO. 
-
-Explanation: Fluorite structure refers to a structure in which anions (usually oxide ions) are arranged in a cubic close-packed lattice and the cations occupy a fraction of the tetrahedral interstices. MgO has this structure, as it is composed of Mg$^{2+}$ cations and O$^{2-}$ anions arranged in a fluorite structure. $UO_2$ adopts a CaF$_2$ (or fluorite-like) structure, which is similar but not identical to the fluorite structure. $BaTiO_3$ adopts a perovskite structure, while $MgAl_2O_4$ adopts a spinel structure.

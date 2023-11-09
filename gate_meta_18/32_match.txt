@@ -1,5 +1,0 @@
-Match the metal in Group 1 with the appropriate extractive process in Group 2
-Group I: [P. Fe, Q. Ni, R. Al, S. Cr]
-Group II: [1. Metallothermic Reduction, 2. Carbothermic reduction, 3. Matte Smelting, 4. Fused Salt Electrolysis]
-
-Options: (A) P-1, Q-2, R-4, S-3 (B) P-2, Q-4, R-1, S-3 (C) P-2, Q-3, R-4, S-1 (D) P-2, Q-1, R-4, S-3

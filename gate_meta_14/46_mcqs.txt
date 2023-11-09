@@ -1,2 +1,0 @@
-Determine the correctness or otherwise of the following Assertion (a) and Reason (r). Assertion (a): During welding of aluminium alloys by the gas tungsten arc welding process, direct current reverse polarity (DCRP) mode is used. Reason (r): DCRP facilitates breaking up of the oxide film on the workpiece surface.
-(A) a is true but r is false (B) a is false but r is true (C) both a and r are true, and r is the reason for a (D) both a and r are true, but r is not the reason for a

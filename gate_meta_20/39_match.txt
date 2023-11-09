@@ -1,5 +1,0 @@
-Match the elements in Column I with their electronic behaviour given in Column II.
-Column I: [(P) Copper, (Q) Iron, (R) Mercury, (S) Silicon]
-Column II: [1. Ferromagnetic, 2. Superconducting, 3. Semiconducting, 4. Diamagnetic]
-
-Options: (A) P-1, Q-2, R-3, S-4 (B) P-3, Q-4, R-1, S-2 (C) P-4, Q-1, R-2, S-3 (D) P-4, Q-3, R-1, S-2

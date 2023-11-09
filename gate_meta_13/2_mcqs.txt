@@ -1,2 +1,0 @@
-As the concentration of point defects in a crystal increases, its configurational entropy
-(A) does not change (B) decreases (C) increases (D) initially increases and then decreases

@@ -1,2 +1,0 @@
-Determine the correctness or otherwise of the following Assertion [a] and the Reason [r]. Assertion: In a pure metal weld, elastic modulus in the heat affected zone (HAZ) is the same as that in the base metal. Reason: Coarse grained microstructure in the HAZ results in lower hardness.
-(A) Both [a] and [r] are true and [r] is the correct reason for [a] (B) Both [a] and [r] are true and [r] is not the correct reason for [a] (C) Both [a] and [r] are false (D) [a] is true but [r] is false

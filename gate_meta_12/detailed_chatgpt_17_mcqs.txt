@@ -1,5 +1,0 @@
-For pure metals, as temperature increases, the lattice vibrations increase as well, which leads to an increase in the number of collisions between electrons and lattice ions, hence increasing the electron scattering and resulting in an increase in resistivity. Therefore, the electrical resistivities of pure metals increase with temperature. 
-
-For intrinsic semiconductors, as temperature increases, there is an increase in the number of electrons excited from the valence band to the conduction band, leading to an increase in electron density and hence electrical conductivity (the reciprocal of resistivity). Therefore, the electrical resistivities of intrinsic semiconductors decrease with temperature.
-
-Therefore, the correct option is (C) $ρ_m$ increases and $ρ_s$ decreases.

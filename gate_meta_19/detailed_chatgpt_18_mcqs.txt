@@ -1,7 +1,0 @@
-Beach marks are commonly observed on the fractured surfaces of metals after a (B) Fatigue test.
-
-Explanation:
-
-Beach marks are the patterns observed on the fracture surfaces of materials that have undergone fatigue failure. These patterns or lines are perpendicular to the direction of crack propagation and are caused due to the repeated loading and unloading of the material. The beach marks are also known as fatigue striations, and they help to determine the direction and magnitude of crack growth during fatigue testing.
-
-On the other hand, a creep test is used to determine the deformation behavior of materials over long periods of time under constant load and elevated temperatures. Compression tests are used to determine the compressive strength of materials, while impact tests are used to determine the toughness of materials.

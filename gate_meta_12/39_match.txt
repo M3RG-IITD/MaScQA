@@ -1,5 +1,0 @@
-Match the phases of steel in Group I with the crystal structures in Group II:
-Group I: [P. Martensite, Q. Cementite, R. Austenite, S. Ferrite]
-Group II: [1. bcc, 2. fcc, 3. bct, 4. Orthorhombic]
-
-Options: (A) P-3, Q-4, R-1, S-2 (B) P-2, Q-3, R-1, S-4 (C) P-3, Q-4, R-2, S-1 (D) P-4, Q-3, R-2, S-1

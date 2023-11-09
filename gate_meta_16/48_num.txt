@@ -1,1 +1,0 @@
-Given data (for glass plate): Young’s Modulus = 70 GPa, Surface energy per unit area = 1 $J.m^(-2)$. A glass plate has two parallel cracks. One of them is an internal crack of length 5 μm and the other is a surface crack of length 3 μm. A tensile stress is applied perpendicular to the crack surfaces. The fracture stress (in MPa) is?

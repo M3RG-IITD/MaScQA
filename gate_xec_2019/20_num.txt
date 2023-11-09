@@ -1,1 +1,0 @@
-A stress of 17 MPa is applied to a polymer serving as a fastener in a complex assembly. At constant strain the stress drops to 16.6 MPa after 100 hours. The stress on the polymer must remain above 14.5 MPa in order for the assembly to function properly. The expected life(in hours) of the assembly is? (round off to the nearest integer)

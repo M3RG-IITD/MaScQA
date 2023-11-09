@@ -1,1 +1,0 @@
-(B) self-diffusion is the process by which atoms or molecules move from their initial position to an empty adjacent site in a crystal lattice. The empty adjacent site is called a vacancy. Therefore, vacancies play an important role in self-diffusion, as they are the key to understanding how atoms move through a crystal lattice.

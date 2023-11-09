@@ -1,3 +1,0 @@
-Intensive properties are those properties that do not depend on the amount of substance present. Among the given options, (C) Volume and (B) Pressure are extensive properties because the value of these properties depends on the amount of substance present. The (A) Temperature is an intensive property. The refractive index, on the other hand, is also an intensive property because it remains constant for a given substance at a given temperature and pressure, regardless of the amount of the substance present.
-
-Therefore, the answer is (C) Volume.

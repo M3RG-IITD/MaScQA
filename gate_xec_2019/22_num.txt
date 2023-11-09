@@ -1,2 +1,0 @@
-An iron bar magnet having coercivity of 7000 A $m^(-1)$ is to be demagnetized. The bar is introduced fully inside a 0.25 m long solenoid having 150 turns of wire. The electric current(in amperes) required to generate the necessary magnetic field is?
-(round off to 1 decimal place)

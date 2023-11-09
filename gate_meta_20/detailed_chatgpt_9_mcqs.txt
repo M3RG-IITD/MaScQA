@@ -1,9 +1,0 @@
-The dye penetrant test is based on capillary action. 
-
-Step-by-step explanation:
-
-When a penetrant solution is applied to the surface of a material with flaws, such as cracks and porosity, the solution is drawn into these openings by capillary action, which is the ability of a liquid to flow into narrow spaces without external help. After allowing the penetrant to dwell for a certain period, the excess solution is removed, and a developer is applied. The developer draws the penetrant out of the flaw, and it spreads on the surface, indicating the position and size of the defect. The penetrant solution is typically brightly colored to make it easier to see against the white developer background. 
-
-Therefore, the correct answer is:
-
-- (D) Capillary action

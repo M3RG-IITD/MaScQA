@@ -1,2 +1,0 @@
-A fluid is flowing with a velocity of 0.5 m/s on a plate moving with a velocity of 0.01 m/s in the same direction. The velocity at the interface of the fluid and plate is
-(A) 0.0 m/s (B) 0.01 m/s (C) 0.255 m/s (D) 0.50 m/s

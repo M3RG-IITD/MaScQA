@@ -1,6 +1,0 @@
-The inter-planar spacing of the planes {nh nk nl} is given by the formula: 
- $$d_{nh,nk,nl} = \frac{d}{\sqrt{n^2h^2 + n^2k^2 + n^2l^2}} $$
-
-Here, $d$ is the inter-planar spacing of the original set of planes {h k l}, and $n$ is an integer.
-
-Therefore, the correct answer is (B) d/n.

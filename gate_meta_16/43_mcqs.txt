@@ -1,2 +1,0 @@
-Given data: Melting point: 1356 K, Density: 8900 $kg.m^(-3)$, Solid-liquid interfacial energy: 0.5 $Jm^(-2)$, Latent heat of freezing: 13000 $J.mol^(-1)$, Molar volume: 7* $10^(-6)m^(-3)mol^(-1)$. The critical nucleus size (in nm) when copper melt is under-cooled by 100 K is:
-(A) 0.36 (B) 1.55 (C) 3.65 (D) 7.30 

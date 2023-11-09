@@ -1,1 +1,0 @@
-Assume: Weight gain is proportional to square root of time. Nickel undergoes isothermal oxidation at 800K for a duration of 400s resulting in a weight gain of 2mg $cm^(2)$. The weight gain (mg $cm^2$) after a duration of 1600s is?(round off to nearest integer). 

@@ -1,5 +1,0 @@
-Match the elements in Group I with their corresponding crystal structures in Group II.
-Group I: [P. Tungsten, Q. Nickel, R. Magnesium, S. Polonium]
-Group II: [1. HCP, 2. Simple cubic, 3. BCC, 4. FCC]
-
-Options: (A) P-2, Q-1, R-4, S-3 (B) P-3, Q-4, R-1, S-2 (C) P-4, Q-2, R-3, S-1 (D) P-3, Q-4, R-2, S-1

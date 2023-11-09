@@ -1,1 +1,0 @@
-In a diffraction experiment, monochromatic X-rays of wavelength 1.54 Å are used to examine a material with a BCC structure. If the lattice parameter is 4.1 Å, the angular position θ of the first diffraction peak(in degrees) is

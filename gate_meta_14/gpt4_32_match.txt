@@ -1,8 +1,0 @@
-The correct match is:
-
-P: Galvanic corrosion - 3. Brass fittings joined with lead-tin solder
-Q: Filiform corrosion - 4. Painted food can
-R: Stress corrosion cracking - 1. Season cracking in brass
-S: Crevice corrosion - 2. Nut-bolt assembly with gasket
-
-So, the correct answer is [C].

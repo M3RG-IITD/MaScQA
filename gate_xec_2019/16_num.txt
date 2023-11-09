@@ -1,1 +1,0 @@
-Tensile true stress – true strain curve for plastic region of an alloy is given by 𝜎 (MPa)=600 $𝜀^𝑛$. When true strain is 0.05, the true stress is 350 MPa. For the same alloy, when engineering strain is 0.12 then the engineering stress(in MPa) is? (round off to the nearest integer)

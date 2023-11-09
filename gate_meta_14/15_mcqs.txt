@@ -1,2 +1,0 @@
-Two identical engineering components are made from alloys X and Y. The $K_(IC)$ of alloy X is greater than that of alloy Y. If these components are subjected to the same stress during operation under Mode I loading, which one of the following statements is TRUE?
-(A) Component made from alloy X can tolerate a larger flaw size compared to that made from Y (B) Component made from alloy Y can tolerate a larger flaw size compared to that made from X (C) Both can tolerate same flaw size (D) None of the above

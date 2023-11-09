@@ -1,1 +1,0 @@
-Assume that exponent (n) is Chvorinov's equation is 2. Total time for solidication of a cubic casting of dimensions 5.0cm * 5.0cm * 5.0cm is 1.6 min. A cylindrical riser with diameter to height ratio 0.5 is required so that the time for solidification of riser is 3.2 min. Applying Chvorinov's rule, the height of rise (in cm) is? (answer up tp two decimal places) 

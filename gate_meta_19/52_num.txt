@@ -1,1 +1,0 @@
-In sand-mold casting of a metal, it takes 180 seconds for complete solidification of a 27 $cm^3$ cube-shaped casting. All other parameters remaining constant, the total solidification time (in seconds, rounded off to one decimal place) for a cylinder-shaped [radius = 1 cm and height = 6 cm] casting of the same metal, is

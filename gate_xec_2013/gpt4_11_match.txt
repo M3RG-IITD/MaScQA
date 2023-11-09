@@ -1,8 +1,0 @@
-The correct matchings are:
-P. domain wall - 3. ferromagnetic materials
-Q. Fick's law - 5. diffusion
-R. Matthiessen's rule - 4. resistivity of impure metals
-S. Hall-Petch relation - 2. mechanical properties
-T. Meissner effect - 1. superconductors
-
-So, the correct answer is (C).

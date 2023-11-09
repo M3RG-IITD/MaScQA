@@ -1,2 +1,0 @@
-A liquid phase sintered SiC-Ni composite has a solid-solid grain boundary energy ($γ_(SiC-SiC)$) of 0.80 $J.m^(-2)$ and a solid-liquid ($γ_(SiC-Ni)$) interfacial energy of 0.45 $J.m^(-2)$. For a SiC grain size of 20 µm, the average interparticle (SiC-SiC) neck size (in µm) is:
-(A) 3.03 (B) 4.28 (C) 9.16 (D) 18.32 

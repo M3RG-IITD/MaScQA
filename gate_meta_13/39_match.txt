@@ -1,5 +1,0 @@
-Match the suitability of non-destructive testing method in Group I for the detection of defects listed in Group II:
-Group I: [(P) Magnetic particle inspection, (Q) X-ray radiography, (R) Dye penetrant test, (S) Ultrasonic testing]
-Group II; [(1) Surface crack in martensitic stainless steels, (2) Surface crack in austenitic stainless steels, (3) Hairline crack in aluminium, (4) Inclusions in steels]
-
-Options: (A) P-2, Q-4, R-3, S-1 (B) P-4, Q-2, R-1, S-3 (C) P-3, Q-1, R-2, S-4 (D) P-1, Q-4, R-2, S-3 

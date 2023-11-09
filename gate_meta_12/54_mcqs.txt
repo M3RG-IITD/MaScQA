@@ -1,2 +1,0 @@
-The strain hardening behaviour of an annealed rod during cold rolling is given by σ = 700 $(ε)^0.2$ MPa, where σ is the flow stress at strain ε. Flow stress after 50% reduction in area of the annealed rod on cold rolling is approximately
-(A) 750 MPa (B) 650 MPa (C) 609 MPa (D) 559 MPa

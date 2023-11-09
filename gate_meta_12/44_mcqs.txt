@@ -1,2 +1,0 @@
-Fracture stress for a brittle material having a crack length of 1 µm is 200 MPa. Fracture stress for the same material having a crack length of 4 µm is
-(A) 200 MPa (B) 150 MPa (C) 100 MPa (D) 50 MPa

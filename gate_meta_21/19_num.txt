@@ -1,1 +1,0 @@
-Consider homogenous nucleation of a spherical solid in liquid. For a given undercooling, if surface energy of a nucleus increases by 20%, the corresponding increase(in percent) in the critical radius of the nucleus is?(round off to nearest integer)

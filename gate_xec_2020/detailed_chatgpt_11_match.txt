@@ -1,6 +1,0 @@
-I. Powder processing - R. Poly-silicon
-II. Spin coating - P. Organic semiconductor thin films
-III. Czochralski process - Q. Single crystal silicon
-IV. Chemical vapor deposition - S. Porous bronze bearings
-
-Therefore, the correct option is (D) I-P, II-R, III-Q, IV-S.

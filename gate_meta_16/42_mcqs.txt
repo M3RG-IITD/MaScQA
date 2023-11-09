@@ -1,2 +1,0 @@
-Zinc oxide is reduced at a constant temperature in a closed reactor using ZnO(s) and C(s) as the only starting materials. The following reactions are assumed to be at thermodynamic equilibrium: ZnO(s) + C(s) = Zn(g) + CO(g) and  2CO(g) = $CO_2$(g) + C(s). Assume ideal gas behaviour. Based on mole balance, the relationship applicable to the system at equilibrium is
-(A)	$p_(Zn)$ = $p_(CO)$ + $2*p_(CO_2)$ (B) $p_(Zn)$ = 2*$p_(CO)$ + $p_(CO_2)$ (C) $p_(Zn)$ = $p_(CO)$ + $p_(CO_2)$ (D) $p_(Zn)$ = 0.5*$p_(CO)$ + $2*p_(CO_2)$

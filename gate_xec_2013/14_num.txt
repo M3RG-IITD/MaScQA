@@ -1,1 +1,0 @@
-A metal with HCP crystal structure has lattice constants a = 0.30 nm and c = 0.56 nm. Determine the volume of the unit cell of this metal, in $nm^3$.

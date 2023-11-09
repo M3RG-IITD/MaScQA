@@ -1,1 +1,0 @@
-The activity coefficient of Q in a liquid Q-R alloy is represented by the following equation at a given temperature. ln $𝛾_𝑄$ = $0.6*(𝑥_R)^2$ - 0.2*$(𝑥_R)^3$. What is the activity of Q in an alloy of composition 𝑥_𝑅 = 0.6 at the same temperature?

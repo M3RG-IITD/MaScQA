@@ -1,1 +1,0 @@
-From tensile test of a particular alloy the following values were obtained. The material exhibits linear work hardening as shown in the figure. Find the toughness of the material, in M J $m^(-3)$.

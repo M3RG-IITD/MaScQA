@@ -1,5 +1,0 @@
-Match the materials listed in Group I with the most appropriate applications listed in Group II:
-Group I: [P. Iron-Silicon alloy, Q. GaAs, R. Nichrome, S. Quartz crystals]
-Group II: [1. Heating element, 2. Ultrasonic generator, 3. Transformer core, 4. Light emitting diode]
-
-Options: (A) P-3, Q-4, R-1, S-2 (B) P-2, Q-4, R-1, S-3 (C) P-1, Q-3, R-4, S-2 (D) P-3, Q-2, R-4, S-1

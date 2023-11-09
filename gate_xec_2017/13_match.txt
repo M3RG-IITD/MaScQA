@@ -1,5 +1,0 @@
-Match the processes in Coloumn type I with products in Coloumn II:
-Coloumn I: [(P) Slip casting, (Q) Zone refining, (R)Sputtering, (S) Atomization]
-Coloumn II: [(1) Metal powders, (2) Thin films, (3) Ceramic parts, (4) Single crystal, (5) Metal sheets]
-
-Options: (A) P-3; Q-4; R-2; S-1 (B) P-2; Q-1; R-2; S-1 (C) P-3; Q-4; R-5; S-1 (D) P-3; Q-4; R-1; S-5

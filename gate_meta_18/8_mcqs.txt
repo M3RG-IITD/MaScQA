@@ -1,2 +1,0 @@
-Consider the following engineering components: P. Gas turbine blades, Q. Tungsten-based heavy alloy penetrators, R. Self-lubricating bearings, S. Engine block of an automobile. Which of the following two components are produced by powder metallurgy?
-(A) P & Q (B) Q & R (C) Q & S (D) P & S

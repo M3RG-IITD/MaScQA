@@ -1,5 +1,0 @@
-2 Match the types of corrosion in Group I with their examples in Group II.
-Group I: [P. Galvanic corrosion, Q. Filiform corrosion, R. Stress corrosion cracking, S. Crevice corrosion]
-Group II: [1. Season cracking in brass, 2. Nut-bolt assembly with gasket, 3. Brass fittings joined with lead-tin solder, 4. Painted food can]
-
-Options:(A) P-4, Q-1, R-2, S-3 (B) P-3, Q-1, R-4, S-2 (C) P-3, Q-4, R-1, S-2 (D) P-4, Q-2, R-3, S-1

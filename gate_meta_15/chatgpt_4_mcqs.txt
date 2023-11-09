@@ -1,5 +1,0 @@
-(B) Gibbs free energy and (C) Chemical potential are intensive properties. 
-
-Answer: 
-- Gibbs free energy
-- Chemical potential

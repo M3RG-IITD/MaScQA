@@ -1,5 +1,0 @@
-Match the following strengthening methods (Group I) in metallic alloys with typical mechanisms responsible (Group II) for them.
-Group I: [P. Grain size strengthening, Q. Work hardening, R. Dispersion strengthening, S. Solid solution hardening]
-Group II: [1. Orowan looping, 2. Suzuki interaction, 3. Lomer-Cottrell barrier, 4. Dislocation pileup at grain boundaries]
-
-Options: (A) P-3, Q-4, R-2, S-1 (B) P-3, Q-2, R-1, S-4 (C) P-4, Q-3, R-1, S-2 (D) P-4, Q-1, R-3, S-2

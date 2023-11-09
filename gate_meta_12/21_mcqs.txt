@@ -1,2 +1,0 @@
-A polymer matrix composite is reinforced with long continuous ceramic fibres aligned in one direction. The Young’s moduli of the matrix and fibres are $E_m$ and $E_f$ respectively, and the volume fraction of the fibres is f. Assuming iso-stress condition, Young’s modulus of the composite $E_C$ in a direction perpendicular to the length of fibres, is given by the expression
-(A) $E_C$ = (1-f)$E_m$ + f$E_f$ (B) $E_C$ = f$E_m$ + (1-f)$E_f$ (C) 1/$E_C$ = [(1-f)/$E_m$] + f/$E_f$ (D) 1/$E_C$ = [f/$E_m$] + (1-f)/$E_f$

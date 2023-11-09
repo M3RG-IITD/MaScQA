@@ -1,2 +1,0 @@
-A glass fibre of 5 micron diameter is subjected to a tensile stress of 20 MPa. The surface energy and elastic modulus of this material are 0.3 $Jm^(-2)$ and 70 GPa, respectively. Pick the correct answer based on the information provided above: Note: The glass fibre contains a population of flaws of different lengths.
-(A) The fibre will undergo brittle fracture (B) The fibre will undergo plastic deformation, but not fracture (C) The fibre will undergo elastic deformation, but not fracture (D) The fibre will undergo buckling

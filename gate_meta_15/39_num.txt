@@ -1,1 +1,0 @@
-Melting point of a metal is 1356 K. When the liquid metal is undercooled to 1256 K, the free energy change for solidification, $∆G^(L→S)$ = −1000 J $mol^(-1)$. On the other hand, if the liquid metal is undercooled to 1200 K, the free energy change (in J $mol^(-1)$) for solidification is ?

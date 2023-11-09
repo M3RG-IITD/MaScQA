@@ -1,1 +1,0 @@
-Given: Planck’s constant, h = 6.626 * $10^(−34)$ J s, the charge of an electron, e = 1.6 * $10^(−19)$ C, and speed of light, c = 3 * $10^8$ m $s^(−1)$. A direct bandgap semiconductor has a bandgap of 1.8 eV. The threshold value of the wavelength(in Å) BELOW which this material will absorb radiation is

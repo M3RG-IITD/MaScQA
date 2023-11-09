@@ -1,1 +1,0 @@
-The unit cell volume of polyethylene (PE) is 0.0933 $nm^3$. Assuming two ethylene repeat units are contained within each unit cell, the density(in g/ $cm^3$) of a totally crystalline PE will be? (Take the atomic weights for carbon and hydrogen as 12.01 g/mol and 1.008 g/mol, respectively and the avogadro's number as 6.023* $10^(23)$ repeat units/mol)

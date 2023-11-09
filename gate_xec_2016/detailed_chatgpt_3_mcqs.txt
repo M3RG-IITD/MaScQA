@@ -1,7 +1,0 @@
-During a second-order phase transition, the heat capacity shows a discontinuity. This is because at the phase transition point, there is a sudden increase in the number of degrees of freedom and hence the heat capacity undergoes a discontinuous change.
-
-To understand why this happens, let us consider the example of a solid turning into a liquid. At the melting point, the heat required to change the temperature of the solid starts being used to break the bonds between the molecules, rather than to increase the kinetic energy of the molecules. As a result, the heat capacity suddenly increases.
-
-This discontinuity in heat capacity can be observed experimentally and is a characteristic of second-order phase transitions.
-
-Therefore, the correct answer is (D) Heat capacity.

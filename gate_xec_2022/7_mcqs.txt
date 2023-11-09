@@ -1,2 +1,0 @@
-Vickers microhardness (HV) of a ductile material A is higher than another ductile material B. Which of the following is/are true?
-(A) Young’s modulus of A is greater than B (B) Yield strength of A is greater than B (C) Scratch resistance of A is greater than B (D) Ductility of A is greater than B

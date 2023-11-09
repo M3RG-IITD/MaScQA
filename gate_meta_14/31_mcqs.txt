@@ -1,2 +1,0 @@
-Dissociation of a dislocation into two partials in an FCC metal is given by the following equation. (a/2)[1 -1 0] → (a/6)[2 -1 1] + (a/6)[1 -2 -1] . On which plane do these two partial dislocaitons lie?
-(A) (-1 1 1) (B) (1 1 1) (C) (1 -1 1) (D) (1 1 -1)

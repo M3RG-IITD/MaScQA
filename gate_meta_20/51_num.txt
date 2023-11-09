@@ -1,1 +1,0 @@
-The steady state creep rate of a material increasees by a factor of 20 when the temperature is increased from 890K to 980K. The creep rate at a temperature of x K (round off to the nearest integer) will be 5 times the creep rate at 890 K. Find x. 

@@ -1,1 +1,0 @@
-The temperature profile (T in Kelvin) of an arc weld across its width is given as 𝑇 = 2000 * exp(−0.3*$𝑥^2$) where 𝑥 (in mm) is the distance from the weld centre. The melting point of the base material is 1500 K. The width(in mm to two decimal places) of the fusion zone is?

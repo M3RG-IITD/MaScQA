@@ -1,1 +1,0 @@
-The ideal plastic work involved in extruding a cylindrical billet of length 100 mm, from an initial diameter of 20 mm to a final diameter of 16 mm is?(in J to one decimal place). The flow stress in compression is 40 MPa, and remains constant throughout the process.

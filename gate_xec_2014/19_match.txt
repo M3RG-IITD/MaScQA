@@ -1,5 +1,0 @@
-Match the material in Column I with the property in Column II:
-Coloumn I: [(P) Pb(Zr,Ti)$O_3$, (Q) Ni$_(50)Ti_(50)$, (R) GaAs, (S) $YBa_2Cu_3O_7$]
-Coloumn II: [(1) Shape memory alloy, (2) Piezoelectric ceramic, (3) High temperature superconductor, (4) Optoelectronic semiconductor]
-
-Options: (A) P-1, Q-2, R-3, S-4 (B) P-2, Q-3, R-4, S-1 (C) P-4, Q-1, R-2, S-3 (D) P-2, Q-1, R-4, S-3

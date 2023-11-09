@@ -1,2 +1,0 @@
-Number of degrees of freedom for the following reacting system is: M(s) + $CO_2$(g) = MO(s) + CO(g)
-(A) 0 (B) 1 (C) 2 (D) 3

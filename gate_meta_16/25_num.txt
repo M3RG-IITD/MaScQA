@@ -1,1 +1,0 @@
-A rolling mill has a roll diameter of 200 mm. If coefficient of friction is 0.1, then the maximum possible reduction (in mm) during rolling of a 250 mm thick plate is?

@@ -1,1 +1,0 @@
-In vacuum degassing of steel, 14 ppm of dissolved nitrogen is in equilibrium with 1 mbar of nitrogen gas at 1873 K. At the same temperature, if the pressure is lowered to 0.7 mbar, the equilibrium nitrogen content (in ppm) is?

@@ -1,2 +1,0 @@
-The sequence of precipitation to reach stable equilibrium during ageing of Al-4.5 wt.% Cu alloy is:
-(A) GP zone → θ` → θ`` → θ (B) GP zone → θ`` → θ`→ θ (C) GP zone → θ → θ``→ θ` (D) GP zone → θ`` → θ → θ`

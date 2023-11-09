@@ -1,2 +1,0 @@
-X-ray diffraction peak broadening enables the estimation of
-(A) crystallite size of the material (B) microstrain in the material (C) precise lattice parameter (D) residual macrostress acting on the material

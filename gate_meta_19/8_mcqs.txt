@@ -1,2 +1,0 @@
-Given: Faraday constant, 𝐹 = 96500 𝐶𝑜𝑢𝑙𝑜𝑚𝑏 𝑝𝑒𝑟 𝑔𝑟𝑎𝑚 𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡. Assume transport of reactant is rate limiting, and mass transfer coefficient is $10^(−4)𝑐𝑚.𝑠^(−1)$. Consider electrodeposition of copper on a copper electrode from an aqueous solution containing 0.5 * $10^(−3)$ 𝑚𝑜𝑙.$𝑐𝑚^(−3)CuSO_4$. The limiting current density (in 𝑚𝐴. $𝑐𝑚^(−2)$) is 
-(A) 4.83 (B) 9.65 (C) 19.30 (D) 38.60

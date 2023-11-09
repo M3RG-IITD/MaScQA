@@ -1,9 +1,0 @@
-Since the powder diffraction pattern reveals that peaks have shifted to the left, it means that the lattice parameter has increased due to the presence of solute X in metal A. The solute X is larger than the atoms of metal A.
-
-Now, let's consider an edge dislocation in a metal. The first thing to understand is that the compressive and tensile stresses form around the dislocation. Compressive stresses occur beneath the dislocation, and tensile stresses occur above the dislocation. 
-
-A solute that is larger than the host metal atom would preferentially occupy a position where the lattice is expanded or farther apart, as it will allow them to be more stable within the lattice. In this case, it would be positions where the tensile stress is dominant because this tensile stress causes outward pulling on lattice points, creating more space for the larger solute atom.
-
-Therefore, the solute X in the solid solution will preferentially occupy position (C) R around the edge dislocation, as the lattice is expanded due to tensile stress, allowing the larger solute atom to have a more stable position within the metal lattice.
-
-The correct answer is [(C) R].

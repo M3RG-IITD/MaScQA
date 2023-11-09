@@ -1,5 +1,0 @@
-Match the composite in Column I with the most suitable application in Column II.
-Column I : [(P) Glass fibre reinforced plastic, (Q) SiC particle reinforced Al alloy, (R) Carbon-carbon composite, (S) Metal fibre reinforced rubber]
-Column II: [(1) Missile cone heads, (2) Commercial automobile chasis, (3) Airplane wheel tyres, (4) Car piston rings, (5) High performance skate boards]
-
-Options: (A) P-4, Q-5, R-1, S-2 (B) P-3, Q-5, R-2, S-4 (C) P-5, Q-4, R-1, S-3 (D) P-4, Q-2, R-3, S-1

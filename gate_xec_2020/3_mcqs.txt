@@ -1,2 +1,0 @@
-The image shows a square 2-D lattice with hexagonal motif(dark colored). THe rotational symmetry element that must be present in the system is:
-(A) Six-fold rotatation (B) Two-fold rotatation (C) Three-fold rotation (D) Four-fold rotation

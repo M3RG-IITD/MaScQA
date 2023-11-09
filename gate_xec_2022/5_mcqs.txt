@@ -1,2 +1,0 @@
-A differential scanning calorimetry (DSC) experiment tracks the heat flow into or out of a system as a function of temperature. If the experiments given in the options below are performed at 1 atmospheric pressure, then in which case will the DSC thermogram exhibit a spike, either upward or downward?
-(A) Heating 10 mg of pure Cu from 323 K to 673 K (B) Cooling pure water from 323 K to 278 K (C) Heating pure ice from 263 K to 284 K (D) Cooling a Pb-Sn alloy at the eutectic composition from 323 K to 273 K 

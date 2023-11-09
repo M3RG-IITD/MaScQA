@@ -1,7 +1,0 @@
-P. Striations are formed due to fatigue fracture.
-Q. Dimples and microvoids are formed due to ductile fracture.
-R. Flat facets and "river markings" are formed due to cleavage fracture.
-S. Jagged surface with grain-like features are formed due to intergranular fracture.
-
-Therefore, the correct matching is:
-(B) P-1, Q-3, R-2, S-4

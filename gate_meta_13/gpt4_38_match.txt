@@ -1,8 +1,0 @@
-The correct match for each powder production technique is as follows:
-
-- (P) Reduction leads to a spongy shape (2)
-- (Q) Gas Atomization leads to a spherical shape (4)
-- (R) Milling leads to a flaky shape (1)
-- (S) Electrolysis leads to a dendritic shape (3)
-
-So, the correct option is (A) P-2, Q-4, R-1, S-3. Answer: [(A)].

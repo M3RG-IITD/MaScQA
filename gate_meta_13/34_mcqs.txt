@@ -1,2 +1,0 @@
-In a brittle material, the maximum internal crack length is 8 µm. If Young’s modulus is 400 GPa and surface energy is 3.14 J/$m^2$ , the estimated theoretical fracture strength (in MPa) is
-(A) 375 (B) 412 (C) 327 (D) 447 

@@ -1,1 +1,0 @@
-The Burger’s vector of a dislocation in a cubic crystal (with lattice parameter a) is (a/2)[1 1 0] and dislocation line is along [112] direction. The angle (in degrees) between the dislocation line and its Burger’s vector is

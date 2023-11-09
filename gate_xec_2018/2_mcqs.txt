@@ -1,2 +1,0 @@
-Minimum symmetry that a cubic crystal must possess is
-(A) four 3-fold rotation axes. (B) three 4-fold rotation axes. (C) three orthogonal mirror planes. (D) centre of symmetry.

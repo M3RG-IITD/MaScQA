@@ -1,2 +1,0 @@
-The c/a ratio of Zn (hcp) is 1.856. Slip at room temperature occurs most easily on which of the following slip systems in Zn:Note: In hcp metals, the ideal c/a ratio is 1.633. 
-(A) {1 -1 0 0} <1 1 -2 0> (B) {1 -1 0 0} <0 0 0 2> (C) {0 0 0 1} <1 1 -2 0> (D) {1 0 -1 -1} <1 1 -2 3>

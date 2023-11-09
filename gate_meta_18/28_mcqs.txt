@@ -1,2 +1,0 @@
-Determine the correctness (or otherwise) of the following Assertion [A] and the Reason [R]. Assertion [A]: Refractory BCC metals like W and Mo are less ductile than FCC metals like Ni and Pt at room temperature. Reason [R]: BCC metals have fewer independent slip systems than FCC metals
-(A) Both [A] and [R] are true and [R] is the correct reason for [A] (B) Both [A] and [R] are true, but [R] is not the correct reason for [A] (C) Both [A] and [R] are false (D) [A] is true but [R] is false

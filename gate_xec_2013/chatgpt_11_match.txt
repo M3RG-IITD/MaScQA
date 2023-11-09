@@ -1,9 +1,0 @@
-
-
-(C) P-3, Q-5, R-4, S-2, T-1 
-
-P - domain wall - ferromagnetic materials 
-Q - Fick’s law - diffusion 
-R - Matthiessen’s rule - resistivity of impure metals 
-S - Hall-Petch relation - mechanical properties 
-T - Meissner effect - superconductors

@@ -1,1 +1,0 @@
-Given: Atomic weight of Zn = 65. A zinc electrowinning cell is being operated at a current of 400A, voltage of 3.5V, and a cathodic current efficiency of 90%. The specific energy consumption (in $kJ.kg^(-1) zinc) is? (answer up to two decimal places)

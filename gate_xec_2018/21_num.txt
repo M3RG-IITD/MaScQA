@@ -1,1 +1,0 @@
-Given: lattice parameter of iron is 0.287 nm. The planar atomic density(in $nm^(-2)$) in the (110) plane of a BCC iron crystal is ? (give answer up to 2 decimal places).

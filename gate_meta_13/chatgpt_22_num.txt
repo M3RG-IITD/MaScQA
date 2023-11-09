@@ -1,4 +1,0 @@
-The atomic packing fraction of diamond cubic structure is 0.34. 
-
-Answer: 
-- 0.34

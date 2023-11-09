@@ -1,2 +1,0 @@
-In an Ellingham diagram, the standard free energy change ∆𝐺° for the oxidation reaction of a metal M given by: 𝑥𝑀(𝑠𝑠) + $𝑂_2$(𝑔) → $𝑀_(𝑥)𝑂_2$(𝑠) , is plotted as a function of temperature. The slope of this line is positive because
-(A) ∆S° is positive (B) ∆S° is negative (C) ∆H° is positive (D) ∆H° is negative

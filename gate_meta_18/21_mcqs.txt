@@ -1,2 +1,0 @@
-What is the requirement for equilibrium at a triple junction as shown in the schematic, with $γ_(12)$, $γ_(23)$, $γ_(13)$ as grain boundary tensions and $θ_1$, $θ_2$ and $θ_3$ as dihedral angles. (use the figure.)
-(A) $γ_(23)$/cos($θ_1$) = $γ_(13)$/cos($θ_2$) = $γ_(12)$/cos($θ_3$) (B) $γ_(23)$/sin($θ_1$) = $γ_(13)$/sin($θ_2$) = $γ_(12)$/sin($θ_3$) (C) $γ_(23)$/[sin($θ_2$)* sin($θ_3$)] = $γ_(13)$/[sin($θ_1$)* sin($θ_3$)] = $γ_(12)$/[sin($θ_1$)*sin($θ_2$)] (D) $γ_(23)$*sin($θ_1$) = $γ_(13)$*sin($θ_2$) = $γ_(12)$*sin($θ_3$)

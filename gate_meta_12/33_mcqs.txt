@@ -1,2 +1,0 @@
-Consider a reaction with activation energy of 8.314 kJ/mol that takes place at 300 K. If the reaction rate is to be tripled, the temperature of the reaction should be
-(A) 174.5 K (B) 447.5 K (C) 600.5 K (D) 847.5 K

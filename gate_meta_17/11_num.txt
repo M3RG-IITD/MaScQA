@@ -1,1 +1,0 @@
-Given: lattice parameter = 0.401 nm. For a FCC metal, radius of the largest sphere that can fit in the tetrahedral void (in nm) is? (answer up to three decimal places)

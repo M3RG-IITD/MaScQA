@@ -1,1 +1,0 @@
-A cylindrical specimen of an Al alloy with diameter of 30 mm is cold extruded to a diameter of 20 mm. If the flow behavior of the alloy is expressed by the equation, 𝜎 = 350 $𝜖^(0.3)$ MPa, the ideal plastic work(in mega joules) of deformation per unit volume is?(answer rounded off to the nearest integer). 

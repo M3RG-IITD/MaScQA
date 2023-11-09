@@ -1,5 +1,0 @@
-The miscibility gap occurs when the energy required to break the A-B bond is greater than the energy released by forming A-B bonds. The energy required to break one mole of A-B bonds is $ε_(AB)$ and the energy released by forming one mole of A-B bonds is $\frac{1}{2}(ε_(AA)+ε_(BB))$. Therefore, the miscibility gap will occur if $ε_(AB)$ > $\frac{1}{2}(ε_(AA)+ε_(BB))$. 
-
-Therefore, the correct answer is:
-
-(A) $ε_(AB)$ > ½ ($ε_(AA)$ + $ε_(BB)$)

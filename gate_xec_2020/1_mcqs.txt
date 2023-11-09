@@ -1,2 +1,0 @@
-A Pb-Sn sample of eutectic composition, containing α- and  β- phases, is examined in a scanning electron microscope. The α- phase contains ~97 wt% Pb(atomic number 82) while β-phase contains ~99 wt% Sn(atomic number 50). The ratio of number of backscattered electrons escaping from α-phase to that from β-phase would be:
-(A) Less than 1 (B) Equal to 1 (C) Greater than 1 (D) Equal to 0

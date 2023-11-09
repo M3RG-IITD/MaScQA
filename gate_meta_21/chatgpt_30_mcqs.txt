@@ -1,3 +1,0 @@
-The correct condition for getting the binary phase diagram of A-B is:
-
-(B) $\Delta H_\text{mix}^\text{solid} \ll 0$ and $\Delta H_\text{mix}^\text{liquid} = 0$.

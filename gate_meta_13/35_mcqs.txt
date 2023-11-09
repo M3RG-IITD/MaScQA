@@ -1,2 +1,0 @@
-Saturation magnetization of an FCC metal with lattice parameter 0.2 nm is 600 kA/m. The net magnetic moment per atom is given by (in Bohr magneton)
-(A) 8.08 * $10^(57)$ (B) 2.02 * $10^(57)$ (C) 0.517 (D) 0.129 

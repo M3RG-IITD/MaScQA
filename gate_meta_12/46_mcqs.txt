@@ -1,2 +1,0 @@
-Determine the correctness or otherwise of the following Assertion (a) and Reason (r). Assertion : During rolling, front tension and (or) back tension are (is) employed to decrease rolling load. Reason : Roll pressure decreases due to lowering of flow stress as a result of front tension/back tension.
-(A) a is false but r is true (B) a is true and r is also true, but r is not the reason for a (C) a is true and r is also true, and r is the reason for a (D) a is true but r is false

@@ -1,5 +1,0 @@
-Match the defects listed in Group I with the processes listed in Group II:
-Group I : [P. Cold shut, Q. Earing, R. Alligatoring, S. Shrinkage porosity]
-Group II : [1. Rolling, 2. Forging, 3. Deep drawing, 4. Fusion welding]
-
-Options: (A) P-2, Q-4, R-1, S-4 (B) P-2, Q-4, R-3, S-1 (C) P-2, Q-3, R-1, S-4 (D) P-4, Q-1, R-2, S-3

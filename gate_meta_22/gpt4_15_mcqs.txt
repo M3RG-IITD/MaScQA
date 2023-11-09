@@ -1,1 +1,0 @@
-The correct answer is (A) 111, 200, 220, 311.

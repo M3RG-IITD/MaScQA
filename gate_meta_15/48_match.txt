@@ -1,5 +1,0 @@
-Match the features observed in castings listed in Group I with the most appropriate reasons listed in Group II:
-Group I: [P. Macrosegregation, Q. Fine grained structure, R. Porosity, S. Dendrites]
-Group II: [1. Inoculation, 2. Gas evolution and shrinkage, 3. Temperature gradients and supercooling, 4. Density difference and convection currents]
-
-Options: (A) P-1, Q-3, R-2, S-4 (B) P-4, Q-1, R-2, S-3 (C) P-2, Q-4, R-1, S-3 (D) P-4, Q-1, R-3, S-2

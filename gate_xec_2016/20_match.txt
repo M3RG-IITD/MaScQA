@@ -1,5 +1,0 @@
-Match the heat treatment process of steels given in Group 1 with the microstructural feature given in Group 2:
-Group 1 : [P: Quenching, Q: Normalizing, R: Tempering, S: Austempering]
-Group 2 : [1: Bainite, 2: Martensite, 3: Pearlite, 4: Iron carbide precipitates, 5: Intermetallic precipitates]
-
-Options: (A) P-2, Q-3, R-4, S-1 (B) P-3, Q-4, R-5, S-1 (C) P-4, Q-1, R-5, S-3 (D) P-2, Q-5, R-4, S-3

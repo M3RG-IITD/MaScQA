@@ -1,5 +1,0 @@
-
-
-The correct answer is (B) Q, R, S.
-
-Explanation: Young's modulus does not depend on dislocation density but is dependent on the stiffness of bonds between atoms. Yield strength, ductility, and fracture toughness are all affected by dislocation density.

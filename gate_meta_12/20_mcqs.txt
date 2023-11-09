@@ -1,2 +1,0 @@
-A unit dislocation splits into two partial dislocations. The correct combination of the Burgers vectors of the partial dislocations for a given unit dislocation having Burgers vector (a/2)[1 -1 0] is
-(A) (a/6)[2 -1 1] and (a/6)[1 -2 -1] (B) (a/6)[1 -1 2] and (a/6)[-1 -2 1] (C) (a/6)[1 1 -2] and (a/6)[2 -1 -1] (D) (a/6)[2 1 1] and (a/6)[1 2 -1]

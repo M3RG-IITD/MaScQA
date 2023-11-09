@@ -1,5 +1,0 @@
-Match the processes (Column I) with the corresponding defects (Column II).
-Column I: [(P) Extrusion, (Q) Deep drawing, (R) Forging, (S) Rolling]
-Column II: [(1) Earing, (2) Cold shut, (3) Edge cracking, (4) Fir-tree cracking]
-
-Options: (A) P - 1, Q - 4, R - 2, S - 3 (B) P - 2, Q - 1, R - 4, S - 3 (C) P - 4, Q - 1, R - 3, S - 2 (D) P - 4, Q - 1, R - 2, S - 3 

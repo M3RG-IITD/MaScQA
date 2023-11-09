@@ -1,1 +1,0 @@
-Fatigue behaviour of an aluminium alloy is shown in the S-N plot. A piston rod made of this material is subjected to: (i) 1000 cycles at 420 MPa, followed by (ii) 1000 cycles at 300 MPa. Using Miner’s rule of cumulative damage, the remaining fatigue life (in terms of number of cycles) at stress of 250 MPa is?

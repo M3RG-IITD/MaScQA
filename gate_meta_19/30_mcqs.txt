@@ -1,2 +1,0 @@
-In a typical scanning electron microscope (SEM) image, information about topography and atomic contrast are obtained from ?
-(A) secondary electron and auger electron, respectively. (B) primary electron and secondary electron, respectively. (C) secondary electron and back-scatter electron, respectively. (D) back-scatter electron and auger electron, respectively.

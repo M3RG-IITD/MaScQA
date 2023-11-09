@@ -1,2 +1,0 @@
-Analysis of a flow phenomenon in a system requires the following variables: i. Pressure [M$L^(-1)T^(-2)$] ii. Velocity of the fluid [$LT^(-1)$] iii. Size of the system [L] iv. Density of the fluid [M $L^(-3)$] v. Viscosity of the fluid [M$L^(-1)T^(-1)$]. According to Buckingham Pi theorem (dimensional analysis) what is the number of independent DIMENSIONLESS variables needed to describe this system?
-(A) 2 (B) 3 (C) 4 (D) 5

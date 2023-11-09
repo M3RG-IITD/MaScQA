@@ -1,5 +1,0 @@
-Match the deformation processes in Column I with the corresponding stress states listed in Column II:
-Column I: [[P] Wire Drawing, [Q] Forging, [R] Stretch Forming, [S] Cutting]
-Column II: [[1] Direct Compression, [2] Indirect Compression, [3] Tension, [4] Shear]
-
-Options: (A) P-1; Q-2; R-3; S-4 (B) P-1; Q-2; R-4; S-3 (C) P-2; Q-1; R-3; S-4 (D) P-2; Q-1; R-4; S-3 

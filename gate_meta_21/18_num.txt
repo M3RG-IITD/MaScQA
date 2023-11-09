@@ -1,1 +1,0 @@
-A body is subjected to a state of stress given by the following stress tensor: (see from the image). If yielding is predicted by the Tresca Criterion, the uniaxial tensile yield stress (in MPa) of the body should be less than or equal to? (round off to the nearest integer)
