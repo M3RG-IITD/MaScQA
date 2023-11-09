@@ -1,5 +1,0 @@
-Match the products in Column I with the manufacturing processes in Column II.
-Column I: [(P) Blades of a gas turbine, (Q) Seamless tubing, (R) Automotive cylinder blocks, (S) Tungsten filament]
-Column II: [1. Sand casting, 2. Extrusion, 3. Powder metallurgy and wire drawing, 4. Investment casting]
-
-Options: (A) P-1, Q-2, R-3, S-4 (B) P-2, Q-3, R-1, S-4 (C)P-4, Q-1, R-2, S-3 (D) P-4, Q-2, R-1, S-3

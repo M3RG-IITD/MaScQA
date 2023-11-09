@@ -1,2 +1,0 @@
-The CCT diagram of a eutectoid steel with a superimposed cooling curve is shown in the figure. The microstructure at room temperature (RT) after this heat treatment is
-(A) pearlite only (B) pearlite + retained austenite (C) martensite only (D) pearlite + martensite

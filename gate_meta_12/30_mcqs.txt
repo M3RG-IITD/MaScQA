@@ -1,2 +1,0 @@
-A thin layer of material B (of total amount m) is plated on the end faces of two long rods of material A. These are then joined together on the plated side (see the figure below) and heated to a high temperature. Assuming the diffusion coefficient of B in A is D, the composition profile $c_B$ along the rod axis x after a time t is described by? use the figure given
-(A) $c_B$ = (m/2$(π*D*t)^(0.5)$) * exp[-$x^(2)$/4*D*t] (B) $c_B$ = (m/2$(π*D*t)^(0.5)$) * erf[-$x^(2)$/4*D*t] (C) $c_B$ = (m/2$(π*D*t)^(0.5)$) * [1 - erf(-$x^(2)$/4*D*t)] (D) $c_B$ = (m/2$(π*D*t)^(0.5)$) * t

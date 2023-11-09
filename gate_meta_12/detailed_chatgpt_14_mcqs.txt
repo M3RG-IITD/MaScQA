@@ -1,7 +1,0 @@
-Dendrites are formed during the solidification process of metals because the solidification process is a diffusion-limited process. During the solidification process, the liquid metal cools and solidifies, forming dendritic structures due to the small variations in the local cooling conditions.
-
-As the liquid metal cools and solidifies, the temperature gradient across the liquid phase increases. This temperature gradient drives the diffusion of solute atoms from the liquid phase towards the solid phase, where they are incorporated into the growing crystal structure.
-
-At the interface between the liquid and solid phases, the temperature is at the melting temperature. Since the heat of fusion is released during solidification, the temperature of the liquid phase near the interface remains constant until all of the liquid has solidified.
-
-Therefore, the temperature from the interface into the liquid remains constant (option C) during the solidification process.

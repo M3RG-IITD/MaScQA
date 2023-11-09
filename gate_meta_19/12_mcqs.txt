@@ -1,2 +1,0 @@
-The Boudouard (or, carbon gasification) reaction is
-(A) C(s) + (1/2)$O_2$(g) → CO(g) (B) C(s) + $O_2$(g) → $CO_2$(g) (C) C(s) + $CO_2$(g) → 2CO(g) (D) CO(g) + (1/2)$O_2$(g) → $CO_2$(g)

@@ -1,8 +1,0 @@
-The reduction of copper from acidic copper sulfate solution can be done using various reducing agents. However, the most suitable reducing agents are those that are more reactive than copper so that they can displace copper from the solution. 
-
-Out of the options given, Iron and Carbon are more reactive than copper and can displace copper from the solution. However, lead and silver are less reactive than copper and cannot displace copper from the solution.
-
-Therefore, the correct options are:
-
-- (B) Iron
-- (C) Carbon

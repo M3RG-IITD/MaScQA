@@ -1,5 +1,0 @@
-Match the defects listed in Group I with the corresponding manufacturing process listed in Group II:
-Group I: [(P) Orange-peel effect, (Q) Chevron cracking, (R) Flash, (S) Undercut]
-Group II: [(1) Extrusion, (2) Deep drawing, (3) Arc welding, (4) Forging]
-
-Options: (A) P-1, Q-2, R-4, S-3 (B) P-2, Q-3, R-1, S-4 (C) P-3, Q-4, R-2, S-1 (D) P-2, Q-1, R-4, S-3 

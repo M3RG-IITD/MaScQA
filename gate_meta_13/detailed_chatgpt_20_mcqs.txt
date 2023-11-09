@@ -1,7 +1,0 @@
-Risers are required for casting to compensate for solidification shrinkage that occurs as the metal cools and solidifies, thus ensuring complete filling of the casting. The type of material being casted affects the amount of shrinkage and the need for risers. 
-
-Plain carbon steel and stainless steel both have lower shrinkage rates so large risers may not be required. Grey cast iron and white cast iron have high shrinkage rates because of the presence of graphite or carbide respectively, so larger and more numerous risers are needed. 
-
-Therefore, the correct answer is:
-
-(B) plain carbon steel and (A) stainless steel do not require risers for casting.

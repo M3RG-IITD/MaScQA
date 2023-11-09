@@ -1,5 +1,0 @@
-Match the invariant reactions in Column I with the names in Column II (L is liquid phase, and 	α , β, γ are solid phases). All reactions proceed to the right on cooling.
-Column I : [(P) 𝐿 ⇄ 𝛼 + 𝛽, (Q) 𝐿 + 𝛼 ⇄ 𝛽, (R) 𝛾 ⇄ 𝛼 + 𝛽, (S) 𝛼 + 𝛽 ⇄ 𝛾]
-Column II: [(1) Monotectic, (2) Peritectoid, (3) Peritectic, (4) Eutectoid, (5) Eutectic]
-
-Options: (A) P-5, Q-1, R-4, S-3 (B) P-5, Q-3, R-4, S-2 (C) P-5, Q-1, R-2, S-4 (D) P-2, Q-1, R-4, S-5

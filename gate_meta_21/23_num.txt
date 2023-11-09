@@ -1,1 +1,0 @@
-Given: Atomic weights of carbon and hydrogen are 12 and 1, respectively. If the degree of polymerization of polyethylene is 30000, the average molecular weight( in g $mol^(-1)$) is?(round off to nearest integer)

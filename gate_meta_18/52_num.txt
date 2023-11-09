@@ -1,1 +1,0 @@
-In a powder diffraction experiment on BCC iron, the first peak occurs at 2𝜃 = 68.7°. What is the wavelength of X-rays in nm rounded off to three decimal places? Given: The lattice parameter of iron = 0.287 nm

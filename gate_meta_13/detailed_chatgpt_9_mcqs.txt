@@ -1,9 +1,0 @@
-The relationship between the true stress-true strain curve and the engineering stress-engineering strain curve for a given material is given by:
-
-True stress = Engineering stress x (1 + Engineering strain)
-
-True strain = ln(1 + Engineering strain)
-
-From these equations, it can be seen that the true stress-true strain curve lies above and to the left of the engineering stress-engineering strain curve. Therefore, the correct answer is:
-
-(A) lies above and to the left.

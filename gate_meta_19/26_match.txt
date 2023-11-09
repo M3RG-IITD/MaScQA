@@ -1,5 +1,0 @@
-Match the reactors / refining sites in Column I with the corresponding refining processes in Column II.
-Column I: [(P) Blast furnace runner, (Q) AOD, (R) Torpedo car, (S) BOF]
-Column II: [1. De-carburization, 2. External De-sulfurization, 3. De-phosphorization, 4. External De-siliconization]
-
-Options: (A) P-4, Q-1, R-2, S-3 (B) P-4, Q-2, R-3, S-1 (C) P-2, Q-1, R-4, S-3 (D) P-1, Q-3, R-2, S-4

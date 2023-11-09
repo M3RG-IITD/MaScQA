@@ -1,2 +1,0 @@
-Creep in metals is defined as
-(A) the maximum energy a solid can absorb elastically (B) the maximum energy a solid can absorb by plastic deformation (C) the stress at which plastic deformation starts (D) slow plastic deformation due to diffusion of atoms usually at high temperature (T > half the melting point)

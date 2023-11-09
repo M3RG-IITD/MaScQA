@@ -1,2 +1,0 @@
-Given: E°($Cu^(+2)$/Cu) = 0.337 V and E°($Zn^(+2)$/Zn) = -0.763 V. For the electrochemical reaction $cu^(+2)$ + Zn = $Zn^(+2)$ + Cu, the standard cell potential at 25°C and 1 atm pressure is:
-(A) -0.426V (B) 0.426V (C) 0.55V (D) 1.1 V

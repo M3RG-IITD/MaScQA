@@ -1,2 +1,0 @@
-There are 150 gearwheels in a box, out of which 112 are within the required tolerance, 21 are below and rest are above the required tolerance. If the selection is done without replacement, the combined probability of randomly selecting a gearwheel below the tolerance and then a second one above the tolerance is
-(A) 0.016 (B) 0.032 (C) 0.492 (D) 0.984 

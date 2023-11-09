@@ -1,1 +1,0 @@
-Mould heat flux ($q_m$) for billet casters is expressed (in SI unit) as a function of distance below the meniscus (z). $q_m$ (z) = [2.67 - 0.33$(z/U_(c))^(0.5)$] * $10^6$. If mould length ($L_m$) is 0.8 m and casting speed ($U_c$) is 0.2 $m.s^(-1)$, the average mould flux (in MW.$m^(-2)$) is?

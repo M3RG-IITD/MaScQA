@@ -1,4 +1,0 @@
-The correct answer is (B) Both [A] and [R] are true, but [R] is not the correct reason for [A].
-
-Explanation:
-Refractory BCC metals like W and Mo are indeed less ductile than FCC metals like Ni and Pt at room temperature. The reason for this is the close-packed crystal structure of FCC metals with a higher number of independent slip systems, making them more ductile than BCC metals with fewer independent slip systems. The reason, therefore, is correct. However, the assertion is not wholly accurate since Refractory BCC metals can exhibit high levels of ductility when they are deformed at high temperatures. Thus, both the assertion and reason are true, but the reason is not the correct explanation for the assertion.

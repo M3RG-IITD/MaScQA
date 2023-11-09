@@ -1,4 +1,0 @@
-Answer: 
-
-- (A) larger band gap 
-- (C) higher electron mobility

@@ -1,1 +1,0 @@
-C) both a and r are true, and r is the reason for a.

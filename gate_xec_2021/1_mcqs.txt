@@ -1,2 +1,0 @@
-Condition to be satisfied for α and β phases to be in equilibrium in a two component (A and B) system at constant temperature and pressure is (Given: 𝝁 is the chemical potential)
-(A) entropy of the system should be maximum (B) Gibbs energy of the system should be minimum and $(𝜇_𝐴)^𝛼$ = $(𝜇_B)^𝛼$ , $(𝜇_𝐴)^𝛽$ = $(𝜇_B)^𝛽$ (C) Gibbs energy of the system should be minimum and $(𝜇_𝐴)^𝛼$ = $(𝜇_A)^𝛽$ , $(𝜇_B)^𝛼$ = $(𝜇_B)^𝛽$ (D) Helmholtz energy should be minimum

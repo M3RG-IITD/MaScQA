@@ -1,5 +1,0 @@
-Match the materials in Column I with their common applications in Column II. 
-Column I: [(P) Gray iron, (Q) Ductile iron, (R) Zirconium alloy, (S) Beryllium-Copper alloy]
-Column II: [1. Cladding for uranium fuel in nuclear reactor, 2. Base structure of heavy machines, 3. Valve and pump bodies, 3. Jet aircraft landing gear bearings]
-
-Options: (A) P-1, Q-3, R-2, S-4 (B) P-4, Q-2, R-1, S-3 (C) P-2, Q-1, R-4, S-3 (D) P-2, Q-3, R-1, S-4

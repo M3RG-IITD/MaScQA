@@ -1,1 +1,0 @@
-(A) Component made from alloy X can tolerate a larger flaw size compared to that made from Y.

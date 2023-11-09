@@ -1,8 +1,0 @@
-Alligatoring is a defect commonly observed in rolling. 
-
-Explanation:
-Alligatoring is a type of surface defect that appears as a series of crevices or cracks on the surface of the material that resembles the rough, scaly hide of an alligator. 
-
-This defect is commonly observed in products that undergo rolling operations. During rolling, the material is compressed and deformed between the rolls. If the material is not homogeneous or contains impurities, it can crack on the surface due to excessive deformation. This crack propagation can occur in a regular pattern, resulting in the alligatoring defect. 
-
-Therefore, the correct option is (D) Rolling.

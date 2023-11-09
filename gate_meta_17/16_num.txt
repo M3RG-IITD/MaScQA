@@ -1,1 +1,0 @@
-A brittle material (young's modulus = 60 GPa and surface energy = 0.5 $J.m^(-2)$) has a surface crack of length 2µm. The fracture strength (in MPa) of this material is?(answer up tp two decimal places) 

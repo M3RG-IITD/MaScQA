@@ -1,5 +1,0 @@
-The thicknesses of the velocity and thermal boundary layers depend on the ratios of kinematic viscosity and thermal diffusivity, respectively. If the kinematic viscosity is significantly lower than the thermal diffusivity, it means that the liquid metal spreads thinner in the direction of flow (lower velocity boundary layer) and thicker in the direction of heat conduction (higher thermal boundary layer). Therefore, the correct option is:
-
-(A) $𝛿_𝑣$ < $𝛿_𝑡$
-
-Answer: [ (A) ]

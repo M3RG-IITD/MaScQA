@@ -1,9 +1,0 @@
-According to classical nucleation theory, the critical radius of a nucleus can be given by
-$$r^* = \frac{2\gamma_{sl}}{\Delta G_V}$$
-where $\gamma_{sl}$ is the interfacial energy between solid and liquid phases and $\Delta G_V$ is the Gibbs free energy change associated with the formation of a nucleus. 
-
-For a given undercooling, $\Delta G_V$ remains constant. If the surface energy of the nucleus increases by 20%, the interfacial energy will also increase by the same percentage. Let the original critical radius be $r_1$. Then, the new critical radius $r_2$ can be given by
-$$r_2 = \frac{2(1.2\gamma_{sl})}{\Delta G_V} = \frac{2\cdot 1.2\cdot r_1\gamma_{sl}}{\Delta G_V} = 2.4r^*$$
-Therefore, the corresponding increase in the critical radius is $(r_2 - r_1)/r_1 \times 100\% = (2.4-1)/1 \times 100\% = 140\%$. 
-
-Answer: [140%]

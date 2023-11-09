@@ -1,2 +1,0 @@
-Use the image. A simplified energy band-diagram of an intrinsic semiconductor at thermal equilibrium (300 K) is shown. In the accompanying table, which one of the four columns correctly represents the listed parameters? Assume same effective mass for electrons and holes. 
-(A) Column 1 (B) Column 2 (C) Column 3 (D) Column 4

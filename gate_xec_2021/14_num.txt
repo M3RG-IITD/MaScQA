@@ -1,1 +1,0 @@
-(Given: atomic weight of Fe = 55.8; atomic weight of C = 12.0; Avogadro’s number = 6.023 × $10^(23)$). Fe - 10 atom % C austenite (fcc), having no Fe vacancies, has a lattice parameter of 4 Å. The density of austenite in g $cm^(−3)$ is? (round off to 2 decimal places) 

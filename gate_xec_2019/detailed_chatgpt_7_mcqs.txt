@@ -1,9 +1,0 @@
-The correct answer is (A) larger band gap.
-
-Explanation:
-
-GaAs (Gallium Arsenide) is a semiconductor material that is used in integrated circuits at low power due to its large band gap. The band gap is the energy gap between the valence band and the conduction band in a material. In other words, it is the minimum energy required by an electron to move from the valence band to the conduction band, where it can conduct electricity.
-
-The larger the band gap, the more energy is required for the electrons to move, which means that GaAs can operate at lower voltages and consume less power than silicon. GaAs also has a higher electron mobility compared to silicon, which means that the electrons can move faster through the material. This results in faster switching speeds for transistors used in integrated circuits.
-
-Although GaAs contains more than one element (gallium and arsenic), this is not the reason why it is advantageous over silicon for low power applications. Also, while GaAs has a higher electron mobility compared to silicon, it has a lower hole mobility.

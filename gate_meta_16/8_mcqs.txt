@@ -1,2 +1,0 @@
-During the roasting of a sulfide ore of a metal M, the possible solid phases are M, MS, MO and $MSO_4$. Assuming that both $SO_2$ and $O_2$ are always present in the roaster, the solid phases that can co-exist at thermodynamic equilibrium are
-(A) M, MS, MO, $MSO_4$ (B) M, MO, $MSO_4$ (C) MS, MO, $MSO_4$ (D) M, $MSO_4$

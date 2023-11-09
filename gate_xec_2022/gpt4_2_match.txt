@@ -1,6 +1,0 @@
-P: $Cu_{0.5}Al_{0.5}$ - This is an alloy of two metals, so the bonding will be metallic.
-Q: ZnS - This is a compound of a metal and a non-metal, so the bonding will be covalent.
-R: $Na_2O$ - This is a compound of a metal and a non-metal, so the bonding will be ionic.
-S: $Li_4SiO_4$ - This is a complex compound containing both ionic bonds (between Li and O) and covalent bonds (between Si and O), so the bonding will be mixed.
-
-Thus, the correct matching is (C), so the answer is [C].

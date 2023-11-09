@@ -1,1 +1,0 @@
-Assume that Sievert's law holds for solubility of hydrogen dissolved in a thin metal foil. If the partial pressure of hydrogen in contact with the foil is increased by a factor of 4, the solubility increases by a factor of

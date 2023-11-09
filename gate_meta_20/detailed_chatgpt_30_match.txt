@@ -1,6 +1,0 @@
-(P) Blades of a gas turbine - (4) Investment casting
-(Q) Seamless tubing - (2) Extrusion
-(R) Automotive cylinder blocks - (1) Sand casting
-(S) Tungsten filament - (3) Powder metallurgy and wire drawing
-
-Therefore, the correct answer is (D) P-4, Q-2, R-1, S-3.

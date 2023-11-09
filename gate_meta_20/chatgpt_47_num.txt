@@ -1,3 +1,0 @@
-The answer is: 
-
-- 24.2 rpm (rounded off to one decimal place).

@@ -1,5 +1,0 @@
-When long continuous fibers are added to a matrix, iso-stress conditions dictate that normal stresses in both the fibers and the matrix must be equal at any location to avoid failure. Since the composite is only reinforced in one direction, the direction perpendicular to it is the transverse direction, and that is the direction we are interested in. Assuming that the fibers are significantly stiffer than the matrix, the stresses in the composite can be assumed to act entirely on the matrix. Therefore, the Young's modulus is given by the sum of weighted averages of the Young's moduli of the matrix and fibers.
-
-$E_C=E_m(1-f)+E_f(f)$
-
-Therefore, the correct option is $\boxed{\text{(A) }E_C=(1-f)E_m+fE_f}$.

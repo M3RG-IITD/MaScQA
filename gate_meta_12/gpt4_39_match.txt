@@ -1,8 +1,0 @@
-The correct match is as follows:
-
-P. Martensite - 3. bct (Body-centered tetragonal)
-Q. Cementite - 4. Orthorhombic
-R. Austenite - 2. fcc (Face-centered cubic)
-S. Ferrite - 1. bcc (Body-centered cubic)
-
-So, the correct answer is [C].

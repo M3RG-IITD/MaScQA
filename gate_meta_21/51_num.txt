@@ -1,1 +1,0 @@
-Given: Diffusivity of carbon in γ-Fe at 950°C = 1.6 * $10^(-11)m^(2)s^(-1)$. A thick steel plate containing 0.1 wt.% C is carburized at 950°C. The plate's surface carbon concentration is maintained at 1.1 wt.% C. After 9 hours, the depth(in mm) below the surface at which the carbon concentration is 0.6 wt.% C will be?(round off to 2 decimal places)

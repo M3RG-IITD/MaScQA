@@ -1,1 +1,0 @@
-We do not have the S-N plot provided in the question. Therefore, we cannot use Miner's rule of cumulative damage to find the remaining fatigue life at a stress of 250 MPa. Please provide the necessary information to solve the question.

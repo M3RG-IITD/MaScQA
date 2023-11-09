@@ -1,6 +1,0 @@
-P - Fe - Carbothermic reduction
-Q - Ni - Matte smelting
-R - Al - Fused Salt Electrolysis
-S - Cr - Metallothermic Reduction 
-
-Therefore, the correct answer is (A) P-1, Q-2, R-4, S-3.

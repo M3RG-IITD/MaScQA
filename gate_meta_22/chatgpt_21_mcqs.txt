@@ -1,8 +1,0 @@
-The correct figure that illustrates lap joint with fillet weld is (B) II. 
-
-Answer: 
-
-- (A)	I
-- (B)	II
-- (C)	III
-- (D)	IV

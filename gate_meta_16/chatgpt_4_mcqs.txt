@@ -1,7 +1,0 @@
-The first law of thermodynamics can be stated as:
-
-(A) dE = δQ – δW
-
-Answer: 
-
-(A) dE = δQ – δW.

@@ -1,2 +1,0 @@
-Given: Activation energy for the formation of schottky defect = 250 kJ $mol^(-1)$. Avogadro number = 6.023* $10^(23)mol^(-1)$, Universal Gas Constant = 8.314 $J.K^(-1).mol^(-1)$. The number of Schottky defects per mole of KCL at 300 °C under equilibrium condition will be: 
-(A) 1.21 * $10^(18)$ (B) 1.52 * $10^(16)$ (C) 9.75 (D) 2.42 * $10^(12)$

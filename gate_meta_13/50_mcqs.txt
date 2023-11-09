@@ -1,2 +1,0 @@
-Integral enthalpy of mixing (in J/mol) of liquid (Cu, Zn) solution can be approximated by mix $ΔH^(mix)$ = -19250 * $χ_(Cu)$ * $χ_(Zn)$. The corresponding partial molar enthalpy of mixing (in J/mol) for Cu is
-(A) 19250 * $(χ_(Zn))^2 (B) -19250 * $(χ_(Cu))^2 (C) 38500*$χ_(Zn)$ -19250 * $(χ_(Zn))^2 - 19250 (D) -19250 * $(χ_(Zn))^2 

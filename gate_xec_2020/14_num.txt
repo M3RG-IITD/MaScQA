@@ -1,1 +1,0 @@
-In an industry, the probability of an accident occurring in a given month is 1/100. Let P(n) denote the probability that there will be no accident over a period of ‘n’ months. Assume that the events of individual months are independent of each other. The smallest integer value of ‘n’ such that P(n) ≤ ½ is? (round off to the nearest integer) 

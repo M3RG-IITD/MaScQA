@@ -1,1 +1,0 @@
-Given, density of oxide is 6.5 $g.cm^(-3)$. A metal oxidizes at 1200K with a parabolic rate constant of 3* $10^(-6)g^(2).cm^(-4).s^(-1)$. Time taken(in seconds) for the oxide film to grow to a thickness of 2 µm is?(round off to two decimal places). 

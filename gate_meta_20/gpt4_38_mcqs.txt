@@ -1,1 +1,0 @@
-(D) [a] is true but [r] is false

@@ -1,1 +1,0 @@
-A piezoelectric material has a Young’s modulus of 72 GPa. The stress(in MPa) required to change the polarization from 640 to 645 C m $m^(-3)$ is. (round off to the nearest integer)

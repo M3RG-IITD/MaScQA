@@ -1,2 +1,0 @@
-The sulphide capacity ($C_S$) of liquid slag of composition 55 wt.% CaO, 20 wt.% SiO2, 15 wt.% Al2O3, and 10 wt.% MgO is given by the following equation: log $C_s$ = 3.44* [$X_(CaO)$ + 0.1*$X_(MgO)$ -0.8*$X_(Al_(2)O_(3)) - $X_(SiO_2)$] - (9894/T) + 2.05 where, X is mole fraction of the respective components. Atomic weights of Ca, Mg, Si, Al and O are 40, 24, 28, 27 and 16 respectively. The value of $C_S$ at 1900 K is
-(A) 0.0009 (B) 0.009 (C) 0.09 (D) 0.9

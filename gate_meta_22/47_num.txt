@@ -1,2 +1,0 @@
-Given: 1 bar = $10^5$ Pa and the surface tension of the steel at 1773 K is 1.4 N⋅ $m^(-1)$ A spherical gas bubble of radius 0.01 mm is entrapped in molten steel held at 1773 K. If the pressure(in bar) outside the bubble is 1.5 bar, the pressure inside the bubble
-is? (round off to 1 decimal place). 

@@ -1,1 +1,0 @@
-A tensile specimen was deformed at a constant crosshead speed of 6 mm/min. The strain rate at the start of the testing was 5 * $10^(-3)s^(-1)$. The initial gauge length of the specimen (in mm) was?

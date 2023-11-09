@@ -1,5 +1,0 @@
-Match the phenomena listed in Group I with the possible mechanisms in Group II:
-Group I: [P. Fatigue, Q. Creep, R. Strain hardening, S. Yield point phenomenon]
-Group II: [1. Grain boundary sliding, 2. Slip band extrusion and intrusion, 3. Cottrell atmosphere, 4. Dislocation interaction]
-
-Options: (A) P-2, Q-3, R-4, S-1 (B) P-2, Q-4, R-3, S-1 (C) P-2, Q-1, R-4, S-3 (D) P-1, Q-2, R-4, S-3

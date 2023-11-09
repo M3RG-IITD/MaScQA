@@ -1,8 +1,0 @@
-Tensile creep is a type of deformation that occurs under a constant tensile load, over a long period of time, at high temperatures. This type of creep is caused by several mechanisms, including Nabarro-Herring and Coble mechanisms. Now, we need to determine the conditions under which Nabarro-Herring mechanism is favored over Coble mechanism.
-
-Nabarro-Herring mechanism is the dominant mechanism for creep when diffusion of vacancies is the rate-limiting step. This mechanism is favored when there is a significant concentration gradient of vacancies or when the grain size is larger, which means there are more grain boundaries for the atoms to diffuse through. 
-
-On the other hand, Coble mechanism is the dominant mechanism for creep when grain boundary diffusion is the rate-limiting step. This mechanism is favored when the grain size is smaller and the temperature is higher, which means the atoms have more energy to diffuse through the grain boundaries.
-
-Therefore, based on the above explanation, the correct answer is:
-(C) larger grain size and higher temperature, as these conditions favor the Nabarro-Herring mechanism over the Coble mechanism.

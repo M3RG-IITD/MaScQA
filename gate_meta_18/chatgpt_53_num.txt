@@ -1,9 +1,0 @@
-We can use the formula $ΔS = \frac{-ΔH}{T}$, where $ΔH$ is the enthalpy change and $T$ is the temperature. Here, since the system remains isolated, $ΔH = 0$. Therefore, $ΔS = 0$. 
-
-Alternatively, we can use the formula $ΔS = \frac{Q}{T}$, where $Q$ is the heat transferred. The heat transferred can be calculated using $Q = mcΔT$, where $m$ is the mass, $c$ is the specific heat capacity, and $ΔT$ is the change in temperature. Since the two pieces of copper are the same mass, we can simplify this to $Q = mcΔT = cΔT$, where $ΔT$ is the difference in temperature between the two pieces. Using this formula, we get:
-
-$Q = cΔT = 22.6\text{ J }K^{-1}\text{ mol}^{-1} \times (400\text{ K} - 300\text{ K}) = 226\text{ J mol}^{-1}$
-
-$ΔS = \frac{Q}{T} = \frac{226\text{ J mol}^{-1}}{350\text{ K}} \approx \boxed{0.646}\text{ J K}^{-1}$
-
-Therefore, the entropy change is approximately 0.646 J K$^{-1}$.

@@ -1,8 +1,0 @@
-Correct matches are:
-
-(P) Ionic - (3) NaCl
-(Q) Covalent - (1) Diamond
-(R) Metallic - (2) Silver
-(S) Secondary - (4) Solid argon
-
-So the correct answer is [(D)].

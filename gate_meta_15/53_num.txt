@@ -1,1 +1,0 @@
-In an FCC crystal, the strain energy per unit length of a dislocation with Burgers vector (𝑎/2)〈110〉 is x times that of a 𝑎/6 〈112〉 dislocation. Find x

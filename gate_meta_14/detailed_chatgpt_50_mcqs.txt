@@ -1,7 +1,0 @@
-The condition for thermodynamic equilibrium between two phases is that the chemical potential of each component in each phase is equal to the chemical potential of the same component in the other phase.
-
-So, the correct condition for equilibrium is:
-
-(A) $(𝜇_𝑥)^𝛼 = $(𝜇_𝑦)^𝛽 and $(𝜇_𝑦)^𝛼 = $(𝜇_𝑥)^𝛽
-
-This means that the chemical potential of component 𝑥 in phase 𝛼 is equal to the chemical potential of component 𝑦 in phase 𝛽, and the chemical potential of component 𝑦 in phase 𝛼 is equal to the chemical potential of component 𝑥 in phase 𝛽.

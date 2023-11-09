@@ -1,2 +1,0 @@
-When two phases α and β in an alloy are in thermodynamic equilibrium, then 
-(A) $(c_p)^(α)$ = $(c_p)^(β)$ (B) $(V_m)^(α)$ = $(V_m)^(β)$ (C) $(G_m)^(α)$ = $(G_m)^(β)$ (D) $(μ_i)^(α)$ = $(μ_i)^(β)$

@@ -1,2 +1,0 @@
-Given, R = 8.314 $J.mol^(-1).K^(-1)$, F = 96500 $C.mol^(-1)$, T = 298K. A galvanic cell is formed by connecting Zn($E°_(Zn^(+2)/Zn)$ = -0.76 V) and Fe($E°_(Fe^(+2)/Fe)$ = -0.44 V) wires immersed in their respective ion solutions. The cell discharges spontaneoulsy with a voltage of 0.5V. The ratio of the concentration of $[Fe^(+2)]$ to $[Zn^(+2)]$ ions in the cell is of the order of:
-(A) $10^(-6)$ (B) $10^(-5)$ (C) $10^(6)$ (D) $10^(7)$

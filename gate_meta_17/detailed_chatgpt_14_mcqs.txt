@@ -1,9 +1,0 @@
-At low temperatures, crystalline metals undergo plastic deformation through a limited number of mechanisms. Of the given options, the primary mechanisms of accommodating plastic strain at low temperatures in crystalline metals are:
-
-(A) Twinning and dislocation-slip
-
-Twinning involves the formation of a new mirror-image crystal lattice structure across a predetermined plane within a crystal. Twinning can occur in response to stress and allows for a high degree of plastic deformation with low energy absorption. This mechanism is commonly observed in hexagonal close-packed metals.
-
-Dislocation-slip involves the movement of dislocations (defects in the crystal lattice) through the crystal lattice. At low temperatures, dislocation-slip is the dominant mechanism of plastic deformation in metallic crystals. Dislocation-slip can occur through multiple crystal planes, and the movement of dislocations can lead to slip bands and the formation of new grain boundaries.
-
-Therefore, the correct option is (A) twinning and dislocation-slip.

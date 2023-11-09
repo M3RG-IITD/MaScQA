@@ -1,9 +1,0 @@
-The standard galvanic series lists metals in the order of their ability to act as an anode (to corrode or oxidize). Metals at the top of the list are more likely to corrode, while metals at the bottom are less likely.
-
-According to the standard galvanic series, the correct order of metals in the increasing order of anodic behavior is:
-
-Zn (Zinc) > Fe (Iron) > Cu (Copper) > Pt (Platinum)
-
-So, the correct option is (A) Zn, Fe, Pt, Cu. 
-
-Answer: [(A) Zn, Fe, Pt, Cu]

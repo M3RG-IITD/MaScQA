@@ -1,2 +1,0 @@
-Consider an FCC structured metal with lattice parameter a = 3.5 Å. If the material is irradiated using X-rays of wavelength λ = 1.54056 Å, the Bragg angle (2θ) corresponding to the fourth reflection will be:
-(A) 88.21° (B) 76.99° (C) 99.35° (D) 93.80°

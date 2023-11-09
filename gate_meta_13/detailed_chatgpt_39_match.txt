@@ -1,6 +1,0 @@
-P: Magnetic particle inspection is suitable for detecting surface cracks in not only austenitic but also in martensitic steels. P-2 is hence incorrect.
-Q: X-ray radiography can detect the inclusions in steels, but is not suitable for detecting surface cracks. Q-4 is hence incorrect.
-R: Dye penetrant testing is used for detecting surface cracks in materials. R-3 is correct as it can identify a hairline crack in aluminium.
-S: Ultrasonic testing can be used to detect surface and subsurface flaws in metals. S-1 is not correct, as it is not the suitable option for identifying surface cracks in austenitic stainless steels, which are naturally prone to intergranular corrosion due to carbide precipitation. 
-
-Therefore, option (B) P-4, Q-2, R-1, S-3 is the correct answer.

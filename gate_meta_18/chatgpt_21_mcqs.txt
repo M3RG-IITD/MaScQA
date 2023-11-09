@@ -1,5 +1,0 @@
-The requirement for equilibrium at a triple junction is given by the generalized Young's equation:
-
-$γ_(23)$/cos($θ_1$) = $γ_(13)$/cos($θ_2$) = $γ_(12)$/cos($θ_3$)
-
-Therefore, the correct answer is (A).

@@ -1,2 +1,0 @@
-Terminal rise velocity of a spherical shaped solid in a liquid obeys the following functional relationship: U = f(d, W, µ, ρ), Where, U is the terminal rise velocity, d is the diameter of the solid, W is the apparent weight of the solid, µ is the viscosity of liquid and ρ is the density of liquid. According to Buckingham Π theorem, the number of independent dimensionless variables needed to describe the phenomenon is?
-(A) 1 (B) 2 (C) 3 (D) 5 

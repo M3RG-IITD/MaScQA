@@ -1,2 +1,0 @@
-Given, atomic weight of Sn is 118.7 and Mg is 24.3. The Mg-Sn phase diagram exhibits two eutectics on either side of the high melting intermetallic line compound, $Mg_2Sn$, as given below.  At 561° C:  L(36.9 wt.% Sn) → α(14.48 wt.% Sn) + $Mg_2Sn$. At 203° C: L (97.87 wt.% Sn) → β-Sn (almost 100 wt.% Sn) + $Mg_2Sn$ After the eutectic reaction has gone to completion and equilibrium has been attained at a temperature just below 561° C, the amount(in wt.%) of eutectic constituent present in the alloy, Mg-50 wt.% Sn, is approximately?
-(A) 25 (B) 38 (C) 62 (D) 75

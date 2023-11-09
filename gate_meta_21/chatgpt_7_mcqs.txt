@@ -1,9 +1,0 @@
-The false statement is: 
-
-(D) Maximum true stress does not correspond to the maximum load. 
-
-The maximum true stress corresponds to the maximum load in uniaxial tensile stress-strain behaviour of polycrystalline aluminium. 
-
-Therefore, the correct answer is:
-
-- (D) Maximum true stress does not correspond to the maximum load.

@@ -1,5 +1,0 @@
-The number of independent dimensionless variables needed to describe the system can be found by calculating the dimensional analysis. Using Buckingham Pi theorem, we can determine that the number of dimensionless groups (i.e. the number of independent dimensionless variables) is equal to the number of variables (n) minus the number of fundamental dimensions (d) required to express those variables. 
-
-In this case, we have 5 variables and 3 fundamental dimensions (M, L, T). Thus, the number of dimensionless groups is n - d = 5 - 3 = 2. 
-
-Therefore, the correct answer is (A) 2.

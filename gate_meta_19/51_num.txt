@@ -1,1 +1,0 @@
-True stress - true strain behavior of a metal is given by the flow curve equation σ = 1750 $ε^(0.37)$, where σ is in MPa. The true stress at necking (in MPa, rounded off to the nearest integer) is

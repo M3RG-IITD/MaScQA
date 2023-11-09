@@ -1,2 +1,0 @@
-At equilibrium spacing in a crystalline solid, which of the following is true for net inter-atomic force (F) and potential energy (U)
-(A) F is zero and U is zero (B) F is zero and U is minimum (C) F is minimum and U is zero (D) F is minimum and U is minimum

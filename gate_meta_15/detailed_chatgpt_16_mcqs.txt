@@ -1,5 +1,0 @@
-When boron (trivalent) is doped to silicon, it introduces extra holes in the crystal lattice of silicon, as boron has one less valence electron than silicon. These holes act as positive charge carriers, hence the resulting material is a p-type semiconductor. 
-
-Therefore, the correct answer is:
-
-- (A) a p-type semiconductor.

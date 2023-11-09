@@ -1,2 +1,0 @@
-Find the corret match between plumer name in Column I and the monomer type in Column II in the image. 
-(A) I-P, II-s, III-R, IV-Q (B) I-R, II-Q, III-S, IV-P (C) I-S, II-P, III-Q, IV-R (D) I-S, II-R, III-Q, IV-P

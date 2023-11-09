@@ -1,1 +1,0 @@
-The answer is (D) ln k versus 1/T.

@@ -1,4 +1,0 @@
-The correct answer is (D) capillary action.
-
-Explanation:
-Dye penetrant testing is a non-destructive testing process used to detect surface flaws, cracks, porosity, and other defects in materials. The principle of dye penetrant testing relies on capillary action, which is the ability of a liquid to flow into narrow spaces without the assistance of external forces. The dye penetrant is applied to the surface of the material being tested and allowed to penetrate into any surface flaws by capillary action. After sufficient time has elapsed for the penetrant to fully penetrate into any surface flaws, the excess penetrant is removed from the surface, and a developer is applied to draw out the penetrant trapped in the flaw. The dye penetrant appears as a bright color on the surface of the material revealing the location of the flaw.

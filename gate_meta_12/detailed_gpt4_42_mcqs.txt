@@ -1,9 +1,0 @@
-To solve this problem, we will be using the Young's equation, which relates the angle of contact (θ) with the surface tensions (interfacial energy) between different phases. The Young's equation states:
-
-θ = cos^(-1)[($γ_(αδ)$ - $γ_(βδ)$)/$γ_(αβ)$]
-
-Now, we can see from the expression above that the correct answer is:
-
-(A) θ = $cos^(-1)$[$γ_(αδ)$ - $γ_(βδ)$/$γ_(αβ)$]
-
-So, the correct answer is [A].

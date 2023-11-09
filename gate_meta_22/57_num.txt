@@ -1,1 +1,0 @@
-Given: molar volume = 7* $10^(-6)m^(3).mol^(-1) , isothermal compressibility = 8*$10^(-12)$ $Pa^(-1)$ , isobaric expansivity = 6* $10^(-5)K^(-1)$ and R = 8.314 $J.K^(-1).mol^(-1). Assuming that Dulong-Petit law is valid for a monoatomic solid, the ratio of heat capacities $C_(p)/C_(v)$ at 500K is? (round off to 3 decimals). 

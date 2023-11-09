@@ -1,2 +1,0 @@
-The reduction of FeO with CO gas in co-current flow is given by the following equation: FeO + CO = Fe + $CO_2$ ∆G°= 8120 J at 1173K. The ratio of $p_(CO)/p_(CO_2)$ for this reaction at 1173 K is
-(A) 0.0 (B) 0.25 (C) 0.44 (D) 2.3

@@ -1,1 +1,0 @@
-Vickers hardness test is performed with an indenter of square-base diamond pyramid having an included angle of 136° between the opposite faces of the pyramid. If the applied load is 10 kg and the average length of diagonals of square indentation is 0.5 mm, the Vickers hardness in kg $mm^(−2)$ is? (round off to nearest integer)

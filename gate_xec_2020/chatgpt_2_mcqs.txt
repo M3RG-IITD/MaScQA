@@ -1,3 +1,0 @@
-B) Intensity of radiation. 
-
-The smallest of minimum feature size that can be theoretically resolved in an optical microscope depends on the numerical aperture of the objective lens, which determines the angle at which light enters the lens, and the wavelength of radiation used, according to the Abbe diffraction limit. The refractive index of the medium between the lens and the focal point affects the resolution, as it affects the refractive index contrast. However, the intensity of radiation does not affect the resolution, as increasing the intensity only increases the brightness of the image, but does not increase the resolving power.

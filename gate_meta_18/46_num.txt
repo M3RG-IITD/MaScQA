@@ -1,1 +1,0 @@
-A single crystal of aluminium is subjected to 10 MPa tensile stress along the [321] crystallographic direction. What is the value of the resolved shear stress on the (1 1 -1) [101] slip system in MPa rounded off to two decimal places?

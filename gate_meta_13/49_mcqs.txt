@@ -1,2 +1,0 @@
-Given: For carbon diffusion in austenite: $D_o$ = 2.0 * $10^(-5)m^(2)/s. Activation energy for diffusion, Q=142 kJ/mol. A steel specimen containing 0.2 wt.% C is carburized in an atmosphere that maintains a carbon content of 1.2 wt.% C at the surface of the specimen. How long (in h) will it take to double the depth at which 0.4 wt.% C is reached? (Use the image)
-(A) 40 (B) 20 (C) 18 (D) 14 

@@ -1,2 +1,0 @@
-A tensile specimen was deformed to a true strain of 0.405. The change in the gauge length was 5 mm. The final gauge length of the specimen, in mm, is
-(A) 10 (B) 12 (C) 15 (D) 18

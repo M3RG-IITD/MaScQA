@@ -1,2 +1,0 @@
-Given: (i) $C_b$ = bulk concentration of dissolved Al in liquid steel, (ii) C* = saturation concentration of Al in liquid steel at the given temperature, (iii) $C_m$ = Density of Al/Atomic weight of Al. The rate of dissolution of Al particles in liquid steel is proportional to concentration difference (ΔC).ΔC is defined by:
-(A) C*- $C_b$ (B) $C_b$ - $C_m$ (C) C* - $C_m$ (D) $[C*C_(m)]^(1/2)$ - $C_b$

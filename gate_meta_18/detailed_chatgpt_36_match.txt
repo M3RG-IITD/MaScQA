@@ -1,9 +1,0 @@
-P - Arc welding produces a heat-affected zone which is vulnerable to solidification cracks. This type of crack is an example of a Liquation crack.
-
-Q - Extrusion is the process of reducing the cross-sectional area of a workpiece in which an initial billet is formed through a continuous process. This process can lead to a Chevron crack which is one of the most commonly observed types of cracking in extrusion processes.
-
-R - Drawing refers to a process where a sheet or bar is pulled through a die until it reaches the required size. This process causes an Edge crack to happen, which is due to the excessive plastic deformation that the material undergoes during the process.
-
-S - Rolling as a manufacturing process, involves compressing a material between two rotating rolls, it also surfaces unsuitable for subsequent processing. In this process, Surface cracks are common, which may result from surface tearing or surface splits.
-
-Therefore, the correct answer is: (B) P-1, Q-3, R-4, S-2.

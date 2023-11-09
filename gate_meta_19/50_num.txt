@@ -1,1 +1,0 @@
-Use the image. The S-N curve for a steel is shown below. If the stress ratio, $(𝜎_(𝑚𝑖𝑛)/𝜎_(𝑚𝑎𝑥))$ = −0.8, the maximum stress (in MPa, rounded off to the nearest integer) that the steel can withstand for infinite fatigue life is?

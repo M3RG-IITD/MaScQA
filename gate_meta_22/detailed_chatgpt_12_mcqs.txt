@@ -1,1 +1,0 @@
-Sieverts’ law states that the solubility of a gas in a liquid is proportional to the partial pressure of the gas above the liquid in equilibrium. Therefore, the equilibrium solubility of $N_2$ (gas) in molten steel would be proportional to the equilibrium partial pressure of $N_2$ (gas), which is given as $𝑝(N_2)$. Therefore, the correct answer is (A) $𝑝_(N_2)$.

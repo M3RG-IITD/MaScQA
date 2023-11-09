@@ -1,2 +1,0 @@
-Two solid spheres X and Y of identical diameter are made of different materials having thermal diffusivities 100*$10^(-6)m^(2)s^(-1)$ and 25*$10^(-6)m^(2)s^(-1)$ respectively. Both spheres are heated in a furnace maintained at 1000K. If the center of the sphere X reaches 800K in 1 hour, time required for the center of sphere Y to reach 800K is
-(A) 1 hour (B) 2 hours. (C) 4 hours. (D) 16 hours. 

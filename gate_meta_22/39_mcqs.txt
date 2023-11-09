@@ -1,2 +1,0 @@
-Figures P, Q, R and S (in the image) schematically show the atomic dipole moments in the absence of external magnetic field. Which one of the following is the correct mapping of nature of magnetism to atomic dipole moments? 
-(A) P - Diamagnetism, Q - Antiferromagnetism, R - Paramagnetism, S - Ferromagnetism (B) P – Ferromagnetism, Q - Antiferromagnetism, R – Diamagnetism, S - Paramagnetism (C) P – Paramagnetism, Q – Ferromagnetism, R – Diamagnetism, S - Antiferromagnetism (D) P – Ferromagnetism, Q – Diamagnetism, R – Antiferromagnetism, S - Paramagnetism 

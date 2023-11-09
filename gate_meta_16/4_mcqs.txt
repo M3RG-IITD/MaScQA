@@ -1,2 +1,0 @@
-The first law of thermodynamics can be stated as [where, E, Q and W denote internal energy, heat and work, respectively]
-(A) dE = δQ – δW (B) dQ = dE – δW (C) δW = dQ + dE (D) dW = δQ – δE

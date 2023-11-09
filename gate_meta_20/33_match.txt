@@ -1,5 +1,0 @@
-Match the reactors in Column I with the corresponding products in Column II.
-Column I: [(P) COREX, (Q) MIDREX, (R) Flash smelting reactor, (S) Submerged arc furnace]
-Column II: [1. Sponge iron, 2. Copper matte, 3. Hot metal or pig iron, 4. Ferrochrome]
-
-Options: (A) P-1, Q-3, R-2, S-4 (B) P-3, Q-4, R-2, S-1 (C) P-3, Q-1, R-2, S-4, (D) P-3, Q-1, R-4, S-2

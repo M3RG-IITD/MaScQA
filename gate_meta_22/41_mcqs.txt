@@ -1,5 +1,0 @@
-Match the phenomena (Column I) with the descriptions (Column II)
-Column I: [(P) Cottrell atmosphere, (Q) Suzuki interaction, (R) Bauschinger effect, (S) Nabarro- Herring creep]
-Column II: [(1) Decrease in yield stress when loading direction is reversed, (2) Stress assisted diffusion of vacancies resulting in plastic deformation in a polycrystalline material, (3) Lüders bands, (4) Segregation of solutes to the stacking fault]
-
-Options: (A) P - 1, Q - 2, R - 3, S - 4 (B) P - 1, Q - 2, R - 4, S - 3 (C) P - 3, Q - 4, R - 1, S - 2 (D) P - 3, Q - 1, R - 4, S - 2 

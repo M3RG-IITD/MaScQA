@@ -1,2 +1,0 @@
-Four alloys, C1, C2, C3, C4 shown in the phase diagram are poured at temperature $T_1$ in a mold. During solidification, which one of these alloys is expected to have the highest fluidity?
-(A) C1 (B) C2 (C) C3 (D) C4

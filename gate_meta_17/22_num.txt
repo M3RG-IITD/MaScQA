@@ -1,1 +1,0 @@
-A material which shows power law behavior,  σ = 50*$ε^(0.3)$, is being wire drawn. The maxium strain per pass in annealed condition (assume ideal work and efficiency η = 1) is?(answer up to two decimal places)

@@ -1,2 +1,0 @@
-A material with grain size of ASTM No. 6 has a lattice frictional stress 100 MN/$m^2$ and locking parameter (Hall-Petch constant) 0.10 MN/$m^(1.5)$. Yield strength of the material is approximately
-(A) 100 MPa (B) 115 MPa (C) 165 MPa (D) 215 MPa

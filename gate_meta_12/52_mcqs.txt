@@ -1,2 +1,0 @@
-A material with grain size of ASTM No. 6 has a lattice frictional stress 100 MN/$m^2$ and locking parameter (Hall-Petch constant) 0.10 MN/$m^(1.5)$. Grain size of the material is approximately
-(A) 45 µm (B) 35 µm (C) 4.5 µm (D) 3.5 µm

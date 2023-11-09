@@ -1,2 +1,0 @@
-For uniaxial tensile stress-strain behaviour of polycrystalline aluminium, which one of the following statements is FALSE?
-(A) True stress is always higher than the engineerig stress. (B) At the ultimate stress point on the true stress-strain curve, dσ/dε = 0 (C) Resilience is the area under the elastic region of the engineering stress-strain curve. (D) Maximum true stress does not correspond to the maximum load.

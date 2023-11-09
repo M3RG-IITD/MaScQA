@@ -1,1 +1,0 @@
-In a sand-mould, a sprue of 0.25 m height and a top cross-section area of 2.2 $m^2$ is provided to maintain the melt flow rate at 4 $m^3.s^(-1)$. To prevent aspiration of molten metal, the maximum cross-section area (in $m^2$) at the base of the sprue is?

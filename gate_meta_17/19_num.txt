@@ -1,1 +1,0 @@
-Given: $λ_(CuKα)$ = 0.154 nm; lattice parameter of the metal = 0.36 nm. The second peak in the powder X-ray diffraction pattern of a FCC metal occurs at what Bragg angle θ (in degrees)? (answer up to two decimal places)

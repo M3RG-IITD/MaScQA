@@ -1,2 +1,0 @@
-List of incorrect statement with respect to grain growth:
-- (A) As the average grain size increases, the grain boundary energy per unit area decreases.

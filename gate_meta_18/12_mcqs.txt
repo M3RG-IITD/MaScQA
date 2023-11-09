@@ -1,2 +1,0 @@
-For a single phase system with K components, the exact differential of Gibbs free energy is given as in the image. Which one of the following can be derived from the above expression as a Maxwell’s relation?
-(A) (𝜕𝑆/𝜕P)|$_(T,𝑛_𝑖)$ = -(𝜕V/𝜕T)|$_(P,𝑛_𝑖)$ (B) (𝜕𝑆/𝜕V)|$_(T,𝑛_𝑖)$ = (𝜕V/𝜕T)|$_(P,𝑛_𝑖)$ (C) (𝜕𝑆/𝜕T)|$_(T,𝑛_𝑖)$ = -(𝜕V/𝜕P)|$_(T,𝑛_𝑖)$ (D) (𝜕𝑆/𝜕P)|$_(T,𝑛_𝑖)$ = (𝜕V/𝜕P)|$_(T,𝑛_𝑖)$

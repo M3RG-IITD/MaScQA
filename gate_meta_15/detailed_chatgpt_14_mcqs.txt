@@ -1,1 +1,0 @@
-The given angles are 𝛼 = 𝛽 = 𝛾 = 90°. This eliminates options (A), (B), and (D) which all have one or more angles that are not 90°. Therefore, the crystal belongs to the Orthorhombic system, which has three unequal axes that intersect at right angles. The answer is (C) Orthorhombic.

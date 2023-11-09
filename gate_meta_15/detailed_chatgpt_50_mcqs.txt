@@ -1,5 +1,0 @@
-The liquid penetration test can be used to detect surface flaws in a material, but it cannot detect internal flaws. Therefore, option 1 is NOT applicable for detecting internal flaws in a ceramic material. Radiography, ultrasonic testing, and eddy current method are commonly used non-destructive testing techniques for detecting internal flaws in a material, including ceramics. Therefore, options 2, 3, and 4 are applicable for detecting internal flaws in a ceramic material. 
-
-Hence, the correct answer is:
-
-(D) 1 and 4

@@ -1,1 +1,0 @@
-For a FCC metal, the ratio of surface energy of {111} surface to {100} surface is? (round off to two decimal places). Assume that only the nearest neighbor broken bonds contribute to the surface energy. 

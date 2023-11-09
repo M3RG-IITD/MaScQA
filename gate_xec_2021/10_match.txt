@@ -1,5 +1,0 @@
-In the context of scanning electron microscopy, match the information in Column I with most appropriate information in Column II.
-Column I: [(P) Secondary electrons, (Q) Backscattered electrons, (R) Characteristic X-rays, (S) Diffracted backscattered electrons]
-Column II: [(1) Crystallographic orientation of grains, (2) Failure analysis of fractured surfaces, (3) Chemical composition analysis, (4) Distinguishing chemically distinct phases]
-
-Options: (A) P-3; Q-2; R-1; S-4 (B) P-2; Q-4; R-3; S-1 (C) P-1; Q-3; R-2; S-4 (D) P-4; Q-2; R-1; S-3

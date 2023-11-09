@@ -1,1 +1,0 @@
-Answer: (C) $(G_m)^\alpha = (G_m)^\beta$

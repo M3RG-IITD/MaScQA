@@ -1,8 +1,0 @@
-Option (B) Both (i) and (ii) is the correct answer. 
-
-Explanation:
-When a transition metal is doped in an inorganic host material, the colour of the material changes. This is because the transition metal ions introduce new energy levels in the host material's electronic structure. These energy levels can absorb certain wavelengths of light, leading to the observed colour of the material. Therefore, statement (i) is true. 
-
-Additionally, the doped element selectively absorbs certain wavelengths of light that correspond to its specific electronic transitions. Therefore, statement (ii) is also true. 
-
-However, statement (iii) is incorrect as it is not a common phenomenon for the doped element to emit radiation of a specific wavelength causing the material to appear coloured.

@@ -1,2 +1,0 @@
-For an ideal hexagonal-closed packed structure, the c/a ratio and packing efficiency respectively are
-(A) 1.633 and 52% (B) 1.633 and 74% (C) 1.733 and 68% (D) 1.733 and 74% 

@@ -1,2 +1,0 @@
-The slope of a graph of $log_e$(conductivity) versus 1/T (where T is the temperature) for an intrinsic semiconductor with energy gap $E_g$, is
-(A) $E_g$/2k (B) –$E_g$/2k (C) $E_g$/k (D) −$E_g$/k

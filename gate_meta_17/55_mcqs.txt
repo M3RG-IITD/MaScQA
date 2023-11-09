@@ -1,2 +1,0 @@
-Given: Melting points of tungsten and nickel are 3410°C and 1453°C, respectively. W-Ni compact is prepared by liquid phase sintering at 1500° C. If the size of tungsten grains is 40 µm and the interfacial tungsten -tungsten and tungsten- nickel energies are 0.52 and 0.30 $J.m^(-2)$ respectively, the predicted avergae neck size (in µm) of sintered tungsten grain is:
-(A) 10 (B) 15 (C) 20 (D) 25

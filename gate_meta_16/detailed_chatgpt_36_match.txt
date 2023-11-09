@@ -1,9 +1,0 @@
-[P] Drag coefficient has dimensions of force per unit area and is given by $F/A = MLT^{-2}/L^2 = ML^{-1}T^{-2}$. This matches with option (C) where P-1.
-
-[Q] Mass transfer coefficient has dimensions of mass transferred per unit area per unit time per unit concentration difference and is given by $M/(ATC) = M/(L^2T[C/L^3]) = ML^{-2}T^{-1}C^{-1}$. This matches with option (D) where Q-3.
-
-[R] Viscosity has dimensions of force per unit area per unit velocity gradient and is given by $F/(Av/L) = ML^{-1}T^{-1}$ This matches with option (B) where R-2.
-
-[S] Mass flux has dimensions of mass per unit area per unit time and is given by $M/A.T = M.L^{-2}.T^{-1}$. This matches with option (A) where S-2.
-
-Therefore, the correct answer is: (A) P-3, Q-4, R-1, S-2.

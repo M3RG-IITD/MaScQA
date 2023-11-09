@@ -1,1 +1,0 @@
-Consider the reaction: $Fe_(3)O_(4) (solid, pure) + CO (gas, 1 atm) →3FeO (solid, pure) + $CO_2$ (gas, 1 atm). For this reaction, $∆𝐺°_(1200)$ = −8000 joules per mole of CO and R = 8.314 J $mol^(-1)K^(-1). The equilibrium ratio, $𝑝_(C0_2)$/ $𝑝_(CO)$ for the reaction at 1200 K and 1 atm is ?

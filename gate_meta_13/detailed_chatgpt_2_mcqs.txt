@@ -1,7 +1,0 @@
-The configurational entropy of a crystal is related to the number of ways in which its constituent particles can be arranged or distributed. If the concentration of point defects in a crystal increases, this means that there are more defects or vacancies in the crystal lattice, which can change the possible arrangements of the particles.
-
-As a result, the configurational entropy of the crystal will increase. This is because there are more ways in which the particles can be distributed to accommodate the additional point defects.
-
-Therefore, the correct answer is:
-
-- (C) increases

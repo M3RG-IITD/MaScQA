@@ -1,2 +1,0 @@
-As temperature increases, diffusivity of an atom in a solid material,
-(A) increases (B) decreases (C) remains constant (D) depends on the specific material

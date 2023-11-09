@@ -1,5 +1,0 @@
-Match the principles given in Group I with corresponding corrosion terminology in Group II:
-Group I : [P. Electrode polarization, Q. Passivity, R. Selective leaching, S. Grain boundary precipitation]
-Group II: [1. Dezincification, 2. Intergranular attack, 3. Over voltage, 4. Surface oxide film]
-
-Options: (A) P-3, Q-4, R-1, S-2 (B) P-3, Q-4, R-2, S-1 (C) P-4, Q-2, R-1, S-3 (D) P-2, Q-1, R-4, S-3

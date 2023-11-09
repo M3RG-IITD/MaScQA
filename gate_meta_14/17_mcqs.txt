@@ -1,1 +1,0 @@
-A steel rod was subjected to a fluctuating stress cycle that varied between a maximum of 400 MPa in tension to a minimum of 300 MPa in compression. What is the stress amplitude, in MPa?

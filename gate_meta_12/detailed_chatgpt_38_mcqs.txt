@@ -1,9 +1,0 @@
-P. Bessemer converter can be used in copper smelting: FALSE. The Bessemer converter is a method of steelmaking, and is not suitable for copper smelting.
-
-Q. The Mond process for nickel involves reaction of metal with H2 gas: TRUE. The Mond process for nickel involves heating high-purity nickel with hydrogen gas in the presence of a catalyst to form nickel carbonyl gas, which can be decomposed to yield pure nickel.
-
-R. Roasted ZnS concentrates can be smelted in a blast furnace: TRUE. Roasting of ZnS (zinc sulfide) concentrates converts the zinc sulfide into zinc oxide, which can then be reduced to zinc metal in a blast furnace.
-
-S. Magnesium metal can be produced by electrolysis of sea water: FALSE. While sea water does contain magnesium ions, the concentration is too low to make it economically viable to extract magnesium metal by electrolysis of sea water.
-
-Therefore, the correct combination of statements is (D) Q and S.

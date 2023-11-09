@@ -1,6 +1,0 @@
-P - Extrusion: 2. Cold shut  
-Q - Deep drawing: 4. Fir-tree cracking  
-R - Forging: 1. Earing  
-S - Rolling: 3. Edge cracking  
-
-Therefore, the answer is (A) P - 1, Q - 4, R - 2, S - 3.

@@ -1,2 +1,0 @@
-For a material to exhibit superplasticity, one of the requirements is:
-(A) Coarse-grained microstructure (B) High strain-rate sensitivity (C) Low strain-hardening exponent (D) High modulus of elasticity

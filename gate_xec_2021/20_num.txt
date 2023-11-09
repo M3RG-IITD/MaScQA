@@ -1,1 +1,0 @@
-At 1000 K, the linear thermal expansion coefficients of graphite, parallel and perpendicular to the graphite layers, are 0.8 * $10^(−6)K^(−1)$ and 29 * $10^(−6)K^(−1)$, respectively. The percentage increase in the volume of graphite when heated from 900 K to 1100 K is? (round off to 2 decimal places)

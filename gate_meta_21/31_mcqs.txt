@@ -1,2 +1,0 @@
-In the absence of any external stress, which one of the following statements related to the interaction of point defect and a dislocation is FALSE:
-(A) An oversized solute atom would preferentially migrate below the slip plane of an edge dislocation (B) A spherically symmetric point defect can interact with both the hydrostatic and shear stress fields of a dislocation (C) A point defect can locally modify the elastic modulus and thereby can change the interaction energy. (D) Vacancies are attracted towards the compressive region of dislocation

@@ -1,2 +1,0 @@
-A 20 kN tensile load is applied axially to a steel bar of crosssectional area 8 $cm^2$ and 1m length. The Young’s modulus of steel ($E_(steel)$) is 200 GPa, and of aluminium ($E_(Al)$) is 70 GPa. The Poisson’s ratio (ν) can be taken as 0.3. When the same load is applied to an aluminium bar, it is found to give same elastic strain as the steel. Calculate the cross-sectional area of the aluminium bar.
-(A) 11.43 $cm^2$ (B) 14.93 $cm^2$ (C) 18.26 $cm^2$ (D) 22.86 $cm^2$

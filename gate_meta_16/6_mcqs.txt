@@ -1,2 +1,0 @@
-Activation energy of a chemical reaction, homogeneous or heterogeneous, is graphically estimated from a plot between
-(A) k versus T (B) 1/k versus T (C) 1/k versus ln T (D) ln k versus 1/T 

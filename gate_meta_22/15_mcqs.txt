@@ -1,2 +1,0 @@
-The sequence of peaks corresponding to the planes (in the order of increasing 2𝜃) observed in the X-ray diffractogram of a pure copper powder sample is 
-(A) 111, 200, 220, 311 (B) 110, 200, 211, 220 (C) 110, 200, 211, 311 (D) 111, 200, 311, 220

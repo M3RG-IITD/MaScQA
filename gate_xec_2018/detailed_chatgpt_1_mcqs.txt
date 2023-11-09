@@ -1,3 +1,0 @@
-The stress ratio (R) is defined as the minimum stress divided by the maximum stress during a cycle of loading. For a completely reversed cyclic loading, the minimum stress is equal in magnitude but opposite in sign to the maximum stress. Therefore, the stress ratio is equal to -1.
-
-Answer: (C) -1.

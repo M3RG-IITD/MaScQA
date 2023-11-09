@@ -1,1 +1,0 @@
-Given: Elastic moduli of A and B are 200 GPa and 100 GPa, respectively. A material, made up of alternating layers of metals A and B, is loaded as shown below. If the volume % of B is 25%, the elastic modulus (in GPa, rounded off to one decimal place) of the material is

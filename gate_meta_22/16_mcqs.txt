@@ -1,2 +1,0 @@
-Which one of the following Non Destructive Testing (NDT) techniques CANNOT be used to identify volume defects in the interior of a casting?
-(A) Ultrasonic testing (B) X-ray computed tomography (C) Dye-penetrant testing (D) Gamma ray radiography 

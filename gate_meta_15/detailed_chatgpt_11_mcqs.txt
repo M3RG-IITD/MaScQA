@@ -1,9 +1,0 @@
-The correct plot of Gibbs free energy (G) vs. temperature (T) for a single component system is given by plot S.
-
-Explanation:
-
-For a single component system, the phase transitions are represented by changes in the slope of the Gibbs free energy curve. The Gibbs free energy change (ΔG) for a process is related to the Gibbs free energy of the initial and final states (G1 and G2) by the equation ΔG = G2 - G1.
-
-At the transition temperature (Tm), the Gibbs free energy of the two phases is equal, and the Gibbs free energy curve has a point of inflection. Above the transition temperature, the higher energy phase is stable, and below the transition temperature, the lower energy phase is stable.
-
-Plot S shows a typical Gibbs free energy vs. temperature plot for a single component system with a clear point of inflection at the transition temperature. The slope of the curve changes at the transition temperature to represent the change in stability of the two phases. Plots A, B, and C do not show a clear point of inflection, indicating that the transition temperature is missing. Therefore, they cannot be the correct plot.

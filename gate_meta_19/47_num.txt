@@ -1,1 +1,0 @@
-Given: Shear modulus of iron = 82 GPa, Burger’s vector, b = a/2[1 1 1], a = 0.2856 nm. Cold working of iron leads to increase in dislocation density from $10^(10)$ to $10^(15)𝑚^(−2)$ . The associated stored energy (in 𝑴𝑱. $𝒎^(−𝟑)$, rounded off to one decimal place) is

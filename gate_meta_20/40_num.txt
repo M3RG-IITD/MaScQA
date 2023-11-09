@@ -1,1 +1,0 @@
-Assume hard sphere model and radius of Fe atom as 0.124 nm. Radius(in nm) of the largest interstitial atom that can be accommodated in an octahedral void in BCC iron without distorting the lattice is?(round off to three decimal places)

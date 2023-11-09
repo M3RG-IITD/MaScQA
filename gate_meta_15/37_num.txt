@@ -1,1 +1,0 @@
-Given: Faraday constant = 96490 C $mol^(-1)$, Temperature = 300 K, R = 8.314 J $mol^(-1)K^(-1)$. In electrolytic refining of Ni, the anode is Cu-10 atom % Ni and the cathode is pure Ni. Assuming the Cu-Ni solution to be ideal, the ABSOLUTE value of the minimum voltage (in mV) required for refining is?

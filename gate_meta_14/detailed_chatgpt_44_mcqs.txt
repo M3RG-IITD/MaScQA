@@ -1,6 +1,0 @@
-Option C is correct, both assertion (a) and reason (r) are true, and r is the reason for a.
-
-Explanation:
-In age-hardened aluminum-copper alloys, θ' and θ'' are the two types of precipitates formed by the diffusion of copper atoms to aluminum atom lattices. θ' and θ'' precipitates form during the early stages of aging, and θ precipitates form during the later stages of aging. During the aging process, as θ precipitates form, there is a decrease in hardness because θ precipitates are larger in size than θ' and θ'' precipitates, and they do not impede the movement of dislocations. At the peak aging time, the hardness of the alloy is at its maximum because at this time, the maximum volume fraction of small θ' and θ'' precipitates have formed, resulting in the greatest strengthening effect.
-
-Therefore, both assertion (a) and reason (r) are true, and r is the reason for a. The maximum volume fraction of the θ precipitates is formed at the peak aging time, resulting in the maximum hardness of the alloy.

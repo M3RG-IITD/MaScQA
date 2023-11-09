@@ -1,7 +1,0 @@
-In a three-dimensional solid, the density of states (DOS) varies with energy (E) as:
-
-D(E) ∝ $E^{1/2}$
-
-So, the correct answer is (A) $E^{1/2}$.
-
-Answer: [A]

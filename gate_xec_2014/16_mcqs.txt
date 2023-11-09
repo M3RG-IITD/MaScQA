@@ -1,2 +1,0 @@
-Which among the following rules need to be satisfied for obtaining an isomorphous phase diagram in a binary alloy system? (P) The atomic size difference should be less than 15%. (Q) Both the end components should have the same crystal structure (R) The valency of the end components should be the same. (S) The end components should have dissimilar electronegativities
-Options: (A) P, Q, R (B) Q, R, S (C) R, S, P (D) S, P, Q

@@ -1,2 +1,0 @@
-In a binary system A-B, $ε_(AA)$, $ε_(BB)$ and $ε_(AB)$ correspond to A-A, B-B and A-B bond energies respectively. The miscibility gap will occur if
-(A) $ε_(AB)$ > ½ ($ε_(AA)$ + $ε_(BB)$) (B) $ε_(AB)$ < ½ ($ε_(AA)$ + $ε_(BB)$) (C) $ε_(AB)$ = ½ ($ε_(AA)$ + $ε_(BB)$) (D) $ε_(AB)$ < ¼ ($ε_(AA)$ + $ε_(BB)$) 

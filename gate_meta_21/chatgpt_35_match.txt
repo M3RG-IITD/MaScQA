@@ -1,7 +1,0 @@
-Answer: (C) P-4, Q-3, R-1, S-2. 
-
-Explanation: 
-- Submerged Entry Nozzle (P) is used in continuous casting (2). 
-- Electric Heating (Q) is a unit process used in the Ladle Furnace (3). 
-- Raceway Zone (R) is associated with the Blast Furnace (1). 
-- Oxygen Lancing (S) is a unit process used in the LD Convertor (4).

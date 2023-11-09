@@ -1,1 +1,0 @@
-(Given: Planck’s constant h = 6.63 * $10^(-34)$ J s, 1ev = 1.6*$10^(-19)$ J, electron mass = 9.11×$10^(-31)$ kg ). The zero point energy(in ev) of an electron in a box of 0.2 nm width is? (round off to 1 decimal place)

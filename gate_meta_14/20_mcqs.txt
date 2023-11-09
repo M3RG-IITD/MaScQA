@@ -1,2 +1,0 @@
-Identify the type of the following invariant reaction: liquid 1 + solid 1 ⇌ solid 2
-(A) Eutectic (B) Eutectoid (C) Peritectic (D) Peritectoid

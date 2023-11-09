@@ -1,5 +1,0 @@
-Match the following fracture surface features listed in Group I with the fracture mechanisms listed in Group II:
-Group I: [P. Striations, Q. Dimples and microvoids, R. Flat facets and "river markings", S. Jagged surface with grain-like features]
-Group II: [1. Intergranular fracture, 2. Cleavage fracture, 3. Ductile fracture, 4. Fatigue fracture]
-
-Options: (A) P-1, Q-2, R-3, S-4 (B) P-1, Q-3, R-2, S-4 (C) P-4, Q-3, R-2, S-1 (D) P-2, Q-1, R-4, S-3

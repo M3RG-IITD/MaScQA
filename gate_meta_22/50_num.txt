@@ -1,1 +1,0 @@
-Consider a tilt boundary of misorientation of 2° in an aluminium grain. The lattice parameter of aluminium is 0.143 nm. The spacing(in nm) between the dislocations that form the tilt boundary is? (round off to 2 decimal places). 

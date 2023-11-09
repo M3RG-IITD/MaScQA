@@ -1,2 +1,0 @@
-Of the following welding processes: [P] Laser Beam Welding [Q] Submerged Arc Welding [R] Metal Inert Gas Welding. The width of the heat-affected zone in decreasing order is
-(A) P > Q > R (B) Q > R > P (C) R > P > Q (D) P > R > Q 

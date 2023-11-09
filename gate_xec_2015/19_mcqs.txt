@@ -1,2 +1,0 @@
-Calculate the planar density of the (100) plane in an fcc crystal given that R is the atomic radius of the element.
-(A) 0.25 $R^2$ (B) 0.25/$R^2$ (C) 1/$R^2$ (D) 4/$R^2$

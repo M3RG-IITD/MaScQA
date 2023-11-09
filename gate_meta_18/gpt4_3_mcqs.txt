@@ -1,9 +1,0 @@
-According to the Buckingham Pi theorem, the number of independent dimensionless variables (π terms) required to describe a system is given by the formula:
-
-Number of π terms = Number of variables - Number of reference dimensions
-
-In this problem, we have 5 variables (Pressure, Velocity, Size, Density, and Viscosity) and 3 reference dimensions (M, L, and T).
-
-Number of π terms = 5 variables - 3 reference dimensions = 2
-
-So, the answer is (A) 2. The number of independent dimensionless variables needed to describe this system is 2.

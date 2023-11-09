@@ -1,2 +1,0 @@
-If r is a position vector relative to the origin in three dimensional space, then divergence of r is?
-(A) 0 (B) 1 (C) 2 (D) 3

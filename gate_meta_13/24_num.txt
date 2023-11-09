@@ -1,1 +1,0 @@
-If σ and ε are true stress and true strain, respectively, the maximum true uniform strain that can be imparted to a material obeying σ = 1050 * $ε^(0.25)$ is 

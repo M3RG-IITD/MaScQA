@@ -1,1 +1,0 @@
-The change of standard state from pure liquid to 1 wt.% for Si dissolved in liquid Fe at 1873 K is expressed as Si (liq.) = Si (1 wt.%). Given that the activity coefficient of Si at infinite dilution in Fe is $10^(-3)$, the standard Gibbs free energy change (in kJ) for this equilibrium is?

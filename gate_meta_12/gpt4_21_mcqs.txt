@@ -1,1 +1,0 @@
-The correct answer is (C) 1/$E_C$ = [(1-f)/$E_m$] + f/$E_f$.

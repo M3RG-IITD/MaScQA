@@ -1,2 +1,0 @@
-In a tensile creep test of a metal, Nabarro-Herring mechanism is favored over Coble mechanism for
-(A) larger grain size and lower temperature (B) smaller grain size and higher temperature (C) larger grain size and higher temperature (D) smaller grain size and lower temperature

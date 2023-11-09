@@ -1,2 +1,0 @@
-For a binary system at constant pressure, there are two types of invariant reactions: (i) α ↔ β + γ (ii) α + β ↔ γ Analogously, how many different types of invariant reactions may exist under variable temperature and pressure, for a binary system?
-(A) 1 (B) 2 (C) 3 (D) 4 

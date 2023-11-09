@@ -1,2 +1,0 @@
-For a zeroth order chemical reaction, which one of the following is FALSE?
-(A) Concentration versus time plot is a straight line. (B) Increase in concentration of reacting species increases the rate of reaction (C) Half-life depends on the initial concentration and zero-order rate constant. (D) Rate of reaction depends on temperature

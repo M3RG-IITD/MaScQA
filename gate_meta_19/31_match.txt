@@ -1,5 +1,0 @@
-Match the ceramics in Column I with corresponding application in Column II.
-Column I: [(P) Mullite, (Q) Spinel ferrites, (R) Tungsten carbide, (S) Barium titanate]
-Column II: [1. Cutting tools, 2. Refractories, 3. Piezoelectric, 4. Soft magnet]
-
-Options: (A) P-2, Q-3, R-1, S-4 (B) P-4, Q-1, R-2, S-3 (C) P-3, Q-4, R-1, S-2 (D) P-2, Q-4, R-1, S-3

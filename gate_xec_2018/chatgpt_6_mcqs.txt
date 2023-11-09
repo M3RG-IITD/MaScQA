@@ -1,8 +1,0 @@
-The number of vibrational degrees of freedom for a non-linear triatomic molecule is 3N - 6, where N is the number of atoms in the molecule. Here, N = 3 for a triatomic molecule, and it is non-linear. Therefore,
-
-3N - 6 = 3(3) - 6 = 9 - 6 = 3
-
-Hence the correct answer is (D) 3. 
-
-Answer: 
-(D) 3

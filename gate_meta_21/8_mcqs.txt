@@ -1,2 +1,0 @@
-Which one of the following is FALSE for creep deformation?
-(A) The minimum creep rate is obtained in the primary stage (stage I) (B) Creep resistance decreases with decrease in grain size (C) Coble creep occurs via grain boundary diffusion. (D) Nabarro-Herring creep occurs via lattice diffusion

@@ -1,5 +1,0 @@
-Match the conventional ceramic materials listed in Column I with their respective common applications in Column II:
-Coloumn I: [P. Lead Zirconate Titanate (PZT), Q. Zinc Oxide (ZnO), R. Silicon Carbide (SiC), S. Zirconia ($ZrO_2$)]
-Coloumn II: [1. cutting tool, 2. thermal barrier coating, 3. actuator, 4. varistor, 5. super conductor]
-
-Options: (A) P-1, Q-2, R-3, S-5 (B) P-3, Q-2, R-1, S-5 (C) P-2, Q-1, R-5, S-3 (D) P-3, Q-4, R-1, S-2

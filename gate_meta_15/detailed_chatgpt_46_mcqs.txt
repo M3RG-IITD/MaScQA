@@ -1,7 +1,0 @@
-The elastic modulus measures the stiffness of a material and is a physical property that depends on the arrangement of atoms in the material. The hardness of a material, on the other hand, is a measure of how resistant it is to deformation or penetration.
-
-Assertion [a] states that in a pure metal weld, the elastic modulus in the heat affected zone (HAZ) is the same as that in the base metal. This assertion is true because the elastic modulus is a fundamental property of the metal and is not significantly affected by the welding process or the microstructure of the HAZ. Therefore, the elastic modulus in the HAZ should be the same as that in the base metal.
-
-Reason [r] states that coarse-grained microstructure in the HAZ results in lower hardness. This reason is also true because the microstructure of the HAZ is different from that of the base metal due to the heat input and thermal cycles of the welding process. The HAZ will contain larger grains than the base metal, which can result in a reduction in hardness. However, this has no effect on the elastic modulus.
-
-Therefore, the correct answer is (B) Both [a] and [r] are true and [r] is not the correct reason for [a].

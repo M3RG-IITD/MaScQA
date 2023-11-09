@@ -1,5 +1,0 @@
-Match the reaction in Column I with its name in Column II. L – liquid, α, β, γ – different solid solution phases :
-Coloumn I : [(P) L on cooling gives α + β, (Q) L + β on cooling gives γ, (R) α on cooling gives β]
-Coloumn II: [(1) peritectic, (2) eutectic, (3) monotectic, (4) eutectoid]
-
-Options: (A) P-1, Q-4, R-3 (B) P-2, Q-1, R-4 (C) P-2, Q-3, R-1 (D) P-4, Q-2, R-3

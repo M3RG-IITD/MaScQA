@@ -1,1 +1,0 @@
-$N_A$: Avogadro’s number = 6.02 * $10^(23)$ $mole^(-1)$ $k_B$: Boltzmann’s constant = 8.62 * $10^(-5)$ eV/K. The enthalpy required to create an oxygen vacancy in $CeO_2$ is 4 eV. The number of oxygen vacancies present per mole of $CeO_2$ at 1000 K is? (Round off to the nearest integer)

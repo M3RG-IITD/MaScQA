@@ -1,1 +1,0 @@
-Given: R = 8.314 J $mol^(-1)K^(-1)$, 1atm = 101325 Pa; $C_p$ = 2.5 R. One mole of an ideal gas at 10atm and 300K undergoes reversible adiabatic expansion to a pressure of one atm. The work done(in Joules) by the gas is?(round off to nearest integer)

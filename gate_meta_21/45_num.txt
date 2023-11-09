@@ -1,1 +1,0 @@
-The figure in the image shows the entropy versus temperature (S-T) plot of a reversible cycle of an engine. If $T_1$ = 200K and $T_2$ = 600K, the efficiency of the engine(in percent) is?(round off to 2 decimal places)

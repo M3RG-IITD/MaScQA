@@ -1,2 +1,0 @@
-When 1 mole of $C_(3)H_(8)$ at 300K is burnt with stoichiometric amount of oxygen at 300K to form $CO_2$ and $H_(2)O$, the adiabatic flame temperature is 5975K. If $C_(3)H_(8)$ is burnt under the same conditions but with excess oxygen, the adiabatic flame temperature will be:
-(A) Equal to 5975K irrespective of the amount of excess oxygen (B) higher than 5975K irrespective of the amount of excess oxygen. (C) lower than 5975 K irrespective of the amount of excess oxygen. (D) higher or lower than 5975K depending on the amount of excess oxygen

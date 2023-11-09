@@ -1,1 +1,0 @@
-Given: solid/liquid interface energy = 0.177 $J.m^(-2)$ , melting point of the metal = 1356 K and latent heat of fusion = 1.88 × $10^9$  $J.m^(-3)$. During solidification of a pure metal, the radius(in nm) of critical nucleus at an undercooling of 10 K is? (answer rounded off to 1 decimal place). 

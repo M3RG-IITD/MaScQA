@@ -1,1 +1,0 @@
-Hydrogen dissolves in Pd by the reaction $H_2$ = 2 [H]. At 300°C and $P_(H_2)$ = 1 atm, the solubility of hydrogen in Pd is 1.64 * $10^(4)mm^(3)$ (STP) per kg of Pd. At 300°C and $P_(H_2)$ = 0.09 atm, the solubility of hydrogen in Pd in $mm^3$ (STP) per kg of Pd is? (answer up to one decimal place)

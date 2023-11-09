@@ -1,2 +1,0 @@
-The Pilling-Bedworth ratio is defined as
-(A) the molar weight of an oxide divided by the molar weight of the metal consumed in oxide formation. (B) the volume of the oxide divided by the volume of the metal consumed in oxide formation. (C) the density of the oxide divided by the density of the metal consumed in oxide formation. (D) the molar Gibbs energy of the oxide divided by the Gibbs energy of the metal consumed in oxide formation. 

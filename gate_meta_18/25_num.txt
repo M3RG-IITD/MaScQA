@@ -1,1 +1,0 @@
-Given: The interdiffusion coefficient for copper in aluminium at 500°C and 600°C are 4*$10^(-14)$ $m^(2)s^(-1)$ and 8 * $10^(-13)m^(2)s^(-1)$. A copper-aluminium diffusion couple develops a certain concentration profile after an isothermal treatment at 600°C for 10 hours. The time(in hours to 1 decimal place) required to achieve the same concentration profile at 500°C is

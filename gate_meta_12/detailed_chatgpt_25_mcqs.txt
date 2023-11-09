@@ -1,8 +1,0 @@
-The radiography technique for detecting defects is based on the principle of absorption. 
-
-Explanation:
-Radiography is a non-destructive testing technique that uses x-rays or gamma rays to penetrate the object being inspected. When the x-rays or gamma rays pass through the object, they are absorbed by the material to varying degrees depending on the density and thickness of the material. The resulting image shows areas of different density as different shades of gray or black. 
-
-Therefore, the correct answer is:
-
-- (D) Absorption

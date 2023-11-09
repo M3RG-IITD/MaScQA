@@ -1,6 +1,0 @@
-Match the properties in Column I with the options in Column II:
-Column I: [P. Toughness, Q. Resilience, R. Creep, S. Hardness]
-Column II: [1. Resistance to plastic deformation, 2. Time dependent permanent deformation under constant load, 3. Total elongation at failure, 4. Area under the stress-strain curve, 5. Area under the elastic part of the stress-strain curve]
-
-options: (A) P-5, Q-1, R-3, S-2 (B) P-4, Q-3, R-2, S-1 (C) P-4, Q-5, R-2, S-1 (D) P-5, Q-4, R-3, S-2
-

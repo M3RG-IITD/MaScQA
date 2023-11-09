@@ -1,5 +1,0 @@
-In hcp metals, slip occurs most easily on the basal plane (0001) along the closest-packed plane with high atomic density, which is generally the 〈112̅0〉 direction. Thus, the correct answer is:
-
-(C) {0001} 〈112̅0〉
-
-So, the final answer is [C].

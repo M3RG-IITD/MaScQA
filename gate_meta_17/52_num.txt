@@ -1,1 +1,0 @@
-Given the young's modulus E = 4.5 GPa. A perfectly elastic-plastic material has a yield of 450 MPa and fractures at a strain of 0.45. The ratio of resilience to toughness for this material is? (answer up to three decimal places)

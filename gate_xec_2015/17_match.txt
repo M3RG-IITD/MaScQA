@@ -1,5 +1,0 @@
-Match the technical ceramics listed in Column I with their common applications listed in Column II:
-Coloumn I: [P. Y-doped $ZrO_2$, Q. $UO_2$, R. $Si_3N_4$, S. AlN, T. Cr doped $Al_2O_3$]
-Coloumn II: [1. Lasers, 2. Turbine engine, 3. Integrated circuit substrate, 4. Oxygen sensor, 5. Nuclear fuel, 6. Thermistor]
-
-Options: (A) P-6, Q-4, R-5, S-1, T-3 (B) P-4, Q-5, R-2, S-3, T-1 (C) P-3, Q-1, R-2, S-6, T-5 (D) P-1, Q-4, R-5, S-2, T-1

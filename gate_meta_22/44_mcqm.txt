@@ -1,2 +1,0 @@
-Which of the following parameter(s) influence(s) the melting rate of the consumable wire in a gas metal arc welding process?
-(A) Stick-out length (B) Welding speed (C) Welding current (D) Diameter of the consumable wire

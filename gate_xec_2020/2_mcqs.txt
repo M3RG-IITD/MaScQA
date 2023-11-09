@@ -1,2 +1,0 @@
-Smallest of minimum feature size that can be theoretically resolved in an optical microscope does NOT depend on:
-(A) Refractive index of the medium between the lens and the focal point (B) Intensityh of radiation (C) Wavelength of radiation (D) Numerical aperture of the objective lens

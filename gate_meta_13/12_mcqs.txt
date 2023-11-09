@@ -1,2 +1,0 @@
-Isothermal compressibility of a material is given by
-(A) -1/p* (∂V/∂p)$_T$ (B) 1/p* (∂V/∂p)$_T$ (C) -1/V * (∂V/∂p)$_T$ (D) 1/V * (∂V/∂p)$_T$

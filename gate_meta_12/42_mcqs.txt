@@ -1,2 +1,0 @@
-Use the figure. A liquid droplet (β) is on a substrate (δ) and is surrounded by air (α), as shown below. The angle of contact (θ) is determined using the following expression:
-(A) θ = $cos^(-1)$[$γ_(αδ)$ - $γ_(βδ)$/$γ_(αβ)$] (B) θ = $cos^(-1)$[$γ_(αδ)$ - $γ_(αβ)$/$γ_(αβ)$] (C) θ = $cos^(-1)$[$γ_(αδ)$ - $γ_(βδ)$/$γ_(αδ)$] (D) θ = $cos^(-1)$[$γ_(αδ)$ - $γ_(βδ)$/$γ_(βδ)$]
