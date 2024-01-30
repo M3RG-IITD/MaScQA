@@ -1,0 +1,6 @@
+def get_ca_indices(pdb_file):
+  """
+  This function uploads a pdb file and find out the indices of first two alpha carbon atoms.
+  """
+  [insert]
+  return idx

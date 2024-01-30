@@ -1,0 +1,6 @@
+name: unbdistance
+language: python
+prompt: unbdistance.txt
+context: mdtraj
+test: unbdistance.py
+categories: md, code

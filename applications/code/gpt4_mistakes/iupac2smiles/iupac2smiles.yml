@@ -1,0 +1,7 @@
+name: iupac2smiles
+language: python
+prompt: iupac2smiles.txt
+label: iupac2smiles.py
+context: rdkit
+test: iupac2smiles.py
+categories: cheminf, code

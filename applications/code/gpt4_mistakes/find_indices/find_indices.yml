@@ -1,0 +1,7 @@
+name: find_indices
+language: python
+prompt: find_indices.txt
+label: find_indices.py
+context: mdtraj
+test: find_indices.py
+categories: md, code

@@ -1,0 +1,9 @@
+import scipy.optimize
+import scipy.signal
+
+def find_peaks(abs_spectrum, npeaks=3):
+    ''' This will find the highest `npeaks` peaks and return a list of peak wavenumbers.
+    `abs_spectrum` should be shape (N, 2)
+    '''
+    [insert]
+    return wavenumbers

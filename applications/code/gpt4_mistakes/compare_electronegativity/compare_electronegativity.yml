@@ -1,0 +1,7 @@
+name: compare_electronegativity
+language: python
+prompt: compare_electronegativity.txt
+label: compare_electronegativity.py
+context: python
+test: compare_electronegativity.py
+categories: genchem, code

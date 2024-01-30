@@ -1,0 +1,8 @@
+def compute_k(m1,m2,wave_len):
+    """
+    Two atom harmonic oscillator.
+    Returns force constant in kg/s**2 units given masses m1,m2 and wave length
+    wave_len. Masses are in kg units and wave length in cm^-1 units. Use reduced mass.
+    """
+    [insert]
+    return k

@@ -1,0 +1,7 @@
+name: rog
+language: python
+prompt: rog.txt
+label: rog.py
+context: mdtraj
+test: rog.py
+categories: md, code, bio

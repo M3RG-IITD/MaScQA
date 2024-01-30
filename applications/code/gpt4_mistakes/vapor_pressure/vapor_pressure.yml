@@ -1,0 +1,7 @@
+name: vapor_pressure
+language: python
+prompt: vapor_pressure.txt
+label: vapor_pressure.py
+context: rdkit
+test: vapor_pressure.py
+categories: disabled

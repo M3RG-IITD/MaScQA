@@ -1,0 +1,6 @@
+name: genpos
+language: python
+prompt: genpos.txt
+context: requests
+test: genpos.py
+categories: spectroscopy, code

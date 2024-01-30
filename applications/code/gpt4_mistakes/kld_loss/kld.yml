@@ -1,0 +1,6 @@
+name: kld
+language: python
+prompt: kld.txt
+context: numpy
+test: kld.py
+categories: stats, code

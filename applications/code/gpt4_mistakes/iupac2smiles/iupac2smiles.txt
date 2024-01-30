@@ -1,0 +1,6 @@
+def iupac2smiles(IUPAC):
+    """
+    This function takes in the IUPAC name string and converts it to a SMILES string
+    """
+    [insert]
+    return SMILES
