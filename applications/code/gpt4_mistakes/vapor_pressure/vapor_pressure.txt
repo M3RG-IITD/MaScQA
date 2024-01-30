@@ -1,0 +1,6 @@
+def vapor_pressure(s):
+    """
+    Returns the vapor pressure in kilopascals at 25 degrees celsius given SMILES string s
+    """
+    [insert]
+    return p

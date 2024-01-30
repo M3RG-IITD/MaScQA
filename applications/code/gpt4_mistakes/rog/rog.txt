@@ -1,0 +1,8 @@
+def protein_radius_of_gyration(pdb_file):
+  """
+  1. This function loads a pdb
+  2. Calculates the radius of gyration
+  3. Returns it
+  """
+  [insert]
+  return rg

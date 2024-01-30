@@ -1,0 +1,9 @@
+def pairwise_dist(pdb_file):
+  """
+  1 This function loads a pdb
+  2 Selects only the alpha carbons
+  3 Calculates the number of unique alpha carbon pairs
+  4 Returns the distances between each alpha carbon pair
+  """
+  [insert]
+  return distances

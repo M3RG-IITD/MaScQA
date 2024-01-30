@@ -1,0 +1,6 @@
+name: dou
+language: python
+prompt: dou.txt
+context: rdkit
+test: dou.py
+categories: spectroscopy, code

@@ -1,0 +1,7 @@
+def mapping_operator(molecule, beads_mappings):
+  """
+  This function generates a mass-mass weighted mapping matrix given an MD analysis molecule
+  and atom selections for the beads.
+  """
+  [insert]
+  return M

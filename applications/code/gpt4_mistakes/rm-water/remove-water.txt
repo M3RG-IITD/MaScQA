@@ -1,0 +1,6 @@
+def remove_water(traj_file,top_file):
+  """
+  This function removes solvent from loaded trajectory traj_file and topology in top_file to return the new trajctory
+  """
+  [insert]
+  return new_traj

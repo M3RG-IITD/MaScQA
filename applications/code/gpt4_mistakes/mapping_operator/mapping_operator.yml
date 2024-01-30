@@ -1,0 +1,7 @@
+name: mapping_operator
+language: python
+prompt: mapping_operator.txt
+label: mapping_operator.py
+context: MDAnalysis
+test: mapping_operator.py
+categories: md, code

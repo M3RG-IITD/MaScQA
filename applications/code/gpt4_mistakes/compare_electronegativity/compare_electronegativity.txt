@@ -1,0 +1,7 @@
+def compare_electronegativity(element1,element2):
+   """
+   This function returns True if element1 has a larger Pauling electronegativity than element2
+   """
+   import mendeleev
+   [insert]
+   return result

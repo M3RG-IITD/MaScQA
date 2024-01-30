@@ -1,0 +1,6 @@
+def calc_rdbs(smiles):
+    """
+    Return degrees of unsaturation (Double Bond Equivalent) from C, N, H, Halogen count.
+    """
+    [insert]
+    return d

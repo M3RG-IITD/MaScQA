@@ -1,0 +1,6 @@
+name: find_peaks
+language: python
+prompt: fit.txt
+context: scipy
+test: fit.py
+categories: spectroscopy, code

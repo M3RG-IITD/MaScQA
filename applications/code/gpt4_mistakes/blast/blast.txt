@@ -1,0 +1,13 @@
+def blast(seq):
+    '''
+    Returns MSA with a BLAST search. Uses beautiful soup
+    to parse result.
+
+    1. import packages
+    2. Submit BLAST search with sequences
+    3. Get result
+    4. Parse MSA
+    5. Return a tuple of e score, id of top match
+    '''
+    [insert]
+    return e, id

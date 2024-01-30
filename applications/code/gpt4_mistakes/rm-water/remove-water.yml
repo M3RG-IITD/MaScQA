@@ -1,0 +1,7 @@
+name: remove-water
+language: python
+prompt: remove-water.txt
+label: remove-water.py
+context: mdtraj
+test: remove-water.py
+categories: md, code, human

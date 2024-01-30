@@ -1,0 +1,7 @@
+name: blast
+language: python
+prompt: blast.txt
+label: blast.py
+context: requests
+test: blast.py
+categories: code, bio

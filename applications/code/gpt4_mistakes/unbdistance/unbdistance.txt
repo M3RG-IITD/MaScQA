@@ -1,0 +1,11 @@
+def unbdistance(traj,lig_str):
+    """
+    This function returns a list of distances between center of mass of
+    protein and center of mass of lig_str in every frame of trajectory
+    traj
+
+    traj is an mdtraj trajectory object
+    lig_str is a string with the residue name of the ligand
+    """
+    [insert]
+    return result

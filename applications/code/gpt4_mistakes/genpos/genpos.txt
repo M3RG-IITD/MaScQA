@@ -1,0 +1,6 @@
+def matrix_generators(gnum):
+    """ Returns list of matrix generators for general positions of given space group
+    gnum -  International Tables for Crystallography space group number
+    """
+    [insert]
+    return generators
