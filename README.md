@@ -8,7 +8,7 @@ The exact response of all the prompting methods for every question is available 
 
 ## Citing
 
-If you use MatSciBERT in your research, please cite [MatSciBERT: A materials domain language model for text mining and information extraction](https://www.nature.com/articles/s41524-022-00784-w)
+If you use MaScQA in your research, please cite [MaScQA: investigating materials science knowledge of large language models](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00188a)
 ```
 @article{zaki2024mascqa,
   title={MaScQA: investigating materials science knowledge of large language models},
